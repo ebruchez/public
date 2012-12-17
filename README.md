@@ -1,2 +1,1 @@
-public
-======
+This is my public repo to experiment with making some personal information public.
