@@ -6,13 +6,13 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad.
 
 1. Acceptez-vous l'initiative populaire «Election du Conseil fédéral par le peuple»? NO [RESULT: N/A]
 
-    - It is unclear that the proposed initiative would make the Swiss democracy better. There is already *a lot* of direct democracy in Switzerland. It might be interesting to see if the idea can be pushed even further by electing directly even more officials, but there might be unintended consequences and the question is whether it is worth risking breaking a system that works pretty well as it is.
+  - It is unclear that the proposed initiative would make the Swiss democracy better. There is already *a lot* of direct democracy in Switzerland. It might be interesting to see if the idea can be pushed even further by electing directly even more officials, but there might be unintended consequences and the question is whether it is worth risking breaking a system that works pretty well as it is.
     
-    - Switzerland is lucky to be able to avoid the massive presidential (and other) campaigns of the US and France It would be a shame to see Federal Councillors spending all their time campaigning instead of doing actual work.
+  - Switzerland is lucky to be able to avoid the massive presidential (and other) campaigns of the US and France It would be a shame to see Federal Councillors spending all their time campaigning instead of doing actual work.
     
-    - A democratic government is a lot about *delegating* responsibilities to elected official. I don't see much wrong, in principle, with delegating the particular responsbility of organizing the Federal Council to the Parliament.
+  - A democratic government is a lot about *delegating* responsibilities to elected official. I don't see much wrong, in principle, with delegating the particular responsbility of organizing the Federal Council to the Parliament.
     
-    - I am from the French-speaking minority, yet I don't like very much the idea of requiring that a number of Councillors come from a particular area. What if candidates from the French-speaking region are mediocre? Wouldn't it be better to have instead qualified candidates, wherever they might be from? The pool of talent in a country with 7 million people is already pretty limited. It seems wrong to reduce that pool even more.
+  - I am from the French-speaking minority, yet I don't like very much the idea of requiring that a number of Councillors come from a particular area. What if candidates from the French-speaking region are mediocre? Wouldn't it be better to have instead qualified candidates, wherever they might be from? The pool of talent in a country with 7 million people is already pretty limited. It seems wrong to reduce that pool even more.
 
 1. Acceptez-vous la modification du 28 septembre 2012 de la loi sur l'asile (LAsi)(Modifications urgentes de la loi sur l'asile)? YES [RESULT: N/A]
 
