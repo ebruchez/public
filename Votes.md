@@ -2,6 +2,22 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad.
 
+## [Votation fédérale du 9 juin 2013](http://www.bk.admin.ch/themen/pore/va/20130609/index.html?lang=fr)
+
+1. Acceptez-vous l'initiative populaire «Election du Conseil fédéral par le peuple»? NO [RESULT: N/A]
+
+    - It is unclear that the proposed initiative would make the Swiss democracy better. There is already *a lot* of direct democracy in Switzerland. It might be interesting to see if the idea can be pushed even further by electing directly even more officials, but there might be unintended consequences and the question is whether it is worth risking breaking a system that works pretty well as it is.
+    
+    - Switzerland is lucky to be able to avoid the massive presidential (and other) campaigns of the US and France It would be a shame to see Federal Councillors spending all their time campaigning instead of doing actual work.
+    
+    - A democratic government is a lot about *delegating* responsibilities to elected official. I don't see much wrong, in principle, with delegating the particular responsbility of organizing the Federal Council to the Parliament.
+    
+    - I am from the French-speaking minority, yet I don't like very much the idea of requiring that a number of Councillors come from a particular area. What if candidates from the French-speaking region are mediocre? Wouldn't it be better to have instead qualified candidates, wherever they might be from? The pool of talent in a country with 7 million people is already pretty limited. It seems wrong to reduce that pool even more.
+
+1. Acceptez-vous la modification du 28 septembre 2012 de la loi sur l'asile (LAsi)(Modifications urgentes de la loi sur l'asile)? YES [RESULT: N/A]
+
+    Here too I follow the recommendation from the Federal Council. My only worry regards this humanitarian visa. Is that something concrete, and is that enough?
+
 ## [Votation fédérale du 3 mars 2013](http://www.bk.admin.ch/themen/pore/va/03032013/index.html?lang=fr)
 
 1. Acceptez-vous l'arrêté fédéral du 15 juin 2012 sur la politique familiale? YES [RESULT: NO]
