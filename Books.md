@@ -7,7 +7,8 @@
 ## Read
 
 - 2013-06-xx: 2001: A Space Odyssey [reread]
-- 2013-0x-xx: Team of Rivals
+- 2013-06-19: [Maupassant - Nouvelles Cruelles](http://www.gallimard.fr/Catalogue/GALLIMARD/Ecoutez-lire/Nouvelles-cruelles) (audiobook)
+- 2013-0x-xx: Team of Rivals (audiobook)
 - 2013-01-2x: How to Create a Mind
 - 2012-10-24: Suzanne Collins - Mockingjay
 - 2012-10-xx: Suzanne Collins - Catching Fire
