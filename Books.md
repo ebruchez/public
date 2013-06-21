@@ -2,7 +2,7 @@
 
 ## Reading
 
-- 2013-06-xx: Arthur C. Clarke - 2010: A Space Odyssey Two [reread]
+- 2013-06-xx: Arthur C. Clarke - 2010: Odyssey Two [reread]
 - 2013-06-xx: [Bertrand Russell - The Problems of Philosophy](http://www.amazon.com/dp/B000FC25JW/)
 
 ## Read
