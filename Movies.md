@@ -11,5 +11,5 @@ I really loved these documentaries about China:
 
 ## Movies
 
-- [2001: A Space Odyssey](http://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)): *the* science-fiction movie, and my favorite. It's hard to say that it's the best of the genre because it is absolutely unique.
+- [2001: A Space Odyssey](http://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)): *the* science-fiction movie. It's hard to say that it's the best of the genre because it is absolutely unique.
 - [The Hunger Games (2012)](http://www.imdb.com/title/tt1392170/): I loved this movie and that got me to read the trilogy.

@@ -1,4 +1,6 @@
-# Books I have read
+# Books
+
+I don't have much time to read so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
 ## Reading
 
