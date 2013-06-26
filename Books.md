@@ -2,7 +2,7 @@
 
 I don't have much time to read so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
-## Reading
+## Currently reading
 
 - 2013-06-xx: Arthur C. Clarke - 2010: Odyssey Two [reread]
 - 2013-06-xx: [Bertrand Russell - The Problems of Philosophy](http://www.amazon.com/dp/B000FC25JW/)
@@ -29,3 +29,30 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 - 2010-07?: Dan Simmons - Hyperion  [reread]
 - 2010-04?: Jack Vance - Tales of the Dying Earth
 - 2010: Isaac Asimov - Foundation [reread]
+
+## Books I started which I need to finish
+
+- Mozart biography
+- [The Great Chinese Revolution](http://www.amazon.com/The-Great-Chinese-Revolution-1800-1985/dp/006039076X)
+- Firstborn (Clarke/Baxter)
+- Mindfulness in plain English
+- Marco Polo (almost finished)
+- The Autumn of Italian Opera
+- The Selfish Gene
+
+## Books that might be interesting
+
+- Stephen King's "On Writing"
+
+## Topics I would like to read about
+
+### History
+
+- Winston Churchill
+- USSR and its dissolution
+- Hitler
+- Nixon
+- Vietnam war
+- Mao [maybe The Great Chinese Revolution is enough]
+- WWI in general (The First World War (John Keegan))
+- WWII in general
