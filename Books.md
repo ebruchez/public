@@ -43,6 +43,8 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 ## Books that might be interesting
 
 - Stephen King's "On Writing"
+- Friedrich Dürrenmatt’s novella “Traps”
+- John Stuart Mills [autobiography](http://www.gutenberg.org/ebooks/10378)
 
 ## Topics I would like to read about
 
