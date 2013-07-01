@@ -26,7 +26,7 @@ What's the most important part of this world view? The "theory of knowledge" par
 
 - leading principle
 	- pain/suffering (physical and moral) is real for sentient beings (which means not only humans)
-	- it is generally wrong to inflict pain or not not work to reduce pain (on others) (see also the [golden rule](http://en.wikipedia.org/wiki/Golden_Rule))
+	- it is generally wrong to inflict pain or not work to reduce pain (on others) (see also the [golden rule](http://en.wikipedia.org/wiki/Golden_Rule))
 - morality does not come from a deity (or deities)
 	- it is, and should be, secular (secular morality)
 	- if one does not believe in a deity's existence, it follows that one's morals cannot come from that non-existent deity anyway
@@ -62,12 +62,16 @@ Opinions on current hot topics:
 - guns
 	- sane people should be able to have some types of guns after checks, training and registration
 	- more dangerous types must be prohibited for the common public
-	- I don't consider the US 2nd amendenment as very important compared to others
-		- it is doubtful that it is correctly interpreted today
-		- it is written in a clumsy way
-		- it was not written in a time of assault rifles
-		- it is doubtful that it is the ultimate solution against "tyranny"
-- religion: must be kept separate from the state
+	- I don't consider the US 2nd amendment as very important compared to others
+		- it is written in a terribly clumsy way
+		- it is doubtful that it is "correctly" interpreted today
+		- it was not written in a time of assault rifles and other massively deadly weapons
+		- it is exteremely doubtful that it is the ultimate solution against the rise of "tyranny" (unlike, say, lack of proper education of the people)
+		- the above doesn't matter much anyway, because I don't think it falls into the same category of fundamental concept such as free speech, equality before the law, due process, and so on
+		- if it has to be a fundamental right, it should be stated in a much clearer, and limited, way
+- religion
+	- must be kept absolutely separate from the state
+	- no prayers in schools or government
 - the homeless: public institution must be available to support them
 - it doesn't matter very much what the (US) founders thought
 	- it can be useful to learn why they made such and such decision
