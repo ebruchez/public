@@ -1,7 +1,4 @@
-
-# Piano pieces I am practicing
-
-I have been practicing much too rarely. There is no piece which could be said to be "performance-ready".
+# Piano pieces I am practicing or have practiced
 
 ## Relatively current
 

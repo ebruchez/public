@@ -51,7 +51,11 @@ Opinions on current hot topics:
 	- no moral imperative against taking a human life
 	- if allowed, should be reserved to extreme cases
 	- preferably, never
-- prisons: should 1. protect the public 2. rehabilitate
+- prisons: should
+	- protect the public
+	- rehabilitate
+	- protect the inmates
+	- not be a business
 - soft drugs (like marijuana): legal and controlled
 - hard drugs: I don't know
 - taxes: moderate (US or Swiss style rather than French style)

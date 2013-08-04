@@ -4,11 +4,14 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Currently reading
 
-- 2013-06-xx: Arthur C. Clarke - 2010: Odyssey Two [reread]
-- 2013-06-xx: [Bertrand Russell - The Problems of Philosophy](http://www.amazon.com/dp/B000FC25JW/)
+- 2013-07-xx: Arthur C. Clarke - 2061: Odyssey Three [reread]
+- 2013-07-xx: Bill Bryson - [A Short History of Nearly Everything](http://www.amazon.com/A-Short-History-Nearly-Everything/dp/076790818X) (audiobook)
+
 
 ## Read
 
+- 2013-07-16: [Bertrand Russell - The Problems of Philosophy](http://www.amazon.com/dp/B000FC25JW/)
+- 2013-07-xx: Arthur C. Clarke - 2010: Odyssey Two [reread]
 - 2013-06-xx: Arthur C. Clarke - 2001: A Space Odyssey [reread]
 - 2013-06-19: [Guy de Maupassant - Nouvelles Cruelles](http://www.gallimard.fr/Catalogue/GALLIMARD/Ecoutez-lire/Nouvelles-cruelles) (audiobook)
 - 2013-0x-xx: Team of Rivals (audiobook)
@@ -58,3 +61,15 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 - Mao [maybe The Great Chinese Revolution is enough]
 - WWI in general (The First World War (John Keegan))
 - WWII in general
+
+### Books recommended by Bertrand Russell
+
+From "The Problems of Philosophy":
+
+- Plato: Republic, especially Books VI and VII.
+- Descartes: Meditations.
+- Spinoza: Ethics.
+- Leibniz: The Monadology.
+- Berkeley: Three Dialogues between Hylas and Philonous.
+- Hume: Enquiry concerning Human Understanding.
+- Kant: Prolegomena to any Future Metaphysic.
