@@ -1,10 +1,10 @@
 # Great stuff
 
-Sometimes you encounter things that leave you amazed, touched, or maybe even happy. Things that maybe represent perfection of beauty, or human creativity, things that just 
+Sometimes you encounter things that leave you amazed, touched, hopeful, or maybe even happy. Things that represent perfection of beauty, human creativity, or wisdom.
 
-great stuff in life: a piece of music, a sentence in a book, a movie, a place. Those are Things that make you think that life is worth living, and that humanity has good in it.
+They can be a piece of music, a sentence in a book, a speech, a movie, a picture. They make you think that life is worth living, and that humanity has some good in itself.
 
-I plan to collect here some great stuff to share, even though this can be very personal.
+I plan to collect here some "great stuff" to share, even though that can be very personal.
 
 ## Music
 
