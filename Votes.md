@@ -1,6 +1,21 @@
 # Voting record
 
-I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad.
+I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
+
+## [Votation fédérale du 22 septembre 2013](http://www.bk.admin.ch/themen/pore/va/20130922/index.html?lang=fr#)
+
+1. Acceptez-vous l'initiative populaire "Oui a I‘abrogation du service militaire obligatoire"? YES [EXPECTED: NO, RESULT: ]
+     - Switzerland is a neutral country. A large armed force is unneeded. Security can be ensured by a police force and a professional army. Be creative.
+     - I agree with the initiative: the time citizens spend in the army is mostly a huge waste of time. If the army had a real formative function, I could support it more easily, especially if there was an open option for civil service. But it should be serious.
+     - I haven't myself experienced much of a cohesive function to the Swiss army.
+     - I think that the initiative will be rejected, as much of the country, especially in the Swiss-German part, is more attached to this institution.
+1. Acceptez-vous la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l‘homme (Loi sur les épidémies, LEp)? YES [EXPECTED: YES, RESULT: ]
+     - I might even support a law *mandating* vaccination to protect populations, but it seems that the law doesn't go that far. If anything it seems pretty mild and balanced.
+     - Children need to be informed about sexually transmitted infections as soon as possible.
+     - The referendum against this law seems to originate from the conservative far-right, claiming that "the state shouldn't be involved in education". As a pragmatist I believe on the contrary that the state should be involved to guarantee that education is based on scientific data, and guarantee a baseline of information which benefits the whole of society.
+1. Acceptez-vous la modification du 14 décembre 2012 de la loi fédérale sur le travail dans l‘industrie, l‘artisanat et le commerce (Loi sur le travail, LTr)? YES [EXPECTED: YES, RESULT: ]
+     - Living in the US, having a few stores in gas stations open 24/24 seems like a very benign thing to support.
+     - Even with such an exemption, opening hours of stores in Switzerland still remain inadapted to the working population.
 
 ## [Votation fédérale du 9 juin 2013](http://www.bk.admin.ch/themen/pore/va/20130609/index.html?lang=fr)
 
