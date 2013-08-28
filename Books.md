@@ -4,12 +4,13 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Currently reading
 
-- 2013-07-xx: Arthur C. Clarke - 2061: Odyssey Three [reread]
-- 2013-07-xx: Bill Bryson - [A Short History of Nearly Everything](http://www.amazon.com/A-Short-History-Nearly-Everything/dp/076790818X) (audiobook)
+- 2013-08-xx: Stefan Zweig - Le joueur d'échecs [reread]
+- 2013-08-xx: Arthur C. Clarke - 2061: Odyssey Three [reread]
 
 
 ## Read
 
+- 2013-08-27: Bill Bryson - [A Short History of Nearly Everything](http://www.amazon.com/A-Short-History-Nearly-Everything/dp/076790818X) (audiobook)
 - 2013-07-16: [Bertrand Russell - The Problems of Philosophy](http://www.amazon.com/dp/B000FC25JW/)
 - 2013-07-xx: Arthur C. Clarke - 2010: Odyssey Two [reread]
 - 2013-06-xx: Arthur C. Clarke - 2001: A Space Odyssey [reread]
