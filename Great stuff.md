@@ -6,6 +6,10 @@ They can be a piece of music, a sentence in a book, a speech, a movie, a picture
 
 I plan to collect here some "great stuff" to share, even though that can be very personal.
 
+## Books
+
+- [Cosmos](http://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354), by Carl Sagan. It puts science and the universe in perspective. Other books by Sagan are amazing too, such as Pale Blue Dot.
+
 ## Music
 
 - *Largo* from *Winter*, from Vivaldi's *The Four Seasons* ([here is one interpreation](http://www.youtube.com/watch?v=FyLyyP5uZpo)). This short piece strikes me as amazingly beautiful. Part of it is that it leaves the solist some freedom to add ornaments.
