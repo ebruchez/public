@@ -10,6 +10,7 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Read
 
+- 2013-09-04: Stefan Zweig - La peur (Schachnovelle) [reread, audiobook]
 - 2013-08-29: Stefan Zweig - Le joueur d'échecs (Schachnovelle) [reread, audiobook]
 	- I first read this short book in high school in 1991 for German class (I probably read it in French!). I really liked it and developed interest in Zweig. In the years that followed I read several more of his books.
 	- This time I listened to it as an audiobook during commute. It is simply a masterpiece of storytelling.
