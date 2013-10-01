@@ -1,0 +1,66 @@
+-----
+
+2013-10-01:
+
+- time: ~30 mn
+- reviewed introduction: pp. v-xxi
+- read: pp. 3-6
+
+## Introduction
+
+- origin: far back into antiquity
+- v: "The piano keyboard, for instance, derives directly from that of the Graeco-Roman organ, and the position of the hands on that primitive manual probably contributed in no small measure to the evolution of polyphonic music."
+- invented by engineer
+- invention not gradual: inventor Alexandrian Greek Ktesibios
+    - true creator of the instrument
+    - keyboard with springs
+- "hydraulic instrument" is a confusing term
+- scientific approach to historical research
+- previous works
+    - Hero of Alexandria
+    - Vitruvius (De Architectura)
+    - … skipping other works …
+- reconstitutions
+- definitions
+    - "organum" means intrument (tool)
+    - terms are confusing
+    - historical misconceptions
+    - examples: Old Testament; St. Augustine got it; funny illumination of musician hanging an organ up a tree
+    - what it is since 3rd century
+        - one or more ranks of sounding pipes
+        - hey wind-chest to store air
+        - a mechanical blower, either a pump or a bellows
+        - a keyboard to direct the air into the various pipes
+    - Instruments that are not "organs" per our definition
+        - syrinx, bagpipe, Chinese sheng (no keyboard), accordion (no pipes)
+        - maybe: Jewish magrephab, but fairly late instrument
+
+
+## 1. The organ in the ancient world
+
+### The invention of the organ
+
+#### The Alexandrian background
+
+- fruit of the Greek science in Alexandria
+- Alexandria became center of learning with Ptolemy Philadelphus, 283 BC
+- Museum and Great Library (up to 500,000 manuscripts later)
+- who's Who of Greek science lived there
+- Plato: concepts more interesting than phenomena
+- Aristotle and later: more interest in observation
+- 4: "Euclid's Division of the Canon" and Ptolemy's Harmonics established that the pitch of a note is a function of the number of the oscillations made by the vibrating part."
+- Ktesibios the engineer
+- 4: "It is remarkable that experimental science, whose prospects were so bright, should have disappeared so quickly, and remained in abeyance for so long: and it is particularly surprising that the practically minded Romans did not take advantage of this new and positive aspect of scientific thought."
+- influence of the Platonists
+
+#### Who invented the organ?
+
+- 5: "Great inventions are said never to be the work of one man, and for this reason people have refused to acknowledge that the organ might have been conceived and created by a single person. And yet the texts establish that this is indeed what happened."
+- 5: "in its original form the musical part of the instrument was very small in relation to the mechanical part"
+- 5: "Only one ancient text, The Learned Banquet (Deipnosophistes), offers any information relating to the invention of the organ."
+    - by Athenaeus
+    - "'There is nothing of value', says the introduction, 'to which the author does not make some reference in the course of the book'." :)
+    - dialogue on the invention of the organ (Alcides & Uplian of Tyre)
+    - hydraulis / hydraulic organ
+    - text a bit uncertain, interesting nonetheless
+    
