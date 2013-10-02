@@ -1,10 +1,12 @@
------
+---
 
 2013-10-01:
 
 - time: ~30 mn
 - reviewed introduction: pp. v-xxi
 - read: pp. 3-6
+
+---
 
 ## Introduction
 
@@ -64,3 +66,38 @@
     - hydraulis / hydraulic organ
     - text a bit uncertain, interesting nonetheless
     
+---
+
+2013-10-02:
+
+- time: ~30 mn
+- read: pp. 7-17
+
+---
+
+- Pliny the Elder mentions Ktesibios, for his theories on pneumatics and invention of hydraulic machines
+- it is unlikely that Plato knew the organ
+- Vitruvius (born c. 80–70 BC, died after c. 15 BC)
+    - also mentions Ktesibios and accepts him as inventor
+    - explains the theory of the hydraulis
+- 10: "Thus the writings of the technical experts of Antiquity agree in attributing the invention of the new musical instrument to a real historical person, Ktesibios."
+
+#### Where and when Ktesibios lived
+
+- Ktesibios: not a common name, but it appears in a few places
+- obscure origins
+- native of Alexandria
+- little doubt the engineer is a single person
+- must have been adult around 270 BC
+
+#### The character and reputation of Ktesibios
+
+- Vitruvius gives an account of Ktesibios's early life
+- son of a barber
+- Vitruvius full of admiration
+- Ktesibios describes his inventions in a book called *Commentaries* which is now lost, but was known to Vitruvius
+- Ktesibios is generally praised by writers of the antiquity
+
+#### Philo of Byzantium and Hero of Alexandria
+
+- 
