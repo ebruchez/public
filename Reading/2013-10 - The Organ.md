@@ -64,7 +64,7 @@
 
 |Date      | Time   | Read     |
 |----------|--------|----------|
-|2013-10-02| ~30 mn | pp. 7-17 |
+|2013-10-02| 37  mn | pp. 7-17 |
 
 - Pliny the Elder mentions Ktesibios, for his theories on pneumatics and invention of hydraulic machines
 - it is unlikely that Plato knew the organ
