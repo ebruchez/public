@@ -1,10 +1,6 @@
-2013-10-01:
-
-- time: ~30 mn
-- reviewed introduction: pp. v-xxi
-- read: pp. 3-6
-
----
+|Date      | Time   | Read               |
+|----------|--------|--------------------|
+|2013-10-01| ~30 mn | pp. v-xxi, pp. 3-6 |
 
 ## Introduction
 
