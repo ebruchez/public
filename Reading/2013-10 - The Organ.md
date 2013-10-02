@@ -91,4 +91,10 @@
 
 #### Philo of Byzantium and Hero of Alexandria
 
+---
+
+|Date      | Time   | Read     |
+|----------|--------|----------|
+|2013-10-03|  |  |
+
 - 
