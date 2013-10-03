@@ -101,8 +101,8 @@
     - different from Philo of Athens
     - could have been pupil of Ktesibios, but unknown fact
     - describes hydraulis as "a syrinx that is played it was the hands"
-    - Treatise on engineering
-    - Praises K for having discovered properties of compressed air
+    - *Treatise on engineering*
+    - Praises Ktesibios for having discovered properties of compressed air
     - 18: Philo "demonstrates the existence of air as a material substance, a bold concept for his day"
 - Hero
     - source for Vitruvius
@@ -122,23 +122,24 @@
 
 ### Preliminary inventions
 
-- Q: why would K. invent a new musical instrument?
+- Q: why would Ktesibios invent a new musical instrument?
 - 23: "Music was much practiced in Alexandria"
-- there were other musical automata, including by K.
+- there were other musical automata, including by Ktesibios
 - but existing wind mechanisms had disadvantages
 - bellows were known for a long time
-- K. had already invented a pump
-- Philo: "He [K.] had proved, in the pneumatic theorems discussed above, that air is resistant, elastic, and extremely mobile."
+- Ktesibios had already invented a pump
+- Philo: "He [Ktesibios] had proved, in the pneumatic theorems discussed above, that air is resistant, elastic, and extremely mobile."
 - double-barreled fire pump "capable of raising water to a great height"
 - before that, pumps made of skin bladders filled with water
-- with K.'s pump, the water did not go directly through the pistons, instead air in box pushed water
+- with Ktesibios's pump, the water did not go directly through the pistons, instead air in box pushed water
 - with the hydraulis, the idea was that "Instead of moving the water by means of compressed air, he had the idea of compressing the air by the weight of the water."
 - two conditions had to be met:
    - build sufficient pressure to crate to supply of air
    - maintain that pressure at more or less constant level
-    - K. had already build a toy automaton doing that
+    - Ktesibios had already build a toy automaton doing that
 - result is a "powerful and entirely original type of wind mechanism with which to feed a musical instrument whose sound potential might be practically unlimited"
 - then idea of the wind-chest, and manual
-- unclear whether in K.'s time instrument went beyond prototype
+- unclear whether in Ktesibios's time instrument went beyond prototype
+- his wife said to be playing it
 - but the potential realized in the Roman world
 - detailed analysis of the mechanism are from Hero and Vitruvius
