@@ -93,7 +93,7 @@
 
 |Date      | Time   | Read      |
 |----------|--------|-----------|
-|2013-10-03| 33 mn  | pp. 17-27 |
+|2013-10-03| 37 mn  | pp. 17-27 |
 
 #### Philo of Byzantium and Hero of Alexandria
 
