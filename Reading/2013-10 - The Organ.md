@@ -97,7 +97,7 @@
 
 #### Philo of Byzantium and Hero of Alexandria
 
--Philo
+- Philo
     - different from Philo of Athens
     - could have been pupil of Ktesibios, but unknown fact
     - describes hydraulis as "a syrinx that is played it was the hands"
