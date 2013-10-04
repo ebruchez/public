@@ -143,3 +143,53 @@
 - his wife said to be playing it
 - but the potential realized in the Roman world
 - detailed analysis of the mechanism are from Hero and Vitruvius
+
+---
+
+|Date      | Time   | Read      |
+|----------|--------|-----------|
+|2013-10403| xx mn  | pp. 28-37 |
+
+### Hero's description
+
+- his text is clear and precise
+- apparent that the author is an experienced engineer
+- copyists errors
+- follows the description of Hero's organ's blowing mechanism
+- "pnigeus" is the hemisphere at the bottom ("oven", "damper" other meanings), about 60 cm diameter
+- "platysmation" inlet valve in air pump
+- one big omission: the machine lacks an outlet valve
+- pedestal about 1 m tall, 80 cm diameter
+- piston pump
+- cylinder about 50 cm, diameter 30 cm
+- description of the wind-chest
+- description of the keyboard
+    - drawers slide into the wind-chest under each pipe
+    - cranks around the median axis, able to push the sliders in
+    - horn spatulas act as springs, connected w/ gut to the sliders
+- only one rank of pipes, but by the first century BC, the system of stops was invented
+- conjecture that to reduce air leaks, grease or maybe thin leather might having applied
+- Hero doesn't describe the compass, tuning, lips, or fitting of the pipes
+    - engineer, not musician!
+- Hero follow the description with the windmill activated organ, which seems impractical, and likely not from Ktesibios
+
+### Vitruvius's description
+
+- Architect Vitruvius
+- knows more music then hero
+- Devotes a whole chapter to the theory of Greek music
+- long and sometimes obscured description of the hydraulic organ
+- instrument is more sophisticated than that of Hero
+    - two pumps
+    - more efficient valves
+    - improved type of wind-chest, can feed up to eight sets of pipes
+    - seems like a real instruments, Ktesibios's organ appears more experimental
+- Marcus Vitruvius Pollio
+- has long been held that he lived around the time of Augustus
+- some opinions place him centuries later
+    - say his style was bad
+    - but Vitruvius was an engineer
+- more recent research seems to confirm the Augustus period
+- 36: "Vitruvius is […] obviously describing in detail an instrument he has seen with his own eyes."
+- description
+    - 
