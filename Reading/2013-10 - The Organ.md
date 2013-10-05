@@ -191,5 +191,49 @@
     - but Vitruvius was an engineer
 - more recent research seems to confirm the Augustus period
 - 36: "Vitruvius is […] obviously describing in detail an instrument he has seen with his own eyes."
-- description
-    - 
+
+|Date      | Time   | Read      |
+|----------|--------|-----------|
+|2013-10-04| 30 mn  | pp. 38-47 |
+
+- description by Vitruvius has all the important details
+- blowing mechanism
+    - 2 pumps, make for more even sound probably
+    - "dolphins" and "cymbals" as intake valves
+        - dolphin makes sense as instrument uses water
+        - supposed to have taste for music
+        - probably that not all instrument has dolphins
+- wind-chest and manual
+    - several ranks of pipes
+    - probably invention of another, unknown Greek engineer
+    - valves instead of modern draw-stops
+    - sliders have n holes, as many as there are ranks of pipes
+    - iron springs
+    - 41: "The text contains no description of the manual with keys."
+- 42: "From the positions shown in the illustrations, it is absolutely certain that he played with both hands, and was
+  thus able to execute relatively quick passages with a wide variety of rhythms."
+
+## 3. The Graeco-Roman Organ: the Evidence of the Texts
+
+## To the middle of the first century A.D.
+
+- besides Hero and Vitruvius, references to the organ are incidental
+- summary
+    - Ktesibios: 2nd 1/2 of 3rd century B.C.
+    - wife Thaïs first organist
+    - a few decades later, one generation or two at most, Philo of Byzantium
+- we don't know if the instrument was cultivated right away, or if it was just a curiosity
+- likely that it progressively grew
+- 150 years after Ktesibios, inscription of Delphi
+    - 90 B.C.
+    - mentions Antipatros, hydraulis player
+    - won 2-day competition
+    - implies hydraulis well known
+- 50 years later, Cicero
+    - implies music of hydraulic organ a subtle pleasure
+    - 1st piece of Latin evidence for existence of organ
+- *Aetna* poem (Virgil's?)
+    - reference of organ in "great theatres"
+    - might imply organist was pumping himself, maybe w/ feet
+    - also describes hydraulic sirens
+
