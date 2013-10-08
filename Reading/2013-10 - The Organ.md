@@ -215,7 +215,7 @@
 
 ## 3. The Graeco-Roman Organ: the Evidence of the Texts
 
-## To the middle of the first century A.D.
+### To the middle of the first century A.D.
 
 - besides Hero and Vitruvius, references to the organ are incidental
 - summary
@@ -237,3 +237,51 @@
     - might imply organist was pumping himself, maybe w/ feet
     - also describes hydraulic sirens
 
+---
+
+|Date      | Time   | Read      |
+|----------|--------|-----------|
+|2013-10-07| 26 mn  | pp. 49-54 |
+
+- starting middle of the first century A.D., hydraulic organ is a familiar instrument
+- popular in Rome, theaters
+- Nero amateur
+- possible that the instruments was brought to Rome from Greece by Nero himself
+- also possible that the organ in the amphitheater was used to provide rhythm to the gladiators
+
+### The second century A.D.
+
+- organ is part of life in the Roman world
+- hydraulis has numerous sets of pipes timbres and notes
+
+### The first appearance of the bellows organ
+
+- today confusingly known as the pneumatic organ
+- 51: "Who had the idea of replacing the pistons and the water cistern by simple bellows – and when was this first done?"
+- no evidence that this was before the hydraulic organ
+- possibility to add bellows instead of the manual pumps, in fact this existed as shown by Arab text
+- but other approach is to eliminate water completely
+- benefits
+    - lighter, easier to move
+    - can also be used in private houses
+    - less expensive
+    - less worries about leaks, rust, or frost
+- hydraulis
+    - more complex, so more likely to be discussed and praised
+    - also relatively mysterious role of the water
+- 52: "The interest stirred up by the hydraulis was largely due to the complexity of its mechanism and the mysterious
+  role of the water, which aroused the admiration of scholars and baffled everyone else. But there was no magic about
+  the pneumatic organ."
+- drawbacks
+    - harder to control pressure
+    - therefore smaller instruments until later times
+- clearly instruments by the second century
+- Julius Pollus briefly describe two types of instruments, one with a smaller sound, and one was a bigger sound
+- blacksmiths were already using bellows
+- experiments seem to show that leaks in the wind-chest with sliders, bellows are incapable of supplying even small
+  organs with enough air
+- author "convinced that the Roman pneumatic organ must have had some kind of regulating device"
+
+### The third century A.D.
+
+- 
