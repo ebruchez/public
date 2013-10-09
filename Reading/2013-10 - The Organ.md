@@ -177,6 +177,8 @@
     - engineer, not musician!
 - Hero follow the description with the windmill activated organ, which seems impractical, and likely not from Ktesibios
 
+![Hero's Pneumatics manuscript](images/Hero's Pneumatics manuscript 600.jpg)
+
 ### Vitruvius's description
 
 ![Vitruvius's Organ](images/Vitruvius's Organ 600.png)
