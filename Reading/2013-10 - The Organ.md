@@ -179,6 +179,8 @@
 
 ### Vitruvius's description
 
+![Vitruvius's Organ](images/Vitruvius's Organ 600.png)
+
 - Architect Vitruvius
 - knows more music then hero
 - Devotes a whole chapter to the theory of Greek music
