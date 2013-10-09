@@ -5,11 +5,13 @@
 ## Introduction
 
 - origin: far back into antiquity
-- v: "The piano keyboard, for instance, derives directly from that of the Graeco-Roman organ, and the position of the hands on that primitive manual probably contributed in no small measure to the evolution of polyphonic music."
+- v: "The piano keyboard, for instance, derives directly from that of the Graeco-Roman organ, and the position of the
+  hands on that primitive manual probably contributed in no small measure to the evolution of polyphonic music."
+  #keyboard
 - invented by engineer
 - invention not gradual: inventor Alexandrian Greek Ktesibios
     - true creator of the instrument
-    - keyboard with springs
+    - keyboard with springs #keyboard
 - "hydraulic instrument" is a confusing term
 - scientific approach to historical research
 - previous works
@@ -26,7 +28,7 @@
         - one or more ranks of sounding pipes
         - hey wind-chest to store air
         - a mechanical blower, either a pump or a bellows
-        - a keyboard to direct the air into the various pipes
+        - a keyboard to direct the air into the various pipes #keyboard
     - Instruments that are not "organs" per our definition
         - syrinx, bagpipe, Chinese sheng (no keyboard), accordion (no pipes)
         - maybe: Jewish magrephab, but fairly late instrument
@@ -163,7 +165,7 @@
 - piston pump
 - cylinder about 50 cm, diameter 30 cm
 - description of the wind-chest
-- description of the keyboard
+- description of the keyboard #keyboard
     - drawers slide into the wind-chest under each pipe
     - cranks around the median axis, able to push the sliders in
     - horn spatulas act as springs, connected w/ gut to the sliders
@@ -290,11 +292,11 @@
 
 ### The third century A.D.
 
-- 3 text between the end of the second in the first half of the third century
+- 3 texts between the end of the second in the first half of the third century
 - show that the organ was popular and very widely distributed
 - 54: Athenaeus of Nauratis tells us that at that time "the inhabitants of Alexandria were proud of the fact that their
   city had been the birthplace of the organ"
-- text byu Porphyry of Tyre (233-303)
+- text by Porphyry of Tyre (233-303)
     - mentions how the length of the pipes of the aulos creates various intervals
     - "hydra": shortcut for hydraulis, and/or reference to the tentacled monster?
 - one text from Rhodes implies liturgical role, which is exceptional for the time ("player of the water organ charged
@@ -306,13 +308,14 @@
     - laid out as musical instrument, including an organ
     - first time the term "organ" appears in the precise and limited sense of organ
     - from the fourth century on, impossible to know just by the term "organum" whether pneumatic or hydraulic instrument
-    - "Placed beneath these comes a line of square-shaped keys whereby the musician's hand opens and shuts in time the openings for the air"
-    - "able to follow the opened keys, which ever tremble to the slightest touch"
+    - "Placed beneath these comes a line of square-shaped keys whereby the musician's hand opens and shuts in time the
+      openings for the air" #keyboard
+    - "able to follow the opened keys, which ever tremble to the slightest touch" #keyboard
     - text to Constantine, Who we might conclude was able to appreciate this
 - Julian the Apostate (332-63) clearly describes a pneumatic instrument
-    - 59: "And a proud man with nimble fingers stands there manipulating the keys which give voice to the pipes."
+    - 59: "And a proud man with nimble fingers stands there manipulating the keys which give voice to the pipes." #keyboard
     - pneumatic, but large instrument, organist plays in a standing position
-    - imply that the keys respond instantly to any pressure
+    - imply that the keys respond instantly to any pressure #keyboard
 - Claudian (c. 400)
     - "Let him whose light touch draws forth mighty sounds"
     - at most about 50 pipes by then based on iconography
