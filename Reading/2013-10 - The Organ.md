@@ -282,6 +282,64 @@
   organs with enough air
 - author "convinced that the Roman pneumatic organ must have had some kind of regulating device"
 
+---
+
+|Date      | Time   | Read      |
+|----------|--------|-----------|
+|2013-10-08| xx mn  | pp. 55-66 |
+
 ### The third century A.D.
 
-- 
+- 3 text between the end of the second in the first half of the third century
+- show that the organ was popular and very widely distributed
+- 54: Athenaeus of Nauratis tells us that at that time "the inhabitants of Alexandria were proud of the fact that their
+  city had been the birthplace of the organ"
+- text byu Porphyry of Tyre (233-303)
+    - mentions how the length of the pipes of the aulos creates various intervals
+    - "hydra": shortcut for hydraulis, and/or reference to the tentacled monster?
+- one text from Rhodes implies liturgical role, which is exceptional for the time ("player of the water organ charged
+  with awakening the God")
+
+### The fourth century A.D.
+
+- strange text from the beginning of the fourth century by Porfyrius Optatianus
+    - laid out as musical instrument, including an organ
+    - first time the term "organ" appears in the precise and limited sense of organ
+    - from the fourth century on, impossible to know just by the term "organum" whether pneumatic or hydraulic instrument
+    - "Placed beneath these comes a line of square-shaped keys whereby the musician's hand opens and shuts in time the openings for the air"
+    - "able to follow the opened keys, which ever tremble to the slightest touch"
+    - text to Constantine, Who we might conclude was able to appreciate this
+- Julian the Apostate (332-63) clearly describes a pneumatic instrument
+    - 59: "And a proud man with nimble fingers stands there manipulating the keys which give voice to the pipes."
+    - pneumatic, but large instrument, organist plays in a standing position
+    - imply that the keys respond instantly to any pressure
+- Claudian (c. 400)
+    - "Let him whose light touch draws forth mighty sounds"
+    - at most about 50 pipes by then based on iconography
+    - "Apparently it was the organist himself who operated the bellows handle, presumably with his feet"
+    - organ used for the atmosphere of great occasions, recitals
+- other text mentions a great wedding
+    - mentions "wet" organ
+    - surprising, this implies water, but specifically says that they are bellows
+    - most likely is that it is a hybrid instrument
+    - by that time, many people still regarded instrumental music as something rather degrading
+    - by middle of the fourth century "organs were built on a larger scale than before"
+    - unclear whether more pipes, or longer pipes with lower pitch (latter more likely)
+- St. Augustine says that the term "organum" applies to all (organ) instruments
+- several emperors besides Nero interested in music and the organ
+
+### The fifth and sixth centuries A.D.
+
+- Theodoret of Cyrrhus (387-450)
+    - symbolism linking the organ was the tongue
+    - at Antioch, bellows organ seems to have completely supplanted the hydraulic organ
+    - bellows worked with the feet, like harmonium
+- hydraulis as a mobile instrument
+- not much material due to the great invasions and destructions that followed
+- Theodoric the Great has some interest in the organ
+
+---
+
+|Date      | Time   | Read      |
+|----------|--------|-----------|
+|2013-10-xx| xx mn  | pp. xxxxx |
