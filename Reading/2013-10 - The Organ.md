@@ -154,6 +154,8 @@
 
 ### Hero's description
 
+![Hero's Organ](images/Hero's Organ 600.png)
+
 - his text is clear and precise
 - apparent that the author is an experienced engineer
 - copyists errors
