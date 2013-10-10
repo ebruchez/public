@@ -397,7 +397,7 @@
     - artist careless, but fine instrument
     - played with the horn, probably for a gladiatorial combat
 
-![The Nenning Mosaic](images/Nenning Mosaic 600.jpg)
+![The Nenning Mosaic](images/Nenning Mosaic color.jpg)
 
 2. and 3. Zliten mosaic
     - similar to Nennig instrument, but rectangular
@@ -407,4 +407,4 @@
     - other organ has 8 pipes
     - players are female
 
-![The Zliten Mosaic](images/Zliten Mosaic 600.jpg)
+![The Zliten Mosaic](images/Zliten Mosaic color.jpg)
