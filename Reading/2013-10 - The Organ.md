@@ -351,4 +351,56 @@
 
 |Date      | Time   | Read      |
 |----------|--------|-----------|
-|2013-10-xx| xx mn  | pp. xxxxx |
+|2013-10-09| 33 mn  | pp. 67-77 |
+
+- Senator Cassiodorus (middle of 6th century)
+    - mentions "wooden keys" #keyboard
+    - describes organ able to produce "very loud sounds as well as soft sweet ones"
+- inscription on a sarcophagus near Budapest at Aquincum
+    - end of the 4th century
+    - organist of Roman legion
+    - he and his wife were organists
+    - hypothesis: to accompany gladiators
+- couple more inscriptions
+
+## 4. The Graeco-Roman Organ: Iconographical Evidence
+
+- texts explain how things work
+- pictorial representations are important, because they show outward appearance
+- about 40 illustrations of organs
+- mainly the hydraulic organ, unchanged from Vitruvius to the disintegration of the Western Empire
+- much less frequent bellows organs
+    - had less impact on the public
+- media: bas-relief on sarcophagi, funeral steles, ivory; statuettes; mosaics; gem-stones, medallions
+- pumps, levers, blowers often left out
+- author convinced that in some cases the organist used feets to pump the air
+- archaeological relics: small organs of Pompeii, pneumatic organ of Aquincum
+- we know very little about the manual, since it is nearly always out of sight in iconography #keyboard
+
+### The organ with orchestra and human figures
+
+1. Nennig mosaic
+    - Found in 1852
+    - about 16 x 20 m
+    - fits Vitruvius, two lateral pumps
+    - hexagonal base
+    - rectangular panels w/ moldings
+    - cylinders supported by brackets
+    - on top, table w/ moldings
+    - this is the wind-chest with the pipes implanted
+    - 27 or 28 pipes very tightly together
+    - organist behind instruments, head and shoulders rising above the pipes
+    - hands should have come halfway up the tallest pipe
+        - but unlikely, keys would need 25 cm tall parts
+        - probably due to artist doing from memory
+    - instrument slightly more than 2 m tall, longest pipe 80 cm, smallest 60
+    - artist careless, but fine instrument
+    - played with the horn, probably for a gladiatorial combat
+
+2. and 3. Zliten mosaic
+    - similar to Nennig instrument, but rectangular
+    - 10 pipes, trebles to the player's right
+    - compass implied about one octave
+    - gladiator scene
+    - other organ has 8 pipes
+    - players are female
