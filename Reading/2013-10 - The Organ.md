@@ -408,3 +408,97 @@
     - players are female
 
 ![The Zliten Mosaic](images/Zliten Mosaic color.jpg)
+
+---
+
+|Date      | Time   | Read      |
+|----------|--------|-----------|
+|2013-10-10| 32 mn  | pp. 77-88 |
+
+4. Alexandrian terracota
+    - 77: "Oldest representation of an organ known to us"
+    - pre-Christian times
+    - fits descriptions of Hero and Vitruvius
+    - pump is visible without handle
+    - 14 pipes visible, trebles to the right
+    - organist is a woman
+    - seems like a caricature
+
+5. Via Appia graffito
+    - scene from amphitheater
+    - from Roman Villa
+    - simple sketch
+    - piston rods are shown
+    - ~12 pipes
+    - trebles to the left of the organist
+    - probably end of second century / beginning of third
+
+6. Consular diptych of Verona
+    - 517
+    - 2 tall air pumps, child pumping on one side
+    - 6 pipes open at the top
+    - trebles to the right of organist
+    - for emperor celebrations
+
+7. and 8. Constantinople Obelisk
+    - 390
+    - 2 organs
+    - not hydraulic, fed by great bellows
+    - children standing on bellows
+    - 11 pipes
+    - trebles to the left
+    - second organ has eight pipes
+    - trebles to the right (symmetry?)
+    - likely that other bellows would have been used, children were only weights!
+
+### The organ with human figures
+
+9. Roman terracota
+    - child organ blower pumping w/ right hand
+    -  7 pipes
+
+10. Rheims vase
+    - Bbetween combatants
+     - squarish water cistern
+     - 1 blower may be operating 2 pumps
+     - 8 pipes
+     - trebles to the right of organist
+     - 82: "Here again the hydraulic organ appears in a scene illustrating that stage in the combat immediately
+       preceding the dispatch of the vanquished gladiator. Presumably the instrument was always heard at this somber
+       moment."
+
+11. Copenhagen vase
+
+12. Sarcophagus of Arles
+    - hydraulic organ w/ 2 blowers
+    - 9 pipes
+    - big horizontal pipes going to the cylinders
+    - pumps very tall
+    - adolescents pumping, seems to show that it was not great effort
+    - trebles the right
+    - might be reed pipes
+    - organist appears playing with both hands #keyboard
+
+13. British museum gem
+    - 2 organ blowers
+    - 2 pipes going directly to the wind-chest (seems workable)
+    - pumps appear to work alternately
+    - 13 pipes
+    - trebles to the right
+    - possibly Pythagorean diatonic scale + B flats
+
+14. Rheinzabern vase
+    - combat
+
+15. Aphrodisis' organ
+    - 9 pipes
+    - girl's right-hand appears to be resting on the keys #keyboard
+    - small organ
+
+16. Tatarevo organ
+    - gladiators
+    - 2 pumps, 9 pipes, children pumping
+    - rough execution
+
+17-24. Contorniate medallions
+
