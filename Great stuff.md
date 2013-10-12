@@ -9,6 +9,7 @@ I plan to collect here some "great stuff" to share, even though that can be very
 ## Books
 
 - [Cosmos](http://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354), by Carl Sagan. It puts science and the universe in perspective. Other books by Sagan are amazing too, such as Pale Blue Dot.
+- [Surely You're Joking, Mr. Feynman!](http://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041), by Richard Feynman. Intelligence and humor combined.
 
 ## Music
 
@@ -18,3 +19,4 @@ I plan to collect here some "great stuff" to share, even though that can be very
 
 - Philosopher Bertrand Russell's [Message to the Future](http://www.youtube.com/watch?v=O8h-xEuLfm8)
 - [Sir Arthur C Clarke: 90th birthday reflections](http://www.youtube.com/watch?v=3qLdeEjdbWE) (see also the [transcript](http://www.tveap.org/index.php?q=0712art_transcript_02.php)). This is Clarke's farewell to the world. As he recorded this video, obviously with lots of interruptions, it is quite clear that he knew his own end was near. And he did pass away about three months later.
+- [Carl Sagan: Pale Blue Dot](https://www.youtube.com/watch?v=K05xxeCdhSo)
