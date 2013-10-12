@@ -5,6 +5,7 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 ## Currently reading
 
 
+- 2013-10: Jean Perrot - The Organ from its invention in the Hellenistic period to the end of the Thirteenth Century
 - 2013-08-xx: Arthur C. Clarke - 2061: Odyssey Three [reread]
 
 
