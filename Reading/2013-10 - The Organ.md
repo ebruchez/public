@@ -379,7 +379,7 @@
 
 ### The organ with orchestra and human figures
 
-#1. Nennig mosaic
+#### 1. Nennig mosaic
     - Found in 1852
     - about 16 x 20 m
     - fits Vitruvius, two lateral pumps
@@ -399,7 +399,7 @@
 
 ![The Nenning Mosaic](images/Nenning Mosaic color.jpg)
 
-#2. and #3. Zliten mosaic
+#### 2. and 3. Zliten mosaic
     - similar to Nennig instrument, but rectangular
     - 10 pipes, trebles to the player's right
     - compass implied about one octave
@@ -415,7 +415,7 @@
 |----------|--------|-----------|
 |2013-10-10| 32 mn  | pp. 77-88 |
 
-#4. Alexandrian terracota
+#### 4. Alexandrian terracota
     - 77: "Oldest representation of an organ known to us"
     - pre-Christian times
     - fits descriptions of Hero and Vitruvius
@@ -424,7 +424,7 @@
     - organist is a woman
     - seems like a caricature
 
-#5. Via Appia graffito
+#### 5. Via Appia graffito
     - scene from amphitheater
     - from Roman Villa
     - simple sketch
@@ -433,14 +433,14 @@
     - trebles to the left of the organist
     - probably end of second century / beginning of third
 
-#6. Consular diptych of Verona
+#### 6. Consular diptych of Verona
     - 517
     - 2 tall air pumps, child pumping on one side
     - 6 pipes open at the top
     - trebles to the right of organist
     - for emperor celebrations
 
-#7. and #8. Constantinople Obelisk
+#### 7. and 8. Constantinople Obelisk
     - 390
     - 2 organs
     - not hydraulic, fed by great bellows
@@ -453,11 +453,11 @@
 
 ### The organ with human figures
 
-#9. Roman terracota
+#### 9. Roman terracota
     - child organ blower pumping w/ right hand
     -  7 pipes
 
-#10. Rheims vase
+#### 10. Rheims vase
     - Bbetween combatants
      - squarish water cistern
      - 1 blower may be operating 2 pumps
@@ -467,9 +467,9 @@
        preceding the dispatch of the vanquished gladiator. Presumably the instrument was always heard at this somber
        moment."
 
-#11. Copenhagen vase
+#### 11. Copenhagen vase
 
-#12. Sarcophagus of Arles
+#### 12. Sarcophagus of Arles
     - hydraulic organ w/ 2 blowers
     - 9 pipes
     - big horizontal pipes going to the cylinders
@@ -479,7 +479,7 @@
     - might be reed pipes
     - organist appears playing with both hands #keyboard
 
-#13. British museum gem
+#### 13. British museum gem
     - 2 organ blowers
     - 2 pipes going directly to the wind-chest (seems workable)
     - pumps appear to work alternately
@@ -487,15 +487,15 @@
     - trebles to the right
     - possibly Pythagorean diatonic scale + B flats
 
-#14. Rheinzabern vase
+#### 14. Rheinzabern vase
     - combat
 
-#15. Aphrodisis' organ
+#### 15. Aphrodisis' organ
     - 9 pipes
     - girl's right-hand appears to be resting on the keys #keyboard
     - small organ
 
-#16. Tatarevo organ
+#### 16. Tatarevo organ
     - gladiators
     - 2 pumps, 9 pipes, children pumping
     - rough execution
@@ -504,41 +504,48 @@
 
 |Date      | Time   | Read      |
 |----------|--------|-----------|
-|2013-10-11| 18 mn  | pp. 89-98 |
+|2013-10-11| 20 mn  | pp. 89-98 |
 
-#17-#24. Contorniate medallions
+#### 17-24. Contorniate medallions
     - bronze medal of considerable size
     - no earlier than second half of 4th century
     - 12 showing an hydraulic organ
 
-#17. Valentinian III medallion
+#### 17. Valentinian III medallion
     - round or hexagonal cistern, wider than it is deep
     - 2 pumps, 10 or 11 pipes, very tall ones, 2 children pumping
     - possibly new model of organ
     - largest known hydraulis
     - mentions organics by name, Peter
 
-18.
+#### 18.
     - 7 pipes
     - trebles to the right
-19.
+
+#### 19.
     - 8 pipes, trebles to the right
-20.
+
+#### 20.
     - 11 pipes, trebles to the right
-21.
+
+#### 21.
     - 9 or 10 pipes
-24.
+
+#### 24.
     - 5 pipes
     - possibly small-scale pneumatic organ, or syrinx
-25.
+
+#### 25.
     - possibly a small hydraulic organ with tessitura about one octave
-26.
+
+#### 26.
     - flue pipes, stopped
-28
+
+#### 28.
     - 6 or 7 pipes
     - probably small pneumatic organ
 
-29. Lamp in the museum at Carthage
+#### 29. Lamp in the museum at Carthage
     - matches Vitruvius
     - great care
     - hexagonal cistern
@@ -554,5 +561,5 @@
     - is actually a lamp with burners
     - original instrument must have produced a warm, bright sound
 
-30. Lamp in the Copenhagen Museum
+#### 30. Lamp in the Copenhagen Museum
     -
