@@ -380,32 +380,34 @@
 ### The organ with orchestra and human figures
 
 #### 1. Nennig mosaic
-    - Found in 1852
-    - about 16 x 20 m
-    - fits Vitruvius, two lateral pumps
-    - hexagonal base
-    - rectangular panels w/ moldings
-    - cylinders supported by brackets
-    - on top, table w/ moldings
-    - this is the wind-chest with the pipes implanted
-    - 27 or 28 pipes very tightly together
-    - organist behind instruments, head and shoulders rising above the pipes
-    - hands should have come halfway up the tallest pipe
-        - but unlikely, keys would need 25 cm tall parts
-        - probably due to artist doing from memory
-    - instrument slightly more than 2 m tall, longest pipe 80 cm, smallest 60
-    - artist careless, but fine instrument
-    - played with the horn, probably for a gladiatorial combat
+
+- Found in 1852
+- about 16 x 20 m
+- fits Vitruvius, two lateral pumps
+- hexagonal base
+- rectangular panels w/ moldings
+- cylinders supported by brackets
+- on top, table w/ moldings
+- this is the wind-chest with the pipes implanted
+- 27 or 28 pipes very tightly together
+- organist behind instruments, head and shoulders rising above the pipes
+- hands should have come halfway up the tallest pipe
+    - but unlikely, keys would need 25 cm tall parts
+    - probably due to artist doing from memory
+- instrument slightly more than 2 m tall, longest pipe 80 cm, smallest 60
+- artist careless, but fine instrument
+- played with the horn, probably for a gladiatorial combat
 
 ![The Nenning Mosaic](images/Nenning Mosaic color.jpg)
 
 #### 2. and 3. Zliten mosaic
-    - similar to Nennig instrument, but rectangular
-    - 10 pipes, trebles to the player's right
-    - compass implied about one octave
-    - gladiator scene
-    - other organ has 8 pipes
-    - players are female
+
+- similar to Nennig instrument, but rectangular
+- 10 pipes, trebles to the player's right
+- compass implied about one octave
+- gladiator scene
+- other organ has 8 pipes
+- players are female
 
 ![The Zliten Mosaic](images/Zliten Mosaic color.jpg)
 
@@ -416,89 +418,100 @@
 |2013-10-10| 32 mn  | pp. 77-88 |
 
 #### 4. Alexandrian terracota
-    - 77: "Oldest representation of an organ known to us"
-    - pre-Christian times
-    - fits descriptions of Hero and Vitruvius
-    - pump is visible without handle
-    - 14 pipes visible, trebles to the right
-    - organist is a woman
-    - seems like a caricature
+
+- 77: "Oldest representation of an organ known to us"
+- pre-Christian times
+- fits descriptions of Hero and Vitruvius
+- pump is visible without handle
+- 14 pipes visible, trebles to the right
+- organist is a woman
+- seems like a caricature
 
 #### 5. Via Appia graffito
-    - scene from amphitheater
-    - from Roman Villa
-    - simple sketch
-    - piston rods are shown
-    - ~12 pipes
-    - trebles to the left of the organist
-    - probably end of second century / beginning of third
+
+- scene from amphitheater
+- from Roman Villa
+- simple sketch
+- piston rods are shown
+- ~12 pipes
+- trebles to the left of the organist
+- probably end of second century / beginning of third
 
 #### 6. Consular diptych of Verona
-    - 517
-    - 2 tall air pumps, child pumping on one side
-    - 6 pipes open at the top
-    - trebles to the right of organist
-    - for emperor celebrations
+
+- 517
+- 2 tall air pumps, child pumping on one side
+- 6 pipes open at the top
+- trebles to the right of organist
+- for emperor celebrations
 
 #### 7. and 8. Constantinople Obelisk
-    - 390
-    - 2 organs
-    - not hydraulic, fed by great bellows
-    - children standing on bellows
-    - 11 pipes
-    - trebles to the left
-    - second organ has eight pipes
-    - trebles to the right (symmetry?)
-    - likely that other bellows would have been used, children were only weights!
+
+- 390
+- 2 organs
+- not hydraulic, fed by great bellows
+- children standing on bellows
+- 11 pipes
+- trebles to the left
+- second organ has eight pipes
+- trebles to the right (symmetry?)
+- likely that other bellows would have been used, children were only weights!
 
 ### The organ with human figures
 
 #### 9. Roman terracota
-    - child organ blower pumping w/ right hand
-    -  7 pipes
+
+- child organ blower pumping w/ right hand
+- 7 pipes
 
 #### 10. Rheims vase
-    - Bbetween combatants
-     - squarish water cistern
-     - 1 blower may be operating 2 pumps
-     - 8 pipes
-     - trebles to the right of organist
-     - 82: "Here again the hydraulic organ appears in a scene illustrating that stage in the combat immediately
-       preceding the dispatch of the vanquished gladiator. Presumably the instrument was always heard at this somber
-       moment."
+
+- between combatants
+- squarish water cistern
+- 1 blower may be operating 2 pumps
+- 8 pipes
+- trebles to the right of organist
+- 82: "Here again the hydraulic organ appears in a scene illustrating that stage in the combat immediately
+  preceding the dispatch of the vanquished gladiator. Presumably the instrument was always heard at this somber
+  moment."
 
 #### 11. Copenhagen vase
 
 #### 12. Sarcophagus of Arles
-    - hydraulic organ w/ 2 blowers
-    - 9 pipes
-    - big horizontal pipes going to the cylinders
-    - pumps very tall
-    - adolescents pumping, seems to show that it was not great effort
-    - trebles the right
-    - might be reed pipes
-    - organist appears playing with both hands #keyboard
+
+- hydraulic organ w/ 2 blowers
+- 9 pipes
+- big horizontal pipes going to the cylinders
+- pumps very tall
+- adolescents pumping, seems to show that it was not great effort
+- trebles the right
+- might be reed pipes
+- organist appears playing with both hands #keyboard
 
 #### 13. British museum gem
-    - 2 organ blowers
-    - 2 pipes going directly to the wind-chest (seems workable)
-    - pumps appear to work alternately
-    - 13 pipes
-    - trebles to the right
-    - possibly Pythagorean diatonic scale + B flats
+
+- 2 organ blowers
+- 2 pipes going directly to the wind-chest (seems workable)
+- pumps appear to work alternately
+- 13 pipes
+- trebles to the right
+- possibly Pythagorean diatonic scale + B flats
 
 #### 14. Rheinzabern vase
-    - combat
+
+- combat
 
 #### 15. Aphrodisis' organ
-    - 9 pipes
-    - girl's right-hand appears to be resting on the keys #keyboard
-    - small organ
+
+- 9 pipes
+- girl's right-hand appears to be resting on the keys #keyboard
+- small organ
 
 #### 16. Tatarevo organ
-    - gladiators
-    - 2 pumps, 9 pipes, children pumping
-    - rough execution
+
+- gladiators
+- 2 pumps, 9 pipes, children pumping
+- rough execution
 
 ---
 
@@ -507,59 +520,71 @@
 |2013-10-11| 20 mn  | pp. 89-98 |
 
 #### 17-24. Contorniate medallions
-    - bronze medal of considerable size
-    - no earlier than second half of 4th century
-    - 12 showing an hydraulic organ
+
+- bronze medal of considerable size
+- no earlier than second half of 4th century
+- 12 showing an hydraulic organ
 
 #### 17. Valentinian III medallion
-    - round or hexagonal cistern, wider than it is deep
-    - 2 pumps, 10 or 11 pipes, very tall ones, 2 children pumping
-    - possibly new model of organ
-    - largest known hydraulis
-    - mentions organics by name, Peter
+
+- round or hexagonal cistern, wider than it is deep
+- 2 pumps, 10 or 11 pipes, very tall ones, 2 children pumping
+- possibly new model of organ
+- largest known hydraulis
+- mentions organics by name, Peter
 
 #### 18.
-    - 7 pipes
-    - trebles to the right
+
+- 7 pipes
+- trebles to the right
 
 #### 19.
-    - 8 pipes, trebles to the right
+
+- 8 pipes, trebles to the right
 
 #### 20.
-    - 11 pipes, trebles to the right
+
+- 11 pipes, trebles to the right
 
 #### 21.
-    - 9 or 10 pipes
+
+- 9 or 10 pipes
 
 #### 24.
-    - 5 pipes
-    - possibly small-scale pneumatic organ, or syrinx
+
+- 5 pipes
+- possibly small-scale pneumatic organ, or syrinx
 
 #### 25.
-    - possibly a small hydraulic organ with tessitura about one octave
+
+- possibly a small hydraulic organ with tessitura about one octave
 
 #### 26.
-    - flue pipes, stopped
+
+- flue pipes, stopped
 
 #### 28.
-    - 6 or 7 pipes
-    - probably small pneumatic organ
+
+- 6 or 7 pipes
+- probably small pneumatic organ
 
 #### 29. Lamp in the museum at Carthage
-    - matches Vitruvius
-    - great care
-    - hexagonal cistern
-    - large pumps
-    - 3ranks of 18 pipes
-    - 19 pipes shown in front (discrepancy)
-    - flue pipes with lips
-    - 3 stops: principal, octave, and perhaps fifth
-    - manual #keyboard
-        - has 18 oblong keys
-        - relatively broad keys
-        - low in relation to organist, explained if organist was created separately
-    - is actually a lamp with burners
-    - original instrument must have produced a warm, bright sound
+
+- matches Vitruvius
+- great care
+- hexagonal cistern
+- large pumps
+- 3ranks of 18 pipes
+- 19 pipes shown in front (discrepancy)
+- flue pipes with lips
+- 3 stops: principal, octave, and perhaps fifth
+- manual #keyboard
+    - has 18 oblong keys
+    - relatively broad keys
+    - low in relation to organist, explained if organist was created separately
+- is actually a lamp with burners
+- original instrument must have produced a warm, bright sound
 
 #### 30. Lamp in the Copenhagen Museum
-    -
+
+-
