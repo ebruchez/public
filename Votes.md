@@ -2,6 +2,33 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
+## [Votation populaire du 24 novembre 2013](http://www.bk.admin.ch/themen/pore/va/20131124/index.html?lang=fr)
+
+1. Acceptez-vous l'initiative populaire "1:12 - Pour des salaires équitables"? NO [EXPECTED: NO, RESULT: ]
+    - This is similar to the initiative "«contre les rémunérations abusives»" of June 2012.
+    - I don't like how executives' compensations have been evolving, the widening of the gap between rich and poor, or
+      that society allows for the emergence of an ultra-rich class, especially given the dubious value to society of the
+      function of most of those executives. But I don't think that enforcing a ratio as suggested is going to do good
+      for Switzerland, or even to work.
+    - Following the Federal Council's recommendation.
+2. Acceptez-vous l'initiative populaire "Initiative pour les familles: déductions fiscales aussi pour les parents qui
+   gardent eux-mêmes leurs enfants"? ABSTAINED [EXPECTED: NO, RESULT: ]
+    - Switzerland is lagging when it comes to helping families with children.
+    - Raising children at home is an activity of value to society, even if not remunerated.
+    - But should a tax deduction be the tool to use here?
+    - I often have a problem with tax incentives as they can backfire and almost always have elements of unfairness.
+    - The tax deductions I know are linked to money you spend, not other non-remunerated activities.
+    - In short, I don't know what to vote here, so abstaining
+3. Acceptez-vous la modification du 22 mars 2013 de la loi fédérale concernant la redevance pour l'utilisation des
+   routes nationales (Loi sur la vignette autorouotière, LVA)? YES [EXPECTED: YES, RESULT: ]
+    - 100 CHF / year doesn't seem like so much to use the Swiss highways.
+    - As the federal council says, it's easily more expensive in other countries.
+    - It is hard, based on the vote booklet, to understand the financing scheme exactly. But the arguments against the
+      new law are explained poorly (the main argument seems to be using lots of exclamation points).
+    - One criticism of the law seems to be that money raised by road users is used for public transportation. But I
+      think it is a rather reasonable thing to do.
+    - Following the Federal Council's recommendation.
+
 ## [Votation fédérale du 22 septembre 2013](http://www.bk.admin.ch/themen/pore/va/20130922/index.html?lang=fr#) ([results](http://www.admin.ch/ch/f/pore/va/20130922/index.html))
 
 1. Acceptez-vous l'initiative populaire "Oui a I‘abrogation du service militaire obligatoire"? YES [EXPECTED: NO, RESULT: NO 73.2% ]
