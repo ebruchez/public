@@ -585,6 +585,66 @@
 - is actually a lamp with burners
 - original instrument must have produced a warm, bright sound
 
+---
+
+|Date      | Time   | Read       |
+|----------|--------|------------|
+|2013-10-14| xx mn  | pp. 98-107 |
+
 #### 30. Lamp in the Copenhagen Museum
 
--
+- 2 pumps but only one remains
+- 18 pipes with lips, 3 ranks
+- principal stop, octave stop, fifth stop
+
+### The organ alone
+
+#### 31. Tarsus terracotta
+
+- bad shape, but it's elegant design and high standard
+- 14 or 15 pipes
+- trebles on organist's right
+
+#### 32. Sarcophagus of Julia Tyrrania
+
+- 2 pumps
+- 8 pipes, probably roughly a chromatic scale
+
+#### 33. Rusticus organ
+
+- hydraulic organ
+- cylindrical water cistern, no pumps
+- 5 small levers, probably for register drawers
+- manual depicted, 15 keys longer than that broad, laying close together as in the modern manual #keyboard
+
+#### 34. Gentilla's organ
+
+- 16 pipes
+- probably pneumatic organ
+
+#### 35. Organ in Winghe manuscript
+
+- rectangular water cistern
+- 10 pipes
+
+#### 36. Fragment of pottery in St.-Germain museum
+
+- hydraulic organ
+- trebles to the left of the organist
+
+#### 37. Rheinzabern terracotta
+
+- 14 pipes
+
+#### 38. Glass vase in Museo Nazionale in Naples
+
+- 25 pipes
+- probably pneumatic
+
+## The Graeco-Roman Organ: Archaeological Evidence
+
+### The "organs" in the Museo Nazionale in Naples
+
+- discovered at Pompeii
+- set musicological problem which is not resolved
+- 11 bronze pipes
