@@ -589,7 +589,7 @@
 
 |Date      | Time   | Read       |
 |----------|--------|------------|
-|2013-10-14| xx mn  | pp. 98-107 |
+|2013-10-14| 19 mn  | pp. 98-107 |
 
 #### 30. Lamp in the Copenhagen Museum
 
@@ -648,3 +648,53 @@
 - discovered at Pompeii
 - set musicological problem which is not resolved
 - 11 bronze pipes
+
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-10-17| 30 mn  | pp. 108-117 |
+
+- complete mystery
+- special type of organs if they are organs in fact
+
+### The organ in the Aquincum museum
+
+- discovered in 1931
+- not a hydraulic organ
+- wooden parts have almost entirely disappeared
+- but metal parts have been recovered
+- third century organ (228)
+- 4 sets of 13 pipes
+- wind-chest made of wood, but inside and out lined w/ sheets of bronze
+- manual #keyboard
+    - probably short length of cord in a hook attached to the key at the other end
+    - return springs made of bronze about 9 cm long
+    - mechanism described by Hero
+    - tabula summa above sliders, solid bronze
+    - angle-irons keys probably, made of wood and reinforced in bronze
+- same design as a Vitruvius's organ, except inlet valves replaced by slotted sliders
+- pipes
+    - fascinating because ancient writers did not talk about acoustics
+    - 52 cast flue pipes
+    - impossible to tell for sure the tessitura or progression
+    - might be possible to adjust to pretty much any harmony
+    - all conical pipe feet found
+    - 4th-rank pipes are different, open, probably predominant sound
+- no remains of cistern have been found, so probably not hydraulis
+- pine and oak and elm-wood
+- pipes: zinc 18%, copper 82%, small amounts of tin and lead
+- very small instrument
+
+## Graeco-Roman Music
+
+- musical system of antiquity is different from our own
+- other instruments
+    - aulos (Plato considered it dangerous)
+    - trumpets
+- 117: "Not one work relating to instrument-making or the practice of music has survived from ancient times"
+- works were written, but they have been lost
+
+### Musical theory and notation
+
+- 
