@@ -694,7 +694,65 @@
     - trumpets
 - 117: "Not one work relating to instrument-making or the practice of music has survived from ancient times"
 - works were written, but they have been lost
+- only short treatises left
+
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-10-22| 27 mn  | pp. 118-124 |
 
 ### Musical theory and notation
+
+- 118: "The ancients regarded the octave of a consonance, but they never accorded it the fundamental role that it has today"
+- Pythogoras
+    - basic unit is tetrachord (perfect 4th)
+    - division of vibrating strings into simple fractions
+    - 1/2 -> octave
+    - 2/3 -> 5th
+    - 3/4 -> 4th
+    - series of 5ths w/ 7 strings
+    - bring them back to a single octave
+    - Pythagorean scale
+- Aristoxenian scale
+    - 1/2, 2/3, 3/4
+     - diff between 4th and 5th: 8/9
+     - simplifies Pyth. scale
+ - tone = diff between 5th and 4th
+     - widely used in Middle Ages to tune organ pipes
+     - divided into 2 semitones or hemitones
+     - 1/2 hemitone = enharmonic diesis
+ - Greater Perfect Disjunct System
+    - 4 tetrachords
+    - tetrachord Hyperbolaion
+    - tetrachord Diezeugmenon
+    - tetrachord Meson
+    - tetrachord Hypaton
+    - + bottom note Proslambanomenos
+    - disjunct because tetrachord Meson and tetrachord Diezeugmenon don't share a note
+- Lesser Perfect Conjunct System
+    - 3 tetrachords
+    - tetrachord Synemmnon
+- no names of notes repeating octave to octave
+- instead names defined by function of notes in tetrachord
+- 2 middle notes of tetrachord can "move" e.g. a semitone
+    - diatonic genus: tone - tone - semitone
+    - chromatic genus: 1 1/2 tone - semitone - semitone
+    - enharmonic genus: 2 tones - 1/4 tone - 1/4 tone
+    - diatonic/chromatic popular, enharmonic fell after 5th c. BCE
+- rhythm
+    - very important
+    - 10 rhythmic formulaes
+- "modes" are controversial
+    - might not have really existed
+    - "harmonies" "must communicate a particular passion or character"
+- tropes or tones
+    - "define the respective pitch of the various systems within the scale of sound"
+- notation
+    - for composers and teachers, not musicians
+    - letters, != if instrumental vs. vocal
+    - upper signs for voice, lower signs for instrument
+
+### The status of music
 
 - 
