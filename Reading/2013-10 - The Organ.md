@@ -2,7 +2,7 @@
 |----------|--------|--------------------|
 |2013-10-01| ~30 mn | pp. v-xxi, pp. 3-6 |
 
-## Introduction
+# Introduction
 
 - origin: far back into antiquity
 - v: "The piano keyboard, for instance, derives directly from that of the Graeco-Roman organ, and the position of the
@@ -34,11 +34,11 @@
         - maybe: Jewish magrephab, but fairly late instrument
 
 
-## 1. The organ in the ancient world
+# Part One: The organ in the ancient world
 
-### The invention of the organ
+## 1. The invention of the organ
 
-#### The Alexandrian background
+### The Alexandrian background
 
 - fruit of the Greek science in Alexandria
 - Alexandria became center of learning with Ptolemy Philadelphus, 283 BC
@@ -51,7 +51,7 @@
 - 4: "It is remarkable that experimental science, whose prospects were so bright, should have disappeared so quickly, and remained in abeyance for so long: and it is particularly surprising that the practically minded Romans did not take advantage of this new and positive aspect of scientific thought."
 - influence of the Platonists
 
-#### Who invented the organ?
+### Who invented the organ?
 
 - 5: "Great inventions are said never to be the work of one man, and for this reason people have refused to acknowledge that the organ might have been conceived and created by a single person. And yet the texts establish that this is indeed what happened."
 - 5: "in its original form the musical part of the instrument was very small in relation to the mechanical part"
@@ -75,7 +75,7 @@
     - explains the theory of the hydraulis
 - 10: "Thus the writings of the technical experts of Antiquity agree in attributing the invention of the new musical instrument to a real historical person, Ktesibios."
 
-#### Where and when Ktesibios lived
+### Where and when Ktesibios lived
 
 - Ktesibios: not a common name, but it appears in a few places
 - obscure origins
@@ -83,7 +83,7 @@
 - little doubt the engineer is a single person
 - must have been adult around 270 BC
 
-#### The character and reputation of Ktesibios
+### The character and reputation of Ktesibios
 
 - Vitruvius gives an account of Ktesibios's early life
 - son of a barber
@@ -97,7 +97,7 @@
 |----------|--------|-----------|
 |2013-10-03| 37 mn  | pp. 17-27 |
 
-#### Philo of Byzantium and Hero of Alexandria
+### Philo of Byzantium and Hero of Alexandria
 
 - Philo
     - different from Philo of Athens
@@ -641,7 +641,7 @@
 - 25 pipes
 - probably pneumatic
 
-## The Graeco-Roman Organ: Archaeological Evidence
+## 5. The Graeco-Roman Organ: Archaeological Evidence
 
 ### The "organs" in the Museo Nazionale in Naples
 
@@ -686,7 +686,7 @@
 - pipes: zinc 18%, copper 82%, small amounts of tin and lead
 - very small instrument
 
-## Graeco-Roman Music
+## 6. Graeco-Roman Music
 
 - musical system of antiquity is different from our own
 - other instruments
@@ -816,5 +816,5 @@
     - "Either he was playing in parallel octaves or 12ths, or else – and this is the most likely hypothesis – he was
       playing his own accompaniment to the melody he had to interpret, like the tibicen with his two pipes." #keyboard
 
-## The Graeco-Roman Organ: the Pipes and their Tuning
+## 7. The Graeco-Roman Organ: the Pipes and their Tuning
 
