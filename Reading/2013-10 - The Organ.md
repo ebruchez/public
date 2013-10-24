@@ -753,6 +753,68 @@
     - letters, != if instrumental vs. vocal
     - upper signs for voice, lower signs for instrument
 
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-10-24| 30 mn  | pp. 124-131 |
+
 ### The status of music
 
-- 
+- hard to determine
+- Plato and his school:
+    - music more of a science than an art
+    - mind must have precedence over the ear
+    - Aristotle recognizes the physical pleasure of music, but only for adults
+    - professional musician is inferior, like the artisan
+- these are not beliefs of the man in the street
+- all the most popular songs came from Alexandria
+- in the days of Cicero, leading Romans would not have played in public
+- but by the time of Nero, things changed
+
+### Musical instruments
+
+- popularity of aulos grew during the Alexandrian era
+- syrinx or panpipe
+    - lends its shape to the musical part of the organ
+    - very ancient origin
+    - found among a wide range of people
+    - pipes stopped w/ wax -> can be tuned
+    - 7 to 12 pipes
+    - read or hemlock, but also bronze or ivory
+    - usually very small (10 cm), but also up to 40 to 50 cm
+- aulos
+    - Very widely used in the Graeco-Roman world
+    - vibrating reed, similar to the oboe
+    - movable mouthpiece
+    - holes for playing
+    - the reed "Is the most delicate part of the whole instrument, and the utmost care was taken in its manufacture"
+    - nearly always double, 1 instrument in each hand, mixing high notes and lower notes
+    - initially 4 holes, 1 for each finger
+    - then ferrules freeing fingers by continuing to stop corresponding holes
+     - greater range of notes, multiple modes of the same aulos
+     - single aulos -> Dorian mode, Phrygian mode, and Lydian mode
+     - unlikely that early organ did not have the same possibilities
+     - different auloi for different pitches
+     - require the agility and also lung power
+     - pleasant, captivating sound
+     - solo, but also to accompany singing or choruses, also combined with cithara or other aulos
+     - also flute
+ - question of diaphony in antiquity
+    - any true form of music in 2 parts?
+    - "Practice of accompanying a melody was notes foreign to that  melody is certainly a very ancient one."
+    - Plato was condemning the practice
+    - likely that accompaniment was often improvised
+    - probably a certain style of vertical polyphony
+    - all these considerations apply to the organ
+    - organ by nature polyphonic Instrument
+    - 1932, Canon Mathias: "From the first, organ-playing was polyphonic… Besides, we have only two picture to ourselves an
+      intelligent man faced with so many pipes, and so many keys unlocking the musical treasures of these pipes. It would
+      be against all human reason and ingenuity not at least to try and play with both hands simultaneously, particularly
+      since the way had long since been prepared for this by playing the bagpipes, which produced a perfect heterophony."
+    - might be extreme, but iconographical evidence shows organists in most cases with both hands on the manual #keyboard
+    - "Either he was playing in parallel octaves or 12ths, or else – and this is the most likely hypothesis – he was
+      playing his own accompaniment to the melody he had to interpret, like the tibicen with his two pipes." #keyboard
+
+## The Graeco-Roman Organ: the Pipes and their Tuning
+
