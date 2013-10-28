@@ -757,7 +757,7 @@
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2013-10-24| 30 mn  | pp. 124-131 |
+|2013-10-24| 35 mn  | pp. 124-131 |
 
 ### The status of music
 
@@ -816,5 +816,71 @@
     - "Either he was playing in parallel octaves or 12ths, or else – and this is the most likely hypothesis – he was
       playing his own accompaniment to the melody he had to interpret, like the tibicen with his two pipes." #keyboard
 
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-10-28| xx mn  | pp. 132-142 |
+
+
 ## 7. The Graeco-Roman Organ: the Pipes and their Tuning
 
+- very little that is known about the sounding part of the organ in antiquity
+- historian is reduced to hypothesis
+- in antiquity manufacturing processes were not considered as important as today
+- such matters were left to the artisan
+- no reference on the number of pipes
+- iconography, but it is depending on whether artists have been faithful to the models
+- based on representations
+    - 8 pipes is the most frequent
+    - 7, 9 and 10
+- tessitura of the manual is more arbitrary #keyboard
+- no illustration shows an instruments with a pipe 4x the height of another one
+- British Museum: 3x
+    - possibly, the Greater Perfect Disjunct System minus it's final tetrachord
+- Tarsus terracotta: ~3x
+- Carthaginian lamp
+    - implies quarter tones
+    - other representations also imply this
+- small organs
+    - ratio of about 3/2 -> a fifth
+    - intervals ~ semitones
+- Aquincum
+    - ~ 1 octave
+    - simplest division is semitones
+    - remains hypothetical
+    - might have allowed Dorian, Phrygian, and Lydian modes (by approximation)
+- Bellermann's Anonymous
+    - author says that wind instruments more often use the Phrygian mode
+    - but then says that hydraulis plays only: Hyperlydian, Hyperiastian, Lydian, Phrygian, Hypolydian, and Hypophrygian
+    - reveals confusion of modes vs. tropes
+    - but unlikely that real organs were able to play all of them
+    - instead, there were various types of organs
+    - or notes belonging to the six tropes within the confines of a single octave
+    - possibly what's Aquincum pneumatic organ had
+    - there is a measure of uncertainty about this anonymous text, also might be local
+- "Illustrative evidence reveals that the Hydraulis embraces a somewhat restricted number of tetrachords."
+    - 138: "A nucleus of "fixed" notes […] probably formed the framework of the melodic scale, and these, with the
+      addition of certain "mobile" notes […] enabled the organist to perform in several tropes, thus introducing a
+      little variety into his playing."
+    - it was probably enough to play in the diatonic genus, and possibly chromatic genus
+    - variety could also be added by changing "systems" (Disjunct/Conjunct), tropes, and rhythms
+- unlikely that the "nuances" (smaller intervals) could have been achieved
+    - especially in amphitheater orchestra, probably playing easy to remember popular airs
+- all these hypotheses are fragile
+- 140: But "One thing is certain: in those days, as in our own times, no two instruments were exactly alike."
+- little doubt that the palette of sound was extremely varied
+- We can classify by:
+    - number of pipes
+    - register (high, medium, or low)
+        - in general Relatively high (4' pipe at most)
+    - compass of the manual and it's melodic progression
+       -  diatonic, chromatic, enharmonic (earlier)
+
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-10-xx| xx mn  | pp. 143-xxx |
+
+## 8. The Hydraulic Organ (2)
