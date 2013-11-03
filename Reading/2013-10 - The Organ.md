@@ -820,7 +820,7 @@
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2013-10-28| xx mn  | pp. 132-142 |
+|2013-10-28| 40 mn  | pp. 132-142 |
 
 
 ## 7. The Graeco-Roman Organ: the Pipes and their Tuning
@@ -881,6 +881,73 @@
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2013-10-xx| xx mn  | pp. 143-xxx |
+|2013-10-30| 35 mn  | pp. 143-153 |
 
 ## 8. The Hydraulic Organ (2)
+
+- this chapter: calculation and experiment
+- author built full-scale hydraulic organ
+
+### Some theoretical considerations
+
+- principle: based on compressibility of air
+    - Strato of Lampsacus synthesized ideas of Democritus and Aristotle
+    - Philo also mentions this
+    - Archimedes
+- Ktsesibios compressor: supply air at constant pressure
+- just a cistern w/ water
+    - P = SH
+    - pr = H
+- pressure inside of pnigeus full of air
+    - does not depend on shape of pnigeus, surface or shapes
+    - depends on diff in level of water
+- principle of Archimedes
+    - pressure equals volume displaced
+- what happens when pumps stop, and wind-chest comsumes air?
+    - water falls in cistern
+    - rises in pnigeus
+    - pressure decreases
+    - minimize pressure decrease
+        - cistern and pnigeus should be large enough
+        - cistern should be filled to neck of pnigeus
+
+### The hydraulis reconstructed
+
+- follow Vitruvius
+- manual: follow Hero #keyboard
+- appearance: Carthage terracotta
+- used simple tools, primitive materials
+- Vitruvius: "not a word is said on how the keys were articulated, how they were joined to the sliders, or what was the
+  shape of the spring" #keyboard
+- followed Aquincum organ #keybaord
+- some details of the reconstruction
+    - […]
+    - manual #keyboard
+        - 15 "angle brackets", 10 x 8.5 x 2.5 cm
+        - pivot at angle
+        - face the sliders
+        - leather strips to pull sliders
+        - springs at back of sliders
+    - 3 sets of pipes
+    - semitones
+    - trebles to the right, like on most illustrations
+    - pumps can be run by 10-12 yo kids
+    - 1 pump ok for 1 rank of pipes / 7-8 degrees compass
+    - sound fairly steady but blowers must adjust rate on demand
+    - 3 sets together -> unpleasant vibrato
+    - "The manipulation of the keyboard is relatively smooth, and allows for some rapid passages. It is as easy as
+      playing a classical organ without the Barker action, the only inconvenience being the spacing of the keys, for the
+      keys must lie directly beneath the corresponding pipe." #keyboard
+    - spacing of keys: 7 cm #keyboard
+    - not enough water -> gurgling noise
+    - very loud
+    - difficulties: pumps, air tightness, leather, humidity
+
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-10-xx| xx mn  | pp. 154-xxx |
+
+## 9. The Graeco-Roman Organ: a Synthesis
+
