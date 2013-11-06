@@ -947,7 +947,92 @@
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2013-10-xx| xx mn  | pp. 154-xxx |
+|2013-11-05| 40 mn  | pp. 154-161 |
 
 ## 9. The Graeco-Roman Organ: a Synthesis
+
+- Most existing evidence points toThe hydraulic organ
+- Dibello's organ is elected
+Hypothesis
+    "Hydraulic organ virtually disappeared with the fall of the Roman Empire in the west"
+    Nobody in the east Interested in documenting the pneumatic organ
+    Bellows organIn a wide range of sizes
+    Hydraulic organ seems to have very littleIn proportions
+
+### The hydraulic organ
+
+- 180 to 2 m in height, rarely more or less
+- from 1 m to 1.2 m across
+- probably more than 200 kg
+- base made of solid wood, sometimes rectangular and generally hexagonal, 10 to 20 cm
+- gives cistern a solid base
+- cistern
+    - made of brass
+    - prism with a hexagonal base
+    - can be rectangular, rarely cylindrical
+    - decorated with motifs
+    - decorations probably applied to a wooden casing enclosing it
+    - might be possible to dispense with the casing in some cases
+    - deeper then it is wide, from 0.8 m to 1 m deep, diameter 0.6 m to 0.8 m, capacity around 100 liters
+- pumps
+    - always 2 represented
+    - 20 cm x 45 cm, up to 10 l of air
+    - leather and oil to prevent leaks
+    - piston rod made of iron, rarely shown
+- air ducts
+    - above or underneath the cylinders
+    - we don't know much about the outlets valves
+- pnigeus
+    - hemispherical, or round funnel
+    - probably lead or lead alloy, so that it doesn't rust
+    - probably fixed the bottom of the sister
+- arcula and stopcocks
+- wind-chest
+    - wide, flat box lying on top of the cistern and supporting the pipes
+    - about 1 m to 1.2 m in length, 8 to 15 cm in depth
+    - decorated front panel
+    - case made of strong wood nailed together, probably glue to help prevent leaks
+- manual #keyboard
+    - virtually never appeared in the iconography
+    - can be seen under Rusticus instrument
+    - oblong shape
+    - 158: "Aspect very similar to that of a modern instruments without its black keys"
+    - also visible in the Carthaginian lamp, "with 18 oblong keys laid out in line with their respective pipes"
+    - "The row of keys lies some 12 cm higher than the foot of the pipes; and if this is an accurate reproduction - as
+      seems to be the case - then the angled keys have their horizontal leg pointing upwards. Thus the finger playing the
+      note pushes the slider by pressing on it, and the spring brings it back; this procedure coincides with Vitruvius's
+      description […]; and Hero indicates a similar device."
+    - manual was high so that the organist could see the spectacle
+    - metal used in making the plinthides, brass rods, oiled
+    - keys were either of metal or wood, if latter reinforced with bronze strips
+    - initially pulled back by horn spatulas, later by steel springs, or bronze
+    - "Manual was played with the fingers"
+    - "this called for real virtuosity: […] 'nimble fingers' […] 'straying' […] 'Masterly fingers' […] sliders
+      'Continuously in motion'"
+- pipes
+    from 7 to 18 in each set
+    - front row of pipes all in equal diameter
+    - compass not to have exceeded a 12th
+    - usually from 5th to octave
+    - this applies to flue pipes, but reed pipes and stopped pipes remain outside of the scope
+    - interval somewhere near the semitone, sometimes smaller maybe
+    - variable number of stops, probably not more than 3 or 4
+    - friction would have made made it harder to have longer sliders
+    - we don't know how they were made or tuned
+    - may have been rolled and soldered
+    - in most cases, treble pipes to the right
+    - author convinced that this goes back to the very origins of the organ, but is arbitrary
+    - we don't know exactly how the pipes were held in place on the tabula summa
+- timbres
+    - 2 main categories of timbre
+    - noisy reed pipes (probably mainly those in the amphitheater)
+    - sweet flue pipes
+
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-11-xx| xx mn  | pp. 161-xxx |
+
+### The bellows organ
 
