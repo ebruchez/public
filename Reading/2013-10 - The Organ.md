@@ -1032,7 +1032,90 @@ Hypothesis
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2013-11-xx| xx mn  | pp. 161-xxx |
+|2013-11-06| 35 mn  | pp. 161-172 |
 
 ### The bellows organ
+
+- mentioned in the second century BCE
+- probably existed before that
+- ws probably a small instrument
+- bellows known for a very long time (Homeric times)
+- author belief "that pneumatic organ can only have begun to present a serious threat to the hydraulis when some unknown
+  inventor devised the regulating bellows"
+- regulator already known in the time of Augustus
+- bellows simplify the system because they removed the need for water
+- instrument also became lighter
+- bellows organ were still described as "hydraulic organs "up to the Middle Ages, probably just as habit
+- Byzantines only used the bellows organ
+
+### The organ as a solo and orchestral instrument
+
+- organ is essentially a solo instrument
+- on occasion appears with other instruments or to accompany singing
+- "gladiatorial fight without music was unthinkable"
+- there was a precedent of using music and instruments for executions
+
+### The organists
+
+- professional organist was able performer
+- "specialized manual technique in order to operate the keyboard" #keyboard
+- required practice
+- was probably tempted to add accompaniment to the melody, like double aulos
+- played in a standing position propped by a small stool
+- raised manual allowed following the course of event over the top of the pipes
+- blowers are usually 2
+- pumping bellows with the feet at least starting the first half of the fifth century
+- might have happened earlier
+- first organist was a woman, Ktesibios's wife
+- "It appears that women was particularly ready to devote themselves to studying the organ"
+
+# Part Two: The Organ in the Middle Ages
+
+## 10. The organ in the Eastern empire
+
+### The historical background
+
+- beginning of 4th century, Roman Empire moves to the east with Constantine
+- by the end of 5th century the Eastern Roman Empire had already assumed own characteristics
+- music was important thing in Constantinople
+- neglect of sciences, favor literary, oratorical arts and theology
+- "Physics, chemistry, and applied mechanics appear to have been consistently disregarded."
+- technique of organ building remained static
+- however, service to history by copying, translating, and commenting upon lots of works from antiquity
+
+### The Byzantine organ
+
+- principal Byzantine writers on music are almost exclusively concerned with musical theory
+- "It is to Constantinople that the modern world owes the survival and development the organ"
+- disappeared in Western Europe, completely forgotten by the 8th century
+- continues to be played in the East and remained popular
+- secrets of its construction made their way back to the West long before the destruction of the Byzantine Empire
+- instrument was part of the imperial pomp
+- doesn't look like the organ found its way into the church
+- 171: "the clergy, influenced by the Fathers, remained stubbornly opposed to all instrumental music. Only vocal music
+  was tolerated in divine worship."
+- hydraulis disappeared, only bellows organs
+- in general or organs were bellows organs
+- External aspect described by Harun ben-Jahja, 867
+    - "al-urgana"
+    - 60 Copper pipes, Each slightly taller than it's neighbor
+    - bellows are inserted
+    - 2 men apply to pumping
+    - organists makes the pipes sing
+- analysis
+    - instruments can be moved
+    - bellows are detachable, make it easier to move
+    - bellows "primed" first, which seems to imply that there is a regulator
+- reference by Al-Mas'udi (10th century)
+    - urghanun
+    - leather bellows
+    - iron pipes
+
+### The ceremonial use of the organ
+
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-11-xx| xx mn  | pp. 173-xxx |
 
