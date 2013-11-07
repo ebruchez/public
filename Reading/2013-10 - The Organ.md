@@ -20,7 +20,7 @@
     - … skipping other works …
 - reconstitutions
 - definitions
-    - "organum" means intrument (tool)
+    - "organum" means instrument (tool)
     - terms are confusing
     - historical misconceptions
     - examples: Old Testament; St. Augustine got it; funny illumination of musician hanging an organ up a tree
@@ -373,7 +373,7 @@
     - had less impact on the public
 - media: bas-relief on sarcophagi, funeral steles, ivory; statuettes; mosaics; gem-stones, medallions
 - pumps, levers, blowers often left out
-- author convinced that in some cases the organist used feets to pump the air
+- author convinced that in some cases the organist used feet to pump the air
 - archaeological relics: small organs of Pompeii, pneumatic organ of Aquincum
 - we know very little about the manual, since it is nearly always out of sight in iconography #keyboard
 
@@ -894,7 +894,7 @@
     - Strato of Lampsacus synthesized ideas of Democritus and Aristotle
     - Philo also mentions this
     - Archimedes
-- Ktsesibios compressor: supply air at constant pressure
+- Ktesibios compressor: supply air at constant pressure
 - just a cistern w/ water
     - P = SH
     - pr = H
@@ -903,7 +903,7 @@
     - depends on diff in level of water
 - principle of Archimedes
     - pressure equals volume displaced
-- what happens when pumps stop, and wind-chest comsumes air?
+- what happens when pumps stop, and wind-chest consumes air?
     - water falls in cistern
     - rises in pnigeus
     - pressure decreases
