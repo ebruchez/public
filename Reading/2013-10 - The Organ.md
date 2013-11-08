@@ -1096,9 +1096,9 @@ Hypothesis
   was tolerated in divine worship."
 - hydraulis disappeared, only bellows organs
 - in general or organs were bellows organs
-- External aspect described by Harun ben-Jahja, 867
+- external aspect described by Harun ben-Jahja, 867
     - "al-urgana"
-    - 60 Copper pipes, Each slightly taller than it's neighbor
+    - 60 copper pipes, each slightly taller than it's neighbor
     - bellows are inserted
     - 2 men apply to pumping
     - organists makes the pipes sing
@@ -1111,11 +1111,80 @@ Hypothesis
     - leather bellows
     - iron pipes
 
-### The ceremonial use of the organ
-
 ---
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2013-11-xx| xx mn  | pp. 173-xxx |
+|2013-11-07| 35 mn  | pp. 173-184 |
+
+### The ceremonial use of the organ
+
+- emperor-historian Constantine Porphyrogenitus (912-959) DeThat Ceremoniis
+    - at Hagia Sophia
+    - organists are to the left and right of the door
+    - organ playing while the crowd is singing
+    - indication that 2 organs were playing together
+    - even indication that 3 instruments playing together
+    - protocol dictates that organist must play short interludes at given moments
+    - organs also carried to the Hippodrome
+    - emperor's personal property was golden organs heard only on special occasions
+    - Slavs to pump at the Hippodrome
+    - organ also heard in other occasions in the streets of the capital
+    - misconception that hydraulic organ was played the baths (poem by Leo Magister)
+
+### Organs at the palace: the golden tree
+
+- emperor's palace had organs and automata
+- 2 great golden organs
+- 2 silver organs of the two factions
+- we can't know if it's the same organs that were taken out
+- Emperor Theophilius (829-842) was passionately devoted to the organ
+- built sumptuous golden organs for the palace
+- "Music that is serene and full of charm"
+- also constructed a golden pneumatic musical tree
+- all destroyed by Theophilus's son Michael III, melted the organs into coins
+- to be rebuilt later, Gilded bronze (seen in 931)
+
+### Organists
+
+- nothing known of Byzantine organists
+- iconography: Obelisk of Theodosius
+    - organists of the two factions
+    - blowers are not shown
+    - stabilizing bellows are visible, children as weight
+
+### Appreciation of organ music
+
+- we can conclude that organ music must have been very much appreciated
+- texts report delight, therapeutic effects, or to prevent soldiers from falling asleep
+- likely that there were two types of music
+    - ceremonial and grandiose, w/ read pipes
+    - more intimate style w/ flue pipes
+- but mainly the purpose of the Byzantine courts was to "enhance the sacred majesty of the imperial palace"
+- nothing known about tessitura of the Eastern organ
+
+## 11. The organ in the Arab world
+
+### The historical background
+
+- evolution of organ in Islamic world of the 8th, 9th, and 10th century, is unclear
+- probably more studying from a technical point of view, less for pomp
+- closing years of Umayyad dynasty (660-750)
+    - Muslim empire had whitest territorial limits
+    - productivity arts and architecture
+    - but little progress and sciences
+- Abbasids (750-1258)
+    - Empire no longer united
+    - but most splendid period
+    - 2nd 1/2 of 8th century and 1st 1/2 of 9th
+    - court of Baghdad
+    - literature, the arts, and the sciences were cultivated
+    - spirit of research and discovery
+    - state encouraged study
+    - al Ma'mun founded "House of science" in Baghdad
+    - advances in astronomy, chemistry, medicine, mathematics
+    - translations
+    - also curiosity about music
+
+### The organ presented to Shih Tsu
 
