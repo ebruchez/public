@@ -1186,5 +1186,28 @@ Hypothesis
     - translations
     - also curiosity about music
 
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-11-12| 15 mn  | pp. 185-190 |
+
 ### The organ presented to Shih Tsu
 
+- Avicenna (10th century) knew of the organ
+- not many mentions by Arab writers, and they seem to be mostly by people haven't seen the instrument
+- in the 12th century, organs were manufactured in Damascus
+- 14th century Chinese document mentions that between 1260 and 1264, organ was sent to Emperor Shih Tsu [Kublai] By the
+  "Muslim kingdom"
+    - 90 pipes Of purple bamboo
+    - 15 ranks times 6
+    - about 5 ft high, 3 ft wide
+    - it appears that Chinese retuned the instrument to their taste
+    - richly decorated
+    - unclear how it was operated
+
+### Muristus and pseudo-Jerome
+
+- hybrid hydraulic organ Described by one Muristus
+- unclear when he lived, if at all; first references mid-9th century
+-
