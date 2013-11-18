@@ -1210,4 +1210,47 @@ Hypothesis
 
 - hybrid hydraulic organ Described by one Muristus
 - unclear when he lived, if at all; first references mid-9th century
+
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-11-16| 35 mn  | pp. 191-204 |
+
+- some theories on Muristus
+- adapted from earlier works, revised, corrected
+- probably from Baghdad
+- 2 instruments, not organs in modern sense
+    - 1 activated by breath of 4 men, 12 pipes
+        - precise description w/ 3 animal skins
+        - similarities to organ, but very different
+    - 2 type of syren
+        - "heard 60 miles"
+        - "Great Organ
+        - uses water like hydraulic organ
+        - "pnigeus" aboug 6.5 m in height!
+        - "the men who blow should moreover have their ears stopped with cotton covered with wax, so they do not swoon
+           or lose their hearing"
+        - one supposedly built for a "King of the Inner Franks"
+- other text mentions organ make of 2 elephant hides sewn together, 12 bronze pipes
+
+### Musical automata
+
+- following principles of Ktesibios, Philo, Hero
+- water-powered "flute"
+- possibly contrived by Archimedes
+- musical tree in Caliph Al-Muqtadir's Baghdad palace (917 CE)
+- disadvantage: air stops once tank is full
+- more advanced automata
+    - 2 reservoirs, filling and emptying alternatively w/ valves
+    - rotating cogs to open/close holes on flute
+- summary
+    - organ did not evolve much in Damascus / Baghdad
+    - evolved towards automata
+    - real tradition of organ preserved in Syria
+    - Byzantium organ tradition was lost: courts / palaces haven't used the organ since
+    - organ will find way to churches of the West, and mostly disappear from secular use
+
+## 12. The organ in Western Europe from the eighth to the tenth centuries
+
 -
