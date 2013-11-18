@@ -43,6 +43,10 @@ What's the most important part of this world view? The "theory of knowledge" par
 Opinions on current hot topics:
 
 - education: good quality free education is a key for a stable society (pay and train teachers well)
+- financial industry ("Wall Street")
+    - mostly parasitic
+    - must be regulated and "boring"
+    - See [Wall Street Isn’t Worth It](http://jacobinmag.com/2013/11/wall-street-isnt-worth-it/)
 - health care: universal, single-payer or Swiss model
 - gay marriage: should be legal
 - abortion: should be legal, like [Swiss model](http://en.wikipedia.org/wiki/Abortion_in_Switzerland)
