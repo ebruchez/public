@@ -1251,6 +1251,66 @@ Hypothesis
     - Byzantium organ tradition was lost: courts / palaces haven't used the organ since
     - organ will find way to churches of the West, and mostly disappear from secular use
 
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-11-18| 30 mn  | pp. 205-210 |
+
 ## 12. The organ in Western Europe from the eighth to the tenth centuries
 
--
+- historically interesting to the musicologist
+- because of curious circumstances surrounding its reappearance in Western Europe
+- great invasions erased the Graeco-Roman hydraulis from memory
+- middle of 8th century, Byzantine organ arrived in France
+- instrument became known again
+- for 3 centuries after fall of Rome, no substitute for Rome's authority
+- intellectual life practically disappeared
+- little or no activity in the arts, with exception of music, in monasteries
+- religious vocal music blossomed (Gregorian chant)
+- Pope Gregory the first (6th century)
+- later Pepin, Charlemagne sent cantors to Rome to improve their art
+- schools of religious music were established in Gaul (Aix-la-Chapelle, Metz, St. Gall)
+- monks became interested in the making of instruments
+- when the organ appeared in Europe it was reproduced
+- 2 treatises on organ building are the work of ordinary monks
+- not many documents
+- word organum is ambiguous
+
+### The return of the organ
+
+- beginning of the Carolingian era
+- dramatic reentry into Western Europe
+- "Came from Constantinople as a gift from the Emperor Constantine Copronymus to Pepin the Short, king of the Franks"
+ - gift was for political design
+     - Pepin king in 751
+     - pope needed help from the Franks Because of Lombardy's threat
+     - Rome was menaced
+     - Pope Stephen II had to turn to the Franks
+     - Pepin delivered Rome and turned Lombardy to the pope
+     - Emperor was unable to respond so used diplomatic maneuvers
+     - so in 757 the organ arrived
+ - impressed contemporary observers
+ - Frankish chronicles of the time reports this as a highlights of the year 757
+ - from chronicle: "an instrument never before seen in France"
+ - memory of the Gallo-Roman organ had been lost
+ - no knowledge of the instrument itself
+    - presumably was a Bellows organ made by Byzantine craftsmen
+    - was well received
+- text from St. Gall mentions an embassy from Constantinople in 812
+    - describes instrument w/ cisterns and bellows of bull hide and bronze pipes
+    - describes the sound of the instruments, varied from thunder to lyre to bells
+    - but no other trace of this event, and it is likely a confusion
+    - probably describes Pepin's organ
+    - interesting though because it describes the sound of the instrument
+    - the organ was for the palace, not for the church, exactly as in Byzantium
+
+### Georgius the organ-builder
+
+- 50 years later, second event
+
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-11-xx| xx mn  | pp. 211-xxx|
