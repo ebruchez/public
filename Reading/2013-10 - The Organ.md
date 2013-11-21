@@ -1197,7 +1197,7 @@ Hypothesis
 - Avicenna (10th century) knew of the organ
 - not many mentions by Arab writers, and they seem to be mostly by people haven't seen the instrument
 - in the 12th century, organs were manufactured in Damascus
-- 14th century Chinese document mentions that between 1260 and 1264, organ was sent to Emperor Shih Tsu [Kublai] By the
+- 14th century Chinese document mentions that between 1260 and 1264, organ was sent to Emperor Shih Tsu [Kublai, Yuán Shìzǔ] By the
   "Muslim kingdom"
     - 90 pipes Of purple bamboo
     - 15 ranks times 6
@@ -1305,12 +1305,48 @@ Hypothesis
     - interesting though because it describes the sound of the instrument
     - the organ was for the palace, not for the church, exactly as in Byzantium
 
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-11-20| 25 mn  | pp. 211-217 |
+
 ### Georgius the organ-builder
 
-- 50 years later, second event
+- 50 years later, second event marking the renaissance of the organ in the west
+- arrival of the first organ builder at the court of Charlemagne's son
+- likely that the organ of Pepin was still remembered
+- the organ builder was immediately supplied with materials, workmen and funds
+- Eginhard
+    - "Annals"
+    - "Translation of the Holy Martyrs Marcellinus and Peter"
+    - priest of Venice, Georgius
+    - "consummate skill"
+- life of Louis the Pious
+    - emperor received him joyfully
+    -  was publicly thanked
+- in 826 Louis the Pious was 48
+- likely that Gregorius learned in Constantinople
+- unclear if emperor summoned him or if he came on his own
+- "we know that the Carolingians strove desperately to emulate the pomp of Constantinople"
+    - poem by Ermold le Noir mentions that the organ was the last thing the Franks didn't have over Constantinople
+      (hyperbole)
+ - Walahfrid Strabo
+    - organ played outside of the building (so probably not in the chapel)
+
+### "Organum hydraulcum" in medieval texts
+
+- "organum hydraulcum" must not mislead: no more hydraulis by 9th century
+- author: Georgius built pneumatic organ
+- there are references to the hydraulic organ, but they are "literary relics"
+- some clearly misinformed references to how hydraulic organ worked
 
 ---
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2013-11-xx| xx mn  | pp. 211-xxx|
+|2013-11-xx| xx mn  | pp. 218-xxx |
+
+### The Church's attitude to the organ
+
+- 
