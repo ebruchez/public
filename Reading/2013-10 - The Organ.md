@@ -1345,8 +1345,37 @@ Hypothesis
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2013-11-xx| xx mn  | pp. 218-xxx |
+|2013-11-26| 22 mn  | pp. 218-222 |
 
 ### The Church's attitude to the organ
 
-- 
+- Georgius
+    - 1st organ-builder in West for 5 centuries
+    - passed knowledge to pupils who spread it
+- Pepin and Louis the Pious organs were primarily secular
+- but from here association w/ church
+- hypothesis: only monks able to make and tune pipes (requires education)
+- Georgius was priest, his pupils probably monks
+- Church fathers: instrumental music is suspect
+- Georgius's influence probably changed that
+- organ progressively was tolerated, and then became in common use
+- Baldric, Bishop of Dol, letter (early 12th century)
+    - heard organ in a church
+    - mentions, and condemns, jealousy from churches that don't have one
+    - compares humans to organ pipes (should sound together)
+    - thinks organs are good thing
+    - Abbey of Fécamp had permanent organ in church
+- St. Aelred, Abbot of Riévaulx in Yorkshire (1166)
+    - condemns the organ
+    - spectacle, pleasure
+    - mentions noisy bellows
+    - bells (cymbalum)
+
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-11-xx| xx mn  | pp. 222-xxx |
+
+### The organ in the ninth and tenth centuries
+
