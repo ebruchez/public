@@ -2,13 +2,14 @@
 
 ## Mine
 
+- 2013-09-26: @ebruchez: "In 10 years, glasses with features identical to 2013 Google Glass (or better) will be indistinguishable from regular prescription eye glasses (except if social or legal requirements impose some identifying aspects)"
+	- The main idea is that the technology for this will be there and that products will be on the market with that technology.
+
 - TODO
 
 ## Other people
 
 - 2013-12-03: @avernet: "Amazon Prime Air won't be usable in 5 years at Thomas's place (for technological or cost reasons, including but not limited to FAA requirements or high initial cost)."
-- 2013-09-26: @ebruchez: "In 10 years, glasses with features identical to 2013 Google Glass (or better) will be indistinguishable from regular prescription eye glasses (except if social or legal requirements impose some identifying aspects)"
-	- The main idea is that the technology for this will be there and that products will be on the market with that technology.
 - 2013-09-16: @avernet: "No 40x CPU perf improvement between iPhone 5S to 6 years after its release."
 	- 2007-06-29: Original iPhone release.
 	- 2013-09-20: iPhone 5S release (just over 6 years later).
