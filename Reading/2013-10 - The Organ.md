@@ -1375,7 +1375,30 @@ Hypothesis
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2013-11-xx| xx mn  | pp. 222-xxx |
+|2013-12-03| 15 mn  | pp. 222-228 |
 
 ### The organ in the ninth and tenth centuries
+
+- last quarter of 9th century: pupils of Georgius spread over Europe
+- Pope John VIII (872-82) asks for an organ from Bavaria, for teaching music
+- monk Ademar (998-1034) says that Charlemagne asked for 2 Roman musicians to come to France to train singers for "vocal organum"
+- beginning of 10th century, appearance in monasteries and liturgical service
+- 915: "for the celebration of divine worship"
+- England
+    - possibility that organ in England in 2nd 1/2 of 7th century, but no evidence
+    - "monumental instrument" in 1st 1/2 of 10th century in Winchester
+- France
+    - organ building late 10th century
+    - Gerbert organ-builder, worked in Italy?
+    - could also have learned from the Arabs
+    - might have built a hydraulis
+- 953: organ might have been played in Cologne, but uncertain
+- 972: organ played in Spain
+- around that time treatises on measurement of organ pipes
+
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-12-xx| xx mn  | pp. 229-xxx |
 
