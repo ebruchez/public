@@ -1400,5 +1400,106 @@ Hypothesis
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2013-12-xx| xx mn  | pp. 229-xxx |
+|2013-12-07| 60 mn  | pp. 229-245 |
 
+## 13. Techniques in organ-building in the tenth and eleventh centuries
+
+- 2treaties on organ-building survived
+- more complete and precise and than treaties of hero and Vitruvius
+- describe a rather clumsy mechanism though
+- in some ways, construction is a step back from Vitruvius
+
+### The organ at Winchester
+
+- 966: literary description by monk Wulstan to bishop Elphege
+    - two levels of bellows, total 26!
+- powered by 70 strong men
+- 400 pipes, 10 ranks of 40
+- 40 sliders with holes
+- unclear whether there are springs, or if the organist had to push back the keys
+- 2 organists needed, sitting on same bench
+- 2 manuals #keyboard
+    - configuration also appear sin manuscripts and the Utrecht Psalter
+- letters inscribed on each key/slider (in text, referred to as "alphabet") #keyboard
+- organists were likely poorly trained
+- hypothesis
+    - each organist controls 20 keys
+    - 1 the bass notes, the other the treble
+    - would have required coordination
+    - 7 notes in the scale, plus "lyric" semitones
+    - with all semitones (unlikely), tessitura would have been > 3 octaves (not impossible)
+- also refers to the fact that the instrument is very loud
+
+### The treatises of Theolphilus and the anonymous of Berne
+
+- Wulstan's poem is detailed, but not a treatise
+- 2 treatises are addressed to craftsmen
+- Theophilus: nothing known, but probably first half of the 11th century
+    - purpose is to instruct how to make about how to make everything lacking in a church
+- anonymous
+    - kept in Bern (Cod. B 56)
+    - not Swiss in origin
+    - probably 11th-century
+
+### Making the pipes
+
+- Theophilus
+    - describes tools and processes
+    - copper, tin as solder
+
+anonynous
+    - all pipes have same diameter
+- Aribo
+- conclusions
+    - "pure" copper (unclear)
+    - thinness is surprising, maybe for economical reasons
+    - either conical or cylindrical w/ conical foot (anonymous)
+    - same diameter
+    - tallest pipe: 4 ft
+    - foot: 7cm
+    - lower orifice: 1 cm
+    - upper orifice: 2.5-3 cm
+    - soldering, either rolled over or juxtaposed and joined w/ metal strip
+    - mouthpieces w/ lips, as in Roman times
+    - all lips on same line
+
+### The wind-chest and manual #keyboard
+
+- Theophilus
+    - wood or copper
+    - 7 or 8 sliders #keyboard
+    - sliders pushed: holes blocked
+    - slider pulled: holes open
+    - pipes placed in holes
+    - sliders have handles marked with letters
+    - hole in each slider for nail, which prevents the slider from coming out
+    - if copper, also sliders, covered with clay
+    - lead poured over
+- anonymous
+    - hollow box, air duct coming down, fed on 4 sides with double bellows
+    - using molten lead poured in too
+    - trebles to the right of the organist
+    - 5, 6, or "what you will" sliders #keyboard
+    - horn spatula as spring
+    - wooden key reinforced w/ iron spike, on iron rod
+    - key depressed -> slider pushed
+    - key released -> slider brought back
+    - wooden keys marked with letters "twice over", A-G|A-H
+- conclusions
+    - no draw stops, maybe because of air leaks issues
+    - stops reappeared in 14th century
+    - Theophilus's sliders like Ktesibios's
+    - copper one is cast in clay mould, molten lead makes relatively air-tight covering
+    - anonymous: copper sheet opposite air duct to make pressure more even
+    - keys like Hero's
+    - 15 notes, 2 octaves
+
+---
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2013-12-08| xx mn  | pp. 245-xxx |
+
+### The bellows and collector
+
+- 
