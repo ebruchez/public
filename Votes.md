@@ -2,6 +2,22 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
+## [Votation populaire du 9 février 2014](https://www.ch.ch/fr/votation-federale-09-02-2014/) (results)
+
+1. Arrêté fédéral portant règlement du financement et de l'aménagement de l'infrastructure ferroviaire (FAIF) YES [EXPECTED: YES, RESULT: ]
+    - Public transportation is very important in Switzerland and does deserve support.
+    - Croweded trains are a problem.
+    - I place some faith in the federal council that the new financing scheme will be good.
+2. Initiative populaire "Financer l'avortement est une affaire privée" NO [EXPECTED: NO, RESULT: ]
+    - I agree with the federal council that abortion laws in Switzerland are pretty good.
+    - According to the federal council, the Swiss people agreed that insurance should cover costs in 2002.
+    - As usual, the "arguments" of the proponents are unconvincing.
+    - The proponents do sound religiously motivated.
+3. Initiative populaire "Contre l'immigration de masse" NO [EXPECTED: NO, RESULT: ]
+    - I reckon that immigration is not without problems in Switzerland.
+    - However, the consequence of renouncing the agreements with the rest of Europe would be terrible.
+    - In short, this initiative is not an acceptable solution for immigration-related issues in Switzerland.
+
 ## [Votation populaire du 24 novembre 2013](http://www.bk.admin.ch/themen/pore/va/20131124/index.html?lang=fr) ([results](http://www.admin.ch/ch/f/pore/va/20131124/index.html))
 
 1. Acceptez-vous l'initiative populaire "1:12 - Pour des salaires équitables"? NO [EXPECTED: NO, RESULT: NO 65.3%]
