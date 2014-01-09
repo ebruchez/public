@@ -6,7 +6,7 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 
 1. Arrêté fédéral portant règlement du financement et de l'aménagement de l'infrastructure ferroviaire (FAIF) YES [EXPECTED: YES, RESULT: ]
     - Public transportation is very important in Switzerland and does deserve support.
-    - Croweded trains are a problem.
+    - Crowded trains are a problem.
     - I place some faith in the federal council that the new financing scheme will be good.
 2. Initiative populaire "Financer l'avortement est une affaire privée" NO [EXPECTED: NO, RESULT: ]
     - I agree with the federal council that abortion laws in Switzerland are pretty good.
