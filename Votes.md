@@ -17,6 +17,7 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
     - I reckon that immigration is not without problems in Switzerland.
     - However, the consequence of renouncing the agreements with the rest of Europe would be terrible.
     - In short, this initiative is not an acceptable solution for immigration-related issues in Switzerland.
+    - I don't think it's going to pass, but I fear that it might, like some right-wing initiatives in the past.
 
 ## [Votation populaire du 24 novembre 2013](http://www.bk.admin.ch/themen/pore/va/20131124/index.html?lang=fr) ([results](http://www.admin.ch/ch/f/pore/va/20131124/index.html))
 
