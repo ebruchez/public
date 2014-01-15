@@ -1498,8 +1498,61 @@ anonynous
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2013-12-08| xx mn  | pp. 245-xxx |
+|2014-01-15| 30 mn  | pp. 245-260 |
 
 ### The bellows and collector
 
-- 
+- bellows not described, taken for granted
+- ram skins
+- iron tube
+- wooden planks
+- number is variable, 2, 4, even 26
+- bellows could be noisy and distract from the music
+- different from forge bellows to prevent air return
+    - this is well described by Theophilus
+- collector (conflatorium) leading to the wind-chest
+
+### Siting the organ
+
+- advice to position the bellows on the other side of a wall
+- archway in the wall
+- curtains to protect the instrument from dust
+    - dust is the enemy of the mechanism
+- not a proper organ loft
+    - only the wind-chest and pipes were visible
+    - the organist and blowers were hidden
+    - very different presentation from the Graeco-Roman hydraulic organ
+
+### Measuring and tuning the pipes
+
+- 10th-century, even 9th-century treaties on pipe measurement
+- origin of the treatises is uncertain
+- principles probably passed from the Carolingian, Byzantine and Arab builders
+- one way is to cut them according to the theoretical divisions Of the monochord
+- Odo, from Touraine, Abbot of Cluny (927-942)
+    - method of cutting the pipes to get the various notes
+    - not accurate for pipes with lips
+- very early that has been noted, and formulaes have been devised to fix it
+    - manuscripts in Latin
+    - Aribo (2nd 1/2 of 11th century): quite precise numbers
+- in 1860, Cavaillé-Coll produced a formula
+    - but in the 10th century already they had figured out something very similar
+- Notker Labeo, St. Gall monk (d. 1022)
+    - treaties on measurements
+    - Old High German
+    - first pipe approximately 90 cm
+- Anonymous of Bern
+    - diatonic genus
+    - starts with shortest pipe, and adds 1/8 each
+    - 5th pipe is a half as high again as the first, etc.
+    - second rank is an octave higher
+    - manual has seven keys
+
+### Scales and tessitura
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2014-01-xx| xx mn  | pp. 261-xxx |
+
+- diatonic scales
+-
