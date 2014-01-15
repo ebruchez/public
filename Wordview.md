@@ -80,6 +80,7 @@ Opinions on current hot topics:
 - religion
 	- must be kept absolutely separate from the state
 	- no prayers in schools or government
+	- it is nonsensical to talk about a young child's religion (see Richard Dawkins's [Labelled from birth](https://twitter.com/RichardDawkins/status/422664936666312704))
 - the homeless: public institution must be available to support them
 - it doesn't matter very much what the (US) founders thought
 	- it can be useful to learn why they made such and such decision
