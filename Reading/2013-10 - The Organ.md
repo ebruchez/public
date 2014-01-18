@@ -1552,7 +1552,68 @@ anonynous
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2014-01-xx| xx mn  | pp. 261-xxx |
+|2014-01-17| 30 mn  | pp. 261-276 |
 
-- diatonic scales
--
+- diatonic scales were played, given the tuning of pipes
+- B-flat on each octave is standard
+- with 2 octaves, the final C is added
+- added also B natural and B-flat
+- beginning 13th century, sometimes manuals with 3 or 4 octaves
+    - however this had critics: did not match human voice, and very high notes were shrill
+    - still 3 octaves usual in the 13th-century
+- not too much information about stops
+- Wulstan: 10 x 40, but exceptional
+- talk about three sets of pipes
+- Eberhard of Freising: octave plus double octave
+- fifths, and even fourths, were possible
+
+## 14. The organ in Western Europe from the eleventh to the thirteenth century
+
+### The organ in the 11th and 12th centuries
+
+- 2 treaties already discussed + handbooks on pipe measurements
+- + authors talk about how instruments were installed in churches
+- poem w/ syllables w/ letter corresponding to a key on a manual
+- "chansons de gestes" also mention organs
+- portative organs had also appeared in Europe
+    - probably known by the Byzantines, if not the Romans
+    - iconography shows them as early as the 10th-century
+    - e.g. 2 ranks of 7 pipes
+
+### The organ in the 13th century
+
+- organ essentially instrument of religious worship
+- also small portative organs for secular use
+- church organs began to multiply, St. Thomas Aquinas himself supporting that
+- positive instruments, halfway between the great church organs and the small portative organs
+    - moved on wagon
+    - 4 feet
+    - could be used in certain religious ceremonies
+- portative organs were accompanied by singing
+    - 2 bass pipes were much longer, maybe "bourdons", no associated keys
+- starting 12th-century, the Gothic style is introduced
+    - buildings are bigger, therefore instruments must also become bigger
+    - later in the 14th century we find the ingenious coupling device
+
+### Aspects of performance
+
+- if the instrument had a manual w/ springs, virtuosity possible
+- organs w/ sliders less so, but could have 2 organist play at the same time
+- on the positive, organist (monk) is always sitting down
+- organ could be played solo, but also with singers
+- sequences, tropes and hymns were accompanied
+
+### The cymbalum
+
+- organ also played in an ensemble with other instruments - viol, flute, syrinx, etc.
+- cymbalum was particularly popular, based on iconography
+- 7-8 bells, played with his 1-2 hammers
+- gave its name to the organ stop "cymbale", mix of fifths and octaves
+
+## 15. Some illustrations of the medieval organ
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2014-01-xx| xx mn  | pp. 277-xxx |
+
+- 
