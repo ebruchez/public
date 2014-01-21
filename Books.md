@@ -2,15 +2,19 @@
 
 I don't have much time to read so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
+## Books to read in 2014
+
+See [Books I plan to read in 2014](http://blog.bruchez.name/2014/01/books-i-plan-to-read-in-2014.html).
+
 ## Currently reading
 
-
+- 2014-01-xx: Arthur C. Clarke - 3001: Final Odyssey [reread]
 - 2013-10: Jean Perrot - The Organ from its invention in the Hellenistic period to the end of the Thirteenth Century
-- 2013-08-xx: Arthur C. Clarke - 2061: Odyssey Three [reread]
-
+- Antoine de Saint-Exupéry - Terre des Hommes
 
 ## Read
 
+- 2013-08-xx: Arthur C. Clarke - 2061: Odyssey Three [reread]
 - 2013-09-04: Stefan Zweig - La peur (Schachnovelle) [reread, audiobook]
 - 2013-08-29: Stefan Zweig - Le joueur d'échecs (Schachnovelle) [reread, audiobook]
 	- I first read this short book in high school in 1991 for German class (I probably read it in French!). I really liked it and developed interest in Zweig. In the years that followed I read several more of his books.
@@ -47,13 +51,14 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 - Mindfulness in plain English
 - Marco Polo (almost finished)
 - The Autumn of Italian Opera
-- The Selfish Gene
+- [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
 
 ## Books that might be interesting
 
 - Stephen King's "On Writing"
 - Friedrich Dürrenmatt’s novella “Traps”
 - John Stuart Mills [autobiography](http://www.gutenberg.org/ebooks/10378)
+- something by Henri Bergson
 
 ## Topics I would like to read about
 
