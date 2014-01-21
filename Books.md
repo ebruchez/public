@@ -6,6 +6,12 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 See [Books I plan to read in 2014](http://blog.bruchez.name/2014/01/books-i-plan-to-read-in-2014.html).
 
+- [The Great Chinese Revolution](http://www.amazon.com/The-Great-Chinese-Revolution-1800-1985/dp/006039076X)
+- [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
+- [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
+- [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
+- [Pietro Mascagni](http://www.amazon.com/Pietro-Mascagni-Cesare-Orselli/dp/8883024001)
+
 ## Currently reading
 
 - 2014-01-xx: Arthur C. Clarke - 3001: Final Odyssey [reread]
@@ -46,12 +52,10 @@ See [Books I plan to read in 2014](http://blog.bruchez.name/2014/01/books-i-plan
 ## Books I started which I need to finish
 
 - Mozart biography
-- [The Great Chinese Revolution](http://www.amazon.com/The-Great-Chinese-Revolution-1800-1985/dp/006039076X)
 - Firstborn (Clarke/Baxter)
 - Mindfulness in plain English
 - Marco Polo (almost finished)
 - The Autumn of Italian Opera
-- [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
 
 ## Books that might be interesting
 
