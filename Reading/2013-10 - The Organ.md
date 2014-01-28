@@ -1614,6 +1614,101 @@ anonynous
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2014-01-xx| xx mn  | pp. 277-xxx |
+|2014-01-xx| 10 mn  | pp. 277-277 |
 
-- 
+- up to end of 13th century, medieval organ illustrations
+    - primitive
+    - by anonymous monks
+    - illustrations of Psalms
+- but give rough idea
+    - portable, around player's neck or on knees
+    - positive, "portable" but much larger, on table or ground
+    - rarely, more permanent organ
+    - most frequent is portative
+- usually organ not alone on illustations
+    - w/ other instruments
+    - cymbalum, viol, flute, cornett, hurdy-gurdy
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2014-01-27| 35 mn  | pp. 278-283 |
+
+1. Utrecht psalter
+    - Carolingian era
+    - instrument has nothing in common with organs usually were presented in the 10th-13th centuries
+    - double hydraulic Oregon
+    - 2×5 pipes
+    - trebles to the right
+    - 2 organists
+    - no manual
+    - organist exhorting the blowers
+    - combines useful information with errors
+    - likely to be bad copy of older source
+    - Eadwin Psalter contains poor copy
+2. Stuttgart psalter
+    - 4 organs, poorly executed
+    - but dates to the beginning of the 10th century
+    - 2 small portatives with each 7 pipes
+    - 2 standing positives
+        - ~12 pipes with lips
+        - keys in the manual can be seen #keyboard
+        - similar to the upper part of the hydraulis
+        - primitive bellows like skin bags
+        - Byzantine influence
+3. The Pommersfelden Psalter
+    - pedestal organ w/ 13 pipes w/ lips,
+    - trebles to the right
+    - manual with six sliders, which must be pulled and pushed back #keyboard
+4. The Harding Bible
+    - better example of organ with sliders
+    - 11th or the beginning of the 12th century
+    - well done
+    - curious instrument
+    - enormous slanting air ducts
+    - 3 pairs of bellows each, suggests 12 bellows
+    - 2x8 conical pipes
+    - trebles to the left
+    - manual #keyboard
+        - manual is well drawn and 8 slider keys w/ sword hilt handles
+        - sliders appear to move a lot and to move vertically, but that seems unlikely and is probably an error on the part of the artist
+        - each key is marked as a letter: C, D, E, F, G, a, b, natural
+        - diatonic scale and with the added Synemmenon
+        - order of the letters contradicts the order of the pipes!
+5. The Cambridge manuscript
+    - 12th century
+    - 2 organ blowers, holding a bar and apparently hoisting by the arms
+    - 2x7 pipes in zigzag
+    - trebles to the right
+    - 7 keys, round ended #keyboard
+6. The Cividae del Fiuli Manuscript
+    - 1st 1/3d of 13th-century
+    - appears to be pulling and pushing keys #keyboard
+    - 11 pipes
+    - unclear whether trebles to the left or right
+    - organist appears to be outside of the room
+7. The Belvoir Castle Psalter
+    - 13th century
+    - ~2×15 conical pipes
+    - trebles to the right
+    - 1 extra tall pipe
+    - manual #keyboard
+        - broad keys underneath the pipes
+        - organist playing with both hands, pPossibly with separate fingers
+8. The Munich Manuscript
+    - 13th century
+    -  1 blower and 2 organists
+    - 3 air ducts to the right center and left
+        - probably led to a more balanced air supply
+    - 13 cylindrical pipes, probably 3 rows
+    - 4 round keys at the front of the wind chest
+        - 1 key is depressed
+        - probably return springs
+        - 2 more keys on the left of the wind chest operated by another organist
+        - identical keys
+
+|Date      | Time   | Read        |
+|----------|--------|-------------|
+|2014-01-xx| xx mn  | pp. 284-xxx |
+
+9.
+10.
