@@ -1710,5 +1710,79 @@ anonynous
 |----------|--------|-------------|
 |2014-01-xx| xx mn  | pp. 284-xxx |
 
-9.
-10.
+9. The Solomon Glossary
+    - 13th century
+    - small organ played by David
+    -  6 conical pipes
+    - manual #keyboard
+        - shown w/ only 2 keys
+        - 1 key is depressed
+10. Manuscripts No. 1076 in the Bibliothèque Nationale
+    - 2nd half of the 13th century
+    - 2x7 pipes
+    - 1 larger pipe
+    - manual appears to have 7 keys, played with right hand
+11. Manuscripts No. 11560  in the Bibliothèque Nationale
+    - 13th century
+    - 2×10 conical pipes with lips
+    - 1st rank lower than 2nd one
+    -  keys w/ round ends
+- That are more illustrations of smaller portative organs from 12th century onwards
+    - 4 apparently permanently installed organs
+    - 7 positives
+    - 15 portatives
+
+## 16. The Organ and Organum
+
+- cymbalum influenced organ w/ an organ stop
+- organ itself lent his name to a particular style of vocal writing
+- similarity between the new technique and music played on the organ
+- music have been so far essentially monodic
+- from the 7th century onwards, diaphony vs. symphony
+    - 2 sounds are dissonant
+- not until 9th century first real attempt at polyphony
+- 2 innovations: the trope, and the organum
+- terms "organum" or "discant" or "diaphony" apply to vocal polyphony of two or more strands
+- 2 melodic lines
+- organum appears in this sense at the beginning of the 10th century
+- "vox principalis" and "vox organalis"
+- "The two strands are in consonants at the octave, the fifth or the fourth, with passing notes on the second and third"
+- demands skills, strict and logical rules
+- organum could be played on the organ
+- also attempt to imitate the sound of instruments
+- has been customary for long time to play 2 parts on the organ, like w/ the auletus
+- possible w/ manuals w/ springs
+- organs w/ 2 ranks of pipes that sounded fundamental + octave can be seen as a primitive form of organum
+- origin of 4th and 5th is controversial
+- modern organ stops still have a 5th
+- composition with 2 voices is sometimes called "duplum" or "purum"
+- 3 parts, triplum organum", then "quadruplum organum"
+- organum reached peak of its glory at the end of the 12th century and 13th
+    - school of Notre Dame in Paris, Léonin, Pérotin
+- Similar forms stemming from the organum: rondeau, motet, conductus, Later known as *Ars Antiqua*
+
+## 17. Conclusion
+
+- "the pipe organ, though a complicated and highly original machine, was conceived and constructed by one man"
+- invention was from engineer
+- inspired idea to replace the breath w/ artificial supply of air
+- also invented a system of distribution w/ drawers and a manual keyboard
+- prototype is described in detail in the Hero of Alexandria's book
+- wind chest w/ stops was familiar to Vitruvius, and in common use by the time of Augustus
+- improvements since then are secondary features
+    bellows, weights, larger wind chest, more notes and timbres, electrification
+- traveled from Egypt in a Greek milieu, to Constantinople, came back to the Frankish kingdom
+- 293: "The most striking feature of the organ's history is its remarkable deterioration in the earlier Middle Ages"
+    - goes back to pieces of wood glued together
+    - smaller instruments
+    - primitive manual w/ push/pull action
+    - probably explained by ignorance of the treatises of Hero and Vitruvius, but also the poverty of the age
+- what's remained constant is the admiration for the rich and rhythmic music of the pipe organ
+- manual keyboard to demand of the special fingering technique
+- 293: "The order of the pipes on the Winchest, bass pipes to the left and trebles to the right, has remained the same
+  since the first documents from Hellenistic times"
+- but instrument also helped stimulate new style of vocal writing, which rapidly led to polyphony
+- likely that true polyphony was played on the organ
+- this would mean that "the organ has been largely responsible for the development of polyphonic writing"
+
+---
