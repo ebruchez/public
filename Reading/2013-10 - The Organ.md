@@ -1708,7 +1708,7 @@ anonynous
 
 |Date      | Time   | Read        |
 |----------|--------|-------------|
-|2014-01-xx| xx mn  | pp. 284-xxx |
+|2014-01-28| 35 mn  | pp. 284-294 |
 
 9. The Solomon Glossary
     - 13th century
