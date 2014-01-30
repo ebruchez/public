@@ -1,4 +1,4 @@
-## The Problems of Philosophy [with Biographical Introduction] (Bertrand Russell)
+## The Problems of Philosophy (Bertrand Russell)
 
 Highlight on Page 7 | Loc. 166-67  | Added on Sunday, January 06, 2013, 09:42 AM
 
