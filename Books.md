@@ -12,14 +12,19 @@ See [Books I plan to read in 2014](http://blog.bruchez.name/2014/01/books-i-plan
 - [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
 - [Pietro Mascagni](http://www.amazon.com/Pietro-Mascagni-Cesare-Orselli/dp/8883024001)
 
+Other topics to consider for 2014:
+
+- book on parenting
+- book on economics
+
 ## Currently reading
 
 - 2014-01-xx: Arthur C. Clarke - 3001: Final Odyssey [reread]
-- 2013-10: Jean Perrot - The Organ from its invention in the Hellenistic period to the end of the Thirteenth Century
 - Antoine de Saint-Exupéry - Terre des Hommes
 
 ## Read
 
+- 2013-10 to 2014-01: Jean Perrot - The Organ from its invention in the Hellenistic period to the end of the Thirteenth Century
 - 2013-08-xx: Arthur C. Clarke - 2061: Odyssey Three [reread]
 - 2013-09-04: Stefan Zweig - La peur (Schachnovelle) [reread, audiobook]
 - 2013-08-29: Stefan Zweig - Le joueur d'échecs (Schachnovelle) [reread, audiobook]
@@ -49,7 +54,7 @@ See [Books I plan to read in 2014](http://blog.bruchez.name/2014/01/books-i-plan
 - 2010-04?: Jack Vance - Tales of the Dying Earth
 - 2010: Isaac Asimov - Foundation [reread]
 
-## Books I started which I need to finish
+## Books I started which I should finish
 
 - Mozart biography
 - Firstborn (Clarke/Baxter)
@@ -57,20 +62,20 @@ See [Books I plan to read in 2014](http://blog.bruchez.name/2014/01/books-i-plan
 - Marco Polo (almost finished)
 - The Autumn of Italian Opera
 
-## Books that might be interesting
+## Books and topics to consider for further reading
 
-- Stephen King's "On Writing"
-- Friedrich Dürrenmatt’s novella “Traps”
-- John Stuart Mills [autobiography](http://www.gutenberg.org/ebooks/10378)
-- something by Henri Bergson
+### Fundamental texts
 
-## Topics I would like to read about
+- [Adam Smith - The Wealth of Nations (1776)](http://www.gutenberg.org/ebooks/3300)
+- [Charle Darwin - On the Origin of Species (1859)](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
+- MORE
 
 ### History
 
 - Winston Churchill
 - USSR and its dissolution
 - Hitler
+- The Holocaust
 - Nixon
 - Vietnam war
 - Mao [maybe The Great Chinese Revolution is enough]
@@ -88,3 +93,10 @@ From "The Problems of Philosophy":
 - Berkeley: Three Dialogues between Hylas and Philonous.
 - Hume: Enquiry concerning Human Understanding.
 - Kant: Prolegomena to any Future Metaphysic.
+
+## Other books that might be interesting
+
+- Stephen King's "On Writing"
+- Friedrich Dürrenmatt’s novella “Traps”
+- John Stuart Mills [autobiography](http://www.gutenberg.org/ebooks/10378)
+- something by Henri Bergson
