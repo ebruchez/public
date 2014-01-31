@@ -1,4 +1,6 @@
-## TERRE DES HOMMES (Antoine de Saint-Exupéry)
+## Terre des hommes (Antoine de Saint-Exupéry)
+
+NOTE: Known in English as "Wind, Sand and Stars"
 
 Highlight Loc. 461-63  | Added on Tuesday, January 21, 2014, 10:14 PM
 
