@@ -2,9 +2,9 @@
 
 I don't have much time to read so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
-## Books to read in 2014
+## Books I plan to read in 2014
 
-See [Books I plan to read in 2014](http://blog.bruchez.name/2014/01/books-i-plan-to-read-in-2014.html).
+See also [the blog post](http://blog.bruchez.name/2014/01/books-i-plan-to-read-in-2014.html).
 
 - [The Great Chinese Revolution](http://www.amazon.com/The-Great-Chinese-Revolution-1800-1985/dp/006039076X)
 - [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
