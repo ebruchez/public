@@ -26,7 +26,7 @@
     - examples: Old Testament; St. Augustine got it; funny illumination of musician hanging an organ up a tree
     - what it is since 3rd century
         - one or more ranks of sounding pipes
-        - hey wind-chest to store air
+        - a wind-chest to store air
         - a mechanical blower, either a pump or a bellows
         - a keyboard to direct the air into the various pipes #keyboard
     - Instruments that are not "organs" per our definition
