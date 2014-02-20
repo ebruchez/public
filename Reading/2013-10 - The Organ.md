@@ -1293,7 +1293,7 @@ Hypothesis
  - impressed contemporary observers
  - Frankish chronicles of the time reports this as a highlights of the year 757
  - from chronicle: "an instrument never before seen in France"
- - memory of the Gallo-Roman organ had been lost
+ - memory of the Greco-Roman organ had been lost
  - no knowledge of the instrument itself
     - presumably was a Bellows organ made by Byzantine craftsmen
     - was well received
