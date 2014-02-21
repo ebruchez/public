@@ -6,16 +6,23 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 See also [the blog post](http://blog.bruchez.name/2014/01/books-i-plan-to-read-in-2014.html).
 
-- [The Great Chinese Revolution](http://www.amazon.com/The-Great-Chinese-Revolution-1800-1985/dp/006039076X)
-- [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
-- [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
-- [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
-- [Pietro Mascagni](http://www.amazon.com/Pietro-Mascagni-Cesare-Orselli/dp/8883024001)
+- History: [The Great Chinese Revolution](http://www.amazon.com/The-Great-Chinese-Revolution-1800-1985/dp/006039076X)
+    - *NOTE: I read about 200 out of 368 pages a few years back*
+- Science: [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
+- Philosophy: [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
+- Biography: [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
+    - *NOTE: Started in 2011.*
+- Music:
+    - [Pietro Mascagni](http://www.amazon.com/Pietro-Mascagni-Cesare-Orselli/dp/8883024001)
+    - or [The Autumn of Italian Opera](http://www.amazon.com/The-Autumn-Italian-Opera-Modernism/dp/1555536832)
+        - *NOTE: Started a few years back.*
+- Fantasy: [The Belgariad, Vol. 1](http://www.amazon.com/The-Belgariad-Vol-Books-1-3/dp/0345456327/)
 
-Other topics to consider for 2014:
+Other suggestions for 2014:
 
-- book on parenting
-- book on economics
+- Technology: [Functional Programming in Scala](http://www.manning.com/bjarnason/)
+- Parenting: [How to Talk So Kids Will Listen & Listen So Kids Will Talk](http://www.amazon.com/How-Talk-Kids-Will-Listen-ebook/dp/B005GG0MXI/)
+- Economics: ???
 
 ## Currently reading
 
@@ -54,13 +61,13 @@ Other topics to consider for 2014:
 - 2010-04?: Jack Vance - Tales of the Dying Earth
 - 2010: Isaac Asimov - Foundation [reread]
 
-## Books I started which I should finish
+## Books I started which I would like finish
 
-- Mozart biography
+- Mozart biography (interrupted in 2010)
+- Benjamin Franklin biography (started years ago)
 - Firstborn (Clarke/Baxter)
 - Mindfulness in plain English
 - Marco Polo (almost finished)
-- The Autumn of Italian Opera
 
 ## Books and topics to consider for further reading
 
@@ -68,7 +75,7 @@ Other topics to consider for 2014:
 
 - [Adam Smith - The Wealth of Nations (1776)](http://www.gutenberg.org/ebooks/3300)
 - [Charle Darwin - On the Origin of Species (1859)](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
-- MORE
+- ??
 
 ### History
 
