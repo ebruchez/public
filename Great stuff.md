@@ -13,7 +13,10 @@ I plan to collect here some "great stuff" to share, even though that can be very
 
 ## Music
 
-- *Largo* from *Winter*, from Vivaldi's *The Four Seasons* ([here is one interpreation](http://www.youtube.com/watch?v=FyLyyP5uZpo)). This short piece strikes me as amazingly beautiful. Part of it is that it leaves the solist some freedom to add ornaments.
+- *Largo* from *Winter*, from Vivaldi's *The Four Seasons* ([here is one interpreation](http://www.youtube.com/watch?v=FyLyyP5uZpo)).
+  This short piece strikes me as amazingly beautiful. Part of it is that it leaves the solist some freedom to add ornaments.
+- *Poeme*, op. 25, by Chausson (See around 4:24 [in this interpretation by David Oistrakh](http://www.youtube.com/watch?v=1OE1TmSvpF4)).
+  I particularly like Jascha Heifetz's interpretation.
 
 ## Wisdom
 
