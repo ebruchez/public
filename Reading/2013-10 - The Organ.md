@@ -1430,7 +1430,7 @@ Hypothesis
     - with all semitones (unlikely), tessitura would have been > 3 octaves (not impossible)
 - also refers to the fact that the instrument is very loud
 
-### The treatises of Theolphilus and the anonymous of Berne
+### The treatises of Theophilus and the anonymous of Berne
 
 - Wulstan's poem is detailed, but not a treatise
 - 2 treatises are addressed to craftsmen
