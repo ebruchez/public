@@ -1446,8 +1446,7 @@ Hypothesis
 - Theophilus
     - describes tools and processes
     - copper, tin as solder
-
-anonynous
+- anonynous
     - all pipes have same diameter
 - Aribo
 - conclusions
