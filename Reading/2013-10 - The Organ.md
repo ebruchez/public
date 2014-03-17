@@ -1404,7 +1404,7 @@ Hypothesis
 
 ## 13. Techniques in organ-building in the tenth and eleventh centuries
 
-- 2treaties on organ-building survived
+- 2 treaties on organ-building survived
 - more complete and precise and than treaties of hero and Vitruvius
 - describe a rather clumsy mechanism though
 - in some ways, construction is a step back from Vitruvius
