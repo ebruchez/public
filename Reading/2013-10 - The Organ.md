@@ -1778,7 +1778,7 @@ Hypothesis
     - probably explained by ignorance of the treatises of Hero and Vitruvius, but also the poverty of the age
 - what's remained constant is the admiration for the rich and rhythmic music of the pipe organ
 - manual keyboard to demand of the special fingering technique
-- 293: "The order of the pipes on the Winchest, bass pipes to the left and trebles to the right, has remained the same
+- 293: "The order of the pipes on the wind chest, bass pipes to the left and trebles to the right, has remained the same
   since the first documents from Hellenistic times"
 - but instrument also helped stimulate new style of vocal writing, which rapidly led to polyphony
 - likely that true polyphony was played on the organ
