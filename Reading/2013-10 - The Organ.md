@@ -1635,7 +1635,7 @@ Hypothesis
 1. Utrecht psalter
     - Carolingian era
     - instrument has nothing in common with organs usually were presented in the 10th-13th centuries
-    - double hydraulic Oregon
+    - double hydraulic organ
     - 2×5 pipes
     - trebles to the right
     - 2 organists
