@@ -76,7 +76,7 @@ Other suggestions for 2014:
 
 - [Adam Smith - The Wealth of Nations (1776)](http://www.gutenberg.org/ebooks/3300)
 - [Charle Darwin - On the Origin of Species (1859)](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
-- [Thomas Paine - Common Sense](http://www.gutenberg.org/ebooks/147) or (http://www.gutenberg.org/ebooks/3755)
+- [Thomas Paine - Common Sense](http://www.gutenberg.org/ebooks/147) (or http://www.gutenberg.org/ebooks/3755)
 - ??
 
 ### History
