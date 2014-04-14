@@ -10,8 +10,8 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
     - I agree with the Federal Council's argument that proportionality is important.
     - In general I don't think that draconian laws are effective.
 3. Initiative populaire "Pour la protection de salaires équitables" NO [EXPECTED: NO, RESULT: ]
-    - I agree with the Federal Council that the minimum salary suggested might be too high.
-    - I think that in the future, the solution might be a basic income , but the time might not be right yet.
+    - I agree with the Federal Council that the minimum salary suggested of CHF 22/hour might be too high.
+    - I think that in the future, the solution might be a basic income, but the time might not be right yet.
 4. Loi fédérale sur le fonds d'acquisition de l'avion de combat Gripen NO [EXPECTED: YES, RESULT: ]
     - It's debatable whether Switzerland even needs its own figher jets. It has some already.
     - The money available could be put to better uses, including education. Some of it could even be spent on increasing work with other armed forces for security.
