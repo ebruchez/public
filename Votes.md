@@ -2,18 +2,32 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
-## [Votation populaire du 9 février 2014](https://www.ch.ch/fr/votation-federale-09-02-2014/) (results)
+## [Votation populaire du 18 mai 2014](https://www.ch.ch/fr/votation-federale-09-02-2014/) ([results]())
 
-1. Arrêté fédéral portant règlement du financement et de l'aménagement de l'infrastructure ferroviaire (FAIF) YES [EXPECTED: YES, RESULT: ]
+1. Arrêté fédéral concernant les soins médicaux de base YES [EXPECTED: YES, RESULT: ]
+    - The Federal Council's arguments seem reasonable.
+2. Initiative populaire "Pour que les pédophiles ne travaillent plus avec des enfants" NO [EXPECTED: NO, RESULT: ]
+    - I agree with the Federal Council's argument that proportionality is important.
+    - In general I don't think that draconian laws are effective.
+3. Initiative populaire "Pour la protection de salaires équitables" NO [EXPECTED: NO, RESULT: ]
+    - I agree with the Federal Council that the minimum salary suggested might be too high.
+    - I think that in the future, the solution might be a basic income , but the time might not be right yet.
+4. Loi fédérale sur le fonds d'acquisition de l'avion de combat Gripen NO [EXPECTED: YES, RESULT: ]
+    - It's debatable whether Switzerland even needs its own figher jets. It has some already.
+    - The money available could be put to better uses, including education. Some of it could even be spent on increasing work with other armed forces for security.
+
+## [Votation populaire du 9 février 2014](https://www.ch.ch/fr/votation-federale-09-02-2014/) ([results](http://www.admin.ch/ch/f/pore/va/20140209/index.html))
+
+1. Arrêté fédéral portant règlement du financement et de l'aménagement de l'infrastructure ferroviaire (FAIF) YES [EXPECTED: YES, RESULT: YES 62%]
     - Public transportation is very important in Switzerland and does deserve support.
     - Crowded trains are a problem.
     - I place some faith in the federal council that the new financing scheme will be good.
-2. Initiative populaire "Financer l'avortement est une affaire privée" NO [EXPECTED: NO, RESULT: ]
+2. Initiative populaire "Financer l'avortement est une affaire privée" NO [EXPECTED: NO, RESULT: NO 69.8%]
     - I agree with the federal council that abortion laws in Switzerland are pretty good.
     - According to the federal council, the Swiss people agreed that insurance should cover costs in 2002.
     - As usual, the "arguments" of the proponents are unconvincing.
     - The proponents do sound religiously motivated.
-3. Initiative populaire "Contre l'immigration de masse" NO [EXPECTED: NO, RESULT: ]
+3. Initiative populaire "Contre l'immigration de masse" NO [EXPECTED: NO, RESULT: YES 50.3%]
     - I reckon that immigration is not without problems in Switzerland.
     - However, the consequence of renouncing the agreements with the rest of Europe would be terrible.
     - In short, this initiative is not an acceptable solution for immigration-related issues in Switzerland.
