@@ -2,7 +2,7 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
-## [Votation populaire du 18 mai 2014](https://www.ch.ch/fr/votation-federale-09-02-2014/) ([results]())
+## [Votation populaire du 18 mai 2014](https://www.ch.ch/fr/votation-federale-1805-2014/) ([results]())
 
 1. Arrêté fédéral concernant les soins médicaux de base YES [EXPECTED: YES, RESULT: ]
     - The Federal Council's arguments seem reasonable.
