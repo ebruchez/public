@@ -2,17 +2,17 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
-## [Votation populaire du 18 mai 2014](https://www.ch.ch/fr/votation-federale-1805-2014/) ([results]())
+## [Votation populaire du 18 mai 2014](https://www.ch.ch/fr/votation-federale-1805-2014/) ([results](http://www.admin.ch/ch/f/pore/va/20140518/index.html))
 
-1. Arrêté fédéral concernant les soins médicaux de base YES [EXPECTED: YES, RESULT: ]
+1. Arrêté fédéral concernant les soins médicaux de base YES [EXPECTED: YES, RESULT: YES 88%]
     - The Federal Council's arguments seem reasonable.
-2. Initiative populaire "Pour que les pédophiles ne travaillent plus avec des enfants" NO [EXPECTED: NO, RESULT: ]
+2. Initiative populaire "Pour que les pédophiles ne travaillent plus avec des enfants" NO [EXPECTED: NO, RESULT: YES 63.5%]
     - I agree with the Federal Council's argument that proportionality is important.
     - In general I don't think that draconian laws are effective.
-3. Initiative populaire "Pour la protection de salaires équitables" NO [EXPECTED: NO, RESULT: ]
+3. Initiative populaire "Pour la protection de salaires équitables" NO [EXPECTED: NO, RESULT: NO 76.3%]
     - I agree with the Federal Council that the minimum salary suggested of CHF 22/hour might be too high.
     - I think that in the future, the solution might be a basic income, but the time might not be right yet.
-4. Loi fédérale sur le fonds d'acquisition de l'avion de combat Gripen NO [EXPECTED: YES, RESULT: ]
+4. Loi fédérale sur le fonds d'acquisition de l'avion de combat Gripen NO [EXPECTED: YES, RESULT: NO 53.4%]
     - It's debatable whether Switzerland even needs its own figher jets. It has some already.
     - The money available could be put to better uses, including education. Some of it could even be spent on increasing work with other armed forces for security.
 
