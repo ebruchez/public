@@ -1692,7 +1692,7 @@ Hypothesis
     - 1 extra tall pipe
     - manual #keyboard
         - broad keys underneath the pipes
-        - organist playing with both hands, pPossibly with separate fingers
+        - organist playing with both hands, possibly with separate fingers
 8. The Munich Manuscript
     - 13th century
     -  1 blower and 2 organists
