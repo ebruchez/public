@@ -107,7 +107,6 @@
     - Praises Ktesibios for having discovered properties of compressed air
     - 18: Philo "demonstrates the existence of air as a material substance, a bold concept for his day"
 - Hero
-    - source for Vitruvius
     - detailed description of the hydraulic organ
     - pneumatics, etc.
     - describes advanced appliances including with air, water but even steam
