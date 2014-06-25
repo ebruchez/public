@@ -180,7 +180,7 @@
 
 ### Vitruvius's description
 
-![Vitruvius's Organ](images/Vitruvius's Organ 600.png)
+![Vitruvius's Organ](images/Vitruvius's Organ 600.jpg)
 
 - Architect Vitruvius
 - knows more music then hero
