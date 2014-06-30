@@ -2,9 +2,9 @@
 
 ## Mine
 
+- 2014-06-11: @ebruchez, with @avernet, following [@gruber](http://daringfireball.net/linked/2014/06/11/hillegass-objc): "In June 2015, one year after Apple's announcement, Swift will have overtaken Objective-C on github based on metrics by either of [RedMonk](http://redmonk.com/sogrady/category/programming-languages/) or [Ohloh](https://www.ohloh.net/languages/compare)."
 - 2013-09-26: @ebruchez: "In 10 years, glasses with features identical to 2013 Google Glass (or better) will be indistinguishable from regular prescription eye glasses (except if social or legal requirements impose some identifying aspects)"
 	- The main idea is that the technology for this will be there and that products will be on the market with that technology.
-
 - TODO
 
 ## Other people
