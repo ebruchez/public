@@ -2,6 +2,23 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
+## [Votation populaire du 28 septembre 2014](https://www.ch.ch/fr/votation-federale-28-09-2014/) ([results]())
+
+1. Initiative populaire "Stop à la TVA discriminatoire pour la restauration!" NO [EXPECTED: NO, RESULT: ]
+    - As always, I don't like the tone of the initiative. It is a bit too much to call this "discrimination".
+    - The Federal Council does make a point that there is a distinction between
+    - It is unclear to me that a few more percents of VAT is discouraging people to eat in restaurants. The initiative doesn't support this with evidence.
+    - An 8 % VAT is low by world standards.
+    - I understand the Federal Council's argument that losing revenue would be an issue, and so would be raising the VAT on food in general.
+    - So I reject the initiative.
+2. Initiative populaire "Pour une caisse publique d'assurance-maladie" ABSTAINED [EXPECTED: NO, RESULT: ]
+    - Didn't we vote on this once already?
+    - I agree with the initiative that the current situation is not ideal and that there might be only the appearance of competition between insurances.
+    - However I also agree with the Federal Council that the current system seems to work reasonably well and is being improved. Changing it does have some risk.
+    - I definitely would like to see more transparency and oversight of the insurance companies.
+    - A better way to go forward would be a "public option", that is, that the government would be allowed to offer its own insurance, possibly without advertising, and without making profits, in competition with the other insurances. If the public massively moves to the public insurance, then the message is clear: the government can offer better insurance services (for example due to reduced advertising and advertising costs). If on the other hand the public still prefers the private insurances, then the government would be free to stop offering its service, realizing that it cannot compete.
+    - I cannot make up my mind here. So I abstained.
+
 ## [Votation populaire du 18 mai 2014](https://www.ch.ch/fr/votation-federale-1805-2014/) ([results](http://www.admin.ch/ch/f/pore/va/20140518/index.html))
 
 1. Arrêté fédéral concernant les soins médicaux de base YES [EXPECTED: YES, RESULT: YES 88%]
