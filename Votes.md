@@ -6,7 +6,6 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 
 1. Initiative populaire "Stop à la TVA discriminatoire pour la restauration!" NO [EXPECTED: NO, RESULT: ]
     - As always, I don't like the tone of the initiative. It is a bit too much to call this "discrimination".
-    - The Federal Council does make a point that there is a distinction between
     - It is unclear to me that a few more percents of VAT is discouraging people to eat in restaurants. The initiative doesn't support this with evidence.
     - An 8 % VAT is low by world standards.
     - I understand the Federal Council's argument that losing revenue would be an issue, and so would be raising the VAT on food in general.
