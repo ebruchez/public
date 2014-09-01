@@ -49,13 +49,15 @@ What's the most important part of this world view? The "theory of knowledge" par
 
 ##### Financial industry ("Wall Street")
 
-- mostly parasitic
-- must be regulated and "boring"
-- See [Wall Street Isn’t Worth It](http://jacobinmag.com/2013/11/wall-street-isnt-worth-it/)
+- I consider the financial industry to be mostly parasitic.
+- "Innovation" in the financial industry has not yielded growth or common good.
+- Wall Street no longer works as an institution optimizing the allocation of capital.
+- Therefore the financial industry must be regulated and remain "boring". [^krugman-boring]
 
 ##### Health care
 
-- universal, single-payer or Swiss model
+- Basic health care should be a human right.
+- It should be universal and follow a single-payer system, or possibly the Swiss model (multiple well-regulated private insurance companies which a required to provide the same standard basic insurance level).
 
 ##### Guns
 
@@ -144,3 +146,5 @@ What's the most important part of this world view? The "theory of knowledge" par
 [^3]: "Vous dites qu'il faut philosopher ? disait Aristote dans un dilemme célèbre. Alors il faut en effet philosopher. Vous dites qu'il ne faut pas philosopher ? Alors il faut encore philosopher. De toute manière il est nécessaire de philosopher." (Éthique à Nicomaque? Protrepticus? Or something else?)
 
 [^roosevelt-education]: "Democracy cannot succeed unless those who express their choice are prepared to choose wisely. The real safeguard of democracy, therefore, is education." -Franklin D. Roosevelt
+
+[^krugman-boring]: See Paul Krugman's [Making Banking Boring](http://www.nytimes.com/2009/04/10/opinion/10krugman.html) and John Quiggin's [Wall Street Isn’t Worth It](http://jacobinmag.com/2013/11/wall-street-isnt-worth-it/).
