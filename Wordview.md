@@ -7,7 +7,7 @@ Each person has a "world view" [^1], that is how he sees, represents and underst
 - a world view evolves as the person learns, unlearns and questions his views
 - beliefs are a subset of the world view the person holds to be "likely" to be true (that too can change over time)
 
-What's the most important part of this world view? The "theory of knowledge" part, that is how one forms knowledge and opinions. That's because everything else in the worldview should derive from this. For example, if you say "I believe in such and such god", it probably means that you believe humans can obtain knowledge ouside the realm of science.
+What's the most important part of this world view? The "theory of knowledge" part, that is how one forms knowledge and opinions. That's because everything else in the worldview should derive from this. For example, if you say "I believe in such and such god", it probably means that you believe humans can obtain knowledge outside the realm of science.
 
 ## My current beliefs
 
@@ -40,14 +40,43 @@ What's the most important part of this world view? The "theory of knowledge" par
 
 #### Politics
 
-Opinions on current hot topics:
+##### Education
 
-- education: good quality free education is a key for a stable society (pay and train teachers well)
-- financial industry ("Wall Street")
-    - mostly parasitic
-    - must be regulated and "boring"
-    - See [Wall Street Isn’t Worth It](http://jacobinmag.com/2013/11/wall-street-isnt-worth-it/)
-- health care: universal, single-payer or Swiss model
+- Good quality free education is a key for a stable society. This implies that societies must train and pay teachers well. Consequently, teachers will be respectable and respected.
+- The primary purpose of education is not to make more people employable. While, as of 2014, this is still a very important purpose of education, this is going to be less and less needed as more jobs, including higher-paid knowledge jobs, are taken over by automation. The primary purpose of education is to enable a functioning democracy: as voters elect representatives and (with direct democracy as practiced for example in California and in Switzerland) decide on major issues, understanding what the issues are and thinking properly about them is key. [^roosevelt-education]
+
+
+
+##### Financial industry ("Wall Street")
+
+- mostly parasitic
+- must be regulated and "boring"
+- See [Wall Street Isn’t Worth It](http://jacobinmag.com/2013/11/wall-street-isnt-worth-it/)
+
+##### Health care
+
+- universal, single-payer or Swiss model
+
+##### Guns
+
+- sane people should be able to have some types of guns after checks, training and registration
+- more dangerous types must be prohibited for the common public
+- I don't consider the US 2nd amendment as very important compared to others
+    - it is written in a terribly clumsy way
+    - it is doubtful that it is "correctly" interpreted today
+    - it was not written in a time of assault rifles and other massively deadly weapons
+    - it is extremely doubtful that it is the ultimate solution against the rise of "tyranny" (unlike, say, lack of proper education of the people)
+    - the above doesn't matter much anyway, because I don't think it falls into the same category of fundamental concept such as free speech, equality before the law, due process, and so on
+    - if it has to be a fundamental right, it should be stated in a much clearer, and limited, way
+
+##### Religion
+
+- must be kept absolutely separate from the state
+- no prayers in schools or government
+- it is nonsensical to talk about a young child's religion (see Richard Dawkins's [Labelled from birth](https://twitter.com/RichardDawkins/status/422664936666312704))
+
+##### Other issues
+
 - gay marriage: should be legal
 - abortion: should be legal, like [Swiss model](http://en.wikipedia.org/wiki/Abortion_in_Switzerland)
 - assisted suicide: should be legal, based on [Swiss model](http://en.wikipedia.org/wiki/Euthanasia_in_Switzerland)
@@ -67,27 +96,13 @@ Opinions on current hot topics:
 	- should be efficient
 	- must be transparent
 	- but must be present
-- guns
-	- sane people should be able to have some types of guns after checks, training and registration
-	- more dangerous types must be prohibited for the common public
-	- I don't consider the US 2nd amendment as very important compared to others
-		- it is written in a terribly clumsy way
-		- it is doubtful that it is "correctly" interpreted today
-		- it was not written in a time of assault rifles and other massively deadly weapons
-		- it is exteremely doubtful that it is the ultimate solution against the rise of "tyranny" (unlike, say, lack of proper education of the people)
-		- the above doesn't matter much anyway, because I don't think it falls into the same category of fundamental concept such as free speech, equality before the law, due process, and so on
-		- if it has to be a fundamental right, it should be stated in a much clearer, and limited, way
-- religion
-	- must be kept absolutely separate from the state
-	- no prayers in schools or government
-	- it is nonsensical to talk about a young child's religion (see Richard Dawkins's [Labelled from birth](https://twitter.com/RichardDawkins/status/422664936666312704))
 - the homeless: public institution must be available to support them
 - it doesn't matter very much what the (US) founders thought
 	- it can be useful to learn why they made such and such decision
 	- what matters even more are the principles that the people of today want to adhere to
 - …
 
-### Futorology (what does the future hold for the world and humanity?)
+### Futurology (what does the future hold for the world and humanity?)
 
 - more thinking ("computation") is the key to solving humanity's issues
 - …
@@ -99,7 +114,7 @@ Opinions on current hot topics:
 ### Theory of knowledge / theory of belief (epistemology)
 
 - there is a reality separate from the "mind" (following Russell)
-- minds (most notably human ones, but that doesn't exclude others) can apprehend knoweldge directly in some cases (from the senses or memory)
+- minds (most notably human ones, but that doesn't exclude others) can apprehend knowledge directly in some cases (from the senses or memory)
 - minds can build further knowledge using induction and deduction
 - there is a whole range of certainty of knowledge
 - [critical thinking](http://en.wikipedia.org/wiki/Critical_thinking) is the most important skill of all, because it is the tool that allows forming other opinions. [^3]
@@ -127,3 +142,5 @@ Opinions on current hot topics:
 	5. Theory of knowledge ("What is true or false?" and "How do we know about the world so we can answer the questions above?")
 	
 [^3]: "Vous dites qu'il faut philosopher ? disait Aristote dans un dilemme célèbre. Alors il faut en effet philosopher. Vous dites qu'il ne faut pas philosopher ? Alors il faut encore philosopher. De toute manière il est nécessaire de philosopher." (Éthique à Nicomaque? Protrepticus? Or something else?)
+
+[^roosevelt-education]: "Democracy cannot succeed unless those who express their choice are prepared to choose wisely. The real safeguard of democracy, therefore, is education." -Franklin D. Roosevelt
