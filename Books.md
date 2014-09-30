@@ -105,6 +105,7 @@ From "The Problems of Philosophy":
 
 ## Other books that might be interesting
 
+- [Beethoven, by Maynard Solomon](http://www.amazon.com/Beethoven-Maynard-Solomon/dp/0028647173/)
 - Stephen King's "On Writing"
 - Friedrich Dürrenmatt’s novella “Traps”
 - John Stuart Mills [autobiography](http://www.gutenberg.org/ebooks/10378)
