@@ -4,13 +4,13 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 
 ## [Votation populaire du 28 septembre 2014](https://www.ch.ch/fr/votation-federale-28-09-2014/) ([results]())
 
-1. Initiative populaire "Stop à la TVA discriminatoire pour la restauration!" NO [EXPECTED: NO, RESULT: ]
+1. Initiative populaire "Stop à la TVA discriminatoire pour la restauration!" NO [EXPECTED: NO, RESULT: NO 71.5% ]
     - As always, I don't like the tone of the initiative. It is a bit too much to call this "discrimination".
     - It is unclear to me that a few more percents of VAT is discouraging people to eat in restaurants. The initiative doesn't support this with evidence.
     - An 8 % VAT is low by world standards.
     - I understand the Federal Council's argument that losing revenue would be an issue, and so would be raising the VAT on food in general.
     - So I reject the initiative.
-2. Initiative populaire "Pour une caisse publique d'assurance-maladie" ABSTAINED [EXPECTED: NO, RESULT: ]
+2. Initiative populaire "Pour une caisse publique d'assurance-maladie" ABSTAINED [EXPECTED: NO, RESULT: NO 61.8% ]
     - Didn't we vote on this once already?
     - I agree with the initiative that the current situation is not ideal and that there might be only the appearance of competition between insurances.
     - However I also agree with the Federal Council that the current system seems to work reasonably well and is being improved. Changing it does have some risk.
