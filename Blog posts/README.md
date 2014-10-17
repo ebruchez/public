@@ -1,0 +1,1 @@
+This directory contains the Markdown source of blog posts I posted on [blog.bruchez.name](http://blog.bruchez.name/).
