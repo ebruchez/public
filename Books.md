@@ -110,3 +110,4 @@ From "The Problems of Philosophy":
 - Friedrich Dürrenmatt’s novella “Traps”
 - John Stuart Mills [autobiography](http://www.gutenberg.org/ebooks/10378)
 - something by Henri Bergson
+- something by Piaget
