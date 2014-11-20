@@ -23,7 +23,7 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 See also [@avernet's take](https://workflowy.com/s/sq6VYPtZhh).
 
 
-## [Votation populaire du 28 septembre 2014](https://www.ch.ch/fr/votation-federale-28-09-2014/) ([results]())
+## [Votation populaire du 28 septembre 2014](https://www.ch.ch/fr/votation-federale-28-09-2014/) ([results](http://www.parlament.ch/e/wahlen-abstimmungen/volksabstimmungen/volksabstimmungen-2014/abstimmung-2014-09-28/Pages/default.aspx))
 
 1. Initiative populaire "Stop à la TVA discriminatoire pour la restauration!" NO [EXPECTED: NO, RESULT: NO 71.5% ]
     - As always, I don't like the tone of the initiative. It is a bit too much to call this "discrimination".
