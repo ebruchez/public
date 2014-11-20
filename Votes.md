@@ -2,6 +2,27 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
+## [Votation populaire du 30 novembre 2014](https://www.ch.ch/fr/votation-federale-30-11-2014/) ([results]())
+
+1. [Initiative populaire "Halte aux privilèges fiscaux des millionnaires (abolition des forfaits fiscaux)"](https://www.ch.ch/fr/abolition-des-forfaits-fiscaux/) ABSTAINED [EXPECTED: NO, RESULT: ]
+    - I an not a huge fan of giving rich people even more privileges.
+    - I also recognize that Switzerland selfishly benefits from doing so.
+    - The Federal Council appears to consider this aspect only.
+    - This is no clear decision for me here.
+    - So I am abstaining.
+2. [Initiative populaire "Halte à la surpopulation – Oui à la préservation durable des ressources naturelles" (ECOPOP)](https://www.ch.ch/fr/ecopop/)  NO [EXPECTED: NO, RESULT: ]
+    - Switzerland just recently (Votation populaire du 9 février 2014) voted to limit immigration, possibly at huge costs related to Switzerland's participation in Europe. A new initiative, along those lines, is not desirable.
+    - I love nature and the environment, and Switzerland must work to preserve both, but this initiative will do nothing significant to help.
+    - I see it rather as another xenophobic initiative (which means that it could pass!).
+    - I am voting firmly NO, and I think that most Swiss citizens will, this time, have more sense than in February.
+3. [Initiative populaire "Sauvez l’or de la Suisse (Initiative sur l’or)"](https://www.ch.ch/fr/gold-initiative/) NO  [EXPECTED: NO, RESULT: ]
+    - Gold, really?
+    - I am not an economist, but will trust the Federal Council on this one.
+    - A clear NO.
+
+See also [@avernet's take](https://workflowy.com/s/sq6VYPtZhh).
+
+
 ## [Votation populaire du 28 septembre 2014](https://www.ch.ch/fr/votation-federale-28-09-2014/) ([results]())
 
 1. Initiative populaire "Stop à la TVA discriminatoire pour la restauration!" NO [EXPECTED: NO, RESULT: NO 71.5% ]
