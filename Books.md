@@ -26,13 +26,14 @@ Other suggestions for 2014:
 
 ## Currently reading
 
+- [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
 - 2014-01-xx: Arthur C. Clarke - 3001: Final Odyssey #reread
 - Antoine de Saint-Exupéry - Terre des Hommes
 
 ## Read
 
 - 2014-12-23: George Orwell - Nineteen Eighty-Four #reread #audiobook
-- 2014-03-28: David Eddings - Pawn of Prophecy
+- 2014-03-28: David Eddings - Pawn of Prophecy *(part of The Belgariad)*
 - 2013-10 to 2014-01: Jean Perrot - The Organ from its invention in the Hellenistic period to the end of the Thirteenth Century
 - 2013-08-xx: Arthur C. Clarke - 2061: Odyssey Three #reread
 - 2013-09-04: Stefan Zweig - La peur (Schachnovelle) #reread #audiobook
