@@ -31,6 +31,7 @@ Other suggestions for 2014:
 
 ## Read
 
+- 2014-12-23: George Orwell - Nineteen Eighty-Four #reread #audiobook
 - 2014-03-28: David Eddings - Pawn of Prophecy
 - 2013-10 to 2014-01: Jean Perrot - The Organ from its invention in the Hellenistic period to the end of the Thirteenth Century
 - 2013-08-xx: Arthur C. Clarke - 2061: Odyssey Three #reread
