@@ -2,6 +2,7 @@
 
 ## Mine
 
+- 2014-12-29: @ebruchez: "During 2015, Apple will either open source or unequivocally announce that it will open source Swift."
 - 2014-09-30: @ebruchez: "In 1 year, 50% of smartphones sold in the US in the previous quarter will have screen sizes around 5.5 to 6 inches."
     - In other words, I am predicting that the larger form factors will gain a lot of traction quickly.
     - "Smartphone" means the device has a connection to a traditional cellular network (3G, LTE).
