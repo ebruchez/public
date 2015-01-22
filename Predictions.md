@@ -2,6 +2,7 @@
 
 ## Mine
 
+- 2015-01-21: @ebruchez: "California will legalize marijuana before year 2020."
 - 2015-01-09: @ebruchez: "At least one new fall 2015 iPhone model will have 2GB of RAM or more."
 - 2014-12-29: @ebruchez: "During 2015, Apple will either open source or unequivocally announce that it will open source Swift."
 - 2014-09-30: @ebruchez: "In 1 year, 50% of smartphones sold in the US in the previous quarter will have screen sizes around 5.5 to 6 inches."
