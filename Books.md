@@ -27,11 +27,11 @@ Other suggestions for 2014:
 ## Currently reading
 
 - [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
-- 2014-01-xx: Arthur C. Clarke - 3001: Final Odyssey #reread
 - Antoine de Saint-Exupéry - Terre des Hommes
 
 ## Read
 
+- 2015-01-28: Arthur C. Clarke - [3001: Final Odyssey](http://www.amazon.com/3001-Odyssey-Arthur-C-Clarke/dp/0345423496) #reread
 - 2014-12-23: George Orwell - Nineteen Eighty-Four #reread #audiobook
 - 2014-03-28: David Eddings - Pawn of Prophecy *(part of The Belgariad)*
 - 2013-10 to 2014-01: Jean Perrot - The Organ from its invention in the Hellenistic period to the end of the Thirteenth Century
