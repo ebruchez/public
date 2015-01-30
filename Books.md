@@ -31,8 +31,9 @@ Other suggestions for 2014:
 
 ## Read
 
-- 2015-01-28: [Bright from the Start](http://www.amazon.com/Bright-Start-Science-Backed-Developing-Mindfrom/dp/159240362X) #ebook
-	- Not that much content in this book. I skimmed very quickly through the second half.
+- 2015-01-28: [Bright from the Start](http://www.amazon.com/Bright-Start-Science-Backed-Developing-Mindfrom-ebook/dp/B000UCUX46/) #ebook
+    - Not that much content in this book. I skimmed very quickly through the second half.
+    - I had bought this in August 2010
 - 2015-01-28: Arthur C. Clarke - [3001: Final Odyssey](http://www.amazon.com/3001-Odyssey-Arthur-C-Clarke/dp/0345423496) #reread #ebook
 - 2014-12-23: George Orwell - Nineteen Eighty-Four #reread #audiobook
 - 2014-03-28: David Eddings - Pawn of Prophecy *(part of The Belgariad)*
@@ -40,8 +41,8 @@ Other suggestions for 2014:
 - 2013-08-xx: Arthur C. Clarke - 2061: Odyssey Three #reread #ebook
 - 2013-09-04: Stefan Zweig - La peur (Schachnovelle) #reread #audiobook
 - 2013-08-29: Stefan Zweig - Le joueur d'échecs (Schachnovelle) #reread #audiobook
-	- I first read this short book in high school in 1991 for German class (I probably read it in French!). I really liked it and developed interest in Zweig. In the years that followed I read several more of his books.
-	- This time I listened to it as an audiobook during commute. It is simply a masterpiece of storytelling.
+    - I first read this short book in high school in 1991 for German class (I probably read it in French!). I really liked it and developed interest in Zweig. In the years that followed I read several more of his books.
+    - This time I listened to it as an audiobook during commute. It is simply a masterpiece of storytelling.
 - 2013-08-27: Bill Bryson - [A Short History of Nearly Everything](http://www.amazon.com/A-Short-History-Nearly-Everything/dp/076790818X) #audiobook
 - 2013-07-16: [Bertrand Russell - The Problems of Philosophy](http://www.amazon.com/dp/B000FC25JW/) #ebook
 - 2013-07-xx: Arthur C. Clarke - 2010: Odyssey Two #reread #ebook
