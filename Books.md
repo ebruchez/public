@@ -26,8 +26,8 @@ Other suggestions for 2014:
 
 ## Currently reading
 
-- [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
-- Antoine de Saint-Exupéry - Terre des Hommes
+- Daniel C. Dennett  - [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/) #paper
+- Antoine de Saint-Exupéry - Terre des Hommes #ebook
 
 ## Read
 
