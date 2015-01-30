@@ -31,6 +31,8 @@ Other suggestions for 2014:
 
 ## Read
 
+- 2015-01-28: [Bright from the Start](http://www.amazon.com/Bright-Start-Science-Backed-Developing-Mindfrom/dp/159240362X) #ebook
+	- Not that much content in this book. I skimmed very quickly through the second half.
 - 2015-01-28: Arthur C. Clarke - [3001: Final Odyssey](http://www.amazon.com/3001-Odyssey-Arthur-C-Clarke/dp/0345423496) #reread #ebook
 - 2014-12-23: George Orwell - Nineteen Eighty-Four #reread #audiobook
 - 2014-03-28: David Eddings - Pawn of Prophecy *(part of The Belgariad)*
