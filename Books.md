@@ -33,8 +33,9 @@ Other suggestions for 2014:
 
 - 2015-01-28: [Bright from the Start](http://www.amazon.com/Bright-Start-Science-Backed-Developing-Mindfrom-ebook/dp/B000UCUX46/) #ebook
     - Not that much content in this book. I skimmed very quickly through the second half.
-    - I had bought this in August 2010
+    - I had bought this in August 2010 and probably started reading soon afterwards, but let it rest for a long time.
 - 2015-01-28: Arthur C. Clarke - [3001: Final Odyssey](http://www.amazon.com/3001-Odyssey-Arthur-C-Clarke/dp/0345423496) #reread #ebook
+    - Started reading probably in January 2014, then let it rest.
 - 2014-12-23: George Orwell - Nineteen Eighty-Four #reread #audiobook
 - 2014-03-28: David Eddings - Pawn of Prophecy *(part of The Belgariad)*
 - 2013-10 to 2014-01: Jean Perrot - The Organ from its invention in the Hellenistic period to the end of the Thirteenth Century
