@@ -31,6 +31,8 @@ Other suggestions for 2014:
 
 ## Read
 
+Dates are completion dates.
+
 ### 2015
 
 - 2015-01-28: [Bright from the Start](http://www.amazon.com/Bright-Start-Science-Backed-Developing-Mindfrom-ebook/dp/B000UCUX46/) #ebook
