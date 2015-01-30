@@ -31,13 +31,21 @@ Other suggestions for 2014:
 
 ## Read
 
+### 2015
+
 - 2015-01-28: [Bright from the Start](http://www.amazon.com/Bright-Start-Science-Backed-Developing-Mindfrom-ebook/dp/B000UCUX46/) #ebook
     - Not that much content in this book. I skimmed very quickly through the second half.
     - I had bought this in August 2010 and probably started reading soon afterwards, but let it rest for a long time.
 - 2015-01-28: Arthur C. Clarke - [3001: Final Odyssey](http://www.amazon.com/3001-Odyssey-Arthur-C-Clarke/dp/0345423496) #reread #ebook
     - Started reading probably in January 2014, then let it rest.
+
+### 2014
+
 - 2014-12-23: George Orwell - Nineteen Eighty-Four #reread #audiobook
 - 2014-03-28: David Eddings - Pawn of Prophecy *(part of The Belgariad)*
+
+### 2013
+
 - 2013-10 to 2014-01: Jean Perrot - The Organ from its invention in the Hellenistic period to the end of the Thirteenth Century
 - 2013-08-xx: Arthur C. Clarke - 2061: Odyssey Three #reread #ebook
 - 2013-09-04: Stefan Zweig - La peur (Schachnovelle) #reread #audiobook
@@ -51,11 +59,17 @@ Other suggestions for 2014:
 - 2013-06-19: [Guy de Maupassant - Nouvelles Cruelles](http://www.gallimard.fr/Catalogue/GALLIMARD/Ecoutez-lire/Nouvelles-cruelles) #audiobook
 - 2013-0x-xx: Team of Rivals #audiobook
 - 2013-01-2x: Ray Kurzweil - How to Create a Mind #ebook
+
+### 2012
+
 - 2012-10-24: Suzanne Collins - Mockingjay #ebook
 - 2012-10-xx: Suzanne Collins - Catching Fire #ebook
 - 2012-10-07: Suzanne Collins - The Hunger Games #ebook
 - 2012-07-xx: Richard Feynmann - Surely you're joking, Mr. Feynmann #reread #ebook
 - 2012-06-20: Stendhal - Le Rouge et le Noir #reread #ebook
+
+### 2011
+
 - 2011-12: Neal Stephenson - Anathem #ebook
 - 2011-09-14: Isaac Asimov - The Caves of Steel #reread #ebook
 - 2011-08-26: Isaac Asimov - Foundation and Earth #reread #ebook
@@ -63,6 +77,9 @@ Other suggestions for 2014:
 - 2011-05-17: Jules Verne - Michel Strogoff #reread #ebook
 - 2011?: Isaac Asimov - Second Foundation #reread #ebook
 - 2011?: Isaac Asimov - Foundation and Empire #reread #ebook
+
+### 2010
+
 - 2010-11: Jean Guitton - Le travail intellectuel #reread
 - 2010-07?: Dan Simmons - Hyperion  #reread
 - 2010-04?: Jack Vance - Tales of the Dying Earth
