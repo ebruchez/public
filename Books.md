@@ -40,6 +40,7 @@ Dates are completion dates.
     - I had bought this in August 2010 and probably started reading soon afterwards, but let it rest for a long time.
 - 2015-01-28: Arthur C. Clarke - [3001: Final Odyssey](http://www.amazon.com/3001-Odyssey-Arthur-C-Clarke/dp/0345423496) #reread #ebook
     - Started reading probably in January 2014, then let it rest.
+    - This is the weakest of the Odyssey series. The most interesting part is the appendix, where Clarke comments about some historical bits, where some ideas came from, and even how some of the ideas in the book were already obsolete.
 
 ### 2014
 
