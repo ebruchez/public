@@ -2,6 +2,10 @@
 
 I don't have much time to read so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
+## Books I plan to read in 2015
+
+- Finish [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
+
 ## Books I plan to read in 2014
 
 See also [the blog post](http://blog.bruchez.name/2014/01/books-i-plan-to-read-in-2014.html).
