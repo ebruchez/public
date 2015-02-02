@@ -2,6 +2,18 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
+## [Votation populaire du 8 mars 2015](https://www.ch.ch/fr/votation-federale-08-03-2015/) ([results]())
+
+1. [«Aider les familles! Pour des allocations pour enfant et des allocations de formation professionnelle exonérées de l’impôt»](https://www.ch.ch/fr/initiative-populaire-aider-les-familles-pour-des-allocations/) __NO__ [EXPECTED: NO, RESULT: ]
+    - I am fine helping families.
+    - But if the Federal Council is right, it seems that the proposal would only make sense for the most well-off families. That seems to defeat its purpose.
+    - I follow the Federal Council.
+2. [Initiative populaire «Remplacer la taxe sur la valeur ajoutée par une taxe sur l’énergie»](https://www.ch.ch/fr/initiative-populaire-remplacer-la-taxe-sur-la-valeur-ajoutee/) __NO__ [EXPECTED: NO, RESULT: ]
+    - I would be generally ok to tax non-renewable energies or to tax carbon emissinos.
+    - Replacing the VAT altogether seems to be a curious proposal. Switzerland already has low (8 %) VAT, and there is risk in changing the system so drastically.
+    - As the Federal Council says, if the energy tax incentive is introduced and works (as the initiative likely wishes to happen), and the use of non-renewable energies, the revenue from the energy tax would keep getting lower, or the rate would have to keep increasing, in order to keep the same tax revenue. This seems like a difficult system to put in place.
+    - I follow the Federal Council.
+
 ## [Votation populaire du 30 novembre 2014](https://www.ch.ch/fr/votation-federale-30-11-2014/) ([results](http://www.parlament.ch/E/WAHLEN-ABSTIMMUNGEN/VOLKSABSTIMMUNGEN/VOLKSABSTIMMUNGEN-2014/2014-11-30/Pages/default.aspx))
 
 1. [Initiative populaire "Halte aux privilèges fiscaux des millionnaires (abolition des forfaits fiscaux)"](https://www.ch.ch/fr/abolition-des-forfaits-fiscaux/) __ABSTAINED__ [EXPECTED: NO, RESULT: NO 59.2%]
