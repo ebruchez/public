@@ -39,6 +39,9 @@ Dates are completion dates.
 
 ### 2015
 
+- 2015-03-09: [T. Jack Foster Jr. - The Development of Foster City](http://www.amazon.com/Development-Foster-City-Jr-Jack-ebook/dp/B00CY1LR00/) #ebook
+    - This is a short book.
+    - Contains some interesting bits, although more depths would have been good.
 - 2015-02-19: [Jules Verne - Vingt mille lieues sous les mers (1869-1870)](http://fr.wikipedia.org/wiki/Vingt_mille_lieues_sous_les_mers) #ebook #gutenberg
 - 2015-01-28: [Bright from the Start](http://www.amazon.com/Bright-Start-Science-Backed-Developing-Mindfrom-ebook/dp/B000UCUX46/) #ebook
     - Not that much content in this book. I skimmed very quickly through the second half.
