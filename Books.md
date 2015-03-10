@@ -40,6 +40,8 @@ Dates are completion dates.
 ### 2015
 
 - 2015-03-10: [Jules Verne - Cinq semaines en ballon](https://fr.wikipedia.org/wiki/Cinq_semaines_en_ballon) #ebook #gutenberg
+    - Not as good as "Vingt mille lieues sous les mers", but it's a fairly quick read.
+    - This book is mostly about the idea of using a balloon to cross Africa from East to West. The technical aspects are interesting, and handled realistically, except maybe for the source of electricity: while the balloon's hydrogen does leak, the fact that the battery might lose charge is never mentioned AFAICT.
 - 2015-03-09: [T. Jack Foster Jr. - The Development of Foster City](http://www.amazon.com/Development-Foster-City-Jr-Jack-ebook/dp/B00CY1LR00/) #ebook
     - This is a short book.
     - Contains some interesting bits, although more depths would have been good.
