@@ -5,7 +5,7 @@ This list was started 2014-07-11.
 I like reading research papers, mostly computer science papers. Here is a list of papers I have recently read (but not necessarily fully understood!).
 
 
-
+- 2015-03-19: [Combining Form and Function - Static Types for JQuery Programs (2013?)](http://cs.brown.edu/~sk/Publications/Papers/Published/lelk-types-jquery-programs/paper.pdf)
 - 2014-05-07: [High-Latency, Low-Bandwidth Windowing in the Jupiter Collaboration System (1995)](http://lively-kernel.org/repository/webwerkstatt/!svn/bc/15693/projects/Collaboration/paper/Jupiter.pdf)
   - About [Operational Transformation (OT)](http://en.wikipedia.org/wiki/Operational_transformation), the inspiration for Google Wave.
 - 2014-04-24: [Why Functional Programming Matters (1984)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
