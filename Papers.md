@@ -14,4 +14,5 @@ I like reading research papers, mostly computer science papers. Here is a list o
 - 2014-03-05: [Dynamic Code Evolution for Java (2010)](http://ssw.jku.at/Research/Papers/Wuerthinger10a/Wuerthinger10a.pdf)
 - 2014-02-09: [Document Restoration Using 3D Shape (1998)](https://www.comp.nus.edu.sg/~brown/pdf/iccv01_brown.pdf)
   - I was interested in seeing whether there were algorithm to properly deskew scans. I still haven't found something reasonable.
+- 2014-01-22: [When Intentions go Public (2009)](http://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Seifert_Michalski_When_Intentions_.pdf)
 - 2014-01-08: [On Proof and Progress in Mathematics (1993)](http://arxiv.org/pdf/math/9404236v1.pdf)
