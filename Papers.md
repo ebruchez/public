@@ -4,7 +4,7 @@ This list was started 2014-07-11.
 
 I like reading research papers, mostly computer science papers. Here is a list of papers I have recently read (but not necessarily fully understood!).
 
-
+- 2015-05-13: [Diet Soda Intake Is Associated with Long-Term Increases in Waist Circumference in a Biethnic Cohort of Older Adults: The San Antonio Longitudinal Study of Aging (2015)](http://onlinelibrary.wiley.com/store/10.1111/jgs.13376/asset/jgs13376.pdf?v=1&t=i9ohqsq1&s=7a97ce557e6f68e8de264dbb2867d2a9d4c32220)
 - 2014-07-08: [Combining Form and Function - Static Types for JQuery Programs (2013?)](http://cs.brown.edu/~sk/Publications/Papers/Published/lelk-types-jquery-programs/paper.pdf)
 - 2014-05-07: [High-Latency, Low-Bandwidth Windowing in the Jupiter Collaboration System (1995)](http://lively-kernel.org/repository/webwerkstatt/!svn/bc/15693/projects/Collaboration/paper/Jupiter.pdf)
   - About [Operational Transformation (OT)](http://en.wikipedia.org/wiki/Operational_transformation), the inspiration for Google Wave.
