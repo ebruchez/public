@@ -2,13 +2,47 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
-## [Votation populaire du 8 mars 2015](https://www.ch.ch/fr/votation-federale-08-03-2015/) ([results]())
+## [Votation populaire du 14 juin 2015](https://www.ch.ch/fr/votation-federale-14-06-2015/) (results)
 
-1. [«Aider les familles! Pour des allocations pour enfant et des allocations de formation professionnelle exonérées de l’impôt»](https://www.ch.ch/fr/initiative-populaire-aider-les-familles-pour-des-allocations/) __NO__ [EXPECTED: NO, RESULT: ]
+1. [Arrêté fédéral du 12 décembre 2014 concernant la modification de l'article constitutionnel relatif à la procréation médicalement assistée et au génie génétique dans le domaine humain](https://www.admin.ch/gov/fr/accueil/documentation/votations/20150614/praeimplantationsdiagnostik.html)
+	- VOTED: __YES__
+	- EXPECTED: YES
+	- RESULT: PENDING
+	- A no-brainer: it's done in other places already, and it will help lots of couples trying to have children.
+2. [Initiative populaire du 20 janvier 2012 «Initiative sur les bourses d'études»](https://www.admin.ch/gov/fr/accueil/documentation/votations/20150614/stipendieninitiative.html)
+	- VOTED: __ABSTAINED__
+	- EXPECTED: NO
+	- RESULT: PENDING
+	- Is it better for student help to be done at the federal or canton level? I just don't know.
+3. [Initiative populaire du 15 février 2013 «Imposer les successions de plusieurs millions pour financer notre AVS (Réforme de la fiscalité successorale)»](https://www.admin.ch/gov/fr/accueil/documentation/votations/20150614/erbschaftssteuerreform.html)
+	- VOTED: __ABSTAINED__
+	- EXPECTED: NO
+	- RESULT: PENDING
+	- Another difficult one. To better figure it out I would need concrete examples of how this would impact the successions in various Swiss cantons. This information is not provided by the official booklet. So as I lack information and haven't managed to spend time researching it, I prefer to abstain. This is probably an example of the limits of direct democracy when subjects become technical.
+4. [Modification du 26 septembre 2014 de la loi fédérale sur la radio et la télévision](https://www.admin.ch/gov/fr/accueil/documentation/votations/20150614/rtvg.html)
+	- VOTED: __ABSTAINED__
+	- EXPECTED: NO
+	- RESULT: PENDING
+	- This is a difficult one.
+	- The Swiss currently pay, per family, CHF 462 (~ USD 496) per year. That's a lot of money for a service you might not be asking for.
+	- The new law says this amount will be lower per family (CHF 400 or ~ USD 430). That's an improvement, but it's in the same ballpark.
+	- The current system appears wasteful, as it requires enforcement. Since almost all Swiss residents must pay the radio/TV tax anyway, I can see how it can make sense to change the system.
+	- But does Switzerland need national radio/TV? Do they serve a significant purpose? Do they produce good or even excellent content? If it has one, should it be that expensive? The UK has Doctor Who and produces great documentaries, for example ;) Swiss radio/TV are not to that level as far as I can tell.
+	- If there is any national radio/TV, I think it should constantly work to justify its existence to residents, and work within clear limits. I am not convinced it is doing either, but I might just not be very informed.
+
+## [Votation populaire du 8 mars 2015](https://www.ch.ch/fr/votation-federale-08-03-2015/) ([results](http://www.parlament.ch/e/wahlen-abstimmungen/volksabstimmungen/volksabstimmungen-2015/Pages/2015-03-08.aspx))
+
+1. [«Aider les familles! Pour des allocations pour enfant et des allocations de formation professionnelle exonérées de l’impôt»](https://www.ch.ch/fr/initiative-populaire-aider-les-familles-pour-des-allocations/)
+    - VOTED: __NO__
+    - EXPECTED: NO
+    - [RESULT: NO 75.4%](https://www.admin.ch/ch/f/pore/va/20150308/det590.html)
     - I am fine helping families.
     - But if the Federal Council is right, it seems that the proposal would only make sense for the most well-off families. That seems to defeat its purpose.
     - I follow the Federal Council.
-2. [Initiative populaire «Remplacer la taxe sur la valeur ajoutée par une taxe sur l’énergie»](https://www.ch.ch/fr/initiative-populaire-remplacer-la-taxe-sur-la-valeur-ajoutee/) __NO__ [EXPECTED: NO, RESULT: ]
+2. [Initiative populaire «Remplacer la taxe sur la valeur ajoutée par une taxe sur l’énergie»](https://www.ch.ch/fr/initiative-populaire-remplacer-la-taxe-sur-la-valeur-ajoutee/)
+    - VOTED: __NO__
+    - EXPECTED: NO
+    - [RESULT: 92.0%](https://www.admin.ch/ch/f/pore/va/20150308/det591.html)
     - I would be generally ok to tax non-renewable energies or to tax carbon emissions.
     - Replacing the VAT altogether seems to be a curious proposal. Switzerland already has low (8 %) VAT, and there is risk in changing the system so drastically.
     - As the Federal Council says, if the energy tax incentive is introduced and works (as the initiative likely wishes to happen), and the use of non-renewable energies decreases, the revenue from the energy tax would keep getting lower, or the rate would have to keep increasing, in order to keep the same tax revenue. This seems like a difficult system to put in place.
