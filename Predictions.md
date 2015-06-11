@@ -1,6 +1,6 @@
 # Predictions
 
-## Mine
+## My own predictions
 
 - 2015-06-11:
     - From: @ebruchez
