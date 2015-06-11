@@ -47,7 +47,7 @@
     - Resolution:
         - WAIT until 2023-09-26
 
-## Other people
+## Other people's predictions
 
 - 2013-12-03:
     - From; @avernet
