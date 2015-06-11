@@ -2,6 +2,7 @@
 
 ## Mine
 
+- 2015-06-11: @ebruchez: "Now that Apple has announced the open sourcing of Swift, I predict that by the end of 2016 there will at least one popular server-side, async/event-driven platform a la Node.js but based on Swift. It will run on Linux and OS X."
 - 2015-01-21: @ebruchez: "California will legalize marijuana before year 2020."
 - 2015-01-09: @ebruchez: "At least one new fall 2015 iPhone model will have 2GB of RAM or more."
 - 2014-12-29: @ebruchez: "During 2015, Apple will either open source or unequivocally announce that it will open source Swift." [2015-06-08: CORRECT PREDICTION!]
