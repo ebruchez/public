@@ -27,4 +27,4 @@
 	- It's almost certain that there will be devices called "iPhone" in 6 years. 
 	- The question is: how do you measure performance improvements? On a per-core basis seems unfair. So some kind of reasonable benchmark, possibly using all the cores, should show a 40x performance improvement.
 - 2013-07-20: @otazi: "Apple will be dead in 10 years."
-	- What will "dead" mean? I will interpret it not as "out of business" as that seems impossible for a company of this size, but as "largely irrelevant". This means signficiant less relevant than in 2013. How does this translate in terms of market share or number of devices or services? Maybe we can set the bar at 5% market share, a suggested by @avernet.
+	- What will "dead" mean? I will interpret it not as "out of business" as that seems impossible for a company of this size, but as "largely irrelevant". This means significantly less relevant than in 2013. How does this translate in terms of market share or number of devices or services? Maybe we can set the bar at 5% market share, a suggested by @avernet.
