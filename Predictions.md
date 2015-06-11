@@ -10,6 +10,8 @@
 - 2015-01-21:
     - From: @ebruchez
     - Text: "California will legalize marijuana before year 2020."
+    - Resolution:
+        - WAIT until 2019-12-31
 - 2015-01-09:
     - From: @ebruchez
     - Text: "At least one new fall 2015 iPhone model will have 2GB of RAM or more."
