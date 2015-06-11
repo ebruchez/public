@@ -7,7 +7,7 @@
     - Text: "Now that Apple has announced the open sourcing of Swift, I predict that by the end of 2016 there will at least one popular server-side, async/event-driven platform a la Node.js but based on Swift. It will run on Linux and OS X."
     - Resolution:
         - WAIT until 2016-12-31
-- 2015-01-21:
+- 2015-01-21:f
     - From: @ebruchez
     - Text: "California will legalize marijuana before year 2020."
     - Resolution:
@@ -50,7 +50,7 @@
 ## Other people's predictions
 
 - 2013-12-03:
-    - From; @avernet
+    - From: @avernet
     - Text: "Amazon Prime Air won't be usable in 5 years at Thomas's place (for technological or cost reasons, including but not limited to FAA requirements or high initial cost)."
     - Resolution:
         - WAIT until 2018-12-03
