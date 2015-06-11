@@ -13,7 +13,6 @@
 	- 2015-01-16: UPDATE: "Swift just jumped from number 68 to number 22 in […] RedMonk" ([Wired](http://www.wired.com/2015/01/redmonk-swift/), [Redmonk](http://redmonk.com/sogrady/2015/01/14/language-rankings-1-15/)). Ojbective-C is still in position 10 though, so I don't know if the prediction will come true.
 - 2013-09-26: @ebruchez: "In 10 years, glasses with features identical to 2013 Google Glass (or better) will be indistinguishable from regular prescription eye glasses (except if social or legal requirements impose some identifying aspects)"
 	- The main idea is that the technology for this will be there and that products will be on the market with that technology.
-- TODO
 
 ## Other people
 
