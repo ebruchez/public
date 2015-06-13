@@ -9,7 +9,7 @@ Predictions are fun! Here I am keeping track of my predictions and a few of my f
     - Text: "Now that Apple has announced the open sourcing of Swift, I predict that by the end of 2016 there will at least one popular server-side, async/event-driven platform a la Node.js but based on Swift. It will run on Linux and OS X."
     - Resolution:
         - WAIT until 2016-12-31
-- 2015-01-21:f
+- 2015-01-21:
     - From: @ebruchez
     - Text: "California will legalize marijuana before year 2020."
     - Resolution:
