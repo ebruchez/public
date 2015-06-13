@@ -1,5 +1,7 @@
 # Predictions
 
+Predictions are fun! Here I am keeping track of my predictions and a few of my friends', trying to be reasonably specific about what exactly is being predicted and when it will happen. I take it as a game and won't feel too disappointed if my own predictions don't happen.
+
 ## My own predictions
 
 - 2015-06-11:
