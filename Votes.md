@@ -2,27 +2,27 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
-## [Votation populaire du 14 juin 2015](https://www.ch.ch/fr/votation-federale-14-06-2015/) (results)
+## [Votation populaire du 14 juin 2015](https://www.ch.ch/fr/votation-federale-14-06-2015/) ([results](https://www.admin.ch/ch/f/pore/va/20150614/index.html))
 
 1. [Arrêté fédéral du 12 décembre 2014 concernant la modification de l'article constitutionnel relatif à la procréation médicalement assistée et au génie génétique dans le domaine humain](https://www.admin.ch/gov/fr/accueil/documentation/votations/20150614/praeimplantationsdiagnostik.html)
 	- VOTED: __YES__
 	- EXPECTED: YES
-	- RESULT: PENDING
+	- [RESULT](https://www.admin.ch/ch/f/pore/va/20150614/det592.html): YES 61.9%
 	- A no-brainer: it's done in other places already, and it will help lots of couples trying to have children.
 2. [Initiative populaire du 20 janvier 2012 «Initiative sur les bourses d'études»](https://www.admin.ch/gov/fr/accueil/documentation/votations/20150614/stipendieninitiative.html)
 	- VOTED: __ABSTAINED__
 	- EXPECTED: NO
-	- RESULT: PENDING
+	- [RESULT](https://www.admin.ch/ch/f/pore/va/20150614/det593.html): NO 72.5%
 	- Is it better for student help to be done at the federal or canton level? I just don't know.
 3. [Initiative populaire du 15 février 2013 «Imposer les successions de plusieurs millions pour financer notre AVS (Réforme de la fiscalité successorale)»](https://www.admin.ch/gov/fr/accueil/documentation/votations/20150614/erbschaftssteuerreform.html)
 	- VOTED: __ABSTAINED__
 	- EXPECTED: NO
-	- RESULT: PENDING
+	- [RESULT](https://www.admin.ch/ch/f/pore/va/20150614/det594.html): NO 71%
 	- Another difficult one. To better figure it out I would need concrete examples of how this would impact the successions in various Swiss cantons. This information is not provided by the official booklet. So as I lack information and haven't managed to spend time researching it, I prefer to abstain. This is probably an example of the limits of direct democracy when subjects become technical.
 4. [Modification du 26 septembre 2014 de la loi fédérale sur la radio et la télévision](https://www.admin.ch/gov/fr/accueil/documentation/votations/20150614/rtvg.html)
 	- VOTED: __ABSTAINED__
 	- EXPECTED: NO
-	- RESULT: PENDING
+	- [RESULT](https://www.admin.ch/ch/f/pore/va/20150614/det595.html): YES 50.1% (very tight!)
 	- This is a difficult one.
 	- The Swiss currently pay, per family, CHF 462 (~ USD 496) per year. That's a lot of money for a service you might not be asking for.
 	- The new law says this amount will be lower per family (CHF 400 or ~ USD 430). That's an improvement, but it's in the same ballpark.
