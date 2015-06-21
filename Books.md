@@ -39,6 +39,7 @@ Dates are completion dates.
 
 ### 2015
 
+- 2015-06-14: [Terry Pratchett - Equal Rites](https://en.wikipedia.org/wiki/Equal_Rites)
 - 2015-05-13: [Terry Pratchett - The Light Fantastic](https://en.wikipedia.org/wiki/The_Light_Fantastic)
 - 2015-04-xx: [Terry Pratchett - The Color of Magic](https://en.wikipedia.org/wiki/The_Colour_of_Magic)
 - 2015-03-10: [Jules Verne - Cinq semaines en ballon](https://fr.wikipedia.org/wiki/Cinq_semaines_en_ballon) #ebook #gutenberg
