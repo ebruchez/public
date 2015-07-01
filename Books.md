@@ -6,34 +6,13 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 - Finish [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
 
-## Books I plan to read in 2014
+## Books I am currently reading
 
-See also [the blog post](http://blog.bruchez.name/2014/01/books-i-plan-to-read-in-2014.html).
-
-- History: [The Great Chinese Revolution](http://www.amazon.com/The-Great-Chinese-Revolution-1800-1985/dp/006039076X)
-    - *NOTE: I read about 200 out of 368 pages a few years back*
-- Science: [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
-- Philosophy: [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
-- Biography: [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
-    - *NOTE: Started in 2011.*
-- Music:
-    - [Pietro Mascagni](http://www.amazon.com/Pietro-Mascagni-Cesare-Orselli/dp/8883024001)
-    - or [The Autumn of Italian Opera](http://www.amazon.com/The-Autumn-Italian-Opera-Modernism/dp/1555536832)
-        - *NOTE: Started a few years back.*
-- Fantasy: [The Belgariad, Vol. 1](http://www.amazon.com/The-Belgariad-Vol-Books-1-3/dp/0345456327/)
-
-Other suggestions for 2014:
-
-- Technology: [Functional Programming in Scala](http://www.manning.com/bjarnason/)
-- Parenting: [How to Talk So Kids Will Listen & Listen So Kids Will Talk](http://www.amazon.com/How-Talk-Kids-Will-Listen-ebook/dp/B005GG0MXI/)
-- Economics: ???
-
-## Currently reading
-
+- John Toland - [Adolf Hitler: The Definitive Biography](http://www.amazon.com/gp/product/B00JTCJF4W) (started 2015-06) #ebook
 - Daniel C. Dennett  - [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/) #paper
 - Antoine de Saint-Exupéry - Terre des Hommes #ebook
 
-## Read
+## Books I have read
 
 Dates are completion dates.
 
@@ -143,7 +122,7 @@ From "The Problems of Philosophy":
 - Hume: Enquiry concerning Human Understanding.
 - Kant: Prolegomena to any Future Metaphysic.
 
-## Other books that might be interesting
+### Other books that might be interesting
 
 - [Beethoven, by Maynard Solomon](http://www.amazon.com/Beethoven-Maynard-Solomon/dp/0028647173/)
 - Stephen King's "On Writing"
@@ -151,3 +130,25 @@ From "The Problems of Philosophy":
 - John Stuart Mills [autobiography](http://www.gutenberg.org/ebooks/10378)
 - something by Henri Bergson
 - something by Piaget
+
+## Books I had planned to read in 2014 but didn't read
+
+See also [the blog post](http://blog.bruchez.name/2014/01/books-i-plan-to-read-in-2014.html).
+
+- History: [The Great Chinese Revolution](http://www.amazon.com/The-Great-Chinese-Revolution-1800-1985/dp/006039076X)
+    - *NOTE: I read about 200 out of 368 pages a few years back*
+- Science: [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
+- Philosophy: [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
+- Biography: [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
+    - *NOTE: Started in 2011.*
+- Music:
+    - [Pietro Mascagni](http://www.amazon.com/Pietro-Mascagni-Cesare-Orselli/dp/8883024001)
+    - or [The Autumn of Italian Opera](http://www.amazon.com/The-Autumn-Italian-Opera-Modernism/dp/1555536832)
+        - *NOTE: Started a few years back.*
+- Fantasy: [The Belgariad, Vol. 1](http://www.amazon.com/The-Belgariad-Vol-Books-1-3/dp/0345456327/)
+
+Other suggestions for 2014:
+
+- Technology: [Functional Programming in Scala](http://www.manning.com/bjarnason/)
+- Parenting: [How to Talk So Kids Will Listen & Listen So Kids Will Talk](http://www.amazon.com/How-Talk-Kids-Will-Listen-ebook/dp/B005GG0MXI/)
+- Economics: ???
