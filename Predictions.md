@@ -4,6 +4,34 @@ Predictions are fun! Here I am keeping track of my predictions and a few of my f
 
 ## My pending predictions
 
+### 2015-07-04: General considerations on self-driving cars
+
+Self-driving cars are a great area for predictions!
+
+The technology of the [Google driverless car](https://en.wikipedia.org/wiki/Google_driverless_car) is pretty impressive already, based on this [June 2015 TED Talk by Chris Urmson](http://www.ted.com/talks/chris_urmson_how_a_driverless_car_sees_the_road). I am pretty sure that self-driving cars will happen, although some legal, social, and technological obstacles remain. The big question is *when* they will be overcome, and what kind of predictions make sense.
+
+Here are some examples of milestones that come to mind:
+
+- Demonstration of end-to-end automated vehicles picking up and dropping off people in realistic scenarios (such as home to work). This must include the ability for the vehicle to park or wait in a safe location, and to drive safely and without unreasonable delays. This must include local driving, and may include highway driving. For demonstration purposes, a human supervisor may be present in the car.
+- First US state to allow (under conditions to be met) certain types of fully automated vehicles on at least some public roads. Such vehicles do not require a driver at all, and might not even have a driving wheel (like the Google car). No driver license is needed to enter the car. The car can circulate on its own without any human aboard.
+- First lawsuit related to to a self-driving vehicle having allegedly caused harm.
+- First non-US country or state to allow some fully automated vehicles on at least some public roads.
+- First company operating a fleet of fully automated taxis (it could be Uber).
+- Self-driving vehicles (owned or not) are an option for some people (in the same way electric vehicles such as the Nissan Leaf are as of 2015) as a replacement for a regular car. Such vehicles might be operated by a separate company. They are an option to take people to and from work on a daily basis, as well as perform other trips.
+- Self-driving vehicles are mainstream.
+- First time the fleet of individual cars in the US is reduced by 50% compared to 2015 levels.
+- Most people don't own a car.
+- It is reasonable to most young people (at least in a certain area, say California) to completely avoid getting a driver license and never learn how to drive.
+
+Trucks are also an obvious target for self-driving technology as they drive long distances. Here are a few milestones:
+
+- Demonstration of self-driving 18-wheeler for long highway drives (such as CA highway 5). Daimler has just revealed a [limited concept in May 2015](http://www.huffingtonpost.com/2015/05/07/self-driving-truck_n_7225490.html).
+- Commercial availability of self-driving 18-wheeler for long highway drives (such as CA highway 5), still requiring a driver in the cab for supervision, entering and existing highways, and local driving.
+- First law against self-driving trucks passed in a US state, under the pressure of truckers.
+- First law against self-driving trucks passed in a non-US country or state (for example Europe), under the pressure of truckers.
+- Repeal of such laws after legal battles.
+- Fully automated self-driving 18-wheeler able to do end-to-end trips.
+
 ### PREDICTION-0012: 2015-07-04: Swift overtaking Objective-C
 
 - From: @ebruchez
