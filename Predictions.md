@@ -2,7 +2,14 @@
 
 Predictions are fun! Here I am keeping track of my predictions and a few of my friends', trying to be reasonably specific about what exactly is being predicted and when it will happen. I take it as a game and won't feel too disappointed if my own predictions don't happen.
 
-## My pending predictions
+Content:
+
+- [General considerations on self-driving vehicles](#2015-07-04-general-considerations-on-self-driving-vehicles)
+- [My pending predictions](#my-pending-predictions)
+- [My completed predictions](#my-completed-predictions)
+- [Other people's predictions](#other-peoples-predictions)
+
+## Considerations
 
 ### 2015-07-04: General considerations on self-driving vehicles
 
@@ -25,6 +32,7 @@ Here are some examples of milestones that come to mind:
 - Cities start reclaiming and repurposing roads and unused parking lots.
 - Most people don't own a car.
 - It is reasonable to most young people (at least in a certain area, say California) to completely avoid getting a driver license and never learn how to drive.
+- Some public roads are closed to vehicles with human drivers.
 
 Trucks are also an obvious target for self-driving technology as they drive long distances. Here are a few milestones:
 
@@ -34,6 +42,8 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - First law against self-driving trucks passed in a non-US country or state (for example Europe), under the pressure of truckers.
 - Repeal of such laws after legal battles.
 - Fully automated self-driving 18-wheeler able to do end-to-end trips.
+
+## My pending predictions
 
 ### PREDICTION-0012: 2015-07-04: Swift overtaking Objective-C
 
