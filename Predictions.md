@@ -4,7 +4,8 @@ Predictions are fun! Here I am keeping track of my predictions and a few of my f
 
 Content:
 
-- [General considerations on self-driving vehicles](#2015-07-04-general-considerations-on-self-driving-vehicles)
+- [Considerations](#considerations)
+    - [General considerations on self-driving vehicles](#2015-07-04-general-considerations-on-self-driving-vehicles)
 - [My pending predictions](#my-pending-predictions)
 - [My completed predictions](#my-completed-predictions)
 - [Other people's predictions](#other-peoples-predictions)
