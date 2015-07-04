@@ -4,7 +4,7 @@ Predictions are fun! Here I am keeping track of my predictions and a few of my f
 
 ## My pending predictions
 
-### 2015-07-04: General considerations on self-driving cars
+### 2015-07-04: General considerations on self-driving vehicles
 
 Self-driving cars are a great area for predictions!
 
