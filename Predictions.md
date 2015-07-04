@@ -8,7 +8,10 @@ Predictions are fun! Here I am keeping track of my predictions and a few of my f
 
 - From: @ebruchez
 - Text: "In June 2016, two years after Apple's announcement, Swift will have overtaken Objective-C on GitHub based on metrics by [RedMonk](http://redmonk.com/sogrady/category/programming-languages/)."
-- Comments: This is a renewal of PREDICTION-0005 below set for one year later.
+- Comments:
+    - This is a renewal of [PREDICTION-0005](#prediction-0005-2014-06-11-swift-overtaking-objective-c) below set for one year later.
+    - I think the momentum of Swift will accelerate this year due to Swift 2, open sourcing, and the fact that a rise in Swift means a decline of Objective-C.
+    - Last year's PREDICTION-0005 was too aggressive. I still think the updated prediction might not be realized in one year, but this is my bet!
 - Resolution:
 	- WAIT until 2016-07-01
 
@@ -33,7 +36,7 @@ Predictions are fun! Here I am keeping track of my predictions and a few of my f
 - Resolution:
     - WAIT until 2015-09
 
-### PREDICTION-0006: 2014-09-30: Smartphones screen sizes
+### PREDICTION-0006: 2014-09-30: Share of smartphones with large screen sizes
 
 - From: @ebruchez
 - Text: "In 1 year, 50% of smartphones sold in the US in the previous quarter will have screen sizes around 5.5 to 6 inches."
@@ -43,7 +46,7 @@ Predictions are fun! Here I am keeping track of my predictions and a few of my f
 - Resolution:
     - WAIT until 2015-09-30
 
-### PREDICTION-0003: 2013-09-26: Smart glasses
+### PREDICTION-0003: 2013-09-26: Smart glasses technology
 
 - From: @ebruchez
 - Text: "In 10 years, glasses with features identical to 2013 Google Glass (or better) will be indistinguishable from regular prescription eye glasses (except if social or legal requirements impose some identifying aspects)"
@@ -79,7 +82,7 @@ Predictions are fun! Here I am keeping track of my predictions and a few of my f
 
 ## Other people's predictions
 
-### PREDICTION-0011: 2015-07-02: Real-life test of Google self-driving cars
+### PREDICTION-0011: 2015-07-02: Timeline of real-life test of Google self-driving cars
 
 - From: @avernet
 - Text: "Google will not manage to start a real-life test of their self-driving car in the US before the end of Q1 2016. By real-life, we mean that such a test would not rely on Google employees. The test doesn't have to be in California, but it must be in the US and on public roads."
