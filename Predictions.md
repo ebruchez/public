@@ -19,7 +19,10 @@ Here are some examples of milestones that come to mind:
 - First company operating a fleet of fully automated taxis (it could be Uber).
 - Self-driving vehicles (owned or not) are an option for some people (in the same way electric vehicles such as the Nissan Leaf are as of 2015) as a replacement for a regular car. Such vehicles might be operated by a separate company. They are an option to take people to and from work on a daily basis, as well as perform other trips.
 - Self-driving vehicles are mainstream.
-- First time the fleet of individual cars in the US is reduced by 50% compared to 2015 levels.
+- Rate of car ownership in the US is reduced by 50% compared to 2015 levels.
+- Number of cars on the road in the US is reduced by 50% compared to 2015 levels.
+- Merger/bankruptcy of large car manufacturers due to the reduced market for vehicles.
+- Cities start reclaiming and repurposing roads and unused parking lots.
 - Most people don't own a car.
 - It is reasonable to most young people (at least in a certain area, say California) to completely avoid getting a driver license and never learn how to drive.
 
