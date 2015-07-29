@@ -1,6 +1,6 @@
 # Predictions
 
-Predictions are fun! Here I am keeping track of my predictions and a few of my friends', trying to be reasonably specific about what exactly is being predicted and when it will happen. I take it as a game and won't feel too disappointed if my own predictions don't happen.
+Predictions are fun! Here I am keeping track of my predictions and a few of my friends', trying to be reasonably specific about what exactly is being predicted and when it will happen. I take this as a game and won't feel too disappointed if my own predictions don't happen.
 
 Content:
 
@@ -23,7 +23,6 @@ Here are some examples of milestones that come to mind:
 - Demonstration of end-to-end automated vehicles picking up and dropping off people in realistic scenarios (such as home to work). This must include the ability for the vehicle to park or wait in a safe location, and to drive safely and without unreasonable delays. This must include local driving, and may include highway driving. For demonstration purposes, a human supervisor may be present in the car.
 - First US state to allow (under conditions to be met) certain types of fully automated vehicles on at least some public roads. Such vehicles do not require a driver at all, and might not even have a driving wheel (like the Google car). No driver license is needed to enter the car. The car can circulate on its own without any human aboard.
 - First lawsuit related to to a self-driving vehicle having allegedly caused harm.
-- First non-US country or state to allow some fully automated vehicles on at least some public roads.
 - First company operating a fleet of fully automated taxis (it could be Uber).
 - Self-driving vehicles (owned or not) are an option for some people (in the same way electric vehicles such as the Nissan Leaf are as of 2015) as a replacement for a regular car. Such vehicles might be operated by a separate company. They are an option to take people to and from work on a daily basis, as well as perform other trips.
 - Self-driving vehicles are mainstream.
@@ -31,16 +30,15 @@ Here are some examples of milestones that come to mind:
 - Number of cars on the road in the US is reduced by 50% compared to 2015 levels.
 - Merger/bankruptcy of large car manufacturers due to the reduced market for vehicles.
 - Cities start reclaiming and repurposing roads and unused parking lots.
-- Most people don't own a car.
-- It is reasonable to most young people (at least in a certain area, say California) to completely avoid getting a driver license and never learn how to drive.
+- Most (more than 50%) people don't own a car.
+- It is reasonable to most young people (at least in a certain area) to completely avoid getting a driver license and never learn how to drive.
 - Some public roads are closed to vehicles with human drivers.
 
 Trucks are also an obvious target for self-driving technology as they drive long distances. Here are a few milestones:
 
-- Demonstration of self-driving 18-wheeler for long highway drives (such as CA highway 5). Daimler has just revealed a [limited concept in May 2015](http://www.huffingtonpost.com/2015/05/07/self-driving-truck_n_7225490.html).
+- Demonstration of self-driving 18-wheeler for long highway drives (such as CA highway 5). Daimler has just revealed a [limited concept in May 2015](http://www.huffingtonpost.com/2015/05/07/self-driving-truck_n_7225490.html). See also [Self-Driving Trucks Are Going to Hit Us Like a Human-Driven Truck](https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961).
 - Commercial availability of self-driving 18-wheeler for long highway drives (such as CA highway 5), still requiring a driver in the cab for supervision, entering and existing highways, and local driving.
 - First law against self-driving trucks passed in a US state, under the pressure of truckers.
-- First law against self-driving trucks passed in a non-US country or state (for example Europe), under the pressure of truckers.
 - Repeal of such laws after legal battles.
 - Fully automated self-driving 18-wheeler able to do end-to-end trips.
 
