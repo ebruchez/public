@@ -4,36 +4,44 @@ This list was started 2014-07-11.
 
 I like reading research papers, mostly computer science papers. Here is a list of papers I have recently read (but not necessarily fully understood!).
 
+- 2015-08-10: [Climate-driven introduction of the Black Death and successive plague reintroductions into Europe](http://www.pnas.org/content/112/10/3020.full.pdf)
+    - I stumbled upon this as I was interested in the idea that the Black Death which ravaged Europe during the 14th century was also the cause of the fall of the Mongols in China.
+    - This article doesn't address that topic. Instead, it addresses the idea that the plague was introduced multiple times in Europe from Asia during the course of about four centuries.
+- 2015-08-06: [Analysis of a Tidal Barrage at the Golden Gate (2007)](http://www.bcdc.ca.gov/pdf/planning/Golden_Gate_Dam_Report.pdf)
+    - As a Foster City resident, I am particularly interested in  the impact and solutions to rising ocean levels.
+    - This article rejects the idea that a large tidal barrage for the entire Bay Area would be an economical solution.
+    - However, the article was commissioned by the government and seems to be skeptical from the get-go that a barrage would be a solution.
+    - Still, I tend to agree (based on very little evidence), one reason being that building levies is probably much cheaper as well as less likely to have unintended consequences.
 - 2015-05-13: [Diet Soda Intake Is Associated with Long-Term Increases in Waist Circumference in a Biethnic Cohort of Older Adults: The San Antonio Longitudinal Study of Aging (2015)](http://onlinelibrary.wiley.com/store/10.1111/jgs.13376/asset/jgs13376.pdf?v=1&t=i9ohqsq1&s=7a97ce557e6f68e8de264dbb2867d2a9d4c32220)
-  - "384 FU1 participants whose DSI had been ascertained at baseline"
-  - "DS users […] had higher education levels and were more likely to live in the suburbs and be European American and less likely to smoke or live in lower-income barrios."
-  - "DS users also had significantly higher baseline BMI than nonusers and tended to have larger WC"
-  - "Baseline prevalence of overweight or obesity […] was significantly higher […] in occasional […] and daily […] DS users than in nonusers"
-  - "Although they consumed no regular sodas, daily DS users consumed significantly more total sodas daily (1.54) than occasional DS users (0.38) or nonusers (0.34)."
-  - "For men, after age 65, BMI rose slowly, peaked by age 75, and then declined rapidly; by contrast, WC increased steadily beyond age 65 and plateaued by age 80. Divergence between BMI and WC trajectories was even more striking for women"
-  - "This divergence is consistent with previous reports of increasing visceral adiposity, with declining muscle mass, in advancing age."
-  - "By contrast, WC gains occurred in all DSI categories but were dramatically higher for DS users than nonusers, despite adjustment for initial WC, age, diabetes mellitus status, leisure-time physical activity, smoking status, demo- graphic factors, and follow-up length."
-  - "interval DWC of daily users was nearly four times that of nonusers […]. This would translate into cumulative adjusted DWCs of 0.80 inches for nonusers, 1.83 inches for occasional users, and 3.16 inches for daily users over the total SALSA follow-up."
-  - "By contrast, no consistent relationship was observed between regular soda use and mean DWC"
-  - "aged 65 and older at baseline, a striking, positive dose-response relationship was observed between initial DSI and subsequent long-term increases in WC over a mean total follow-up of almost a decade."
-  - "mean interval WC gain in all DS users—including daily and occasional users—was almost three times that of nonusers"
-  - "obese users had the worst outcomes in the current study"
-  - "The current results suggest one potential pathway — greater abdominal adiposity — through which daily DS consumption might be linked to the greater cardiometabolic risk observed in some of these studies."
-  - "Over the past 20 years, abdominal adiposity has been prospectively associated with greater risk of an array of adverse health outcomes"
-  - "for these older DS users, greater abdominal girth is of particular concern because it is associated with disproportionately greater visceral fat"
-  - "In some studies, abdominal adiposity has outperformed BMI in identifying older individuals at greater cardiometabolic risk"
-  - "For this reason, dietary counseling for older individuals would ideally include the promotion of unsweetened coffee and tea, mineral water — unsweetened or lightly sweetened with 100% fruit juice — or simply water as alternatives to highly sweetened beverages."
-  - "the degree to which younger individuals would experience the same results is unknown. Whether DSI exacerbated the WC gains observed in SALSA participants is unclear"
-  - "other factors — including family history and perceived personal weight-gain and health-risk trajectories — that increased DWC but were not captured in the analyses may have influenced participant decisions to use DS"
-  - "across all intervals, approximately 80% of daily DS users at the beginning of the interval remained DS users at the outset of the next follow-up period, and 82% of nonusers at the outset of each follow-up period remained nonusers at the outset of the subsequent follow- up period"
+    - "384 FU1 participants whose DSI had been ascertained at baseline"
+    - "DS users […] had higher education levels and were more likely to live in the suburbs and be European American and less likely to smoke or live in lower-income barrios."
+    - "DS users also had significantly higher baseline BMI than nonusers and tended to have larger WC"
+    - "Baseline prevalence of overweight or obesity […] was significantly higher […] in occasional […] and daily […] DS users than in nonusers"
+    - "Although they consumed no regular sodas, daily DS users consumed significantly more total sodas daily (1.54) than occasional DS users (0.38) or nonusers (0.34)."
+    - "For men, after age 65, BMI rose slowly, peaked by age 75, and then declined rapidly; by contrast, WC increased steadily beyond age 65 and plateaued by age 80. Divergence between BMI and WC trajectories was even more striking for women"
+    - "This divergence is consistent with previous reports of increasing visceral adiposity, with declining muscle mass, in advancing age."
+    - "By contrast, WC gains occurred in all DSI categories but were dramatically higher for DS users than nonusers, despite adjustment for initial WC, age, diabetes mellitus status, leisure-time physical activity, smoking status, demo- graphic factors, and follow-up length."
+    - "interval DWC of daily users was nearly four times that of nonusers […]. This would translate into cumulative adjusted DWCs of 0.80 inches for nonusers, 1.83 inches for occasional users, and 3.16 inches for daily users over the total SALSA follow-up."
+    - "By contrast, no consistent relationship was observed between regular soda use and mean DWC"
+    - "aged 65 and older at baseline, a striking, positive dose-response relationship was observed between initial DSI and subsequent long-term increases in WC over a mean total follow-up of almost a decade."
+    - "mean interval WC gain in all DS users—including daily and occasional users—was almost three times that of nonusers"
+    - "obese users had the worst outcomes in the current study"
+    - "The current results suggest one potential pathway — greater abdominal adiposity — through which daily DS consumption might be linked to the greater cardiometabolic risk observed in some of these studies."
+    - "Over the past 20 years, abdominal adiposity has been prospectively associated with greater risk of an array of adverse health outcomes"
+    - "for these older DS users, greater abdominal girth is of particular concern because it is associated with disproportionately greater visceral fat"
+    - "In some studies, abdominal adiposity has outperformed BMI in identifying older individuals at greater cardiometabolic risk"
+    - "For this reason, dietary counseling for older individuals would ideally include the promotion of unsweetened coffee and tea, mineral water — unsweetened or lightly sweetened with 100% fruit juice — or simply water as alternatives to highly sweetened beverages."
+    - "the degree to which younger individuals would experience the same results is unknown. Whether DSI exacerbated the WC gains observed in SALSA participants is unclear"
+    - "other factors — including family history and perceived personal weight-gain and health-risk trajectories — that increased DWC but were not captured in the analyses may have influenced participant decisions to use DS"
+    - "across all intervals, approximately 80% of daily DS users at the beginning of the interval remained DS users at the outset of the next follow-up period, and 82% of nonusers at the outset of each follow-up period remained nonusers at the outset of the subsequent follow- up period"
 - 2014-07-08: [Combining Form and Function - Static Types for JQuery Programs (2013?)](http://cs.brown.edu/~sk/Publications/Papers/Published/lelk-types-jquery-programs/paper.pdf)
 - 2014-05-07: [High-Latency, Low-Bandwidth Windowing in the Jupiter Collaboration System (1995)](http://lively-kernel.org/repository/webwerkstatt/!svn/bc/15693/projects/Collaboration/paper/Jupiter.pdf)
-  - About [Operational Transformation (OT)](http://en.wikipedia.org/wiki/Operational_transformation), the inspiration for Google Wave.
+    - About [Operational Transformation (OT)](http://en.wikipedia.org/wiki/Operational_transformation), the inspiration for Google Wave.
 - 2014-04-24: [Why Functional Programming Matters (1984)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 - 2014-04-08: Pause ’n’ Play: Formalizing Asynchronous C♯ (2012)
-  - The async/await construct is being implemented in many programming languages: Scala, JavaScript, Dart. C# did it first, and I was curious to read what the original designers had to say about it. This paper is about formalizing async/await mainly, but there is a good section about the history of the idea, referred to by @headinthebox.
+    - The async/await construct is being implemented in many programming languages: Scala, JavaScript, Dart. C# did it first, and I was curious to read what the original designers had to say about it. This paper is about formalizing async/await mainly, but there is a good section about the history of the idea, referred to by @headinthebox.
 - 2014-03-05: [Dynamic Code Evolution for Java (2010)](http://ssw.jku.at/Research/Papers/Wuerthinger10a/Wuerthinger10a.pdf)
 - 2014-02-09: [Document Restoration Using 3D Shape (1998)](https://www.comp.nus.edu.sg/~brown/pdf/iccv01_brown.pdf)
-  - I was interested in seeing whether there were algorithm to properly deskew scans. I still haven't found something reasonable.
+    - I was interested in seeing whether there were algorithm to properly deskew scans. I still haven't found something reasonable.
 - 2014-01-22: [When Intentions go Public (2009)](http://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Seifert_Michalski_When_Intentions_.pdf)
 - 2014-01-08: [On Proof and Progress in Mathematics (1993)](http://arxiv.org/pdf/math/9404236v1.pdf)
