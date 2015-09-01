@@ -4,7 +4,7 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Books I plan to read in 2015
 
-- Finish [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
+- MAYBE: A Dan Simmons book.
 
 ## Books I am currently reading
 
@@ -93,6 +93,7 @@ Dates are completion dates.
 
 ### Fundamental texts
 
+- Adam Smith - [The Theory of Moral Sentiments (1759)](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
 - [Adam Smith - The Wealth of Nations (1776)](http://www.gutenberg.org/ebooks/3300)
 - [Charle Darwin - On the Origin of Species (1859)](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
 - [Thomas Paine - Common Sense](http://www.gutenberg.org/ebooks/147) (or http://www.gutenberg.org/ebooks/3755)
@@ -102,12 +103,12 @@ Dates are completion dates.
 
 - Winston Churchill
 - USSR and its dissolution
-- Hitler
 - The Holocaust
 - Nixon
 - Vietnam war
 - Mao [maybe The Great Chinese Revolution is enough]
 - WWI in general (The First World War (John Keegan))
+	- 2015-08-31: Just finished listening to @hardcorehistory's  6-part ["Blueprint for Armageddon"](http://www.dancarlin.com/hh-55). Just great! #history #wwi #podcast
 - WWII in general
 
 ### Books recommended by Bertrand Russell
@@ -121,6 +122,14 @@ From "The Problems of Philosophy":
 - Berkeley: Three Dialogues between Hylas and Philonous.
 - Hume: Enquiry concerning Human Understanding.
 - Kant: Prolegomena to any Future Metaphysic.
+
+### Books recommended by Dan Simmons
+
+From [this interview](https://www.instapaper.com/read/627814694):
+
+- Humboldt's Gift
+- Proust
+- Gravity's Rainbow
 
 ### Other books that might be interesting
 
