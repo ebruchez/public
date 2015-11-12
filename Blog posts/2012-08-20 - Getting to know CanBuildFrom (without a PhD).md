@@ -1,14 +1,16 @@
 Recently I needed to write a pretty simple function: given a sequence of `(name, value)` pairs, return
 a sequence of `(name, some collection of all the values having that name)` pairs. Here is a simple implementation:
 
-    def combineValues(pairs: Seq[(String, String)]): Seq[(String, Seq[String])] = {
-        val result = LinkedHashMap[String, List[String]]()
+```scala
+def combineValues(pairs: Seq[(String, String)]): Seq[(String, Seq[String])] = {
+  val result = LinkedHashMap[String, List[String]]()
 
-        for ((name, value) ← pairs)
-            result += name → (value :: result.getOrElse(name, Nil))
+  for ((name, value) ← pairs)
+    result += name → (value :: result.getOrElse(name, Nil))
 
-        result.toList
-    }
+  result.toList
+}
+```
 
 Then I realized that I not only needed the result as a `Seq[(String, Seq[String])]`, but also as a
 `Seq[(String, Array[AnyRef])]`, for compatibility with a Java API. I could of course transform one into the other,
@@ -18,8 +20,10 @@ Let's think a little bit about what this entails: the revised `combineValues` ne
 specified by the caller. So first the type needs to be specified, which means that the function needs to take so-called
 *type parameters*: one for the resulting collection type, and one for the item type:
 
-    import language.higherKinds // so that Scala 2.10 doesn't warn
-    def combineValues[U, T[_]](pairs: Seq[(String, String)]): Seq[(String, T[U])]
+```scala
+import language.higherKinds // so that Scala 2.10 doesn't warn
+def combineValues[U, T[_]](pairs: Seq[(String, String)]): Seq[(String, T[U])]
+```
 
 The type parameters are specified with the funny `[U, T[_]]` declaration before the usual function parameters. You have
 probably seen this syntax on generic classes. But functions can have type parameters too!
@@ -40,17 +44,23 @@ A couple of remarks on the syntax:
 Here is how you call the function with explicit type parameters (sometimes, type parameters can be inferred by the
 compiler, but not here):
 
-    combineValues[String, List](seq)
+```scala
+combineValues[String, List](seq)
+```
 
 Now the function needs to make use of these type parameters to create the new collections. How do we do that?
 
 Naively, let's try creating new empty collections of type `T[U]` using a constructor:
 
-    new T[U] // incorrect Scala
+```scala
+new T[U] // incorrect Scala
+```
 
 or, using a companion object's `apply`:
 
-    T[U]() // incorrect Scala
+```scala
+T[U]() // incorrect Scala
+```
 
 Unfortunately, neither even compiles. How would something like this work anyway? You could imagine that the
 runtime type information is available to `combineValues` and then use reflection to create new instances. But:
@@ -83,15 +93,20 @@ be consequential here.) In short it's a factory able to return a `Builder` for a
 
 A version of our function receiving a `CanBuildFrom` looks like this:
 
-    def combineValues[U, T[_]](pairs: Seq[(String, String)],
-            cbf: CanBuildFrom[T[U], U, T[U]]): Seq[(String, T[U])] = {
-        val result = LinkedHashMap[String, Builder[String, T[U]]]()
+```scala
+def combineValues[U, T[_]](
+  pairs : Seq[(String, String)],
+  cbf   : CanBuildFrom[T[U], U, T[U]]
+): Seq[(String, T[U])] = {
 
-        for ((name, value) ← pairs)
-            result.getOrElseUpdate(name, cbf()) += value
+  val result = LinkedHashMap[String, Builder[String, T[U]]]()
 
-        result map { case (k, v) ⇒ k → v.result } toList
-    }
+  for ((name, value) ← pairs)
+    result.getOrElseUpdate(name, cbf()) += value
+
+  result map { case (k, v) ⇒ k → v.result } toList
+}
+```
 
 Note where the factory is called: `cbf()`, and where the resulting collection is obtained: `v.result`.
 
@@ -102,8 +117,10 @@ Of course, and this is why the Scala collections and `CanBuildFrom` are designed
 parameters*. The idea is that instead of finding and passing the factory explicitly to the function, the compiler does
 that for you. So we change the signature as follows:
 
-    def combineValues[U, T[_]](pairs: Seq[(String, String)])
-            (implicit cbf: CanBuildFrom[T[U], U, T[U]]): Seq[(String, T[U])]
+```scala
+def combineValues[U, T[_]](pairs: Seq[(String, String)])
+  (implicit cbf: CanBuildFrom[T[U], U, T[U]]): Seq[(String, T[U])]
+```
 
 Notice how we changed `cbf` from a regular parameter to an implicit parameter with the `implicit` keyword, and moved it to
 a second parameter list (yes, Scala supports more than one parameter list).
@@ -118,13 +135,17 @@ collection types such as `Seq` and `Array`. So the compiler will find them witho
 
 So say we call the function like this:
 
-    combineValues[AnyRef, Array](seq)
-    combineValues[String, List](seq)
+```scala
+combineValues[AnyRef, Array](seq)
+combineValues[String, List](seq)
+```
 
 The compiler will respectively search for the following `CanBuildFrom` instances, and pass them to the function:
 
-    CanBuildFrom[Array[AnyRef], AnyRef, Array[AnyRef]]
-    CanBuildFrom[List[String], String, List[String]]
+```scala
+CanBuildFrom[Array[AnyRef], AnyRef, Array[AnyRef]]
+CanBuildFrom[List[String], String, List[String]]
+```
 
 And it will just work!
 

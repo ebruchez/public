@@ -61,8 +61,8 @@ So here `fraction` is defined as a regular function, but conceptually it is a pa
 
 ```scala
 val fraction = new PartialFunction[Int, Int] {
-    def apply(d: Int) = 42 / d
-    def isDefinedAt(d: Int) = d != 0
+  def apply(d: Int) = 42 / d
+  def isDefinedAt(d: Int) = d != 0
 }
 ```
 
@@ -88,7 +88,7 @@ This takes us back to the use of `case` to define partial functions. The exact s
 
 ```scala
 val fraction: PartialFunction[Int, Int] =
-    { case d: Int if d != 0 ⇒ 42 / d }
+  { case d: Int if d != 0 ⇒ 42 / d }
 ```
 
 (Notice that you must specify that the `PartialFunction[Int, Int]` type. It would be great if Scala had a syntax to make this even more compact but it doesn't as of Scala 2.11.)
@@ -108,7 +108,7 @@ The idea doesn't apply only to numbers. In our `collect` example above, the part
 
 ```scala
 val incAny: PartialFunction[Any, Int] =
-    { case i: Int ⇒ i + 1 }
+  { case i: Int ⇒ i + 1 }
 ```
 
 The function takes an `Any` as parameter because `List(41, "cat")` is a `List[Any]`. But it is only defined for inputs that are of type `Int`:
@@ -142,7 +142,7 @@ Notice that partial functions can lie:
 
 ```scala
 scala> val liar: PartialFunction[Any, Int] =
-    { case i: Int ⇒ i; case s: String ⇒ s.toInt }
+  { case i: Int ⇒ i; case s: String ⇒ s.toInt }
 liar: PartialFunction[Any,Int] = <function1>
 scala> liar.isDefinedAt(42)
 res10: Boolean = true
@@ -156,7 +156,7 @@ Here `liar` says incorrectly that it's defined for `"cat"`. It would probably be
 
 ```scala
 scala> val honest: PartialFunction[Any, Int] =
-    { case i: Int ⇒ i; case s: String if isParsableAsInt(s) ⇒ s.toInt }
+  { case i: Int ⇒ i; case s: String if isParsableAsInt(s) ⇒ s.toInt }
 honest: PartialFunction[Any,Int] = <function1>
 scala> honest.isDefinedAt("cat")
 res12: Boolean = false

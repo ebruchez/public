@@ -1,24 +1,32 @@
 In Scala, you have a few ways to express that a function returns the `Unit` type.[^1] A common way is to use the
 function syntax and specify a result type of `Unit`:
 
-    def foo: Unit = ...
+```scala
+def foo: Unit = ...
+```
 
 Like for any result type, the type annotation is not necessary if the function body already returns the expected type,
 as in:
 
-    def newline = println()
+```scala
+def newline = println()
+```
 
 or:[^2]
 
-    trait Foo {
-        def log = ()
-    }
+```scala
+trait Foo {
+  def log = ()
+}
+```
 
 The type annotation is useful not only for documentation purposes, but also in case the last expression of the
 function body happens to return a result of a type which is not `Unit`:
 
-    def focus(): Boolean = ...    // function with side effect but which also returns a value
-    def justFocus: Unit = focus() // function with side effect returning Unit
+```scala
+def focus(): Boolean = ...    // function with side effect but which also returns a value
+def justFocus: Unit = focus() // function with side effect returning Unit
+```
 
 Now you might wonder, as [@avernet](https://twitter.com/avernet) and I did yesterday, how this last bit can work!
 How does the compiler, with an expected type of `Unit` on one hand, and an actual expression type of `Boolean` on the other hand,
