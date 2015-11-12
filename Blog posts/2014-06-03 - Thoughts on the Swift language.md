@@ -1,4 +1,4 @@
-## What it is
+### What it is
 
 I am not a language designer but I love programming languages, so I can't resist putting down a few rough thought on [Swift](https://developer.apple.com/swift/), the new programming language announced on Monday by Apple. It is designed to make Objective-C, the main language used to build apps on iOS and OS X, a thing of the past. I think it's fair to say that this was, for developers, the highlight of Monday's [WWDC keynote](http://www.apple.com/apple-events/june-2014/).
 
@@ -8,7 +8,7 @@ John Siracusa captured the general idea in his 2005 [Avoiding Copland 2010](http
 
 There was a possibility that Apple would keep patching Objective-C, moving toward a superset of a safe subset of it. But I don't think that anybody not working at Apple saw Swift coming that, well, swiftly. [^secret]
 
-## Why this is good for programmers
+### Why this is good for programmers
 
 Reactions to Swift so far seem mostly positive. (I don't tend to take the negative reactions I have seen seriously as they are not argumented.) As Jeff Atwood [tweeted](https://twitter.com/codinghorror/status/473567506662035456): "TIL nobody actually liked Objective-C.". I share the positive feeling for three reasons:
 
@@ -25,7 +25,7 @@ Second, concepts which many Objective-C developers might not have been familiar 
 
 Finally, arguments over the heavy, ugly syntax of Objective-C, and its lack of modern features can be put to rest: Apple has decided the future path for iOS and OS X developers. That ship has sailed.
 
-## Where it fits
+### Where it fits
 
 What kind of language is Swift? I noticed on Twitter that many had a bit of trouble positioning the language. Did Apple reinvent JavaScript? Or Go? Is Swift functional first? Is it even like Scala? What about C#? Or Clojure or XQuery?
 
@@ -47,7 +47,7 @@ Here are a few essential aspects of Swift which are not language features but wh
 
     Swift is a bit odd in that native compilation and lack of full garbage collection make it closer to systems language, yet it is clearly designed to build applications. I wish the balance had moved more toward the higher level rather than the lower level, but it's an interesting middle ground.
 
-## What's disappointing
+### What's disappointing
 
 Here are a few aspects of Swift which, at first glance, disappoint me a bit. Keeping in mind that this is a first version of Swift which has room to grow:
 
@@ -63,7 +63,7 @@ Here are a few aspects of Swift which, at first glance, disappoint me a bit. Kee
 
 1. __Well, innovation__: Dart, Go, Hack, and Swift show that it is very hard for big companies to come up with something really unique in their programming languages. Academia remains the place where new ideas are born and grow. Still, it would have been nice if there was one or two new things in Swift that would make it special, like for example [Scala's implicits](http://programmers.stackexchange.com/questions/150953/historical-origins-of-scala-implicits) which have turned out to have far-reaching consequences (several of which I really like).
 
-## Browser and server
+### Browser and server
 
 I am curious to see if Swift will see adoption on the server, for services. It might make sense for Apple to use Swift internally for their services, although having a language is not enough: you need  proper infrastructure for concurrent and distributed computing. Swift is not there yet. But it could be in the future. This is a bit less important to Apple than the client at this time.
 
@@ -71,7 +71,7 @@ What about the browser? Could one conceivably create a Swift-to-JavaScript compi
 
 So there might be room, in years to come, for Swift to conquer more environments.
 
-## Google!
+### Google!
 
 Where does Google stand with regards to this? It's curious, but I think now that it's Google which might have a programming language problem! Android uses Java but, as famous programming languages guy [Erik Meijer tweeted](https://twitter.com/headinthebox/status/473552760520994816), "Swift makes Java look tired." (To be fair, most languages make Java look tired.)
 

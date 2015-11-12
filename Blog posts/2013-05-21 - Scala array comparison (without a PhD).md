@@ -1,4 +1,4 @@
-## Scala collections and equality
+### Scala collections and equality
 
 Scala collections follow a simple set of general equality rules[^1]. Two collections are equal if:
 
@@ -10,14 +10,14 @@ This means the following:
 
     scala> List(1, 2, 3) == Vector(1, 2, 3)
     res0: Boolean = true
-    
+
     scala> List(1, 2, 3) == Set(1, 2, 3)
     res1: Boolean = false
-    
+
     scala> Set(1, 2, 3) == collection.mutable.LinkedHashSet(3, 1, 2)
     res2: Boolean = true
 
-## Arrays don't behave
+### Arrays don't behave
 
 The gotcha is that these rules break down with arrays:
 
@@ -25,13 +25,13 @@ The gotcha is that these rules break down with arrays:
     res3: Boolean = false
 
 And even:
-    
+
     scala> Array(1, 2, 3) == Array(1, 2, 3)
     res4: Boolean = false
 
 Why is this? The answer is that arrays in Java are treated specially all the way down to the JVM, and Scala arrays are just plain Java arrays. It is not possible to extend a JVM array, and this means in particular that it is not possible to override `equals` on arrays. Since native array eqality via `equals` does *not* compare array content, arrays are left to behave differently from Scala collections.
 
-## Solutions
+### Solutions
 
 So how do you go about comparing arrays in a way compatible with other Scala collections? First, there is an implicit conversion from `Array` to `collection.mutable.WrappedArray`, which is a `Seq`, so you can write:
 
@@ -47,7 +47,7 @@ Of course this also works if you pass an array to anything which expects a `Seq`
 
     scala> def sameStuff(s1: Seq[Int], s2: Seq[Int]) = s1 == s2
     foo: (s1: Seq[Int], s2: Seq[Int])Boolean
-    
+
     scala> sameStuff(Array(1, 2, 3), Array(1, 2, 3))
     res7: Boolean = true
 
@@ -60,7 +60,7 @@ There is another way to compare array content with `sameElements`:
 
 The benefit is that this more explicitly states the intent, and you don't need to convert the arrays to `Seq` via type declarations.
 
-## Nested arrays
+### Nested arrays
 
 Both solutions above only work if arrays are not nested. Consider:
 
@@ -78,13 +78,13 @@ The `deep` method wraps arrays so that each access to an array element is first 
 
 It is generally safe to use `deep` instead of `sameElements` or a conversion to `WrappedArray`, but the implementation of `deep` requires a number of pattern matches, which are not known to be the fastest. If the arrays are known to be flat, the other approaches might be more efficient.
 
-## Case classes
+### Case classes
 
 Consider this case class:
 
     scala> case class Foo(a: Array[Int])
     defined class Foo
-    
+
     scala> Foo(Array(1)) == Foo(Array(1))
     res11: Boolean = false
 
@@ -92,13 +92,13 @@ By now you know why this happens: the case class provides an implementation of `
 
     scala> case class Foo(a: Seq[Int])
     defined class Foo
-    
+
     scala> Foo(Array(1)) == Foo(Array(1))
     res12: Boolean = true
 
 Here the case class actually refers to a `WrappedArray`, obtained via implicit conversion from the original array.
 
-## Words of wisdom
+### Words of wisdom
 
 The equality issue suggests that it is wise to avoid arrays when possible. If you cannot avoid them, beware of the semantic of equality on them! But since arrays offer interoperability with Java and are compact, native data structures that offers performance benefits, it's often hard to live without them entirely.
 
@@ -109,7 +109,7 @@ There are a number of StackOverflow questions that cover this topic as well.[^3]
 [^2]: For an `Array[Int]`, the Scala implementation looks like:
 
         final class ofInt(val array: Array[Int]) extends WrappedArray[Int] { ... }
-        
+
     On the other hand it doesn't seem like `WrappedArray` uses `java.util.Arrays.equals()` so the actual comparison performance might not be absolutely optimal (but I don't have numbers).
 
 [^4]: On the other hand `ArrayOps` are value classes:
@@ -132,5 +132,4 @@ There are a number of StackOverflow questions that cover this topic as well.[^3]
     - [How do I compare two arrays in scala?](http://stackoverflow.com/questions/5393243/how-do-i-compare-two-arrays-in-scala)
     - [Why does `Array(0,1,2) == Array(0,1,2)` not return the expected result?](http://stackoverflow.com/questions/2481149/why-does-array0-1-2-array0-1-2-not-return-the-expected-result)
     - [Why doesn't the Array Equality Function Work as Expected?](http://stackoverflow.com/questions/3737711/why-doesnt-the-array-equality-function-work-as-expected)
-    
-    
+
