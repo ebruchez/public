@@ -1,3 +1,5 @@
+![Notice the tiny 27" iMac behind the Seiki][main-image]
+
 After reading some recent blog posts (such as [4K is for programmers][4k]) about using the [Seiki SE39UY04 39-Inch 4K TV][seiki] as a computer monitor, I figured it might be an interesting experiment and I ordered last week a slightly used one. The price including taxes and free shipping was just under $500.
 
 First, I do want more pixels [^pixels] but it's a bit unclear to me whether a 39" monitor is workable or even desirable on a desk. I currently use an old 30" Dell monitor, so I am used to big screens, but 39" is gigantic! [^ideal]
@@ -43,3 +45,5 @@ In the end I don't think I can get used to the lag, so the Seiki is going back. 
 [firefox]: http://blog.bruchez.name/2014/01/firefox-vs-chrome.html
 [chromium]: http://code.google.com/p/chromium/issues/detail?id=319580
 [osx]: http://arstechnica.com/apple/2014/03/first-os-x-10-9-3-beta-comes-with-improved-4k-display-support/
+
+[main-image]: https://raw.githubusercontent.com/ebruchez/public/master/Blog%20posts/images/2014-03-11-seiki-700.jpg class="responsive-image"
