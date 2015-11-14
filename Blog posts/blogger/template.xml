@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html b:version="2" class="v2" expr:dir="data:blog.languageDirection" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data"
+      xmlns:expr="http://www.google.com/2005/gml/expr">
+    <head>
+        <title><data:blog.pageTitle/></title>
+
+        <!-- Feeds -->
+        <link href="http://blog.bruchez.name/2011/10/scala-partial-functions-without-phd.html" rel="canonical" />
+        <link rel="alternate" type="application/atom+xml" title="Erik&#39;s Ponderings - Atom" href="http://blog.bruchez.name/feeds/posts/default" />
+        <link rel="alternate" type="application/rss+xml" title="Erik&#39;s Ponderings - RSS" href="http://blog.bruchez.name/feeds/posts/default?alt=rss" />
+        <link rel="service.post" type="application/atom+xml" title="Erik&#39;s Ponderings - Atom" href="https://www.blogger.com/feeds/2849901641571065621/posts/default" />
+
+        <link rel="alternate" type="application/atom+xml" title="Erik&#39;s Ponderings - Atom" href="http://blog.bruchez.name/feeds/3036986710428869478/comments/default" />
+
+        <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+        <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css' />
+        <!-- Materialize -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.2/css/materialize.min.css" />
+        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.2/js/materialize.min.js"></script>-->
+
+        <!-- Font Awesome-->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+
+        <!--Let browser know website is optimized for mobile-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/styles/darkula.min.css" />
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/highlight.min.js"></script>
+        <!--<link rel="stylesheet" href="css/highlight.js/styles/darkula.css" />-->
+        <!--<script src="css/highlight.js/highlight.pack.js"></script>-->
+        <script>hljs.initHighlightingOnLoad();</script>
+        <style>
+            html {
+               font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+            }
+
+            .container {
+                max-width: 700px;
+            }
+
+            @media only screen and (min-width: 601px) {
+                h1 {
+                    line-height: 64px;
+                }
+            }
+
+            .eb-post-metadata {
+                color: #a09b96;
+                text-transform: uppercase;
+                margin: 1em 0;
+            }
+
+            .eb-post-body {
+                margin: 1em 0;
+            }
+
+            .eb-post-body ul > li {
+                list-style-type: disc;
+            }
+
+            .eb-pager {
+                margin: 1em 0;
+                text-align: center;
+            }
+
+            .eb-post-labels a {
+                color: #ffb300;
+            }
+
+            h1 {
+                font-size: 2.1rem;
+                line-height: 56px;
+                margin: 0 0.75rem;
+            }
+
+            h2 {
+                font-size: 38px;
+                color: #0277bd;
+            }
+
+            h2 a {
+                color: #0277bd;
+            }
+
+            h3 {
+                font-size: 28px;
+                margin: 1em 0 0.5em 0;
+                color: #0277bd;
+            }
+
+            h4 {
+                font-size: 24px;
+                margin: 1em 0 0.5em 0;
+                color: #0277bd;
+            }
+
+            h3 > b {
+                font-weight: normal;
+            }
+
+            .section, .widget { margin: 0 }
+
+            .widget, .widget ul, .widget ol {
+                line-height: 1.5;
+            }
+
+            .widget li {
+                padding: 0;
+            }
+
+            figure {
+                /*float: right;*/
+            }
+
+            figure img {
+                max-width: 100%;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            figcaption {
+                text-align: center;
+                font-style: italic;
+            }
+
+            /*blockquote {*/
+                /*border: none;*/
+                /*font-family: Georgia, "Times New Roman", Times, serif;*/
+                /*position: relative;*/
+                /*!*max-width: 400px;*!*/
+                /*margin: 0 auto;*/
+                /*padding: 0 2.5em;;*/
+                /*font-size: 21px;*/
+                /*font-weight: normal;*/
+                /*color: rgba(0, 0, 0, 0.87);*/
+                /*font-style: italic;*/
+                /*clear: both;*/
+            /*}*/
+
+            /*blockquote:before {*/
+                /*content: "\201C";*/
+                /*font-weight: bold;*/
+                /*font-size: 100px;*/
+                /*color: lightgray;*/
+                /*position: absolute;*/
+                /*top: -0.3em;*/
+                /*left: -0.1em;*/
+                /*font-family: Georgia, "Times New Roman", Times, serif;*/
+            /*}*/
+
+            /*blockquote:after {*/
+                /*content: "\201D";*/
+                /*font-weight: bold;*/
+                /*font-size: 100px;*/
+                /*color: lightgray;*/
+                /*position: absolute;*/
+                /*bottom: -0.8em;*/
+                /*right: -0.1em;*/
+                /*font-family: Georgia, "Times New Roman", Times, serif;*/
+            /*}*/
+
+        </style>
+        <!--<b:include data="blog" name="all-head-content"/>-->
+        <b:include data="blog" name="google-analytics"/>
+
+        <b:skin><![CDATA[ ]]></b:skin>
+    </head>
+
+    <body>
+        <!--Import jQuery before materialize.js-->
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <script type="text/javascript" src="js/materialize.min.js"></script>
+
+        <nav class="light-blue darken-3">
+            <div class="nav-wrapper">
+                <a href="http://blog.bruchez.name/" class="brand-logo left"><h1>Erik's Ponderings</h1></a>
+                <ul id="nav-mobile" class="right hide-on-small-only">
+                    <li><a href="https://github.com/ebruchez/public/blob/master/README.md"><i class="fa fa-user"></i></a></li>
+                    <li><a href="https://twitter.com/ebruchez"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://github.com/ebruchez/"><i class="fa fa-github-alt"></i></a></li>
+                    <li><a href="http://blog.bruchez.name/feeds/posts/default"><i class="fa fa-feed"></i></a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <b:section id="main">
+            <b:widget id="Blog1" title="Blog Posts" type="Blog">
+                <b:includable id="main" var="top">
+                    <b:loop values="data:posts" var="post">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col s12">
+                                    <div class="section">
+                                        <!-- Post title with link -->
+                                        <a expr:name="data:post.id"/>
+
+                                        <div class="eb-post-metadata">
+                                            <b:if cond="data:post.dateHeader">
+                                                <span class="eb-post-date">
+                                                    <data:post.dateHeader/>
+                                                    |
+                                                </span>
+                                            </b:if>
+                                            <span class="author">
+                                                <data:post.author/>
+                                            </span>
+                                            <b:if cond="data:post.labels">
+                                                <span class="eb-post-labels">
+                                                    |
+                                                    <b:loop values="data:post.labels" var="label">
+                                                        <a expr:href="data:label.url" rel="tag">
+                                                            <data:label.name/>
+                                                        </a>
+                                                        <b:if cond="not data:label.isLast"> |</b:if>
+                                                    </b:loop>
+                                                </span>
+                                            </b:if>
+                                        </div>
+
+                                        <b:if cond="data:post.title">
+                                            <h2>
+                                                <b:if cond="data:post.link or (data:post.url and data:blog.url != data:post.url)">
+                                                    <a expr:href="data:post.link ? data:post.link : data:post.url">
+                                                        <data:post.title/>
+                                                    </a>
+                                                    <b:else/>
+                                                    <data:post.title/>
+                                                </b:if>
+                                            </h2>
+                                        </b:if>
+                                        <!-- Post body -->
+                                        <div class="eb-post-body">
+                                            <data:post.body/>
+                                        </div>
+                                    </div>
+                                    <div class="divider"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <b:if cond='data:blog.pageType == "item"'>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col s12">
+                                        <div class="eb-disqus-comments">
+                                            <div id="disqus_thread"></div>
+                                            <script>
+                                                var disqus_config = function () {
+                                                    this.page.url = "<data:blog.canonicalUrl/>";
+                //                                    this.page.identifier = PAGE_IDENTIFIER;
+                                                };
+                                                (function() {
+                                                    var d = document, s = d.createElement("script");
+
+                                                    s.src = "//ebruchez.disqus.com/embed.js";
+
+                                                    s.setAttribute("data-timestamp", +new Date());
+                                                    (d.head || d.body).appendChild(s);
+                                                })();
+                                            </script>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </b:if>
+                    </b:loop>
+
+                    <div class="container">
+                        <div class="row">
+                            <div class="col s12">
+                                <div class="eb-pager">
+                                    <b:if cond="data:newerPageUrl">
+                                        <a class="waves-effect waves-light btn light-blue darken-3" expr:href="data:newerPageUrl"  expr:title="data:newerPageTitle"><data:newerPageTitle/></a>
+                                    </b:if>
+                                    <b:if cond="data:olderPageUrl">
+                                        <a class="waves-effect waves-light btn light-blue darken-3" expr:href="data:olderPageUrl"  expr:title="data:olderPageTitle"><data:olderPageTitle/></a>
+                                    </b:if>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </b:includable>
+            </b:widget>
+        </b:section>
+
+        <!--
+        <b:section id="blog-archive" name="Blog Archive" showaddelement="yes">
+            <b:widget id='BlogArchive1' locked='false' title='Blog Archive' type='BlogArchive'>
+                <b:includable id='main'>
+                    <b:include data='data' name='interval'/>
+                </b:includable>
+                <b:includable id="interval" var="intervalData">
+                    <b:loop values="data:intervalData" var="interval">
+                        <ul>
+                            <li>
+                                <a expr:href="data:interval.url"><data:interval.name/></a>
+                                <span>(<data:interval.post-count/>)</span>
+                                <b:include cond="data:interval.data"  data="interval.data"  name="interval"/>
+                                <b:include cond="data:interval.posts" data="interval.posts" name="posts"/>
+                            </li>
+                        </ul>
+                    </b:loop>
+                </b:includable>
+                <b:includable id="posts" var="posts">
+                    <ul>
+                        <b:loop values="data:posts" var="post">
+                            <li><a expr:href="data:post.url"><data:post.title/></a></li>
+                        </b:loop>
+                    </ul>
+                </b:includable>
+            </b:widget>
+        </b:section>
+        -->
+
+        <footer class="page-footer light-blue darken-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col l4 offset-l2 s6">
+                        <!--<h5 class="white-text">Some documents</h5>-->
+                        <ul>
+                            <li><a class="grey-text text-lighten-3" href="https://github.com/ebruchez/public/blob/master/README.md">About me</a></li>
+                            <li><a class="grey-text text-lighten-3" href="https://twitter.com/ebruchez">On Twitter</a></li>
+                            <li><a class="grey-text text-lighten-3" href="https://github.com/ebruchez/">On GitHub</a></li>
+                        </ul>
+                    </div>
+                    <div class="col l4 offset-l2 s6">
+                        <!--<h5 class="white-text">Some documents</h5>-->
+                        <ul>
+                            <li><a class="grey-text text-lighten-3" href="https://github.com/ebruchez/public/blob/master/Predictions.md">Predictions</a></li>
+                            <li><a class="grey-text text-lighten-3" href="https://github.com/ebruchez/public/blob/master/Books.md">Books I am reading</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-copyright">
+                <div class="container">
+                    © 2015 Erik Bruchez
+                    <!--<a class="grey-text text-lighten-4 right" href="#!">More Links</a>-->
+                </div>
+            </div>
+        </footer>
+
+    </body>
+</html>
