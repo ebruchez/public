@@ -1,4 +1,4 @@
-## Rationalizing the iPhone 6 Plus
+![][main-image]
 
 Daniel Miessler [asked himself](http://danielmiessler.com/blog/why-im-getting-the-iphone-6-plus/) which iPhone 6 to get and I did the same. Here are my thoughts.
 
@@ -56,3 +56,5 @@ I am looking forward to retire my beat up iPhone 5!
 [^payments]: For two reasons: because the major credit card companies are still involved, and because the system is limited to the Apple ecosystem.
 
 [^chip]: This [American Express FAQ](https://www.americanexpress.com/icc/eurodollar/chip-and-pin.html) says: "If you have a Chip and PIN enabled Card, you must use your PIN (Personal Identification Number) when prompted, to pay for goods and services".
+
+[main-image]: https://raw.githubusercontent.com/ebruchez/public/master/Blog%20posts/images/2014-09-13-iphone6-500.jpg class="responsive-image"

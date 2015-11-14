@@ -47,5 +47,5 @@ Finally, I do plan to checkin every month (the "rabbit rabbit" trick) on [Twitte
 [6]: http://www.amazon.com/Terre-Hommes-French-Edition-Folio/dp/2070360210
 [7]: http://blog.bruchez.name/2013/11/reading-resolution-update.html
 [8]: https://twitter.com/ebruchez
-[main-image]: https://raw.githubusercontent.com/ebruchez/public/master/Blog%20posts/images/2014-01-20-books.jpg class="responsive-image"
+[main-image]: https://raw.githubusercontent.com/ebruchez/public/master/Blog%20posts/images/2014-01-20-books-700.jpg class="responsive-image"
 [main-image-link]: https://www.flickr.com/photos/kakadu/943169743/in/photolist-2rkZvi-2rqg65
