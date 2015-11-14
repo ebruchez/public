@@ -1,4 +1,4 @@
-## iPhone 6: Pay less with a little-known T-Mobile plan
+![T-Mobile SIM Kit][main-image]
 
 > TL;DR: If you have the cash to buy an unlocked iPhone 6 upfront, don't mind running on the T-Mobile network, and mostly care about data as opposed to voice, you can save well over $500 over a period of two years compared to mainstream plans by AT&T, Verizon or even T-Mobile's flagship plans.
 
@@ -113,3 +113,5 @@ For another article comparing plans by major providers, see [iPhone 6 Plans Comp
 [^starter]: T-Mobile also has a "Simple Starter 2GB Plan" for $45/month, which includes 2 GB of 4G LTE data, but then cuts out your data. This is not really an option for me.
 
 [^surprising]:  In fact, it is surprising that they even have this plan at all on their site. It makes sense at Wal-Mart, but online? Could it be that they legally have to list it on their site if they provide it at Wal-Mart? I would be curious to know.
+
+[main-image]: https://raw.githubusercontent.com/ebruchez/public/master/Blog%20posts/images/2014-10-02-tmobile-700.jpg class="responsive-image"

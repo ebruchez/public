@@ -1,4 +1,4 @@
-![][main-image]
+![iPhone 6 and iPhone 6 Plus][main-image]
 
 Daniel Miessler [asked himself](http://danielmiessler.com/blog/why-im-getting-the-iphone-6-plus/) which iPhone 6 to get and I did the same. Here are my thoughts.
 
