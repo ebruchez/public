@@ -1,6 +1,6 @@
 ![T-Mobile SIM Kit][main-image]
 
-> TL;DR: If you have the cash to buy an unlocked iPhone 6 upfront, don't mind running on the T-Mobile network, and mostly care about data as opposed to voice, you can save well over $500 over a period of two years compared to mainstream plans by AT&T, Verizon or even T-Mobile's flagship plans.
+*TL;DR: If you have the cash to buy an unlocked iPhone 6 upfront, don't mind running on the T-Mobile network, and mostly care about data as opposed to voice, you can save well over $500 over a period of two years compared to mainstream plans by AT&T, Verizon or even T-Mobile's flagship plans.*
 
 *NOTE: The following post is specific to the US smartphone market.*
 
