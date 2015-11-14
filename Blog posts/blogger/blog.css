@@ -95,41 +95,41 @@
     font-size: 100%;
 }
 
-/*blockquote {*/
-    /*border: none;*/
-    /*font-family: Georgia, "Times New Roman", Times, serif;*/
-    /*position: relative;*/
-    /*!*max-width: 400px;*!*/
-    /*margin: 0 auto;*/
-    /*padding: 0 2.5em;;*/
-    /*font-size: 21px;*/
-    /*font-weight: normal;*/
-    /*color: rgba(0, 0, 0, 0.87);*/
-    /*font-style: italic;*/
-    /*clear: both;*/
-/*}*/
+.eb-body blockquote {
+                border: none;
+                font-family: Georgia, "Times New Roman", Times, serif;
+                position: relative;
+                max-width: 600px;
+                margin: 1em auto;
+                padding: 0 2.5em;;
+                font-size: 21px;
+                font-weight: normal;
+                color: #777;
+                font-style: italic;
+                clear: both;
+            }
 
-/*blockquote:before {*/
-    /*content: "\201C";*/
-    /*font-weight: bold;*/
-    /*font-size: 100px;*/
-    /*color: lightgray;*/
-    /*position: absolute;*/
-    /*top: -0.3em;*/
-    /*left: -0.1em;*/
-    /*font-family: Georgia, "Times New Roman", Times, serif;*/
-/*}*/
+            .eb-body blockquote:before {
+                content: "\201C";
+                font-weight: bold;
+                font-size: 100px;
+                color: lightgray;
+                position: absolute;
+                top: -0.3em;
+                left: -0.1em;
+                font-family: Georgia, "Times New Roman", Times, serif;
+            }
 
-/*blockquote:after {*/
-    /*content: "\201D";*/
-    /*font-weight: bold;*/
-    /*font-size: 100px;*/
-    /*color: lightgray;*/
-    /*position: absolute;*/
-    /*bottom: -0.8em;*/
-    /*right: -0.1em;*/
-    /*font-family: Georgia, "Times New Roman", Times, serif;*/
-/*}*/
+            .eb-body blockquote:after {
+                content: "\201D";
+                font-weight: bold;
+                font-size: 100px;
+                color: lightgray;
+                position: absolute;
+                bottom: -0.8em;
+                right: -0em;
+                font-family: Georgia, "Times New Roman", Times, serif;
+            }
 
 @media only screen and (min-width: 601px) {
     .eb-body h1 {

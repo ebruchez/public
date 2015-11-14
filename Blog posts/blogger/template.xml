@@ -35,6 +35,10 @@
         <b:include data="blog" name="google-analytics"/>
 
         <b:skin><![CDATA[ ]]></b:skin>
+
+        <style>
+
+        </style>
     </head>
 
     <body class="eb-body">
