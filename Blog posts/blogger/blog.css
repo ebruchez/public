@@ -60,9 +60,9 @@
     font-weight: normal;
 }
 
-.eb-body .section, .widget { margin: 0 }
+.eb-body .section, .eb-body .widget { margin: 0 }
 
-.eb-body .widget, .widget ul, .widget ol {
+.eb-body .widget, .eb-body .widget ul, .eb-body .widget ol {
     line-height: 1.5;
 }
 
@@ -81,7 +81,7 @@
     margin-right: auto;
 }
 
-.eb-body code, kbd, pre, samp {
+.eb-body code, .eb-body kbd, .eb-body pre, .eb-body samp {
     font-family: inconsolata, monospace;
     font-size: 1.1em;
 }
