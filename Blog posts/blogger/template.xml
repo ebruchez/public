@@ -17,6 +17,7 @@
         <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css' />
         <!-- Materialize -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.2/css/materialize.min.css" />
+        <!--<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>-->
         <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.2/js/materialize.min.js"></script>-->
 
         <!-- Font Awesome-->
@@ -27,22 +28,16 @@
 
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/styles/darkula.min.css" />
         <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/highlight.min.js"></script>
-        <script src="https://raw.githubusercontent.com/ebruchez/public/master/Blog%20posts/blogger/highlight.pack.js"></script>
+        <script src="https://rawgit.com/ebruchez/public/master/Blog%20posts/blogger/highlight.pack.js"></script>
         <script>hljs.initHighlightingOnLoad();</script>
-        <style>
 
-
-        </style>
-        <!--<b:include data="blog" name="all-head-content"/>-->
+        <link rel="stylesheet" href="https://rawgit.com/ebruchez/public/master/Blog%20posts/blogger/blog.css" />
         <b:include data="blog" name="google-analytics"/>
 
         <b:skin><![CDATA[ ]]></b:skin>
     </head>
 
-    <body>
-        <!--Import jQuery before materialize.js-->
-        <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-        <script type="text/javascript" src="js/materialize.min.js"></script>
+    <body class="eb-body">
 
         <nav class="light-blue darken-3">
             <div class="nav-wrapper">
