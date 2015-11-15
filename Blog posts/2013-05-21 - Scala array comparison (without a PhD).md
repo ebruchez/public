@@ -148,7 +148,7 @@ There are a number of StackOverflow questions that cover this topic as well.[^3]
     scala> (Array(1, 2, 3): ArrayOps[Int]) == (Array(1, 2, 3): ArrayOps[Int])
     res12: Boolean = false
     ```
-    
+
 [^5]: ["A value class… may not define a equals or hashCode method"](http://docs.scala-lang.org/overviews/core/value-classes.html)
 
 [^6]: Value classes are new in Scala 2.10.
