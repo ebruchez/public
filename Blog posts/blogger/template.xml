@@ -190,9 +190,24 @@
                     <div class="col l4 offset-l2 s6">
                         <!--<h5 class="white-text">Some documents</h5>-->
                         <ul>
-                            <li><a class="grey-text text-lighten-3" href="https://github.com/ebruchez/public/blob/master/README.md">About me</a></li>
-                            <li><a class="grey-text text-lighten-3" href="https://twitter.com/ebruchez">On Twitter</a></li>
-                            <li><a class="grey-text text-lighten-3" href="https://github.com/ebruchez/">On GitHub</a></li>
+                            <li>
+                                <a class="grey-text text-lighten-3" href="https://github.com/ebruchez/public/blob/master/README.md">
+                                    <i class="fa fa-user"></i>
+                                    About me
+                                </a>
+                            </li>
+                            <li>
+                                <a class="grey-text text-lighten-3" href="https://twitter.com/ebruchez">
+                                    <i class="fa fa-twitter"></i>
+                                    On Twitter
+                                </a>
+                            </li>
+                            <li>
+                                <a class="grey-text text-lighten-3" href="https://github.com/ebruchez/">
+                                    <i class="fa fa-github-alt"></i>
+                                    On GitHub
+                                </a>
+                            </li>
                         </ul>
                     </div>
                     <div class="col l4 offset-l2 s6">
