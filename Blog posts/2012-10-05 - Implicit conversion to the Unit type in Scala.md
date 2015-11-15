@@ -47,7 +47,7 @@ type is just a type which can have concrete values, as explained in chapter 3 of
 
 > A subset of first-order types called *value types* represents sets of (first-class) values. […] Non-value types
 > capture properties of identifiers that are not values (§3.3). For example, a type constructor (§3.3.3) does not
-> directly specify a type of values. […]"
+> directly specify a type of values."
 
 In short the spec mandates that any value returned by an expression is implicitly converted to
 `Unit` by the compiler when the expected type is `Unit`. This applies in particular to functions, where the
