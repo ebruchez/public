@@ -1,5 +1,6 @@
 .eb-body {
-   font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 300;
 }
 
 .eb-body .container {
@@ -33,11 +34,13 @@
     font-size: 2.1rem;
     line-height: 56px;
     margin: 0 0.75rem;
+    font-family: "Roboto Condensed","Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .eb-body h2 {
     font-size: 38px;
     color: #0277bd;
+    font-family: "Roboto Condensed","Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .eb-body h2 a {
@@ -48,12 +51,14 @@
     font-size: 28px;
     margin: 1em 0 0.5em 0;
     color: #0277bd;
+    font-family: "Roboto Condensed","Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .eb-body h4 {
     font-size: 24px;
     margin: 1em 0 0.5em 0;
     color: #0277bd;
+    font-family: "Roboto Condensed","Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .eb-body h3 > b {
@@ -131,8 +136,28 @@
     font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+@media only screen and (min-width: 1200px) {
+    html {
+        font-size: 19px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    html {
+        font-size: 19px;
+    }
+}
+
 @media only screen and (min-width: 601px) {
     .eb-body h1 {
-        line-height: 64px;
+        line-height: 19px;
     }
+
+    html {
+        font-size: 19px;
+    }
+}
+
+@media only screen and (min-width: 0) {
+
 }
