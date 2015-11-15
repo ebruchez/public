@@ -34,7 +34,7 @@
     font-size: 2.1rem;
     line-height: 56px;
     margin: 0 0.75rem;
-    font-family: "Roboto Condensed","Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .eb-body h2 {
@@ -159,5 +159,7 @@
 }
 
 @media only screen and (min-width: 0) {
-
+    html {
+        font-size: 16px;
+    }
 }
