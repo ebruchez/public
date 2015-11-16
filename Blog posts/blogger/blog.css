@@ -40,6 +40,10 @@
     font-size: 1.5rem;
 }
 
+.eb-body nav .button-collapse i {
+    font-size: 2rem;
+}
+
 .eb-body h2 {
     font-size: 38px;
     color: #0277bd;

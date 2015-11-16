@@ -30,9 +30,9 @@
 
         <script>
             hljs.initHighlightingOnLoad();
-            $(document).ready(function(){
-                $(".button-collapse").sideNav();
-            });
+            //$(document).ready(function(){
+            //    $(".button-collapse").sideNav();
+            //});
         </script>
         <b:include data="blog" name="google-analytics"/>
 
