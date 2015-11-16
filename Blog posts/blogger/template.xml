@@ -4,35 +4,36 @@
       xmlns:expr="http://www.google.com/2005/gml/expr">
     <head>
         <title><data:blog.pageTitle/></title>
-
-        <!-- Feeds -->
-        <link href="http://blog.bruchez.name/2011/10/scala-partial-functions-without-phd.html" rel="canonical" />
-        <link rel="alternate" type="application/atom+xml" title="Erik&#39;s Ponderings - Atom" href="http://blog.bruchez.name/feeds/posts/default" />
-        <link rel="alternate" type="application/rss+xml" title="Erik&#39;s Ponderings - RSS" href="http://blog.bruchez.name/feeds/posts/default?alt=rss" />
-        <link rel="service.post" type="application/atom+xml" title="Erik&#39;s Ponderings - Atom" href="https://www.blogger.com/feeds/2849901641571065621/posts/default" />
-
-        <link rel="alternate" type="application/atom+xml" title="Erik&#39;s Ponderings - Atom" href="http://blog.bruchez.name/feeds/3036986710428869478/comments/default" />
-
-        <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-        <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css' />
-        <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css' />
-        <!-- Materialize -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.2/css/materialize.min.css" />
-        <!--<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>-->
-        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.2/js/materialize.min.js"></script>-->
-
-        <!-- Font Awesome-->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
-
-        <!--Let browser know website is optimized for mobile-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+        <!-- Feeds -->
+        <link rel="alternate" type="application/atom+xml" title="Erik&#39;s Ponderings - Atom" href="http://blog.bruchez.name/feeds/posts/default" />
+        <link rel="alternate" type="application/rss+xml" title="Erik&#39;s Ponderings - RSS" href="http://blog.bruchez.name/feeds/posts/default?alt=rss" />
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="http://fonts.googleapis.com/icon?family=Material+Icons" />
+        <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Inconsolata' />
+        <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Roboto+Condensed' />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.2/css/materialize.min.css" />
+        <link rel="stylesheet" href="https://rawgit.com/ebruchez/public/master/Blog%20posts/blogger/blog.css" />
+
+        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.2/js/materialize.min.js"></script>
+
+        <!-- Code highlighting -->
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/styles/darkula.min.css" />
         <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/highlight.min.js"></script>
         <script src="https://rawgit.com/ebruchez/public/master/Blog%20posts/blogger/highlight.pack.js"></script>
-        <script>hljs.initHighlightingOnLoad();</script>
 
-        <link rel="stylesheet" href="https://rawgit.com/ebruchez/public/master/Blog%20posts/blogger/blog.css" />
+
+        <script>
+            hljs.initHighlightingOnLoad();
+            $(document).ready(function(){
+                $(".button-collapse").sideNav();
+            });
+        </script>
         <b:include data="blog" name="google-analytics"/>
 
         <b:skin><![CDATA[ ]]></b:skin>
@@ -46,7 +47,14 @@
         <nav class="light-blue darken-3">
             <div class="nav-wrapper">
                 <a href="http://blog.bruchez.name/" class="brand-logo left"><h1>Erik's Ponderings</h1></a>
-                <ul id="nav-mobile" class="right hide-on-small-only">
+                <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+                <ul class="eb-nav-icons right hide-on-med-and-down">
+                    <li><a href="https://github.com/ebruchez/public/blob/master/README.md"><i class="fa fa-user"></i></a></li>
+                    <li><a href="https://twitter.com/ebruchez"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="https://github.com/ebruchez/"><i class="fa fa-github-alt"></i></a></li>
+                    <li><a href="http://blog.bruchez.name/feeds/posts/default"><i class="fa fa-feed"></i></a></li>
+                </ul>
+                <ul class="side-nav" id="mobile-demo">
                     <li><a href="https://github.com/ebruchez/public/blob/master/README.md"><i class="fa fa-user"></i></a></li>
                     <li><a href="https://twitter.com/ebruchez"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="https://github.com/ebruchez/"><i class="fa fa-github-alt"></i></a></li>
@@ -199,13 +207,13 @@
                             <li>
                                 <a class="grey-text text-lighten-3" href="https://twitter.com/ebruchez">
                                     <i class="fa fa-twitter"></i>
-                                    On Twitter
+                                    Twitter
                                 </a>
                             </li>
                             <li>
                                 <a class="grey-text text-lighten-3" href="https://github.com/ebruchez/">
                                     <i class="fa fa-github-alt"></i>
-                                    On GitHub
+                                    GitHub
                                 </a>
                             </li>
                         </ul>

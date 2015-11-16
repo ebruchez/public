@@ -36,6 +36,10 @@
     font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.eb-body nav .eb-nav-icons i {
+    font-size: 1.5rem;
+}
+
 .eb-body h2 {
     font-size: 38px;
     color: #0277bd;
