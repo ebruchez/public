@@ -98,6 +98,10 @@
     font-size: 1em;
 }
 
+.eb-body code:not([class ~= hljs]) {
+    background-color: rgba(0,0,0,0.04);
+}
+
 .eb-body figcaption {
     text-align: center;
     font-style: italic;

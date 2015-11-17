@@ -47,19 +47,19 @@
         <nav class="light-blue darken-3">
             <div class="nav-wrapper">
                 <a href="http://blog.bruchez.name/" class="brand-logo left"><h1>Erik's Ponderings</h1></a>
-                <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+                <!--<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>-->
                 <ul class="eb-nav-icons right hide-on-med-and-down">
                     <li><a href="https://github.com/ebruchez/public/blob/master/README.md"><i class="fa fa-user"></i></a></li>
                     <li><a href="https://twitter.com/ebruchez"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="https://github.com/ebruchez/"><i class="fa fa-github-alt"></i></a></li>
                     <li><a href="http://blog.bruchez.name/feeds/posts/default"><i class="fa fa-feed"></i></a></li>
                 </ul>
-                <ul class="side-nav" id="mobile-demo">
-                    <li><a href="https://github.com/ebruchez/public/blob/master/README.md"><i class="fa fa-user"></i></a></li>
-                    <li><a href="https://twitter.com/ebruchez"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="https://github.com/ebruchez/"><i class="fa fa-github-alt"></i></a></li>
-                    <li><a href="http://blog.bruchez.name/feeds/posts/default"><i class="fa fa-feed"></i></a></li>
-                </ul>
+                <!--<ul class="side-nav" id="mobile-demo">-->
+                    <!--<li><a href="https://github.com/ebruchez/public/blob/master/README.md"><i class="fa fa-user"></i></a></li>-->
+                    <!--<li><a href="https://twitter.com/ebruchez"><i class="fa fa-twitter"></i></a></li>-->
+                    <!--<li><a href="https://github.com/ebruchez/"><i class="fa fa-github-alt"></i></a></li>-->
+                    <!--<li><a href="http://blog.bruchez.name/feeds/posts/default"><i class="fa fa-feed"></i></a></li>-->
+                <!--</ul>-->
             </div>
         </nav>
 
