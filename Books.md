@@ -2,9 +2,9 @@
 
 I don't have much time to read so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
-## Books I plan to read in 2015
+## Books I plan to read in 2016
 
-- MAYBE: A Dan Simmons book.
+
 
 ## Books I am currently reading
 
