@@ -18,6 +18,7 @@ Dates are completion dates.
 
 ### 2015
 
+- 2015-11-29: [Dan Simmons - The Fall of Hyperion](https://en.wikipedia.org/wiki/The_Fall_of_Hyperion_(novel)) #reread #ebook
 - 2015-06-14: [Terry Pratchett - Equal Rites](https://en.wikipedia.org/wiki/Equal_Rites)
 - 2015-05-13: [Terry Pratchett - The Light Fantastic](https://en.wikipedia.org/wiki/The_Light_Fantastic)
 - 2015-04-xx: [Terry Pratchett - The Color of Magic](https://en.wikipedia.org/wiki/The_Colour_of_Magic)
@@ -93,7 +94,7 @@ Dates are completion dates.
 
 ### Fundamental texts
 
-- Adam Smith - [The Theory of Moral Sentiments (1759)](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
+- [Adam Smith - The Theory of Moral Sentiments (1759)](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
 - [Adam Smith - The Wealth of Nations (1776)](http://www.gutenberg.org/ebooks/3300)
 - [Charle Darwin - On the Origin of Species (1859)](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
 - [Thomas Paine - Common Sense](http://www.gutenberg.org/ebooks/147) (or http://www.gutenberg.org/ebooks/3755)
