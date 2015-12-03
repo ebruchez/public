@@ -133,6 +133,7 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - Resolution:
     - SUCCESS
     - 2015-06-08: Correct prediction as announced by Apple at WWDC 2015!
+    - 2015-12-03: Open-sourcing is effective on [GitHub](https://github.com/apple/).
 
 ## Other people's predictions
 
