@@ -47,14 +47,14 @@ Trucks are also an obvious target for self-driving technology as they drive long
 ### PREDICTION-0013: 2015-12-03: Swift in the browser
 
 - From: @ebruchez
-- Text: "Now that Swift is actually open source, developers, whether at Apple or third-party, will produce a usable and efficient Swift-to-JavaScript compiler similar to Scala.js before one year. It will be called Swift.js."
+- Text: "Now that Swift is actually open source, developers, whether at Apple or third-party, will produce a usable and efficient Swift-to-JavaScript compiler similar to Scala.js before the end of 2016. It will be called Swift.js."
 - Comments:
     - I will consider this prediction successful even if the compiler is not officially called Swift.js!
     - The intent of this prediction is that Swift.js will reuse much of the open source Swift toolchain, in the same way that [Scala.js](http://www.scala-js.org/) reuses much of the Scala toolchain. (As a counter example, there is at least one project attempting to do this on GitHub, but it implements a subset of Swift and appears very immature so doesn't qualify.)
     - Swift.js as described here doesn't compile to asm.js/WebAssembly, but maps to JavaScript in a way very similar to what [Scala.js](http://www.scala-js.org/) does.
     - One important difference is that Swift.js will be garbage-collected, while its LLVM version is reference-counted. Developers will have to be made aware of that difference.
 - Resolution:
-	- WAIT until 2016-12-03
+	- WAIT until 2016-12-31
 
 ### PREDICTION-0012: 2015-07-04: Swift overtaking Objective-C
 
