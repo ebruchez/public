@@ -44,6 +44,18 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 ## My pending predictions
 
+### PREDICTION-0013: 2015-12-03: Swift in the browser
+
+- From: @ebruchez
+- Text: "Now that Swift is actually open source, developers, whether at Apple or third-party, will produce a usable and efficient Swift-to-JavaScript compiler similar to Scala.js before one year. It will likely called Swift.js."
+- Comments:
+    - I will consider this prediction successful even if the compiler is not officially called Swift.js!
+    - The intent of this prediction is that Swift.js will reuse much of the open source Swift toolchain, in the same way that [Scala.js](http://www.scala-js.org/) reuses much of the Scala toolchain. (As a counter example, there is at least one project attempting to do this on GitHub, but it implements a subset of Swift and appears very immature so doesn't qualify.)
+    - Swift.js as described here doesn't compile to asm.js/WebAssembly, but maps to JavaScript in a way very similar to what [Scala.js](http://www.scala-js.org/) does.
+    - One important difference is that Swift.js will be garbage-collected, while its LLVM version is reference-counted. Developers will have to be made aware of that difference.
+- Resolution:
+	- WAIT until 2016-12-03
+
 ### PREDICTION-0012: 2015-07-04: Swift overtaking Objective-C
 
 - From: @ebruchez
@@ -69,23 +81,6 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - Resolution:
     - WAIT until 2019-12-31
 
-### PREDICTION-0008: 2015-01-09: iPhone with 2 GB of RAM
-
-- From: @ebruchez
-- Text: "At least one new fall 2015 iPhone model will have 2 GB of RAM or more."
-- Resolution:
-    - WAIT until 2015-09
-
-### PREDICTION-0006: 2014-09-30: Share of smartphones with large screen sizes
-
-- From: @ebruchez
-- Text: "In 1 year, 50% of smartphones sold in the US in the previous quarter will have screen sizes around 5.5 to 6 inches."
-- Comments:
-    - In other words, I am predicting that the larger form factors will gain a lot of traction quickly.
-    - "Smartphone" means the device has a connection to a traditional cellular network (3G, LTE).
-- Resolution:
-    - WAIT until 2015-09-30
-
 ### PREDICTION-0003: 2013-09-26: Smart glasses technology
 
 - From: @ebruchez
@@ -96,6 +91,25 @@ Trucks are also an obvious target for self-driving technology as they drive long
     - WAIT until 2023-09-26
 
 ## My completed predictions
+
+### PREDICTION-0008: 2015-01-09: iPhone with 2 GB of RAM
+
+- From: @ebruchez
+- Text: "At least one new fall 2015 iPhone model will have 2 GB of RAM or more."
+- Resolution:
+    - SUCCESS
+    - Both the iPhone 6S and iPhone 6S Plus have 2 GB of RAM.
+
+### PREDICTION-0006: 2014-09-30: Share of smartphones with large screen sizes
+
+- From: @ebruchez
+- Text: "In 1 year, 50% of smartphones sold in the US in the previous quarter will have screen sizes around 5.5 to 6 inches."
+- Comments:
+    - In other words, I am predicting that the larger form factors will gain a lot of traction quickly.
+    - "Smartphone" means the device has a connection to a traditional cellular network (3G, LTE).
+- Resolution:
+    - FAIL
+    - According to [this](http://www.nielsen.com/us/en/insights/news/2015/super-size-me-large-screen-mobile-sees-growth-in-the-midst-of-a-small-screen-surge.html), on the Android side, the share of "phablets" is only 13.7% as of June 2015, although it doubled since early 2014.
 
 ### PREDICTION-0005: 2014-06-11: Swift overtaking Objective-C
 
