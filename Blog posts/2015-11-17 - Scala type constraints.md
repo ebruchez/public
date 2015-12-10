@@ -656,6 +656,8 @@ But I see a few differences with the `<:<` operator:
 
 So why not do it this way? I think that a good case can be made that it is easier to understand in the case of the relatively simple examples we have seen so far.
 
+__UPDATE 2015-12-10:__ Somebody [kindly pointed out](https://www.reddit.com/r/scala/comments/3tyc8v/deconstructing_a_scala_feature_generalized_type/cxbanat) that at the time generalized type constraints were implemented, Scala didn't yet have [value classes](http://docs.scala-lang.org/overviews/core/value-classes.html) or [implicit classes](http://docs.scala-lang.org/overviews/core/implicit-classes.html). Missing value classes meant boxing overhead when running extension methods, while missing implicit classes just meant more boilerplate. So using an implicit value class as I did above was not a great option at the time.
+
 On the other hand, `<:<` is a more flexible library feature which you can reuse easily and even combine with other implicits, like in this [example using Shapeless](http://stackoverflow.com/questions/25149179/how-can-i-use-shapeless-to-create-a-function-abstracting-over-arity): [^unboxed-unions]
 
 ```scala
