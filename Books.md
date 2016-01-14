@@ -16,6 +16,14 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 Dates are completion dates.
 
+### 2016
+
+- 2016-01-09: [Emily Brontë - Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) #reread #ebook #french
+	- I read this in French under the title "Les Hauts de Hurlevent". I could have read the original English but just felt like I wanted to read something in French!
+	- I think I read this first in the summer of 1992, in French as well.
+	- I liked it a lot for its atmosphere and the characters are unforgettable. As the book progresses you just want to know what will happen to Heathcliff in the end. It is all about individual feelings and passions, so definitely a [*Romantic*](https://en.wikipedia.org/wiki/Romanticism) work.
+	- I also started reading the [graphic novel](http://www.amazon.com/gp/product/1907127119), which seems extremely well done, but would benefit from publication in a larger format.
+
 ### 2015
 
 - 2015-11-29: [Dan Simmons - The Fall of Hyperion](https://en.wikipedia.org/wiki/The_Fall_of_Hyperion_(novel)) #reread #ebook
