@@ -136,17 +136,6 @@
     font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-.eb-body blockquote:after {
-    content: "\201D";
-    font-weight: bold;
-    font-size: 100px;
-    color: lightgray;
-    position: absolute;
-    bottom: -0.8em;
-    right: -0em;
-    font-family: Georgia, "Times New Roman", Times, serif;
-}
-
 .page-footer li i[class ~= fa] {
     margin-right: .5em;
 }
