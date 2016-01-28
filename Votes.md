@@ -2,6 +2,35 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
+## [Votation populaire du 28 février 2015](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228.html) ([results]())
+
+1. [Initiative populaire du 5 novembre 2012 "Pour le couple et la famille - Non à la pénalisation du mariage"](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228/imposition-du-couple-et-de-la-famille.html)
+	- VOTED: __NO__
+	- EXPECTED: NO
+	- [RESULT](): TODO
+	- I would be in favor of marriage being tax-neutral.
+	- But this initiative is flawed, and surreptitiously introduces are definition of marriage in the Swiss constitution as being "between a man and a woman".
+	- Thus this initiative doesn't appear to be so much about taxes than about introducing this definition of marriage in the constitution.
+	- This is 2016, and I agree with the Federal Council that this is not going in the right direction.
+2. [Iinitiative populaire "Pour le renvoi effectif des étrangers criminels"](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228/initiative-renvoi-criminels-etrangers.html)
+	- VOTED: __NO__
+	- EXPECTED: NO
+	- [RESULT](): TODO
+	- Following the Federal Council.
+3. [Initiative "Pas de spéculation sur les denrées alimentaires"](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228/pas-de-speculation-sur-les-denrees-alimentaires.html)
+	- VOTED: __NO__
+	- EXPECTED: NO
+	- [RESULT](): TODO
+	- Following the Federal Council: doing this at the level of Switzerland only will not have any effect. On the other hand it can introduce friction.
+4. [Réfection du tunnel routier du Gothard](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228/tunnel-routier-du-gothard.html)
+	- VOTED: __ABSTAINED__
+	- EXPECTED: YES
+	- [RESULT](): TODO
+	- This is about spending close to $3 BILLION for another tunnel.
+	- It's unclear where the money comes from. The official information does not clarify this important point.
+	- However, other alternatives are also expensive, although not as expensive.
+	- Since I lack solid information, I am abstaining.
+
 ## [Votation populaire du 14 juin 2015](https://www.ch.ch/fr/votation-federale-14-06-2015/) ([results](https://www.admin.ch/ch/f/pore/va/20150614/index.html))
 
 1. [Arrêté fédéral du 12 décembre 2014 concernant la modification de l'article constitutionnel relatif à la procréation médicalement assistée et au génie génétique dans le domaine humain](https://www.admin.ch/gov/fr/accueil/documentation/votations/20150614/praeimplantationsdiagnostik.html)
