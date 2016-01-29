@@ -9,8 +9,8 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 	- EXPECTED: NO
 	- [RESULT](): TODO
 	- I would be in favor of marriage being tax-neutral.
-	- But this initiative is flawed, and surreptitiously introduces are definition of marriage in the Swiss constitution as being "between a man and a woman".
-	- Thus this initiative doesn't appear to be so much about taxes than about introducing this definition of marriage in the constitution.
+	- But this initiative is flawed, and surreptitiously introduces a definition of marriage in the Swiss constitution as being "between a man and a woman".
+	- Thus this initiative doesn't appear to be so much about taxes than about introducing this definition of marriage in the constitution, which so far is not present.
 	- This is 2016, and I agree with the Federal Council that this is not going in the right direction.
 2. [Iinitiative populaire "Pour le renvoi effectif des étrangers criminels"](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228/initiative-renvoi-criminels-etrangers.html)
 	- VOTED: __NO__
