@@ -30,6 +30,7 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 	- It's unclear where the money comes from. The official information does not clarify this important point.
 	- However, other alternatives are also expensive, although not as expensive.
 	- Since I lack solid information, I am abstaining.
+	- UPDATE: Here is a [site](http://www.2tunnel-non.ch/fr/arguments.html) with lots of arguments against the second tunnel.
 
 ## [Votation populaire du 14 juin 2015](https://www.ch.ch/fr/votation-federale-14-06-2015/) ([results](https://www.admin.ch/ch/f/pore/va/20150614/index.html))
 
