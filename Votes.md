@@ -2,7 +2,7 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
-## [Votation populaire du 28 février 2015](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228.html) ([results]())
+## [Votation populaire du 28 février 2015](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228.html) ([results](https://www.admin.ch/ch/f/pore/va/20160228/index.html))
 
 1. [Initiative populaire du 5 novembre 2012 "Pour le couple et la famille - Non à la pénalisation du mariage"](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228/imposition-du-couple-et-de-la-famille.html)
 	- VOTED: __NO__
