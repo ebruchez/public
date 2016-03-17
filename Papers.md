@@ -4,6 +4,14 @@ This list was started 2014-07-11.
 
 I like reading research papers, mostly computer science papers. Here is a list of papers I have recently read (but not necessarily fully understood!).
 
+- 2016-03-17: [Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness](http://www.pnas.org/content/early/2014/12/18/1418490112.full.pdf)
+    - Half of the participants used a very bright, light-emitting screen, for 4 hours during bedtime.
+    - The other half used printed books and a dim light.
+    - There were only 12 participants.
+    - For screen users, there was a large measured effect on melatonin, sleep was delayed 10 mn, and they were much sleepier in the morning.
+    - It would be interesting to compare with:
+        - less bright LCD screens with warmer colors (night/readin modes)
+        - e-ink readers like the Kindle Voyage with built-in light
 - 2015-08-10: [Climate-driven introduction of the Black Death and successive plague reintroductions into Europe](http://www.pnas.org/content/112/10/3020.full.pdf)
     - I stumbled upon this as I was interested in the idea that the Black Death which ravaged Europe during the 14th century was also the cause of the fall of the Mongols in China.
     - This article doesn't address that topic. Instead, it addresses the idea that the plague was introduced multiple times in Europe from Asia during the course of about four centuries.
