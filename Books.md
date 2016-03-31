@@ -18,7 +18,7 @@ Dates are completion dates.
 
 ### 2016
 
-- 2016-03-30: [Umberto Eco - Le nom de la rose (1980](https://fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman)) #reread #ebook #french
+- 2016-03-30: [Umberto Eco - Le nom de la rose (1980)](https://fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman)) #reread #ebook #french
     - One of my favorite books, period!
 - 2016-02-16: [Arthur C. Clarke - Rendezvous with Rama (1973)](https://en.wikipedia.org/wiki/Rendezvous_with_Rama) #reread #ebook
     - One of the best science fiction stories ever written.
