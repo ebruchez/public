@@ -1,4 +1,4 @@
-## [Umberto Eco - Le nom de la rose (1980](https://fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman))
+## [Umberto Eco - Le nom de la rose (1980)](https://fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman))
 
 Your Highlight on Location 219-221 | Added on Tuesday, February 23, 2016 10:09:29 PM
 
