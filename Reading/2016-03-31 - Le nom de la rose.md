@@ -8,13 +8,13 @@ Your Highlight on Location 219-221 | Added on Tuesday, February 23, 2016 10:09:2
 
 Your Highlight on Location 221-222 | Added on Tuesday, February 23, 2016 10:09:38 PM
 
-> (les hommes de cette terre corrompue sont toujours enclins à favoriser les intérêts des leurs, et sont incapables de regarder le monde entier comme leur patrie spirituelle),
+> les hommes de cette terre corrompue sont toujours enclins à favoriser les intérêts des leurs, et sont incapables de regarder le monde entier comme leur patrie spirituelle
 
 ---
 
 Your Highlight on Location 247-249 | Added on Tuesday, February 23, 2016 10:16:06 PM
 
-> ils décidèrent de me placer auprès d’un docte franciscain, frère Guillaume de Baskerville ; ce dernier allait entreprendre une mission qui devait le conduire jusqu’à des villes célèbres et des abbayes très anciennes. C’est ainsi que je devins son secrétaire en même temps que son disciple ;
+> ils décidèrent de me placer auprès d’un docte franciscain, frère Guillaume de Baskerville ; ce dernier allait entreprendre une mission qui devait le conduire jusqu’à des villes célèbres et des abbayes très anciennes. C’est ainsi que je devins son secrétaire en même temps que son disciple
 
 ---
 
@@ -56,7 +56,7 @@ Your Highlight on Location 436-438 | Added on Wednesday, February 24, 2016 9:57:
 
 Your Highlight on Location 509-509 | Added on Wednesday, February 24, 2016 10:07:02 PM
 
-> et on use des signes et des signes de signes dans le seul cas où les choses nous font défaut. »
+> et on use des signes et des signes de signes dans le seul cas où les choses nous font défaut.
 
 ---
 
@@ -76,17 +76,13 @@ Your Highlight on Location 961-962 | Added on Sunday, February 28, 2016 12:28:59
 
 Your Highlight on Location 1009-1011 | Added on Sunday, February 28, 2016 11:06:46 PM
 
-> ils soutenaient que Christ et les apôtres n’avait aucune propriété ni individuelle ni communautaire, et le Pape condamna comme hérétique cette idée. Chose stupéfiante, parce qu’on ne voit pas pour quelle sorte de raison un Pape se doit de juger perverse l’idée que le Christ fut pauvre :
+> ils soutenaient que Christ et les apôtres n’avait aucune propriété ni individuelle ni communautaire, et le Pape condamna comme hérétique cette idée. Chose stupéfiante, parce qu’on ne voit pas pour quelle sorte de raison un Pape se doit de juger perverse l’idée que le Christ fut pauvre
 
 ---
 
 Your Highlight on Location 1078-1082 | Added on Sunday, February 28, 2016 11:13:07 PM
 
 > Guillaume d’Occam. — Je l’ai peu connu. Je ne l’aime pas. Un homme sans ferveur, tout en tête, rien au cœur. — Mais c’est une belle tête. — Possible, et elle le conduira en enfer. — Alors je le reverrais là-bas, et nous discuterons de logique. — Tais-toi Guillaume, dis Ubertin en souriant avec une immense affection, tu es meilleur que tes philosophes.
-
----
-
-
 
 ---
 
@@ -98,7 +94,7 @@ Your Highlight on Location 1688-1690 | Added on Thursday, March 3, 2016 11:00:56
 
 Your Highlight on Location 1713-1716 | Added on Thursday, March 3, 2016 11:02:52 PM
 
-> est deux formes de magie. Il y a une magie qui est l’œuvre du diable et qui vise à la ruine de l’homme à travers des artifices dont il n’est point permis de parler. Mais il y a une magie qui est œuvre divine, là où la science de Dieu se manifeste à travers la science de l’homme, qui sert à transformer la nature, et dont l’une des fins et de prolonger la vie même de l’homme.
+> Il y a une magie qui est l’œuvre du diable et qui vise à la ruine de l’homme à travers des artifices dont il n’est point permis de parler. Mais il y a une magie qui est œuvre divine, là où la science de Dieu se manifeste à travers la science de l’homme, qui sert à transformer la nature, et dont l’une des fins et de prolonger la vie même de l’homme.
 
 ---
 
@@ -338,7 +334,7 @@ Your Highlight on Location 6869-6872 | Added on Friday, March 25, 2016 12:01:47 
 
 Your Highlight on Location 7091-7093 | Added on Friday, March 25, 2016 11:48:16 PM
 
-> Et lui répondait qu’il était certainement humain de commettre des erreurs, que pourtant il y a des êtres humains qui en commettent plus que d’autres, ceux qu’on appelle des sots, et lui se trouvait de ceux-là,
+> Et lui répondait qu’il était certainement humain de commettre des erreurs, que pourtant il y a des êtres humains qui en commettent plus que d’autres, ceux qu’on appelle des sots, et lui se trouvait de ceux-là
 
 ---
 
