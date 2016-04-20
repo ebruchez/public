@@ -12,6 +12,9 @@ I like reading research papers, mostly computer science papers. Here is a list o
     - It would be interesting to compare with:
         - less bright LCD screens with warmer colors (night/readin modes)
         - e-ink readers like the Kindle Voyage with built-in light
+- 2016-01: [Transforming-Personal-Mobility](http://sustainablemobility.ei.columbia.edu/files/2012/12/Transforming-Personal-Mobility-Jan-27-20132.pdf)
+    - 3 theoretical case studies on fleets of autonomous vehicles
+    - predicts dramatically reduced need for number of vehicles
 - 2015-08-10: [Climate-driven introduction of the Black Death and successive plague reintroductions into Europe](http://www.pnas.org/content/112/10/3020.full.pdf)
     - I stumbled upon this as I was interested in the idea that the Black Death which ravaged Europe during the 14th century was also the cause of the fall of the Mongols in China.
     - This article doesn't address that topic. Instead, it addresses the idea that the plague was introduced multiple times in Europe from Asia during the course of about four centuries.
