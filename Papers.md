@@ -4,6 +4,8 @@ This list was started 2014-07-11.
 
 I like reading research papers, mostly computer science papers. Here is a list of papers I have recently read (but not necessarily fully understood!).
 
+## 2016
+
 - 2016-03-17: [Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness](http://www.pnas.org/content/early/2014/12/18/1418490112.full.pdf)
     - Half of the participants used a very bright, light-emitting screen, for 4 hours during bedtime.
     - The other half used printed books and a dim light.
@@ -15,6 +17,9 @@ I like reading research papers, mostly computer science papers. Here is a list o
 - 2016-01: [Transforming-Personal-Mobility](http://sustainablemobility.ei.columbia.edu/files/2012/12/Transforming-Personal-Mobility-Jan-27-20132.pdf)
     - 3 theoretical case studies on fleets of autonomous vehicles
     - predicts dramatically reduced need for number of vehicles
+
+## 2015
+
 - 2015-08-10: [Climate-driven introduction of the Black Death and successive plague reintroductions into Europe](http://www.pnas.org/content/112/10/3020.full.pdf)
     - I stumbled upon this as I was interested in the idea that the Black Death which ravaged Europe during the 14th century was also the cause of the fall of the Mongols in China.
     - This article doesn't address that topic. Instead, it addresses the idea that the plague was introduced multiple times in Europe from Asia during the course of about four centuries.
@@ -45,6 +50,9 @@ I like reading research papers, mostly computer science papers. Here is a list o
     - "the degree to which younger individuals would experience the same results is unknown. Whether DSI exacerbated the WC gains observed in SALSA participants is unclear"
     - "other factors — including family history and perceived personal weight-gain and health-risk trajectories — that increased DWC but were not captured in the analyses may have influenced participant decisions to use DS"
     - "across all intervals, approximately 80% of daily DS users at the beginning of the interval remained DS users at the outset of the next follow-up period, and 82% of nonusers at the outset of each follow-up period remained nonusers at the outset of the subsequent follow- up period"
+
+## 2014
+
 - 2014-07-08: [Combining Form and Function - Static Types for JQuery Programs (2013?)](http://cs.brown.edu/~sk/Publications/Papers/Published/lelk-types-jquery-programs/paper.pdf)
 - 2014-05-07: [High-Latency, Low-Bandwidth Windowing in the Jupiter Collaboration System (1995)](http://lively-kernel.org/repository/webwerkstatt/!svn/bc/15693/projects/Collaboration/paper/Jupiter.pdf)
     - About [Operational Transformation (OT)](http://en.wikipedia.org/wiki/Operational_transformation), the inspiration for Google Wave.
