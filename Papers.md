@@ -14,6 +14,21 @@ I like reading research papers, mostly computer science papers. Here is a list o
     - It would be interesting to compare with:
         - less bright LCD screens with warmer colors (night/readin modes)
         - e-ink readers like the Kindle Voyage with built-in light
+    - Highlights
+        - "The LE-e-book condition suppressed evening levels of melatonin by 55.12 ± 20.12%, whereas the print-book condition showed no suppression (−18.77 ± 39.57%)"
+        - "participants averaged nearly 10 min longer to fall asleep"
+        - "There was no difference between conditions in TST, sleep efficiency, or the duration of non-REM sleep"
+        - "Reading the LE-eBook was associated with decreased sleepiness in the evening"
+        - "self-reported sleepiness were reversed, with participants feeling sleepier the morning after reading an LE-eBook the prior evening"
+        - "Light from the LE-eBook is short-wavelength– enriched, with a peak at 452 nm in the blue light range, compared with broad-spectrum light (white light), with a peak at 612 nm"
+        - "given recent evidence linking chronic suppression of melatonin secretion by nocturnal light exposure with the increased risk of breast, colorectal, and advanced prostate cancer associated with night-shift work"
+        - "using a light-emitting device in the hours before bedtime is likely to increase the risk of delayed sleep-phase disorder and sleep onset insomnia"
+        - "The spectral composition of the light emitted by the LE-eBook may explain why the magnitude of the melatonin-suppressing and phase-shifting response observed was greater than would be predicted for this moderately low level of light"
+        - limitations
+            - "melatonin suppression was assessed on the fifth and final evening"
+            - "the duration of the evening reading sessions were 4 h long"
+            - "the LE-eBook was set to maximum brightness throughout the 4-h reading session, whereas, by comparison, the print-book condi- tion consisted of reflected exposure to very dim light"
+
 - 2016-01: [Transforming-Personal-Mobility](http://sustainablemobility.ei.columbia.edu/files/2012/12/Transforming-Personal-Mobility-Jan-27-20132.pdf)
     - 3 theoretical case studies on fleets of autonomous vehicles
     - predicts dramatically reduced need for number of vehicles
