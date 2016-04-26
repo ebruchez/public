@@ -84,8 +84,8 @@ object Demo extends js.JSApp {
 
     println(s"starting `main()` with node version ${g.process.version}")
 
-    val tessel    = g.require("tessel").asInstanceOf[Tessel]
-    val relayMono = g.require("relay-mono").asInstanceOf[RelayMono]
+    val tessel    = Tessel()
+    val relayMono = RelayMono()
 
     val relay = relayMono.use(tessel.port.A)
 
@@ -111,6 +111,7 @@ object Demo extends js.JSApp {
     }
   }
 }
+
 ```
 
 As you can see, it's not very different from the dynamic example, except that I now get help from the editor and compiler.
