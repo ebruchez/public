@@ -136,6 +136,11 @@
     font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+.eb-body .footnote {
+    vertical-align: super;
+    font-size: smaller;
+}
+
 .page-footer li i[class ~= fa] {
     margin-right: .5em;
 }
