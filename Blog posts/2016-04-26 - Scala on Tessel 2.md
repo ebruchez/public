@@ -133,7 +133,7 @@ And I could go on with features like case classes, pattern matching and destruct
 - __Executable size.__ Scala.js has an amazing optimizer which also strips the resulting JavaScript from pretty much any unused bit of code[^dce]. Still, you will likely have resulting files which are larger than what you would get by writing JavaScript by hand. So expect your app to yield uncompressed JavaScript files in the order of a few hundreds of KB (much smaller when compressed). Tessel doesn't seem to have any issues with that so far, so it might not be a problem at all, but it's worth keeping an eye on this as Tessel doesn't have Gigabytes of RAM.
 - __Compilation step.__ There is a compilation and optimization step in addition to publishing the software to Tessel. For my very simple demo, this takes a couple of seconds only. For larger projects, the time will increase. Now this is very manageable thanks to sbt's incremental compilation, and if you consider that pushing a project to Tessel can take several seconds anyway, I would say that right now it's not an issue.
 
-So who would want to program Tessel in Scala? Probably not everybody, but it's a great option to have if you already know the language or are interested in learning it, especially if you plan to write large amounts of code.
+So who would want to program Tessel in Scala? Probably not everybody, but it's a great option to have if you already know the language or are interested in learning it, especially if you are going to write large amounts of code.
 
 ### What's next?
 
