@@ -31,7 +31,7 @@ object Demo extends js.JSApp {
 
   def main(): Unit = {
 
-    println(s"starting `main()` with node version ${g.process.version}")
+    println(s"starting with node version ${g.process.version}")
 
     val tessel    = g.require("tessel")
     val relayMono = g.require("relay-mono")
@@ -54,15 +54,15 @@ object Demo extends js.JSApp {
         println(s"Latch on relay channel $channel switched to $value")
 
         if (value)
-          tessel.led(channel + 1).on()
+          tessel.led.selectDynamic((channel + 1).toString).on()
         else
-          tessel.led(channel + 1).off()
+          tessel.led.selectDynamic((channel + 1).toString).off()
     })
   }
 }
 ```
 
-Notice how I can call Tessel APIs from Scala without further ado. When used this way, Scala.js works like JavaScript: it's all dynamic.[^dynamic]
+Notice how I can call Tessel APIs from Scala without much ado.[^ado] When used this way, Scala.js works like JavaScript: it's all dynamic.[^dynamic]
 
 ### Types and facades
 
@@ -82,7 +82,7 @@ object Demo extends js.JSApp {
 
   def main(): Unit = {
 
-    println(s"starting `main()` with node version ${g.process.version}")
+    println(s"starting with node version ${g.process.version}")
 
     val tessel    = Tessel()
     val relayMono = RelayMono()
@@ -149,5 +149,7 @@ I plan to continue playing with Tessel 2 and Scala. The next step is to try to d
 [^specs]: Tessel 2 is fairly beefy compared to an Arduino board, for example: it features a 580 MHz CPU, built-in 802.11 b/g/n Wi-Fi, and 64 MB of RAM and 32 MB of Flash. You can add more storage via USB.
 
 [^typescript]: Scala.js facades are lot like [TypeScript declaration files](https://www.typescriptlang.org/docs/handbook/writing-declaration-files.html).
+
+[^ado]: There is one exception, which I had missed in an earlier version of this post, which is access to JavaScript arrays. If you only rely on dynamic calls, you have to cast to `js.Array[_]`, or use the `selectDynamic()` method. Here I chose the latter way. Things look nicer when you use facades.
 
 [^dynamic]: Under the hood, this is thanks to Scala's [`Dynamic`](http://www.scala-lang.org/files/archive/api/2.11.8/index.html#scala.Dynamic) support.
