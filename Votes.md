@@ -2,6 +2,51 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
+## [Votation populaire due 5 juin 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605.html) ([results](TODO))
+
+1. [Initiative populaire « En faveur du service public »](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/en-faveur-du-service-public.html)
+	- VOTED: __NO__
+	- EXPECTED: NO
+	- RESULT: TODO
+	- Thoughts
+        - This initiative aims at limiting the salaries of employees (especially executives) of public service enterprises.
+        - The limit would be fairly low: around CHF 450K (~ USD 450K)(salary of a Federal Councillor), which would mean that it would be impossible to find adequate executives for the larger public service enterprises.
+        - I agree with the Federal Council and vote no.
+2. [Initiative populaire « Pour un revenu de base inconditionnel »](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/pour-un-revenu-de-base-inconditionnel.html)
+	- VOTED: __NO__
+	- EXPECTED: NO
+	- RESULT: TODO
+	- Thoughts
+	    - A huge topic!
+	    - I sympathise with the general idea behind an unconditional basic income (UBI, RBI in French), and I think that, at some point in the future, it will become necessary.
+	    - The initiative is very vague on how the RBI should be implemented. This is at the same time good, following the idea that general principles are enshrined in the constitution, and would give the government a lot of freedom to implement it. On the other hand, the hard issues have not been addressed, whether as part of the official text of the initiative, or separately on the web site of the initiative. This means that very difficult issues, such as who would benefit from this, how to finance it, and the impact on different categories of existing jobs, are not addressed other than by hand-waving.
+       - Just thinking for a few minutes, you can come up with several difficult scenarios: what would happen to jobs near the suggested basic income of CHF 2500? It appears that they could mostly disappear. How many such jobs would be impacted in Switzerland? What about in the tourism industry, which already faces a lot of competition from cheaper neighbors? What about agriculture?
+       - There is also a paradox, which is that a rich country like Switzerland can be thought as a prime candidate for RBI, while at the same time the country's current system works fairly well (not a lot of poverty and reasonable inequality), which negates that position.
+       - I also think that, while I agree automation will destroy most jobs, and that we need to be a little proactive to address that, Switzerland is a place where unemployment is comparatively low, with high education, so doesn't currently have a serious problem, and will not be the first place to have problems when the AI takes over. So it is a bit premature to introduce the RBI in Switzerland.
+       - On the other hand there are man risks regarding financing and the impact on jobs, the economy, and society as a whole, including in relation with its neighbors.
+       - In short, the initiative is interesting, opens a very interesting debate, but is premature, shallow, and I think it should not pass as suggested.
+3. [Initiative populaire « Pour un financement équitable des transports »](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/pour-un-financement-equitable-des-transports%20.html)
+	- VOTED: __NO__
+	- EXPECTED: NO
+	- RESULT: TODO
+	- Thoughts
+	    - 
+4. [Modification de la loi fédérale sur la procréation médicalement assistée (LPMA)](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/modification-de-la-loi-federale-sur-la-procreation-medicalement-assistee.html)
+	- VOTED: __YES__
+	- EXPECTED: YES
+	- RESULT: TODO
+    - Thoughts
+        - I suspect the referendum is coming from the religious right which is against IVF and the likes ("an embryo is a human being and has the right to live").
+        - The law is fairly clear and I don't see how it can be a slippery slope.
+        - It follows what other countries do.
+        - I vote YES.
+5. [Modification de la loi sur l’asile (LAsi)](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/modification-de-la-loi-sur-asile.html)
+	- VOTED: __YES__
+	- EXPECTED: YES
+	- RESULT: TODO
+    - Thoughts
+        - A typical xenophobic referendum.
+        - I vote YES.
 ## [Votation populaire du 28 février 2015](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228.html) ([results](https://www.admin.ch/ch/f/pore/va/20160228/index.html))
 
 1. [Initiative populaire du 5 novembre 2012 "Pour le couple et la famille - Non à la pénalisation du mariage"](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228/imposition-du-couple-et-de-la-famille.html)
