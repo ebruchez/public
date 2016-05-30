@@ -47,6 +47,7 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
     - Thoughts
         - A typical xenophobic referendum.
         - I vote YES.
+
 ## [Votation populaire du 28 février 2015](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228.html) ([results](https://www.admin.ch/ch/f/pore/va/20160228/index.html))
 
 1. [Initiative populaire du 5 novembre 2012 "Pour le couple et la famille - Non à la pénalisation du mariage"](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160228/imposition-du-couple-et-de-la-famille.html)
