@@ -30,7 +30,7 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 	- EXPECTED: NO
 	- RESULT: TODO
 	- Thoughts
-	    - 
+	    - Not many, but I follow the advice of the Federal Council.
 4. [Modification de la loi fédérale sur la procréation médicalement assistée (LPMA)](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/modification-de-la-loi-federale-sur-la-procreation-medicalement-assistee.html)
 	- VOTED: __YES__
 	- EXPECTED: YES
