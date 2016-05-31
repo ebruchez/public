@@ -10,7 +10,7 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 	- RESULT: TODO
 	- Thoughts
         - This initiative aims at limiting the salaries of employees (especially executives) of public service enterprises.
-        - The limit would be fairly low: around CHF 450K (~ USD 450K)(salary of a Federal Councillor), which would mean that it would be impossible to find adequate executives for the larger public service enterprises.
+        - The limit would be fairly low: around CHF 450K (~ USD 450K) (salary of a Federal Councillor), which would mean that it would be impossible to find adequate executives for the larger public service enterprises.
         - I agree with the Federal Council and vote no.
 2. [Initiative populaire « Pour un revenu de base inconditionnel »](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/pour-un-revenu-de-base-inconditionnel.html)
 	- VOTED: __NO__
