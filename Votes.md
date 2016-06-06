@@ -7,7 +7,7 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 1. [Initiative populaire « En faveur du service public »](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/en-faveur-du-service-public.html)
 	- VOTED: __NO__
 	- EXPECTED: NO
-	- RESULT: TODO
+	- [RESULT](https://www.admin.ch/ch/f/pore/va/20160605/det600.html): NO 67,6%
 	- Thoughts
         - This initiative aims at limiting the salaries of employees (especially executives) of public service enterprises.
         - The limit would be fairly low: around CHF 450K (~ USD 450K) (salary of a Federal Councillor), which would mean that it would be impossible to find adequate executives for the larger public service enterprises.
@@ -15,7 +15,7 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 2. [Initiative populaire « Pour un revenu de base inconditionnel »](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/pour-un-revenu-de-base-inconditionnel.html)
 	- VOTED: __NO__
 	- EXPECTED: NO
-	- RESULT: TODO
+	- [RESULT](https://www.admin.ch/ch/f/pore/va/20160605/det601.html): NO 76,9%
 	- Thoughts
 	    - A huge topic!
 	    - I sympathise with the general idea behind an unconditional basic income (UBI, RBI in French), and I think that, at some point in the future, it will become necessary.
@@ -28,13 +28,13 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 3. [Initiative populaire « Pour un financement équitable des transports »](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/pour-un-financement-equitable-des-transports%20.html)
 	- VOTED: __NO__
 	- EXPECTED: NO
-	- RESULT: TODO
+	- [RESULT](https://www.admin.ch/ch/f/pore/va/20160605/det602.html): NO 70,8%
 	- Thoughts
 	    - Not many, but I follow the advice of the Federal Council.
 4. [Modification de la loi fédérale sur la procréation médicalement assistée (LPMA)](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/modification-de-la-loi-federale-sur-la-procreation-medicalement-assistee.html)
 	- VOTED: __YES__
 	- EXPECTED: YES
-	- RESULT: TODO
+	- [RESULT](https://www.admin.ch/ch/f/pore/va/20160605/det603.html): YES 62,4%
     - Thoughts
         - I suspect the referendum is coming from the religious right which is against IVF and the likes ("an embryo is a human being and has the right to live").
         - The law is fairly clear and I don't see how it can be a slippery slope.
@@ -43,7 +43,7 @@ I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This doc
 5. [Modification de la loi sur l’asile (LAsi)](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/modification-de-la-loi-sur-asile.html)
 	- VOTED: __YES__
 	- EXPECTED: YES
-	- RESULT: TODO
+	- [RESULT](https://www.admin.ch/ch/f/pore/va/20160605/det604.html): YES 66,78%
     - Thoughts
         - A typical xenophobic referendum.
         - I vote YES.
