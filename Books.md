@@ -8,6 +8,7 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Books I am currently reading
 
+- Umberto Eco - [Baudolino](https://en.wikipedia.org/wiki/Baudolino) #paper #french
 - John Toland - [Adolf Hitler: The Definitive Biography](http://www.amazon.com/gp/product/B00JTCJF4W) (started 2015-06) #ebook #stalled
 - Daniel C. Dennett  - [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/) #paper #stalled
 - Antoine de Saint-Exupéry - Terre des Hommes #ebook #stalled
