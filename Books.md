@@ -4,7 +4,7 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Books I plan to read in 2016
 
-
+- TODO
 
 ## Books I am currently reading
 
@@ -18,6 +18,10 @@ Dates are completion dates.
 
 ### 2016
 
+- 2016-07-03: [Iain M. Banks - Use of Weapons](https://www.amazon.com/Use-Weapons-Culture-Novel-Book-ebook/dp/B0015DWLTE) #ebook
+- 2016-05-07: [Iain M. Banks - The Player of Games (A Culture Novel Book 2)](https://www.amazon.com/Player-Games-Culture-Novel-Book-ebook/dp/B002WM3HC2) #ebook
+    - I devoured this book, especially the last part!
+    - I am probably not the only one to be introduced to this book  by SpaceX's use of *Just Read the Instructions* and *Of Course I Still Love You*.
 - 2016-03-30: [Umberto Eco - Le nom de la rose (1980)](https://fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman)) #reread #ebook #french
     - One of my favorite books, period!
 - 2016-02-16: [Arthur C. Clarke - Rendezvous with Rama (1973)](https://en.wikipedia.org/wiki/Rendezvous_with_Rama) #reread #ebook
