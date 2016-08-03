@@ -72,6 +72,8 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 - From: @ebruchez
 - Text: "Now that Apple has announced the open sourcing of Swift, I predict that by the end of 2016 there will at least one popular server-side, async/event-driven platform a la Node.js but based on Swift. It will run on Linux and OS X."
+- Updates
+    - 2016-03-01: [Swift Express](https://github.com/crossroadlabs/Express), a Play- and Express.js-inspired framework.
 - Resolution:
 	- WAIT until 2016-12-31
 
@@ -138,6 +140,13 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 ## Other people's predictions
 
+### PREDICTION-0014: 2016-08-02: 2016 election will not be close 
+
+- From: @avernet
+- Text: "The 2016 US presidential election will not be close: Trump will lose by a significant margin."
+- Resolution:
+    - WAIT until 2016-11-09
+
 ### PREDICTION-0011: 2015-07-02: Timeline of real-life test of Google self-driving cars
 
 - From: @avernet
@@ -145,7 +154,7 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - Comments:
     - This is in response to a rumor that Google might start such a test in 2015.
 - Resolution:
-    - WAIT until 2016--04-01
+    - WAIT until 2016-04-01
 
 ### PREDICTION-0004: 2013-12-03: Amazon Prime Air timeline
 
