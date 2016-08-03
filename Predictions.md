@@ -7,8 +7,8 @@ Content:
 - [Considerations](#considerations)
     - [General considerations on self-driving vehicles](#2015-07-04-general-considerations-on-self-driving-vehicles)
 - [My pending predictions](#my-pending-predictions)
-- [My completed predictions](#my-completed-predictions)
-- [Other people's predictions](#other-peoples-predictions)
+- [Other people's pending predictions](#other-peoples-pending-predictions)
+- [Completed predictions](#completed-predictions)
 
 ## Considerations
 
@@ -105,7 +105,88 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - Resolution:
     - WAIT until 2023-09-26
 
-## My completed predictions
+## Other people's pending predictions
+
+### PREDICTION-0018: 2014-10-15: Driverless cars by 2023
+
+- From: @elonmusk
+- Text: "We’ll be able to achieve true autonomous driving, where you could literally get in the car, go to sleep and wake up at your destination."
+- Comments:
+    - See [Elon Musk: We’ll Have Driverless Cars By 2023](http://www.huffingtonpost.com/2014/10/15/tesla-driverless-cars_n_5990136.html) and [The High-Stakes Race to Rid the World of Human Drivers](http://www.theatlantic.com/technology/archive/2015/12/driverless-cars-are-this-centurys-space-race/417672/).
+    - The technical ability must be there, with solid demos and pilots, but not necessarily the availability to all the public due to regulations. 
+    - Says Musk: "it would take regulators another two to three years to approve the autonomous cars for use in public".
+    - It doesn't have to be Tesla doing it, it could be another company.
+- Resolution:
+    - WAIT until 2024-01-01
+
+### PREDICTION-0017: 2016-01-07: Timeline for summoning a self-driving car around the Bay Area
+
+- From: @avernet
+- Text: "In 15 years, we will be able to summon an autonomous car with a mobile app to go to random addresses around the San Francisco Bay Area."
+- Comments:
+    - Same conditions as PREDICTION-0016 but with a timeline of 15 years instead of 10.  
+- Resolution:
+    - WAIT until 2031-01-07
+
+### PREDICTION-0014: 2016-08-02: 2016 election will not be close 
+
+- From: @avernet
+- Text: "The 2016 US presidential election will not be close: Trump will lose by a significant margin."
+- Resolution:
+    - WAIT until 2016-11-09
+
+### PREDICTION-0015: 2016-01-06: Timeline for summoning a self-driving car for a trip out of town on a rainy day
+
+- From: @avernet
+- Text: "In 10 years, we still won't be able to summon an autonomous car, on a rainy day, to go from San Carlos to Healdsburg, with the trip taking a reasonable amount of time."
+- Comments:
+    - The "rainy day" is designed to make it clear that with a private car, the technical ability to do the trip would not be dependent on whether it is raining or not.
+    - The "reasonable amount of time" qualifier is there to insist on the usability of the system: if the car takes the whole day to go there, it won't be usable and therefore probably not used. As of 2016-08-03, that trip takes, by car just over 2 hours. We could say that if the trip takes, say, more than 50% of the time for the same trip by private car, the solution would be unacceptable. We can debate the exact percentage (50%, 100%, etc.).
+- Resolution:
+    - WAIT until 2026-01-05
+
+### PREDICTION-0004: 2013-12-03: Amazon Prime Air timeline
+
+- From: @avernet
+- Text: "Amazon Prime Air won't be usable in 5 years at Thomas's place (for technological or cost reasons, including but not limited to FAA requirements or high initial cost)."
+- Resolution:
+    - WAIT until 2018-12-03
+
+### PREDICTION-0002: 2013-09-16: iPhone CPU performance
+
+- From: @avernet
+- Text: "No 40x CPU perf improvement between iPhone 5S to 6 years after its release."
+- Comments:
+    - 2007-06-29: Original iPhone release.
+    - 2013-09-20: iPhone 5S release (just over 6 years later).
+    - On 2013-09-10, Apple [announced the iPhone 5S](http://www.macrumors.com/2013/09/10/live-coverage-of-apples-2013-iphone-media-event/) and and claims "CPU is 40x faster than original iPhone, with half coming with jump between A6 and A7".
+    - [Geekbench](http://browser.primatelabs.com/ios-benchmarks): 11.8x (1619 for the iPhone 5, 137 for the original iPhone)
+    - NOTE: This is *not* about overall performance, although that is interesting, but about *CPU* performance.
+    - It's almost certain that there will be devices called "iPhone" in 6 years.
+    - The question is: how do you measure performance improvements? On a per-core basis seems unfair. So some kind of reasonable benchmark, possibly using all the cores, should show a 40x performance improvement.
+- Resolution:
+    - WAIT until 2019-09-16
+
+### PREDICTION-0001: 2013-07-20: Death of Apple
+
+- From: @otazi:
+- Text: "Apple will be dead in 10 years."
+- Comments:
+    - What will "dead" mean? I will interpret it not as "out of business" as that seems impossible for a company of this size, but as "largely irrelevant". This means significantly less relevant than in 2013. How does this translate in terms of market share or number of devices or services? Maybe we can set the bar at 5% market share, a suggested by @avernet.
+- Resolution:
+    - WAIT until 2023-07-20
+
+## Completed predictions
+
+### PREDICTION-0011: 2015-07-02: Timeline of real-life test of Google self-driving cars
+
+- From: @avernet
+- Text: "Google will not manage to start a real-life test of their self-driving car in the US before the end of Q1 2016. By real-life, we mean that such a test would not rely on Google employees. The test doesn't have to be in California, but it must be in the US and on public roads."
+- Comments:
+    - This is in response to a rumor that Google might start such a test in 2015.
+- Resolution:
+    - __SUCCESS__
+    - 2016-08-03: As far as we can tell, Google hasn't done such a real-life test by 2016-03-31.
 
 ### PREDICTION-0008: 2015-01-09: iPhone with 2 GB of RAM
 
@@ -149,84 +230,3 @@ Trucks are also an obvious target for self-driving technology as they drive long
     - __SUCCESS__
     - 2015-06-08: Correct prediction as announced by Apple at WWDC 2015!
     - 2015-12-03: Open-sourcing is effective on [GitHub](https://github.com/apple/).
-
-## Other people's predictions
-
-### PREDICTION-0018: 2014-10-15: Driverless cars by 2023
-
-- From: @elonmusk
-- Text: "We’ll be able to achieve true autonomous driving, where you could literally get in the car, go to sleep and wake up at your destination."
-- Comments:
-    - See [Elon Musk: We’ll Have Driverless Cars By 2023](http://www.huffingtonpost.com/2014/10/15/tesla-driverless-cars_n_5990136.html) and [The High-Stakes Race to Rid the World of Human Drivers](http://www.theatlantic.com/technology/archive/2015/12/driverless-cars-are-this-centurys-space-race/417672/).
-    - The technical ability must be there, with solid demos and pilots, but not necessarily the availability to all the public due to regulations. 
-    - Says Musk: "it would take regulators another two to three years to approve the autonomous cars for use in public".
-    - It doesn't have to be Tesla doing it, it could be another company.
-- Resolution:
-    - WAIT until 2024-01-01
-
-### PREDICTION-0017: 2016-01-07: Timeline for summoning a self-driving car around the Bay Area
-
-- From: @avernet
-- Text: "In 15 years, we will be able to summon an autonomous car with a mobile app to go to random addresses around the San Francisco Bay Area."
-- Comments:
-    - Same conditions as PREDICTION-0016 but with a timeline of 15 years instead of 10.  
-- Resolution:
-    - WAIT until 2031-01-07
-
-### PREDICTION-0014: 2016-08-02: 2016 election will not be close 
-
-- From: @avernet
-- Text: "The 2016 US presidential election will not be close: Trump will lose by a significant margin."
-- Resolution:
-    - WAIT until 2016-11-09
-
-### PREDICTION-0015: 2016-01-06: Timeline for summoning a self-driving car for a trip out of town on a rainy day
-
-- From: @avernet
-- Text: "In 10 years, we still won't be able to summon an autonomous car, on a rainy day, to go from San Carlos to Healdsburg, with the trip taking a reasonable amount of time."
-- Comments:
-    - The "rainy day" is designed to make it clear that with a private car, the technical ability to do the trip would not be dependent on whether it is raining or not.
-    - The "reasonable amount of time" qualifier is there to insist on the usability of the system: if the car takes the whole day to go there, it won't be usable and therefore probably not used. As of 2016-08-03, that trip takes, by car just over 2 hours. We could say that if the trip takes, say, more than 50% of the time for the same trip by private car, the solution would be unacceptable. We can debate the exact percentage (50%, 100%, etc.).
-- Resolution:
-    - WAIT until 2026-01-05
-
-### PREDICTION-0011: 2015-07-02: Timeline of real-life test of Google self-driving cars
-
-- From: @avernet
-- Text: "Google will not manage to start a real-life test of their self-driving car in the US before the end of Q1 2016. By real-life, we mean that such a test would not rely on Google employees. The test doesn't have to be in California, but it must be in the US and on public roads."
-- Comments:
-    - This is in response to a rumor that Google might start such a test in 2015.
-- Resolution:
-    - __SUCCESS__
-    - 2016-08-03: As far as we can tell, Google hasn't done such a real-life test by 2016-03-31.
-
-### PREDICTION-0004: 2013-12-03: Amazon Prime Air timeline
-
-- From: @avernet
-- Text: "Amazon Prime Air won't be usable in 5 years at Thomas's place (for technological or cost reasons, including but not limited to FAA requirements or high initial cost)."
-- Resolution:
-    - WAIT until 2018-12-03
-
-### PREDICTION-0002: 2013-09-16: iPhone CPU performance
-
-- From: @avernet
-- Text: "No 40x CPU perf improvement between iPhone 5S to 6 years after its release."
-- Comments:
-    - 2007-06-29: Original iPhone release.
-    - 2013-09-20: iPhone 5S release (just over 6 years later).
-    - On 2013-09-10, Apple [announced the iPhone 5S](http://www.macrumors.com/2013/09/10/live-coverage-of-apples-2013-iphone-media-event/) and and claims "CPU is 40x faster than original iPhone, with half coming with jump between A6 and A7".
-    - [Geekbench](http://browser.primatelabs.com/ios-benchmarks): 11.8x (1619 for the iPhone 5, 137 for the original iPhone)
-    - NOTE: This is *not* about overall performance, although that is interesting, but about *CPU* performance.
-    - It's almost certain that there will be devices called "iPhone" in 6 years.
-    - The question is: how do you measure performance improvements? On a per-core basis seems unfair. So some kind of reasonable benchmark, possibly using all the cores, should show a 40x performance improvement.
-- Resolution:
-    - WAIT until 2019-09-16
-
-### PREDICTION-0001: 2013-07-20: Death of Apple
-
-- From: @otazi:
-- Text: "Apple will be dead in 10 years."
-- Comments:
-    - What will "dead" mean? I will interpret it not as "out of business" as that seems impossible for a company of this size, but as "largely irrelevant". This means significantly less relevant than in 2013. How does this translate in terms of market share or number of devices or services? Maybe we can set the bar at 5% market share, a suggested by @avernet.
-- Resolution:
-    - WAIT until 2023-07-20
