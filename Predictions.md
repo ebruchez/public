@@ -69,17 +69,6 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - Resolution:
 	- WAIT until 2016-12-31
 
-### PREDICTION-0012: 2015-07-04: Swift overtaking Objective-C
-
-- From: @ebruchez
-- Text: "In June 2016, two years after Apple's announcement, Swift will have overtaken Objective-C on GitHub based on metrics by [RedMonk](http://redmonk.com/sogrady/category/programming-languages/)."
-- Comments:
-    - This is a renewal of [PREDICTION-0005](#prediction-0005-2014-06-11-swift-overtaking-objective-c) below set for one year later.
-    - I think the momentum of Swift will accelerate this year due to Swift 2, open sourcing, and the fact that a rise in Swift means a decline of Objective-C.
-    - Last year's PREDICTION-0005 was too aggressive. I still think the updated prediction might not be realized in one year, but this is my bet!
-- Resolution:
-	- WAIT until 2016-07-01
-
 ### PREDICTION-0010: 2015-06-11: A Node.js for Swift
 
 - From: @ebruchez
@@ -177,6 +166,19 @@ Trucks are also an obvious target for self-driving technology as they drive long
     - WAIT until 2023-07-20
 
 ## Completed predictions
+
+### PREDICTION-0012: 2015-07-04: Swift overtaking Objective-C
+
+- From: @ebruchez
+- Text: "In June 2016, two years after Apple's announcement, Swift will have overtaken Objective-C on GitHub based on metrics by [RedMonk](http://redmonk.com/sogrady/category/programming-languages/)."
+- Comments:
+    - This is a renewal of [PREDICTION-0005](#prediction-0005-2014-06-11-swift-overtaking-objective-c) below set for one year later.
+    - I think the momentum of Swift will accelerate this year due to Swift 2, open sourcing, and the fact that a rise in Swift means a decline of Objective-C.
+    - Last year's PREDICTION-0005 was too aggressive. I still think the updated prediction might not be realized in one year, but this is my bet!
+- Resolution:
+    - __FAIL__
+    - [RedMonk](http://redmonk.com/sogrady/2016/07/20/language-rankings-6-16/): "Swift at this point has become the canonical example for the inertia of incumbent languages. Have followed an unprecendented growth trajectory since its introduction, this run is the first in which Swift has not gained but merely held its position of #17. […] But it’s clear that further gains for Swift will not come easily, and will instead be the product of widespread usage across an array of communities. As discussed in the last iteration of these rankings, Swift has opened up new avenues for growth beyond iOS development via its release as open source software and the embrace of third parties like IBM or Perfect, but these have yet to yield gains in new discussion or code sufficient to propel it forward in these rankings. We’ll be watching for signs of this type of new growth closely."
+    - Ok, so I was definitely too aggressive again, and Objective-C still leads. I am sure Swift will overtake Objective-C within a few years, but I cannot guess where to put the line now. Another 2 years? 5 years? Longer?
 
 ### PREDICTION-0011: 2015-07-02: Timeline of real-life test of Google self-driving cars
 
