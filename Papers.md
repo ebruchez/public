@@ -6,6 +6,9 @@ I like reading research papers, mostly computer science papers. Here is a list o
 
 ## 2016
 
+- 2016-08-18: [Bilingualism Changes Children’s Beliefs about what is Innate](https://www.academia.edu/8005189/Bilingualism_Changes_Childrens_Beliefs_about_what_is_Innate)
+    - Study is ok, but narrow: five- and six-year-old in 3 categories (monolingual, simultaneous bilingal, and sequential bilingual), asked to evaluate scenarios where babies or animals might acquire language, sounds, or features. Sequential bilinguals kids in the study answer fairly differently from monolingual kids. 
+    - The conclusion, "These findings suggest that bilingualism in the preschool years can profoundly change children’s essentialist biases.", on the other hand, seems to be to be nothing more than a hypothesis to be properly tested. 
 - 2016-03-17: [Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness](http://www.pnas.org/content/early/2014/12/18/1418490112.full.pdf)
     - Half of the participants used a very bright, light-emitting screen, for 4 hours during bedtime.
     - The other half used printed books and a dim light.
