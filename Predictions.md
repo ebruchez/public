@@ -167,6 +167,14 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 ## Completed predictions
 
+### PREDICTION-0019: 2016-09-02: general-purpose jack adapter for the iPhone 7
+
+- From @avernet
+- Text: "There is no way the iPhone 7 will ship with a general-purpose Lightning ↔ jack adapter for corded headphones."
+- Resolution:
+    - __FAIL__
+    - 2016-09-07: Apple announced that the Lightning to 3.5mm Headphone Jack Adapter would be in the box. [Also available for $9 separately](http://www.macrumors.com/2016/09/07/apple-3-5-mm-jack-lightning-adapter/).
+    
 ### PREDICTION-0012: 2015-07-04: Swift overtaking Objective-C
 
 - From: @ebruchez
