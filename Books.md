@@ -8,7 +8,6 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Books I am currently reading
 
-
 - John Toland - [Adolf Hitler: The Definitive Biography](http://www.amazon.com/gp/product/B00JTCJF4W) (started 2015-06) #ebook #stalled
 - Daniel C. Dennett  - [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/) #paper #stalled
 - Antoine de Saint-Exupéry - Terre des Hommes #ebook #stalled
@@ -19,7 +18,9 @@ Dates are completion dates.
 
 ### 2016
 
-- 2016-09-18: Umberto Eco - [Baudolino](https://en.wikipedia.org/wiki/Baudolino) #paper #french
+- 2016-09-18: [Umberto Eco - Baudolino](https://en.wikipedia.org/wiki/Baudolino) #paper #french
+    - bought probably more than 10 years ago
+    - started reading during my summer vacation
 - 2016-07-03: [Iain M. Banks - Use of Weapons](https://www.amazon.com/Use-Weapons-Culture-Novel-Book-ebook/dp/B0015DWLTE) #ebook
 - 2016-05-07: [Iain M. Banks - The Player of Games (A Culture Novel Book 2)](https://www.amazon.com/Player-Games-Culture-Novel-Book-ebook/dp/B002WM3HC2) #ebook
     - I devoured this book, especially the last part!
