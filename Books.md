@@ -101,6 +101,13 @@ Dates are completion dates.
 - 2010-04?: Jack Vance - Tales of the Dying Earth
 - 2010: Isaac Asimov - Foundation #reread #ebook
 
+### 2009
+
+- [Greg Mortenson - Three Cups of Tea](https://www.amazon.com/Three-Cups-Tea-Mission-Promote/dp/0143038257/)
+- [John Christopher - The Pool of Fire (The Tripods, #3)](https://www.amazon.com/dp/1481414798/)
+- [John Christopher - The City of Gold and Lead (The Tripods, #2)](https://www.amazon.com/dp/1481414755/)
+- [John Christopher - The White Mountains (The Tripods, #1)](https://www.amazon.com/White-Mountains-Tripods-John-Christopher/dp/1481414771)
+
 ## Books I started which I would like finish
 
 - Mozart biography (interrupted in 2010)
@@ -115,7 +122,7 @@ Dates are completion dates.
 
 - [Adam Smith - The Theory of Moral Sentiments (1759)](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
 - [Adam Smith - The Wealth of Nations (1776)](http://www.gutenberg.org/ebooks/3300)
-- [Charle Darwin - On the Origin of Species (1859)](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
+- [Charles Darwin - On the Origin of Species (1859)](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
 - [Thomas Paine - Common Sense](http://www.gutenberg.org/ebooks/147) (or http://www.gutenberg.org/ebooks/3755)
 - ??
 
