@@ -2,6 +2,105 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
+## US presidential general election 2016
+
+This is how I would have voted in the US if I was a citizen. This is as a San Mateo County, California resident so this also covers local and california elections and ballot issues:
+
+- Federal
+    - President and Vice President: Hillary Clinton / Tim Kaine
+    - United States Senator: blank
+    - United States Representative: Jackie Speier
+- State
+    - State Senator: Jerry Hill
+    - Member of the State Assembly: blank
+    - Judge of the Superior Court: blank
+- San Mateo County
+    - San Mateo County Harbor District - Members, Board of Commissioners - Full Term: blank
+    - San Mateo County Harbor District - Members, Board of Commissioners - Short Term: blank
+    - Sequoia Healthcare District Members, board of directors: blank
+- California Propositions
+    - [California Proposition 51, Public School Facility Bonds](https://ballotpedia.org/California_Proposition_51,_Public_School_Facility_Bonds_(2016))
+        - YES
+        - seems to have a lot of opposition
+        - I am not in love with bonds and borrowing a lot of money, but schools need money. 
+        - supported by both CA R and D parties
+    - [California Proposition 52, Continued Hospital Fee Revenue Dedicated to Medi-Cal Unless Voters Approve Changes](https://ballotpedia.org/California_Proposition_52,_Continued_Hospital_Fee_Revenue_Dedicated_to_Medi-Cal_Unless_Voters_Approve_Changes_(2016))
+        - YES
+        - Has a lot of support.
+        - I am putting my trust in all the organizations, people and media arguing for supporting this measure.
+    - [California Proposition 53, Voter Approval Requirement for Revenue Bonds above $2 Billion](https://ballotpedia.org/California_Proposition_53,_Voter_Approval_Requirement_for_Revenue_Bonds_above_$2_Billion_(2016))
+        - NO
+        - opposed by CA D party
+        - I agree with the argument that parts of the state could veto (large) local projects. Also, CA citizens already have a lot of issues to vote on, and I am not sure they would be able to do a good job at evaluating whether a project 400 miles away should get funding or not. 
+    - [California Proposition 54, Public Display of Legislative Bills Prior to Vote](https://ballotpedia.org/California_Proposition_54,_Public_Display_of_Legislative_Bills_Prior_to_Vote_(2016))
+        - YES
+        - has a lot of support from the media
+        - but is opposed by the CA D party
+        - Both sides argue that the other is sold to special interests, but I do like more transparency. I am still a bit split on this one.  
+    - [California Proposition 55, Extension of the Proposition 30 Income Tax Increase](https://ballotpedia.org/California_Proposition_55,_Extension_of_the_Proposition_30_Income_Tax_Increase_(2016))
+        - YES
+        - support from CA D party
+        - media more divided
+        - Funding is needed. This only impacts a little bit the very rich (probably the top 2%).
+    - [California Proposition 56, Tobacco Tax Increase](https://ballotpedia.org/California_Proposition_56,_Tobacco_Tax_Increase_(2016))
+        - YES
+        - support from CA D party
+        - has a lot of support from the media
+        - I have strong feelings against smoking. California has done better than the most of the world here, but I support increasing incentives against smoking and aligning e-cigarettes.
+    - [California Proposition 57, Parole for Non-Violent Criminals and Juvenile Court Trial Requirements](https://ballotpedia.org/California_Proposition_57,_Parole_for_Non-Violent_Criminals_and_Juvenile_Court_Trial_Requirements_(2016))
+        - YES
+        - support from CA D party
+        - media more divided
+        - The US needs less people in prison, not more. Giving non-violent, especially young, offenders a better chance is a good thing.  
+    - [California Proposition 58, Non-English Languages Allowed in Public Education](https://ballotpedia.org/California_Proposition_58,_Non-English_Languages_Allowed_in_Public_Education_(2016))
+        - YES
+        - good support from media
+        - This is a difficult one. Proponents say that "teaching English only in English" leaves lots of children behind. Opponents say the system has worked. I like the flexibility and I put my trust in educators, who largely support this proposition.
+    - [California Proposition 59, Overturn of Citizens United Act Advisory Question](https://ballotpedia.org/California_Proposition_59,_Overturn_of_Citizens_United_Act_Advisory_Question_(2016))
+        - YES
+        - just an informative measure
+        - good support from media
+        - "Sending a message" seems like not much but the cost is low too, so I am supporting this.
+    - [California Proposition 60, Condoms in Pornographic Films](https://ballotpedia.org/California_Proposition_60,_Condoms_in_Pornographic_Films_(2016))
+        - NO
+        - massive opposition from the media
+        - The weirdest proposition.
+        - It seems that the porn industry already has a lot of regulations. It also seems that this proposition is the wrong way to make things better. So I am aligning myself with the media here and rejecting.
+    - [California Proposition 61, Drug Price Standards](https://ballotpedia.org/California_Proposition_61,_Drug_Price_Standards_(2016))
+        - NO
+        - massive opposition from the media
+        - I like the idea of negotiating prices, of course, but it seems that this is the wrong way to go about it. I am rejecting.
+    - [California Proposition 62, Repeal of the Death Penalty](https://ballotpedia.org/California_Proposition_62,_Repeal_of_the_Death_Penalty_(2016))
+        - YES
+        - massive support from the media
+        - Death penalty is barbaric, doesn't work as an incentive against violent crime, is costly and immoral, and is on the wane anyway. Time for it to go. 
+    - [California Proposition 63, Background Checks for Ammunition Purchases and Large-Capacity Ammunition Magazine Ban](https://ballotpedia.org/California_Proposition_63,_Background_Checks_for_Ammunition_Purchases_and_Large-Capacity_Ammunition_Magazine_Ban_(2016))
+        - YES
+        - support from CA D party
+        - good support from media
+        - I support closing loophole and making sure people who buy dangerous weapons are checked. That's a very low baseline. Supporting.
+    - [California Proposition 64, Marijuana Legalization](https://ballotpedia.org/California_Proposition_64,_Marijuana_Legalization_(2016))
+        - YES
+        - support from CA D party
+        - media divided
+        - I don't smoke marijuana but the time for this has come.  
+    - [California Proposition 65, Dedication of Revenue from Disposable Bag Sales to Wildlife Conservation Fund](https://ballotpedia.org/California_Proposition_65,_Dedication_of_Revenue_from_Disposable_Bag_Sales_to_Wildlife_Conservation_Fund_(2016))
+        - NO
+        - massive opposition from the media
+        - This is an alternative from the bag industry against proposition 67. Heartily rejecting this.
+    - [California Proposition 66, Death Penalty Procedures](https://ballotpedia.org/California_Proposition_66,_Death_Penalty_Procedures_(2016))
+        - NO
+        - massive opposition from the media
+        - This is an alternative to proposition 62. Heartily rejecting this.
+    - [California Proposition 67, Plastic Bag Ban Veto Referendum](https://ballotpedia.org/California_Proposition_67,_Plastic_Bag_Ban_Veto_Referendum_(2016))
+        - YES
+        - massive support from the media 
+        - This implements at the state level what we already have in places like the San Mateo county. It appears to work in that consumer behavior is improved and we produce less garbage this way. Supporting. 
+- San Mateo County Measures
+    - [San Mateo County, California, Sales Tax, Measure K](https://ballotpedia.org/San_Mateo_County,_California,_Sales_Tax,_Measure_K_(November_2016))
+        - YES
+        - Continuing a tiny tax to fund local initiatives. Supporting. 
+
 ## [Votation populaire due 5 juin 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605.html) ([results](TODO))
 
 1. [Initiative populaire « En faveur du service public »](https://www.admin.ch/gov/fr/accueil/documentation/votations/20160605/en-faveur-du-service-public.html)
