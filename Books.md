@@ -91,7 +91,7 @@ Dates are completion dates.
 - 2013-0x: [Doris Kearns Goodwin - Team of Rivals: The Political Genius of Abraham Lincoln](https://www.amazon.com/gp/product/B00OVLUH34/) #audiobook
     - I thoroughly enjoyed this portrait of Lincoln and I recommend it.
 - 2013-01-2x: [Ray Kurzweil - How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/1491518839) #ebook
-     - [highlights](Reading/2012-11%20-%20How%20to%20Create%20a%20Mind%20(Ray%20Kurzweil).md)
+    - [highlights](Reading/2012-11%20-%20How%20to%20Create%20a%20Mind%20(Ray%20Kurzweil).md)
 
 ### 2012
 
@@ -100,24 +100,25 @@ Dates are completion dates.
 - 2012-10: Suzanne Collins - Catching Fire #ebook
 - 2012-10-07: Suzanne Collins - The Hunger Games #ebook
 - 2012-07: Richard Feynmann - "What Do You Care What Other People Think?": Further Adventures of a Curious Character #reread #ebook
-     - [highlights](Reading/2012-07%20-%20"What%20Do%20You%20Care%20What%20Other%20People%20Think%3F%20(Richard%20P.%20Feynman).md)
+    - [highlights](Reading/2012-07%20-%20"What%20Do%20You%20Care%20What%20Other%20People%20Think%3F%20(Richard%20P.%20Feynman).md)
 - 2012-07: Richard Feynmann - Surely you're joking, Mr. Feynmann #reread #ebook
 - 2012-06-20: Stendhal - Le Rouge et le Noir #reread #ebook
 
 ### 2011
 
-- 2011-12: Neal Stephenson - Anathem #ebook
+- 2011-12: [Neal Stephenson - Anathem](https://www.amazon.com/Anathem-Neal-Stephenson/dp/006147410X) #ebook
+    - [highlights](Reading/2011-10%20-%20Anathem%20(Neal%20Stephenson).md)
 - 2011-09-14: Isaac Asimov - The Caves of Steel #reread #ebook
 - 2011-08-26: Isaac Asimov - Foundation and Earth #reread #ebook
 - 2011: Isaac Asimov - Foundation's Edge #reread #ebook
-     - [highlights](Reading/2011-02%20-%20Foundation's%20Edge%20(Isaac%20Asimov).md)
+    - [highlights](Reading/2011-02%20-%20Foundation's%20Edge%20(Isaac%20Asimov).md)
 - 2011-05-17: Jules Verne - Michel Strogoff #reread #ebook
 - 2011-04: Voltaire - Candide #reread #french #ebook
-     - [highlights](Reading/2011-04%20-%20Candide%20(Voltaire).md)
+    - [highlights](Reading/2011-04%20-%20Candide%20(Voltaire).md)
 - 2011: Isaac Asimov - Second Foundation #reread #ebook
-     - [highlights](Reading/2011-02%20-%20Second%20Foundation%20(Isaac%20Asimov).md)
+    - [highlights](Reading/2011-02%20-%20Second%20Foundation%20(Isaac%20Asimov).md)
 - 2011: Isaac Asimov - Foundation and Empire #reread #ebook
-     - [highlights](Reading/2011-01%20-%20Foundation%20and%20Empire%20(Isaac%20Asimov).md)
+    - [highlights](Reading/2011-01%20-%20Foundation%20and%20Empire%20(Isaac%20Asimov).md)
 
 ### 2010
 
