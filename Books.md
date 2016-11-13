@@ -53,11 +53,13 @@ Dates are completion dates.
 - 2015-03-09: [T. Jack Foster Jr. - The Development of Foster City](http://www.amazon.com/Development-Foster-City-Jr-Jack-ebook/dp/B00CY1LR00/) #ebook
     - This is a short book.
     - Contains some interesting bits, although more depths would have been good.
+    - [highlights](Reading/2015-03-09%20-%20The%20Development%20of%20Foster%20City%20(T.%20Jack%20Foster%20Jr.).md)
 - 2015-02-19: [Jules Verne - Vingt mille lieues sous les mers (1869-1870)](http://fr.wikipedia.org/wiki/Vingt_mille_lieues_sous_les_mers) #ebook #gutenberg
+    - [highlights](Reading/2015-02-19%20-%20Vingt%20mille%20lieues%20sous%20les%20mers%20(1869-1870)%20(Jules%20Verne).md)
 - 2015-01-28: [Bright from the Start](http://www.amazon.com/Bright-Start-Science-Backed-Developing-Mindfrom-ebook/dp/B000UCUX46/) #ebook
     - Not that much content in this book. I skimmed very quickly through the second half.
     - I had bought this in August 2010 and probably started reading soon afterwards, but let it rest for a long time.
-     - [highlights](Reading/2010-12%20-%20Bright%20from%20the%20Start%20(Paula%20Spencer%20and%20Jill%20Stamm).md)
+     - [highlights](Reading/2010-12%20-%20Bright%20from%20the%20Start%20(Paula%20Spencer%20and%20Jill%20Stamm).md)     
 - 2015-01-28: [Arthur C. Clarke - 3001: Final Odyssey](http://www.amazon.com/3001-Odyssey-Arthur-C-Clarke/dp/0345423496) #reread #ebook
     - Started reading probably in January 2014, then let it rest.
     - This is the weakest of the Odyssey series. The most interesting part is the appendix, where Clarke comments about some historical bits, where some ideas came from, and even how some of the ideas in the book were already obsolete.
