@@ -2,7 +2,7 @@
 
 I don't have much time to read so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
-## Books I plan to read in 2016
+## Books I plan to read in 2017
 
 - TODO
 
@@ -46,7 +46,7 @@ Dates are completion dates.
 - 2015-11-29: [Dan Simmons - The Fall of Hyperion](https://en.wikipedia.org/wiki/The_Fall_of_Hyperion_(novel)) #reread #ebook
 - 2015-06-14: [Terry Pratchett - Equal Rites](https://en.wikipedia.org/wiki/Equal_Rites)
 - 2015-05-13: [Terry Pratchett - The Light Fantastic](https://en.wikipedia.org/wiki/The_Light_Fantastic)
-- 2015-04-xx: [Terry Pratchett - The Color of Magic](https://en.wikipedia.org/wiki/The_Colour_of_Magic)
+- 2015-04: [Terry Pratchett - The Color of Magic](https://en.wikipedia.org/wiki/The_Colour_of_Magic)
 - 2015-03-10: [Jules Verne - Cinq semaines en ballon](https://fr.wikipedia.org/wiki/Cinq_semaines_en_ballon) #ebook #gutenberg
     - Not as good as "Vingt mille lieues sous les mers", but it's a fairly quick read.
     - This book is mostly about the idea of using a balloon to cross Africa from East to West. The technical aspects are interesting, and handled realistically, except maybe for the source of electricity: while the balloon's hydrogen does leak, the fact that the battery might lose charge is never mentioned AFAICT.
@@ -74,32 +74,34 @@ Dates are completion dates.
 
 - 2013-10 to 2014-01: Jean Perrot - The Organ from its invention in the Hellenistic period to the end of the Thirteenth Century
     - [highlights and notes](Reading/2013-10%20-%20The%20Organ.md)
-- 2013-08-xx: Arthur C. Clarke - 2061: Odyssey Three #reread #ebook
+- 2013-08: Arthur C. Clarke - 2061: Odyssey Three #reread #ebook
     - [highlights](Reading/2013-08%20-%202061-%20Odyssey%20Three%20(Arthur%20C.%20Clarke).md)
 - 2013-09-04: Stefan Zweig - La peur (Schachnovelle) #reread #audiobook
 - 2013-08-29: Stefan Zweig - Le joueur d'échecs (Schachnovelle) #reread #audiobook
     - I first read this short book in high school in 1991 for German class (I probably read it in French!). I really liked it and developed interest in Zweig. In the years that followed I read several more of his books.
     - This time I listened to it as an audiobook during commute. It is simply a masterpiece of storytelling.
-- 2013-08-27: Bill Bryson - [A Short History of Nearly Everything](http://www.amazon.com/A-Short-History-Nearly-Everything/dp/076790818X) #audiobook
+- 2013-08-27: [Bill Bryson - A Short History of Nearly Everything](http://www.amazon.com/A-Short-History-Nearly-Everything/dp/076790818X) #audiobook
 - 2013-07-16: [Bertrand Russell - The Problems of Philosophy](http://www.amazon.com/dp/B000FC25JW/) #ebook
      - [highlights](Reading/2013-01%20-%20The%20Problems%20of%20Philosophy%20(Bertrand%20Russell).md)
-- 2013-07-xx: Arthur C. Clarke - 2010: Odyssey Two #reread #ebook
+- 2013-07: Arthur C. Clarke - 2010: Odyssey Two #reread #ebook
     - [highlights](Reading/2013-07%20-%202010-%20Odyssey%20Two%20(Arthur%20C.%20Clarke).md)
-- 2013-06-xx: Arthur C. Clarke - 2001: A Space Odyssey #reread #ebook
+- 2013-06: Arthur C. Clarke - 2001: A Space Odyssey #reread #ebook
     - [highlights](Reading/2013-05%20-%202001-%20A%20Space%20Odyssey%20(Arthur%20C.%20Clarke).md)
 - 2013-06-19: [Guy de Maupassant - Nouvelles Cruelles](http://www.gallimard.fr/Catalogue/GALLIMARD/Ecoutez-lire/Nouvelles-cruelles) #audiobook
-- 2013-0x-xx: Team of Rivals #audiobook
-- 2013-01-2x: Ray Kurzweil - How to Create a Mind #ebook
+- 2013-0x: [Doris Kearns Goodwin - Team of Rivals: The Political Genius of Abraham Lincoln](https://www.amazon.com/gp/product/B00OVLUH34/) #audiobook
+    - I thoroughly enjoyed this portrait of Lincoln and I recommend it.
+- 2013-01-2x: [Ray Kurzweil - How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/1491518839) #ebook
      - [highlights](Reading/2012-11%20-%20How%20to%20Create%20a%20Mind%20(Ray%20Kurzweil).md)
 
 ### 2012
 
+- 2012-11: [H.P. Lovecraft - The Shadow Over Innsmouth](https://en.wikipedia.org/wiki/The_Shadow_over_Innsmouth)
 - 2012-10-24: Suzanne Collins - Mockingjay #ebook
-- 2012-10-xx: Suzanne Collins - Catching Fire #ebook
+- 2012-10: Suzanne Collins - Catching Fire #ebook
 - 2012-10-07: Suzanne Collins - The Hunger Games #ebook
-- 2012-07-xx: Richard Feynmann - "What Do You Care What Other People Think?": Further Adventures of a Curious Character #reread #ebook
+- 2012-07: Richard Feynmann - "What Do You Care What Other People Think?": Further Adventures of a Curious Character #reread #ebook
      - [highlights](Reading/2012-07%20-%20"What%20Do%20You%20Care%20What%20Other%20People%20Think%3F%20(Richard%20P.%20Feynman).md)
-- 2012-07-xx: Richard Feynmann - Surely you're joking, Mr. Feynmann #reread #ebook
+- 2012-07: Richard Feynmann - Surely you're joking, Mr. Feynmann #reread #ebook
 - 2012-06-20: Stendhal - Le Rouge et le Noir #reread #ebook
 
 ### 2011
