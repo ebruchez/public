@@ -19,6 +19,7 @@ Dates are completion dates.
 
 - 2016-10-24: [John Toland - Adolf Hitler: The Definitive Biography](http://www.amazon.com/gp/product/B00JTCJF4W) #ebook
     - started 2015-06
+    - [highlights](Reading/2016-10-04%20-%20Adolf%20Hitler%20-%20The%20Definitive%20Biography%20(John%20Toland).md)
 - 2016-09-18: [Umberto Eco - Baudolino](https://en.wikipedia.org/wiki/Baudolino) #paper #french
     - bought probably more than 10 years ago
     - started reading during my summer vacation
@@ -28,6 +29,7 @@ Dates are completion dates.
     - I am probably not the only one to be introduced to this book  by SpaceX's use of *Just Read the Instructions* and *Of Course I Still Love You*.
 - 2016-03-30: [Umberto Eco - Le nom de la rose (1980)](https://fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman)) #reread #ebook #french
     - One of my favorite books, period!
+    - [highlights](Reading/2016-03-31%20-%20Le%20nom%20de%20la%20rose.md)
 - 2016-02-16: [Arthur C. Clarke - Rendezvous with Rama (1973)](https://en.wikipedia.org/wiki/Rendezvous_with_Rama) #reread #ebook
     - One of the best science fiction stories ever written.
 - 2016-01-09: [Emily Brontë - Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) #reread #ebook #french
@@ -52,9 +54,11 @@ Dates are completion dates.
 - 2015-01-28: [Bright from the Start](http://www.amazon.com/Bright-Start-Science-Backed-Developing-Mindfrom-ebook/dp/B000UCUX46/) #ebook
     - Not that much content in this book. I skimmed very quickly through the second half.
     - I had bought this in August 2010 and probably started reading soon afterwards, but let it rest for a long time.
+     - [highlights](Reading/2010-12%20-%20Bright%20from%20the%20Start%20(Paula%20Spencer%20and%20Jill%20Stamm).md)
 - 2015-01-28: [Arthur C. Clarke - 3001: Final Odyssey](http://www.amazon.com/3001-Odyssey-Arthur-C-Clarke/dp/0345423496) #reread #ebook
     - Started reading probably in January 2014, then let it rest.
     - This is the weakest of the Odyssey series. The most interesting part is the appendix, where Clarke comments about some historical bits, where some ideas came from, and even how some of the ideas in the book were already obsolete.
+    - [highlights](Reading/2013-08%20-%203001-%20The%20Final%20Odyssey%20(Arthur%20C.%20Clarke).md)
 
 ### 2014
 
@@ -64,24 +68,32 @@ Dates are completion dates.
 ### 2013
 
 - 2013-10 to 2014-01: Jean Perrot - The Organ from its invention in the Hellenistic period to the end of the Thirteenth Century
+    - [highlights and notes](Reading/2013-10%20-%20The%20Organ.md)
 - 2013-08-xx: Arthur C. Clarke - 2061: Odyssey Three #reread #ebook
+    - [highlights](Reading/2013-08%20-%202061-%20Odyssey%20Three%20(Arthur%20C.%20Clarke).md)
 - 2013-09-04: Stefan Zweig - La peur (Schachnovelle) #reread #audiobook
 - 2013-08-29: Stefan Zweig - Le joueur d'échecs (Schachnovelle) #reread #audiobook
     - I first read this short book in high school in 1991 for German class (I probably read it in French!). I really liked it and developed interest in Zweig. In the years that followed I read several more of his books.
     - This time I listened to it as an audiobook during commute. It is simply a masterpiece of storytelling.
 - 2013-08-27: Bill Bryson - [A Short History of Nearly Everything](http://www.amazon.com/A-Short-History-Nearly-Everything/dp/076790818X) #audiobook
 - 2013-07-16: [Bertrand Russell - The Problems of Philosophy](http://www.amazon.com/dp/B000FC25JW/) #ebook
+     - [highlights](Reading/2013-01%20-%20The%20Problems%20of%20Philosophy%20(Bertrand%20Russell).md)
 - 2013-07-xx: Arthur C. Clarke - 2010: Odyssey Two #reread #ebook
+    - [highlights](Reading/2013-07%20-%202010-%20Odyssey%20Two%20(Arthur%20C.%20Clarke).md)
 - 2013-06-xx: Arthur C. Clarke - 2001: A Space Odyssey #reread #ebook
+    - [highlights](Reading/2013-05%20-%202001-%20A%20Space%20Odyssey%20(Arthur%20C.%20Clarke).md)
 - 2013-06-19: [Guy de Maupassant - Nouvelles Cruelles](http://www.gallimard.fr/Catalogue/GALLIMARD/Ecoutez-lire/Nouvelles-cruelles) #audiobook
 - 2013-0x-xx: Team of Rivals #audiobook
 - 2013-01-2x: Ray Kurzweil - How to Create a Mind #ebook
+     - [highlights](Reading/2012-11%20-%20How%20to%20Create%20a%20Mind%20(Ray%20Kurzweil).md)
 
 ### 2012
 
 - 2012-10-24: Suzanne Collins - Mockingjay #ebook
 - 2012-10-xx: Suzanne Collins - Catching Fire #ebook
 - 2012-10-07: Suzanne Collins - The Hunger Games #ebook
+- 2012-07-xx: Richard Feynmann - "What Do You Care What Other People Think?": Further Adventures of a Curious Character #reread #ebook
+     - [highlights](Reading/2012-07%20-%20"What%20Do%20You%20Care%20What%20Other%20People%20Think%3F%20(Richard%20P.%20Feynman).md)
 - 2012-07-xx: Richard Feynmann - Surely you're joking, Mr. Feynmann #reread #ebook
 - 2012-06-20: Stendhal - Le Rouge et le Noir #reread #ebook
 
@@ -91,9 +103,14 @@ Dates are completion dates.
 - 2011-09-14: Isaac Asimov - The Caves of Steel #reread #ebook
 - 2011-08-26: Isaac Asimov - Foundation and Earth #reread #ebook
 - 2011: Isaac Asimov - Foundation's Edge #reread #ebook
+     - [highlights](Reading/2011-02%20-%20Foundation's%20Edge%20(Isaac%20Asimov).md)
 - 2011-05-17: Jules Verne - Michel Strogoff #reread #ebook
-- 2011?: Isaac Asimov - Second Foundation #reread #ebook
-- 2011?: Isaac Asimov - Foundation and Empire #reread #ebook
+- 2011-04: Voltaire - Candide #reread #french #ebook
+     - [highlights](Reading/2011-04%20-%20Candide%20(Voltaire).md)
+- 2011: Isaac Asimov - Second Foundation #reread #ebook
+     - [highlights](Reading/2011-02%20-%20Second%20Foundation%20(Isaac%20Asimov).md)
+- 2011: Isaac Asimov - Foundation and Empire #reread #ebook
+     - [highlights](Reading/2011-01%20-%20Foundation%20and%20Empire%20(Isaac%20Asimov).md)
 
 ### 2010
 
