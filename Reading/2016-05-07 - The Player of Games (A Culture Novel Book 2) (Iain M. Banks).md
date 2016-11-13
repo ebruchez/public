@@ -1,8 +1,5 @@
 ## [Iain M. Banks - The Player of Games (A Culture Novel Book 2)](https://www.amazon.com/Player-Games-Culture-Novel-Book-ebook/dp/B002WM3HC2)
 
-
----
-
 Highlight on page 28 | Location 441-443 | Added on Sunday, April 17, 2016 11:02:57 PM
 
 > “You’re strange, Gurgeh.” She drained her glass.  “Because I don’t find men attractive?” “Yes; you’re a man!” She laughed.  “Should I be attracted to myself, then?”
@@ -173,4 +170,3 @@ Highlight on page 292 | Location 4038-4038 | Added on Saturday, May 7, 2016 11:4
 Highlight on page 359 | Location 4959-4961 | Added on Saturday, May 7, 2016 9:11:05 PM
 
 > What, anyway, was he to say? That intelligence could surpass and excel the blind force of evolution, with its emphasis on mutation, struggle and death? That conscious cooperation was more efficient than feral competition?
-

@@ -24,9 +24,11 @@ Dates are completion dates.
     - bought probably more than 10 years ago
     - started reading during my summer vacation
 - 2016-07-03: [Iain M. Banks - Use of Weapons](https://www.amazon.com/Use-Weapons-Culture-Novel-Book-ebook/dp/B0015DWLTE) #ebook
+     - [highlights](Reading/2016-07-03%20-%20Use%20of%20Weapons%20(Iain%20M.%20Banks).md)
 - 2016-05-07: [Iain M. Banks - The Player of Games (A Culture Novel Book 2)](https://www.amazon.com/Player-Games-Culture-Novel-Book-ebook/dp/B002WM3HC2) #ebook
     - I devoured this book, especially the last part!
     - I am probably not the only one to be introduced to this book  by SpaceX's use of *Just Read the Instructions* and *Of Course I Still Love You*.
+     - [highlights](Reading/2016-05-07%20-%20The%20Player%20of%20Games%20(A%20Culture%20Novel%20Book%202)%20(Iain%20M.%20Banks).md)
 - 2016-03-30: [Umberto Eco - Le nom de la rose (1980)](https://fr.wikipedia.org/wiki/Le_Nom_de_la_rose_(roman)) #reread #ebook #french
     - One of my favorite books, period!
     - [highlights](Reading/2016-03-31%20-%20Le%20nom%20de%20la%20rose.md)
