@@ -34,6 +34,7 @@ Dates are completion dates.
     - [highlights](Reading/2016-03-31%20-%20Le%20nom%20de%20la%20rose.md)
 - 2016-02-16: [Arthur C. Clarke - Rendezvous with Rama (1973)](https://en.wikipedia.org/wiki/Rendezvous_with_Rama) #reread #ebook
     - One of the best science fiction stories ever written.
+    - [highlights](Reading/2016-02-16%20-%20Rendezvous%20with%20Rama%20(Arthur%20C.%20Clarke).md)
 - 2016-01-09: [Emily Brontë - Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) #reread #ebook #french
 	- I read this in French under the title "Les Hauts de Hurlevent". I could have read the original English but just felt like I wanted to read something in French!
 	- I think I read this first in the summer of 1992, in French as well.
