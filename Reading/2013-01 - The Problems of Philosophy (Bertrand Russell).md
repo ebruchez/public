@@ -782,7 +782,7 @@ Highlight on Page 177 | Loc. 1952-54  | Added on Tuesday, July 16, 2013, 11:13 P
 
 Highlight on Page 181 | Loc. 1979-81  | Added on Tuesday, July 16, 2013, 11:16 PM
 
-> this is partly accounted for by the fact that, as soon as definite knowledge concerning any subject becomes possible, this subject ceases to be called philosophy, and becomes a separate science.R
+> this is partly accounted for by the fact that, as soon as definite knowledge concerning any subject becomes possible, this subject ceases to be called philosophy, and becomes a separate science.
 
 ---
 
