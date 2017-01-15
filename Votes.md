@@ -2,6 +2,12 @@
 
 I can't vote in the US, but I do vote in Switzerland as a Swiss Abroad. This document shows how I voted, and then compares that to the actual results when available.
 
+## [Votation populaire du 27 novembre 2016](https://www.admin.ch/gov/fr/accueil/documentation/votations/20161127/initiative-sortir-du-nucleaire.html)
+
+1. "Initiative populaire « Pour la sortie programmée de l’énergie nucléaire (Initiative « Sortir du nucléaire » ) »"
+    - I skipped this one entirely.
+    - RESULT: NO 54.2%
+
 ## US presidential general election 2016
 
 This is how I would have voted in the US if I was a citizen. This is as a San Mateo County, California resident so this also covers local and california elections and ballot issues:

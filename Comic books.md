@@ -23,7 +23,7 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
 - Yoko Tsuno
     - One particularity of this series is that the hero is a woman and women constitute the majority of the important characters of the stories (even though the author, Roger Leloup, is a man). This never bothered me the least as a boy and, as an adult, I still love the series.
 - Achille Talon
-    - This series has been a favorite of mine ever since I encountered it. 
+    - This series has been a favorite of mine ever since I encountered it.
 - Lefranc
     - Some of the stories in this series are just too good. My favorite might be [Le Repaire du loup](https://fr.wikipedia.org/wiki/Le_Repaire_du_loup), which is a masterpiece of the genre.
 - Alix
@@ -34,13 +34,145 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
 
 Dates are completion dates.
 
+### 2017
+
+- 2017-01-13: [Les démons des Carpathes  - 3 . Les Légions de l'enfer](http://www.bedetheque.com/BD-Demons-des-Carpathes-Tome-3-Les-Legions-de-l-enfer-124750.html)
+    - 2011
+    - Scénario: Philippe Chanoinat
+    - Dessin: Frédéric Marniquet
+    - Couleurs: Marie Galopin
+- 2017-01-12: [Les démons des Carpathes  - 2 . Le Mangeur d'âmes](http://www.bedetheque.com/BD-Demons-des-Carpathes-Tome-2-Le-Mangeur-d-ames-108685.html)
+    - #reread
+    - 2010
+    - Scénario: Philippe Chanoinat
+    - Dessin: Frédéric Marniquet
+    - Couleurs: Marie Galopin
+- 2017-01-09: [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino e il ritorno del "Principie della nebbie"
+    - Massimo De Vita
+    - 1984
+    - third part of the trilogy
+- 2017-01-08: Yoko Tsuno l'intégrale, volume 2: Aventures allemandes
+    - L'orgue du diable
+        - #reread
+        - 1973
+    - La Frontière de la vie
+        - #reread
+        - 1977
+        - This was not my favorite as a child. I probably preferred the space adventures.
+        - But re-reading it, it turns out to be really excellent. I almost had tears - after all, it is about saving the life of an innocent little girl.
+    - Le Feu de Wotan
+        - #reread
+        - 1984
+- 2017-01-05: Meta-Baron - Tome 2 - Khonrad l'anti-baron
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Valentin Sécher
+    - D'après: Alexandro Jodorowsky
+- 2017-01-0x:  Donjon Crépuscule - 106 - Révolutions
+    - Texte: Johann Sfar & Lewis Trondheim
+    - Dessin: Obion
+    - Couleur: Walter
+- 2017-01-0x: Donjon Crépuscule, Tome 105 - Les nouveaux Centurions
+        - #reread
+- 2017-01-0x: Antarès épisode 6
+
 ### 2016
 
-- 2016-11: [Les Fils d'El Topo - Tome 01 : Caïn](https://www.amazon.fr/Fils-dEl-Topo-01-Caïn/dp/2344004483/)
+- 2016-12-04: Lefranc - Le mystère Borg
+    - 1964-1965
+    - one of the best Lefranc albums
+    - Rating: 5/5
+- The Don Rosa Library Vol. 1
+    - 2016-11-27: Uncle Scrooge and the Son of the Sun
+        - #reread
+        - 1987-07
+        - Don Rosa
+        - Rating: 5/5
+- Super Picsou Géant 194, Juillet 2016
+    - 2016-11-24: L'Île au Trésor
+        - 2015 (L’isola del tesoro)
+        - Scénario: Teresa Radice
+        - Dessins: Stefano Turconi
+        - Rating: 5/5
+    - Donald, balayeur de problèmes
+        - Scénario: Lars Jensen
+        - Dessins: Andrea Ferraris
+        - Rating: 3/5
+    - La tactique hanséatique
+        - Scénario: Knut Nærum, Tormod Løkling
+        - Dessins: Arild Midthun
+        - Rating: 4/5
+    - Picsou - La chance du fantastimilliardaire
+        - Scénario: Michael T. Gilbert
+        - Dessins: Andrea Ferraris
+        - Rating: 3/5
+    - Dingo superchanceux
+        - Scénario: Casty
+        - Dessins: Lorenzo Pastrovicchio
+        - Rating: 3/5
+- Les trésors de Picsou 35 - Aventures aquatiques
+    - Donald - Gammes aquatiques
+        - 1956
+        - Carl Barks
+    - Donald - Ouragan sur le calme !
+        - 2007
+        - Daan Jippes
+    - Donald - 20000 cadeaux sous les mers
+        - 1955
+        - Carl Barks
+    - Donald - Les Castors Juniors perdent le nord
+        - 1960
+        - Carl Barks
+    - Picsou - Un rubis pour la haute
+        - 1963
+        - Carl Barks
+    - Picsou - 20 milliards sous les mers
+        - 2000
+        - wanda Gattino & Daniel Branca
+    - Donald - Capitaine de choc
+        - 1984
+        - Scénario: Evert Geradts
+        - Dessins: Ben Verhagen
+    - Picsou - Poule mouillée !
+        - 2009
+        - Scénario: Lars Jensen
+        - Dessins: Vicar
+    - Donald Duck - Chasseur de perles
+        - 1948
+        - Carl Barks
+    - Picsou - Pêche aux perles
+        - 1984
+        - Carl Barks
+    - Donald - Gaffeur sous-marin
+        - 1965
+        - Scénario: Dick Kenney
+        - Dessins: Al Hubbard
+    - Donald - La chasse au faido d'eau
+        - 1995
+        - William Van Horn
+    - Donald - Le maître du tuba
+        - 1996
+        - Scénario: Pat McGreal
+        - Dessins: Vicar
+    - Donald - Profond problème
+        - 1997
+        - Scénario: Per Hedman
+        - Dessins: Vicar
+    - Donald - Le siphon océanique
+        - 2001
+        - Scénario: Gorm Transgaard
+        - Dessins: Vicar
+    - Donald - Les prix plongent
+        - 2013
+        - Scénario: L. & M. Shaw
+        - Dessins: M. Tortajada
+    - Donald - Cauchemar en mer
+        - 2007
+        - Marco Rota
+- 2016-11: [Les Fils d'El Topo - Tome 01: Caïn](https://www.amazon.fr/Fils-dEl-Topo-01-Caïn/dp/2344004483/)
     - 2016
     - Scénario: Alexandro Jodorowsky
     - Dessin: José Ladronn
-- 2016-11: [Une aventure de Spirou et Fantasio : Le tombeau des Champignac](https://www.amazon.fr/Une-aventure-Spirou-Fantasio-Champignac/dp/280013805X/)
+- 2016-11: [Une aventure de Spirou et Fantasio: Le tombeau des Champignac](https://www.amazon.fr/Une-aventure-Spirou-Fantasio-Champignac/dp/280013805X/)
     - 2007
     - Scénario: [Yann](https://fr.wikipedia.org/wiki/Yann_(auteur))
     - Dessin: Fabrice Tarrin
@@ -49,6 +181,12 @@ Dates are completion dates.
     - Scenario: Jerry Frissen
     - Dessin et couleur: Valentin Sécher
     - D'après: Alexandro Jodorowsky
+- 2016-11: [Dragonero - Le Origini](https://www.amazon.it/origini-Dragonero-Luca-Enoch/dp/8869610160)
+    - 2015
+    - Language: Italian
+    - Scénario: Luca Enoch
+    - Scénario: Stefano Vietti
+    - Dessins: Giuseppe Matteoni
 - 2016-10: [Flash Gordon: Dan Barry Volume 1 - The City of Ice](https://www.amazon.com/gp/product/1782766839/)
     - 1951-1953
     - I was familiar with Flash Gordon only for having seen a few pages of "Guy L'éclair" in French Mickey Mouse magazines as a kid.
@@ -62,15 +200,18 @@ Dates are completion dates.
     - 2015
     - Scénario: Arleston
     - Dessin: Floch
-- 2016-08: [Les naufragés d'Ythaq - 12. Les Clefs du néant](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-12-Les-Clefs-du-neant-226732.html) #reread
+- 2016-08: [Les naufragés d'Ythaq - 12. Les Clefs du néant](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-12-Les-Clefs-du-neant-226732.html)
+    - #reread
     - 2014
     - Scénario: Arleston
-    - Dessin: Floch 
-- 2016-08: [Les naufragés d'Ythaq - 11. L'Haleine de l'Ogre](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-11-L-Haleine-de-l-Ogre-197183.html) #reread
+    - Dessin: Floch
+- 2016-08: [Les naufragés d'Ythaq - 11. L'Haleine de l'Ogre](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-11-L-Haleine-de-l-Ogre-197183.html)
+    - #reread
     - 2013
     - Scénario: Arleston
     - Dessin: Floch
-- 2016-08-09: [Les naufragés d'Ythaq - 10. Nehorf-Capitol Transit](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-10-Nehorf-Capitol-Transit-171913.html) #reread
+- 2016-08-09: [Les naufragés d'Ythaq - 10. Nehorf-Capitol Transit](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-10-Nehorf-Capitol-Transit-171913.html)
+    - #reread
     - 2012
     - Beginning of the second cycle (books 1-9 cover the first cycle).
     - Scénario: Arleston
@@ -86,112 +227,133 @@ Dates are completion dates.
         - Francesco Guerrini
         - 2003
         - from MPG 353
-    - Picsou : L'arbitre était presque parfait
+    - Picsou: L'arbitre était presque parfait
         - Rudy Salvagnini
         - Valerio Held
         - 2002
-    - Picsou : Un sort à sortir
+    - Picsou: Un sort à sortir
         - Pat McGreal & Carol McGreal
         - Giorgio Cavazzano
         - 2015
-    - Fantomiald : Comme un poison dans l'eau
+    - Fantomiald: Comme un poison dans l'eau
         - Sune Troelstrup
         - Andrea Freccero
         - 2015
-    - Le cycle des magiciens : L'héritage - Les gardiens de la mémoire
+    - Le cycle des magiciens: L'héritage - Les gardiens de la mémoire
         - Matteo Venerus
         - Alessandro Perina
         - 2013
-    - Dingo reporter : La plume d'or
+    - Dingo reporter: La plume d'or
         - Teresa Radice
         - Stefano Turconi
         - 2013
-    - Donald Junior : La plage au trésor
+    - Donald Junior: La plage au trésor
         - Augusto Macchetto
         - Emilio Urbano
         - 2003
-    - Mickey "Les Experts : Anderville" : Calypso
+    - Mickey "Les Experts: Anderville": Calypso
         - Francesco Artibani
         - Claudio Scarrone
         - 2000
-- 2016-07: [Orion - 3. Le pharaon](http://www.bedetheque.com/BD-Orion-J-Martin-Tome-3-Le-pharaon-3319.html) #reread #french
+- 2016-07: [Orion - 3. Le pharaon](http://www.bedetheque.com/BD-Orion-J-Martin-Tome-3-Le-pharaon-3319.html)
+    - #reread #french
     - Jacques Martin
     -  Christophe Simon
     - 1998
-- 2016-07: [Jhen - 6. Le lys et l'ogre](http://www.casterman.com/Bande-dessinee/Catalogue/jhen-les-albums-de-jhen/le-lys-et-logre) #reread #french
+- 2016-07: [Jhen - 6. Le lys et l'ogre](http://www.casterman.com/Bande-dessinee/Catalogue/jhen-les-albums-de-jhen/le-lys-et-logre)
+    - #reread #french
     - Scénario: Jacques Martin
     - Dessin: Jean Pleyers
-- 2016-07: Après l'Incal / Incal Final #reread #french
+- 2016-07: Après l'Incal / Incal Final
+    - #reread #french
     - except tome 3 which I don't have yet
-- 2016-07: Avant l'Incal #reread #french
-- 2016-07: L'Incal #reread #french
-- 2016-07: [Spirou - Le Groom vert-de-gris](https://fr.wikipedia.org/wiki/Le_Groom_vert-de-gris) #reread #french
+- 2016-07: Avant l'Incal
+    - #reread #french
+- 2016-07: L'Incal
+    - #reread #french
+- 2016-07: [Spirou - Le Groom vert-de-gris](https://fr.wikipedia.org/wiki/Le_Groom_vert-de-gris)
+    - #reread #french
     - part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
     - Scénario: Yann
     - Dessin: Olivier Schwartz
     - 2009
-- 2016-07: [Spirou - Les Marais du temps](https://fr.wikipedia.org/wiki/Les_Marais_du_temps) #reread #french
+- 2016-07: [Spirou - Les Marais du temps](https://fr.wikipedia.org/wiki/Les_Marais_du_temps)
+    - #reread #french
     - part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
     - Auteur: Frank Le Gall
     - 2007
-- 2016-07: [Spirou - Les Géants pétrifiés](https://fr.wikipedia.org/wiki/Les_G%C3%A9ants_p%C3%A9trifi%C3%A9s) #reread #french
+- 2016-07: [Spirou - Les Géants pétrifiés](https://fr.wikipedia.org/wiki/Les_G%C3%A9ants_p%C3%A9trifi%C3%A9s)
+    - #reread #french
     - part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
     - Scénario: Fabien Vehlmann
     - Dessin: Yoann
     - 2006
-- 2016: [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino e la Spada di Ghiaccio #italian
+- 2016: [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino e il Torneo dell'Argaar #italian
     - Massimo De Vita
     - 1983-1984
-- 2016: [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino e il Torneo dell'Argaar #italian
+- 2016: [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino e la Spada di Ghiaccio #italian
     - Massimo De Vita
     - 1982-1983
     - This is the first part of a series placing Mickey Mouse and Goofy (Topolino and Pippo, in Italian) in a fantasy setting, namely the world of Argaar.
-    
+
 
 (ordered 10 décembre 2015)
-    
-- Lefranc, Tome 26 : Mission Antarctique
+
+- Lefranc, Tome 26: Mission Antarctique
 - Ultime Frontière - tome 2 - Épisode 2
 - Sillage T18 - Psycholocauste
 - Le Monde perdu T1
-- Yoko Tsuno l'intégrale, volume 1 : De la Terre à Vinéa
-- Centaurus T01 Terre Promise
-- Donjon Crépuscule, Tome 105 : Les nouveaux Centurions
+- Yoko Tsuno l'intégrale, volume 1: De la Terre à Vinéa
+    - Le Trio de l'étrange
+        - #reread
+        - 1972
+    - La forge de Vulcain
+        - #reread
+        - 1973
+    - Les trois soleils de Vinéa
+        - #reread
+        - 1976
+- Centaurus T01: Terre Promise
+- Donjon Crépuscule, Tome 105: Les nouveaux Centurions
 
 ### 2015
 
 (ordered 8 juin 2015)
 
-- Yoko Tsuno, tome 27 : Le Secret de Khâny (grand format)
+- Yoko Tsuno, tome 27: Le Secret de Khâny (grand format)
 
 (ordered 9 décembre 2014)
 
-- Donjon monsters, tome 1 : Jean-Jean la Terreur
+- Donjon monsters, tome 1: Jean-Jean la Terreur
 - Les Druides T08 - Les Secrets d'Orient
 - Le Cycle de Cyann T6 - Les Aubes douces d'Aldalarann
 - Survivants - tome 3 - Épisode 3
-- Démons des Carpathes T02 Le mangeur d'âmes
-- Donjon Potron-Minet, Tome 83 : Sans un bruit
+- [Les démons des Carpathes  - 2 . Le Mangeur d'âmes](http://www.bedetheque.com/BD-Demons-des-Carpathes-Tome-2-Le-Mangeur-d-ames-108685.html)
+    - 2010
+    - Scénario: Philippe Chanoinat
+    - Dessin: Frédéric Marniquet
+    - Couleurs: Marie Galopin
+- Donjon Potron-Minet, Tome 83: Sans un bruit
 - Ultime Frontière - tome 1 - Épisode 1
-- Tif et Tondu : l'intégrale, tome 12, Crimes Ordinaires
+- Tif et Tondu: l'intégrale, tome 12, Crimes Ordinaires
 - Les Naufragés d'Ythaq T12 - Les Clés du néant
-- Les cités obscures : Souvenirs de l'Eternel présent
-- Spirou et Fantasio, l'intégrale tome 7 : Le mythe Zorglub
-- Alix, Tome 33 : Britannia
+- Les cités obscures: Souvenirs de l'Eternel présent
+- Spirou et Fantasio, l'intégrale tome 7: Le mythe Zorglub
+- Alix, Tome 33: Britannia
 - Sillage T17 - Grands Froids
-- Donjon parade, tome 1 : Un donjon de trop
+- Donjon parade, tome 1: Un donjon de trop
 - Largo Winch - tome 19 - Chassé-Croisé
-- Blake et Mortimer, tome 23 : le Baton de Plutarque
-- Donjon Crépuscule, Tome 104 : Le Dojo du lagon
+- Blake et Mortimer, tome 23: le Baton de Plutarque
+- Donjon Crépuscule, Tome 104: Le Dojo du lagon
 
 ### Earlier dates
 
-- Thorgal : Kah-Aniel
+- Thorgal: Kah-Aniel
 - Antarès épisode 5
-- Alix, tome 32 : La dernière conquête
-- Les Naufragés d'Ythaq, Tome 11 : L'Haleine de l'Ogre
-- Alix senator, Tome 2 : Le dernier pharaon
+- Alix, tome 32: La dernière conquête
+- Les Naufragés d'Ythaq, Tome 11: L'Haleine de l'Ogre
+- Alix senator, Tome 2: Le dernier pharaon
 - Spirou et Fantasio - L'intégrale - tome 8 - Spirou et Fantasio 8 (intégrale) Aventures humoristiques
 - Tif et Tondu - L'intégrale - tome 11 - Tif et Tondu 11 (intégrale) Sortilèges et manipulations
 - Blake & Mortimer Tome 22 l'Onde Septimus
-- Sillage, Tome 16 : Liés par le sang
+- Sillage, Tome 16: Liés par le sang

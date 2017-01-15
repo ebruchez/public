@@ -8,12 +8,18 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Books I am currently reading
 
-- Daniel C. Dennett  - [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/) #paper #stalled
+- [Albert Speer - Inside the Third Reich](https://en.wikipedia.org/wiki/Inside_the_Third_Reich)
+- [Daniel C. Dennett  - Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/) #paper #stalled
 - Antoine de Saint-Exupéry - Terre des Hommes #ebook #stalled
 
 ## Books I have read
 
 Dates are completion dates.
+
+### 2017
+
+- 2017-01: [Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch](https://en.wikipedia.org/wiki/Good_Omens)
+    - 1990
 
 ### 2016
 
@@ -59,7 +65,7 @@ Dates are completion dates.
 - 2015-01-28: [Bright from the Start](http://www.amazon.com/Bright-Start-Science-Backed-Developing-Mindfrom-ebook/dp/B000UCUX46/) #ebook
     - Not that much content in this book. I skimmed very quickly through the second half.
     - I had bought this in August 2010 and probably started reading soon afterwards, but let it rest for a long time.
-     - [highlights](Reading/2010-12%20-%20Bright%20from%20the%20Start%20(Paula%20Spencer%20and%20Jill%20Stamm).md)     
+     - [highlights](Reading/2010-12%20-%20Bright%20from%20the%20Start%20(Paula%20Spencer%20and%20Jill%20Stamm).md)
 - 2015-01-28: [Arthur C. Clarke - 3001: Final Odyssey](http://www.amazon.com/3001-Odyssey-Arthur-C-Clarke/dp/0345423496) #reread #ebook
     - Started reading probably in January 2014, then let it rest.
     - This is the weakest of the Odyssey series. The most interesting part is the appendix, where Clarke comments about some historical bits, where some ideas came from, and even how some of the ideas in the book were already obsolete.
