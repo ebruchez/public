@@ -56,20 +56,6 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - Resolution:
     - WAIT until 2026-01-07
 
-### PREDICTION-0013: 2015-12-03: Swift in the browser
-
-- From: @ebruchez
-- Text: "Now that Swift is actually open source, developers, whether at Apple or third-party, will produce a usable and efficient Swift-to-JavaScript compiler similar to Scala.js before the end of 2016. It will be called Swift.js."
-- Comments:
-    - I will consider this prediction successful even if the compiler is not officially called Swift.js!
-    - The intent of this prediction is that Swift.js will reuse much of the open source Swift toolchain, in the same way that [Scala.js](http://www.scala-js.org/) reuses much of the Scala toolchain. (As a counter example, there is at least one project attempting to do this on GitHub, but it implements a subset of Swift and appears very immature so doesn't qualify.)
-    - Swift already has the [Swift Intermediate Language](http://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf) which could be the basis for a JavaScript backend.
-    - Swift.js as described here doesn't compile to asm.js/WebAssembly, but maps to JavaScript in a way very similar to what [Scala.js](http://www.scala-js.org/) does.
-    - One important difference is that Swift.js will be garbage-collected, while its LLVM version is reference-counted. Developers will have to be made aware of that difference.
-- Resolution:
-	- WAIT until 2016-12-31
-	- xxx TODO: check this one
-
 ### PREDICTION-0003: 2013-09-26: Smart glasses technology
 
 - From: @ebruchez
@@ -144,6 +130,20 @@ Trucks are also an obvious target for self-driving technology as they drive long
     - WAIT until 2023-07-20
 
 ## Completed predictions
+
+### PREDICTION-0013: 2015-12-03: Swift in the browser
+
+- From: @ebruchez
+- Text: "Now that Swift is actually open source, developers, whether at Apple or third-party, will produce a usable and efficient Swift-to-JavaScript compiler similar to Scala.js before the end of 2016. It will be called Swift.js."
+- Comments:
+    - I will consider this prediction successful even if the compiler is not officially called Swift.js!
+    - The intent of this prediction is that Swift.js will reuse much of the open source Swift toolchain, in the same way that [Scala.js](http://www.scala-js.org/) reuses much of the Scala toolchain. (As a counter example, there is at least one project attempting to do this on GitHub, but it implements a subset of Swift and appears very immature so doesn't qualify.)
+    - Swift already has the [Swift Intermediate Language](http://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf) which could be the basis for a JavaScript backend.
+    - Swift.js as described here doesn't compile to asm.js/WebAssembly, but maps to JavaScript in a way very similar to what [Scala.js](http://www.scala-js.org/) does.
+    - One important difference is that Swift.js will be garbage-collected, while its LLVM version is reference-counted. Developers will have to be made aware of that difference.
+- Resolution:
+    - __FAIL__
+	- 2017-01-21: Nothing has come from Apple on this front, and nothing serious has been happening outside of Apple either. There is [ShiftJS](https://github.com/shift-js/shift-js) but it is in "early development" and it doesn't appear to reuse any of the existing Swift compiler. So it doesn't qualify.
 
 ### PREDICTION-0010: 2015-06-11: A Node.js for Swift
 
