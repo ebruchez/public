@@ -144,6 +144,7 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - Resolution:
     - __FAIL__
 	- 2017-01-21: Nothing has come from Apple on this front, and nothing serious has been happening outside of Apple either. There is [ShiftJS](https://github.com/shift-js/shift-js) but it is in "early development" and it doesn't appear to reuse any of the existing Swift compiler. So it doesn't qualify.
+	- I still think tha this will happen, but it is clearly lower priority for Swift compared to Swift on the server.
 
 ### PREDICTION-0010: 2015-06-11: A Node.js for Swift
 
