@@ -36,6 +36,14 @@ Dates are completion dates.
 
 ### 2017
 
+2017-01-20: [Lapinot et les carottes de patagonie](http://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-1-Lapinot-et-les-carottes-de-Patagonie-52359.html)
+    - 1992
+    - Scénario et dessin: Lewis Trondheim
+    - The mythical 500-page improvisation of Lewis Trondheim which introduces the character of Lapinot.
+- 2017-01-17: [Sillage - 19. Temps mort](xxx)
+    - 2016
+    - Scénario: Jean David Morvan
+    - Dessin et couleur: Philippe Buchet
 - 2017-01-13: [Les démons des Carpathes  - 3 . Les Légions de l'enfer](http://www.bedetheque.com/BD-Demons-des-Carpathes-Tome-3-Les-Legions-de-l-enfer-124750.html)
     - 2011
     - Scénario: Philippe Chanoinat
@@ -55,14 +63,17 @@ Dates are completion dates.
     - L'orgue du diable
         - #reread
         - 1973
+        - Rating: 5/5
     - La Frontière de la vie
         - #reread
         - 1977
         - This was not my favorite as a child. I probably preferred the space adventures.
         - But re-reading it, it turns out to be really excellent. I almost had tears - after all, it is about saving the life of an innocent little girl.
+        - Rating: 5/5
     - Le Feu de Wotan
         - #reread
         - 1984
+        - Rating: 5/5
 - 2017-01-05: Meta-Baron - Tome 2 - Khonrad l'anti-baron
     - Scénario: Jerry Frissen
     - Dessin et couleur: Valentin Sécher
@@ -72,7 +83,7 @@ Dates are completion dates.
     - Dessin: Obion
     - Couleur: Walter
 - 2017-01-0x: Donjon Crépuscule, Tome 105 - Les nouveaux Centurions
-        - #reread
+    - #reread
 - 2017-01-0x: Antarès épisode 6
 
 ### 2016
