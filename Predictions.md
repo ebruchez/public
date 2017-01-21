@@ -68,22 +68,7 @@ Trucks are also an obvious target for self-driving technology as they drive long
     - One important difference is that Swift.js will be garbage-collected, while its LLVM version is reference-counted. Developers will have to be made aware of that difference.
 - Resolution:
 	- WAIT until 2016-12-31
-
-### PREDICTION-0010: 2015-06-11: A Node.js for Swift
-
-- From: @ebruchez
-- Text: "Now that Apple has announced the open sourcing of Swift, I predict that by the end of 2016 there will at least one popular server-side, async/event-driven platform a la Node.js but based on Swift. It will run on Linux and OS X."
-- Updates
-    - 2016-03-01: [Swift Express](https://github.com/crossroadlabs/Express), a Play- and Express.js-inspired framework.
-- Resolution:
-	- WAIT until 2016-12-31
-
-### PREDICTION-0009: 2015-01-21: Marijuana in California
-
-- From: @ebruchez
-- Text: "California will legalize marijuana before year 2020."
-- Resolution:
-    - WAIT until 2019-12-31
+	- xxx TODO: check this one
 
 ### PREDICTION-0003: 2013-09-26: Smart glasses technology
 
@@ -102,7 +87,7 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - Text: "We’ll be able to achieve true autonomous driving, where you could literally get in the car, go to sleep and wake up at your destination."
 - Comments:
     - See [Elon Musk: We’ll Have Driverless Cars By 2023](http://www.huffingtonpost.com/2014/10/15/tesla-driverless-cars_n_5990136.html) and [The High-Stakes Race to Rid the World of Human Drivers](http://www.theatlantic.com/technology/archive/2015/12/driverless-cars-are-this-centurys-space-race/417672/).
-    - The technical ability must be there, with solid demos and pilots, but not necessarily the availability to all the public due to regulations. 
+    - The technical ability must be there, with solid demos and pilots, but not necessarily the availability to all the public due to regulations.
     - Says Musk: "it would take regulators another two to three years to approve the autonomous cars for use in public".
     - It doesn't have to be Tesla doing it, it could be another company.
 - Resolution:
@@ -113,16 +98,9 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - From: @avernet
 - Text: "In 15 years, we will be able to summon an autonomous car with a mobile app to go to random addresses around the San Francisco Bay Area."
 - Comments:
-    - Same conditions as PREDICTION-0016 but with a timeline of 15 years instead of 10.  
+    - Same conditions as PREDICTION-0016 but with a timeline of 15 years instead of 10.
 - Resolution:
     - WAIT until 2031-01-07
-
-### PREDICTION-0014: 2016-08-02: 2016 election will not be close 
-
-- From: @avernet
-- Text: "The 2016 US presidential election will not be close: Trump will lose by a significant margin."
-- Resolution:
-    - WAIT until 2016-11-09
 
 ### PREDICTION-0015: 2016-01-06: Timeline for summoning a self-driving car for a trip out of town on a rainy day
 
@@ -167,6 +145,45 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 ## Completed predictions
 
+### PREDICTION-0010: 2015-06-11: A Node.js for Swift
+
+- From: @ebruchez
+- Text: "Now that Apple has announced the open sourcing of Swift, I predict that by the end of 2016 there will at least one popular server-side, async/event-driven platform a la Node.js but based on Swift. It will run on Linux and OS X."
+- Updates
+    - 2016-03-01: [Swift Express](https://github.com/crossroadlabs/Express), a Play- and Express.js-inspired framework.
+- Resolution:
+	- __SUCCESS__
+	- 2017-01-20: There are a number of server-side Swift frameworks (see also [The Awesome Server Side Swift List](https://github.com/Awesome-Server-Side-Swift/TheList#server-side-swift-frameworks)):
+	    - [Perfect](http://perfect.org/), [on GitHub](https://github.com/PerfectlySoft/Perfect)
+            - 10,300+ stars on GitHub
+            - Apache license
+            - async
+        - [Vapor](https://vapor.codes/)
+            - 8,200+ stars on GitHub
+        - [Kitura](https://github.com/IBM-Swift/Kitura)
+            - by IBM
+            - 5,200+ start on GitHub
+	    - Now how to judge "popular"? For reference, Node.js has about 30K stars on GitHub. I think these frameworks can qualify as popular and Node.js-like, although I realize that don't have the impact that Node.js or Ruby on Rails have had, and far from it.
+	    - Chris Lattner in [this interview](http://atp.fm/episodes/205) confirms that server-side Swift was/is the next big step towards Swift's total world domination goal.
+	    - It could be (my opinion) that Apple is working on a major server-side platform which will dwarf what we have seen so far.
+	    - I am claiming this prediction as a success, while realizing that there is still a lot of future potential for growth for Swift-based server-side platforms.
+
+### PREDICTION-0009: 2015-01-21: Marijuana in California
+
+- From: @ebruchez
+- Text: "California will legalize marijuana before year 2020."
+- Resolution:
+    - __SUCCESS__
+    - 2017-01-21: Well in advance of 2020, Californians have approved legalization of recreational marijuana on 2016-11-09.
+
+### PREDICTION-0014: 2016-08-02: 2016 election will not be close
+
+- From: @avernet
+- Text: "The 2016 US presidential election will not be close: Trump will lose by a significant margin."
+- Resolution:
+    - __FAIL__
+    - 2017-01-21: Needless to say, this didn't happen.
+
 ### PREDICTION-0019: 2016-09-02: general-purpose jack adapter for the iPhone 7
 
 - From @avernet
@@ -174,7 +191,7 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - Resolution:
     - __FAIL__
     - 2016-09-07: Apple announced that the Lightning to 3.5mm Headphone Jack Adapter would be in the box. [Also available for $9 separately](http://www.macrumors.com/2016/09/07/apple-3-5-mm-jack-lightning-adapter/).
-    
+
 ### PREDICTION-0012: 2015-07-04: Swift overtaking Objective-C
 
 - From: @ebruchez
