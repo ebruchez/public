@@ -184,7 +184,7 @@ scala> pets(3)
 java.lang.IndexOutOfBoundsException: 3
 ```
 
-Wouldn't that mean that the `pets` function is, hum, only *defined* for values `0`, `1`, and `2`? Sounds familiar? Wouldn't it be cool to look at pets as a partial function then? Well you can because in Scala any instance of `Seq`, `Set` or `Map` is actually a partial function. So you can write:
+Wouldn't that mean that the `pets` function is, hum, only *defined* for values `0`, `1`, and `2`? Sounds familiar? Wouldn't it be cool to look at pets as a partial function then? Well you can because in Scala any instance of `Seq` or `Map` (but not `Set`) is actually a partial function. So you can write:
 
 ```scala
 scala> pets.isDefinedAt(0)
@@ -221,6 +221,8 @@ res20: java.lang.String = ""
 I hope this helps make some sense of partial functions in Scala.
 
 *NOTE: This post was updated on 2014-12-27 to fix the use of `def` where `val` was called for, based on user comments. A few typos have been corrected as well.*
+
+*NOTE: This post was updated on 2017-01-17 to address the fact that `Set` is not a partial function, as kindly noted by a reader.*
 
 [^1]: From The Scala Language Specification: "An anonymous function can be defined by a sequence of cases […] which appear as an expression without a prior match."
 
