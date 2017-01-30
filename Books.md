@@ -169,6 +169,7 @@ Dates are completion dates.
 - WWI in general (The First World War (John Keegan))
 	- 2015-08-31: Just finished listening to @hardcorehistory's  6-part ["Blueprint for Armageddon"](http://www.dancarlin.com/hh-55). Just great! #history #wwi #podcast
 - WWII in general
+- Pizarro and the conquest of the Incas
 
 ### Books recommended by Bertrand Russell
 
