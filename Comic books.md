@@ -36,7 +36,23 @@ Dates are completion dates.
 
 ### 2017
 
-2017-01-20: [Lapinot et les carottes de patagonie](http://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-1-Lapinot-et-les-carottes-de-Patagonie-52359.html)
+- 2017-01-28
+    - Asterix Le Gaulois
+    - #reread
+    - La Grande Collection
+- 2017-01-09: [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino e la bella addormentata del cosmo"
+    - Massimo De Vita
+    - 1993
+    - fourth part of the "trilogy"
+- 2017-01-23
+    - Les Druides - 9. Le temps des corbeaux
+    - 2016
+    - end of the series
+- 2017-01-22
+    - Les Druides - 8. Les Secrets d'Orient
+    - #reread
+    - 2014
+- 2017-01-20: [Lapinot et les carottes de patagonie](http://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-1-Lapinot-et-les-carottes-de-Patagonie-52359.html)
     - 1992
     - Scénario et dessin: Lewis Trondheim
     - The mythical 500-page improvisation of Lewis Trondheim which introduces the character of Lapinot.
