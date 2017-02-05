@@ -36,9 +36,26 @@ Dates are completion dates.
 
 ### 2017
 
+- 2017-02-xx: [La vengeance du Comte Skarbek
+1. Deux mains d'or](http://www.bedetheque.com/BD-Vengeance-du-Comte-Skarbek-Tome-1-Deux-mains-d-or-32249.html)
+    - 2004
+    - Scénario: Yves Sente
+    - Dessin et Couleurs: Grzegorz Rosinski
+    - tags: #reread
+    - Rating: 5/5
+- 2017-02-04: [La vengeance du Comte Skarbek 2. Un cœur de bronze](http://www.bedetheque.com/BD-Vengeance-du-Comte-Skarbek-Tome-2-Un-coeur-de-bronze-51850.html)
+    - 2005
+    - Scénario: Yves Sente
+    - Dessin et Couleurs: Grzegorz Rosinski
+    - tags: #reread
+    - Rating: 5/5
+- 2017-02-01: [Les naufragés d'Ythaq - 14. Le joyeau du génie](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-14-Le-Joyau-du-Genie-293592.html)
+    - 2016
+    - Scénario: Arleston
+    - Dessin: Floch
 - 2017-01-28
     - Asterix Le Gaulois
-    - #reread
+    - tags: #reread
     - La Grande Collection
 - 2017-01-09: [La saga della spada di ghiaccio](https://it.wikipedia.org/wiki/Saga_della_spada_di_ghiaccio): Topolino e la bella addormentata del cosmo"
     - Massimo De Vita
@@ -50,13 +67,13 @@ Dates are completion dates.
     - end of the series
 - 2017-01-22
     - Les Druides - 8. Les Secrets d'Orient
-    - #reread
+    - tags: #reread
     - 2014
 - 2017-01-20: [Lapinot et les carottes de patagonie](http://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-1-Lapinot-et-les-carottes-de-Patagonie-52359.html)
     - 1992
     - Scénario et dessin: Lewis Trondheim
     - The mythical 500-page improvisation of Lewis Trondheim which introduces the character of Lapinot.
-- 2017-01-17: [Sillage - 19. Temps mort](xxx)
+- 2017-01-17: [Sillage - 19. Temps mort](http://www.bedetheque.com/BD-Sillage-Tome-19-Temps-mort-287061.html)
     - 2016
     - Scénario: Jean David Morvan
     - Dessin et couleur: Philippe Buchet
@@ -66,7 +83,7 @@ Dates are completion dates.
     - Dessin: Frédéric Marniquet
     - Couleurs: Marie Galopin
 - 2017-01-12: [Les démons des Carpathes  - 2 . Le Mangeur d'âmes](http://www.bedetheque.com/BD-Demons-des-Carpathes-Tome-2-Le-Mangeur-d-ames-108685.html)
-    - #reread
+    - tags: #reread
     - 2010
     - Scénario: Philippe Chanoinat
     - Dessin: Frédéric Marniquet
@@ -77,17 +94,17 @@ Dates are completion dates.
     - third part of the trilogy
 - 2017-01-08: Yoko Tsuno l'intégrale, volume 2: Aventures allemandes
     - L'orgue du diable
-        - #reread
+        - tags: #reread
         - 1973
         - Rating: 5/5
     - La Frontière de la vie
-        - #reread
+        - tags: #reread
         - 1977
         - This was not my favorite as a child. I probably preferred the space adventures.
         - But re-reading it, it turns out to be really excellent. I almost had tears - after all, it is about saving the life of an innocent little girl.
         - Rating: 5/5
     - Le Feu de Wotan
-        - #reread
+        - tags: #reread
         - 1984
         - Rating: 5/5
 - 2017-01-05: Meta-Baron - Tome 2 - Khonrad l'anti-baron
@@ -99,7 +116,7 @@ Dates are completion dates.
     - Dessin: Obion
     - Couleur: Walter
 - 2017-01-0x: Donjon Crépuscule, Tome 105 - Les nouveaux Centurions
-    - #reread
+    - tags: #reread
 - 2017-01-0x: Antarès épisode 6
 
 ### 2016
@@ -110,7 +127,7 @@ Dates are completion dates.
     - Rating: 5/5
 - The Don Rosa Library Vol. 1
     - 2016-11-27: Uncle Scrooge and the Son of the Sun
-        - #reread
+        - tags: #reread
         - 1987-07
         - Don Rosa
         - Rating: 5/5
@@ -228,17 +245,17 @@ Dates are completion dates.
     - Scénario: Arleston
     - Dessin: Floch
 - 2016-08: [Les naufragés d'Ythaq - 12. Les Clefs du néant](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-12-Les-Clefs-du-neant-226732.html)
-    - #reread
+    - tags: #reread
     - 2014
     - Scénario: Arleston
     - Dessin: Floch
 - 2016-08: [Les naufragés d'Ythaq - 11. L'Haleine de l'Ogre](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-11-L-Haleine-de-l-Ogre-197183.html)
-    - #reread
+    - tags: #reread
     - 2013
     - Scénario: Arleston
     - Dessin: Floch
 - 2016-08-09: [Les naufragés d'Ythaq - 10. Nehorf-Capitol Transit](http://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-10-Nehorf-Capitol-Transit-171913.html)
-    - #reread
+    - tags: #reread
     - 2012
     - Beginning of the second cycle (books 1-9 cover the first cycle).
     - Scénario: Arleston
@@ -283,34 +300,34 @@ Dates are completion dates.
         - Claudio Scarrone
         - 2000
 - 2016-07: [Orion - 3. Le pharaon](http://www.bedetheque.com/BD-Orion-J-Martin-Tome-3-Le-pharaon-3319.html)
-    - #reread #french
+    - tags: #reread #french
     - Jacques Martin
     -  Christophe Simon
     - 1998
 - 2016-07: [Jhen - 6. Le lys et l'ogre](http://www.casterman.com/Bande-dessinee/Catalogue/jhen-les-albums-de-jhen/le-lys-et-logre)
-    - #reread #french
+    - tags: #reread #french
     - Scénario: Jacques Martin
     - Dessin: Jean Pleyers
 - 2016-07: Après l'Incal / Incal Final
-    - #reread #french
+    - tags: #reread #french
     - except tome 3 which I don't have yet
 - 2016-07: Avant l'Incal
-    - #reread #french
+    - tags: #reread #french
 - 2016-07: L'Incal
-    - #reread #french
+    - tags: #reread #french
 - 2016-07: [Spirou - Le Groom vert-de-gris](https://fr.wikipedia.org/wiki/Le_Groom_vert-de-gris)
-    - #reread #french
+    - tags: #reread #french
     - part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
     - Scénario: Yann
     - Dessin: Olivier Schwartz
     - 2009
 - 2016-07: [Spirou - Les Marais du temps](https://fr.wikipedia.org/wiki/Les_Marais_du_temps)
-    - #reread #french
+    - tags: #reread #french
     - part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
     - Auteur: Frank Le Gall
     - 2007
 - 2016-07: [Spirou - Les Géants pétrifiés](https://fr.wikipedia.org/wiki/Les_G%C3%A9ants_p%C3%A9trifi%C3%A9s)
-    - #reread #french
+    - tags: #reread #french
     - part of the series [Le Spirou de…](https://fr.wikipedia.org/wiki/Le_Spirou_de%E2%80%A6)
     - Scénario: Fabien Vehlmann
     - Dessin: Yoann
@@ -332,13 +349,13 @@ Dates are completion dates.
 - Le Monde perdu T1
 - Yoko Tsuno l'intégrale, volume 1: De la Terre à Vinéa
     - Le Trio de l'étrange
-        - #reread
+        - tags: #reread
         - 1972
     - La forge de Vulcain
-        - #reread
+        - tags: #reread
         - 1973
     - Les trois soleils de Vinéa
-        - #reread
+        - tags: #reread
         - 1976
 - Centaurus T01: Terre Promise
 - Donjon Crépuscule, Tome 105: Les nouveaux Centurions
