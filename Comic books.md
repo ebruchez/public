@@ -36,6 +36,20 @@ Dates are completion dates.
 
 ### 2017
 
+- 2017-02-xx: [Alix Senator: 3. La Conjuration des rapaces](http://www.bedetheque.com/BD-Alix-Senator-Tome-3-La-Conjuration-des-rapaces-226929.html)
+    - 2014
+    - Scénario: Valérie Mangin
+    - Dessin et couleurs: Démarez, Thierry
+- 2017-02-xx: [Alix Senator: 2. Le Dernier Pharaon](http://www.bedetheque.com/BD-Alix-Senator-Tome-2-Le-Dernier-Pharaon-194830.html)
+    - 2013
+    - tags: #reread
+    - Scénario: Valérie Mangin
+    - Dessin et couleurs: Démarez, Thierry
+- 2017-02-12: [Alix Senator: 1. Les aigles de sang](http://www.bedetheque.com/BD-Alix-Senator-Tome-1-Les-Aigles-de-sang-170566.html)
+    - 2012
+    - tags: #reread
+    - Scénario: Valérie Mangin
+    - Dessin et couleurs: Démarez, Thierry
 - 2017-02-xx: [La vengeance du Comte Skarbek
 1. Deux mains d'or](http://www.bedetheque.com/BD-Vengeance-du-Comte-Skarbek-Tome-1-Deux-mains-d-or-32249.html)
     - 2004
@@ -396,7 +410,7 @@ Dates are completion dates.
 - Antarès épisode 5
 - Alix, tome 32: La dernière conquête
 - Les Naufragés d'Ythaq, Tome 11: L'Haleine de l'Ogre
-- Alix senator, Tome 2: Le dernier pharaon
+- [Alix Senator: 2. Le Dernier Pharaon](http://www.bedetheque.com/BD-Alix-Senator-Tome-2-Le-Dernier-Pharaon-194830.html)
 - Spirou et Fantasio - L'intégrale - tome 8 - Spirou et Fantasio 8 (intégrale) Aventures humoristiques
 - Tif et Tondu - L'intégrale - tome 11 - Tif et Tondu 11 (intégrale) Sortilèges et manipulations
 - Blake & Mortimer Tome 22 l'Onde Septimus
