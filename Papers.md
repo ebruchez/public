@@ -4,6 +4,12 @@ This list was started 2014-07-11.
 
 I like reading research papers, mostly computer science papers. Here is a list of papers I have recently read (but not necessarily fully understood!).
 
+## 2017
+
+- 2017-02-10: [The XForms Computation Engine: Rationale, Theory and Implementation Experience (2002)](https://pdfs.semanticscholar.org/82cb/d193c1ca60c2bb91013fd74dffefca3783b4.pdf)
+    - Tags: #reread
+    - Following some work on the XForms 2.0 spec, I wanted to see if everything was in line with the original formulation of the dependency algorithm.
+
 ## 2016
 
 - 2016-08-18: [Bilingualism Changes Children’s Beliefs about what is Innate](https://www.academia.edu/8005189/Bilingualism_Changes_Childrens_Beliefs_about_what_is_Innate)

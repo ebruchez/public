@@ -36,6 +36,20 @@ Dates are completion dates.
 
 ### 2017
 
+- 2017-03-15: Meta-Baron - Tome 3 - Orne-8 le Techno-Cardinal
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Niko Henrichon
+    - D'après: Alexandro Jodorowsky
+- 2017-03-06: Mickey Mouse - Volume 8 - "The Tomorrow Wars" (1944-1946)
+    - Drawings: Floyd Gottfredson
+- 2017-02-26: [Le Monde Perdu 2. Tome 2](http://www.bedetheque.com/BD-Monde-perdu-Tome-2-222826.html)
+    - 2015
+    - Scénario: Christophe Bec
+    - Dessin:  Mauro Salvatori, Fabrizio Fain
+- 2017-02-22: [Les formidables aventures de Lapinot 0. Slaloms](http://www.bedetheque.com/BD-Lapinot-Les-formidables-aventures-de-Tome-2-Slaloms-16176.html)
+    - 1993
+    - tags: #reread
+    - This was originally published in black and white, and Trondheim redid it (maybe even redrew it?) in color at a later point.
 - 2017-02-xx: [Alix Senator: 3. La Conjuration des rapaces](http://www.bedetheque.com/BD-Alix-Senator-Tome-3-La-Conjuration-des-rapaces-226929.html)
     - 2014
     - Scénario: Valérie Mangin
@@ -360,7 +374,10 @@ Dates are completion dates.
 - Lefranc, Tome 26: Mission Antarctique
 - Ultime Frontière - tome 2 - Épisode 2
 - Sillage T18 - Psycholocauste
-- Le Monde perdu T1
+- [Le Monde Perdu 1. Tome 1](http://www.bedetheque.com/BD-Monde-perdu-Tome-1-193957.html)
+    - 2013
+    - Scénario: Christophe Bec
+    - Dessin:  Mauro Salvatori, Fabrizio Fain
 - Yoko Tsuno l'intégrale, volume 1: De la Terre à Vinéa
     - Le Trio de l'étrange
         - tags: #reread

@@ -18,6 +18,8 @@ Dates are completion dates.
 
 ### 2017
 
+2017-02-11: Randy Pausch - The Last Lecture
+    - 2008
 - 2017-01: [Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch](https://en.wikipedia.org/wiki/Good_Omens)
     - 1990
 
