@@ -36,6 +36,45 @@ Dates are completion dates.
 
 ### 2017
 
+- 2017-04-30: [L'homme qui tua Lucky Luke](http://www.bedetheque.com/BD-Lucky-Luke-vu-par-Tome-1-L-Homme-qui-tua-Lucky-Luke-276314.html)
+    - 2016
+    - Scénario et dessin: Matthieu Bonhomme
+    - 5/5
+- 2017-04-25: [Jhen, Tome 15: Les portes de fer](http://www.bedetheque.com/BD-Jhen-Tome-15-Les-portes-de-fer-259663.html)
+    - 2015
+    - Scénario: Jerry Frissen
+    - Dessin: Paul Teng
+- 2017-04: Astérix - La serpe d'or
+    - tags: #reread
+    - La Grande Collection
+    - A classic, restored and recolored as the original colors were not up to a modern standard. The large format is really good.
+- 2017-04-23: Blake et Mortimer, tome 24: Le testament de William S.
+    - 2016
+    - Scénario: Yves Sente
+    - Dessin: André Juillard
+    - A bit difficult to judge: it's not terrible, and the original idea is good, but there are few surprises and the story lacks atmosphere.
+- 2017-04-13: Lefranc, Tome 26: Mission Antarctique
+    - tags: #reread
+- 2017-04-08: Yoko Tsuno l'intégrale, volume 3: A la poursuite du temps
+    - 2007 (intégrale)
+    - La spirale du temps
+        - tags: #reread
+        - 1981
+        - Rating: x/5
+    - Le matin du monde
+        - tags: #reread
+        - 1988
+        - Rating: x/5
+    - L'astrologue de Bruges
+        - tags: #reread
+        - 1994
+        - Rating: x/5
+- 2017-03-26: Tintin au pays des Soviets
+    - Edition couleur
+    - tags: #reread
+- 2017-03-21: Mermaid Project - Épisode 1
+    - Scénario: Léo, Corine Jamar
+    - Dessin: Fred Simon
 - 2017-03-15: Meta-Baron - Tome 3 - Orne-8 le Techno-Cardinal
     - Scénario: Jerry Frissen
     - Dessin et couleur: Niko Henrichon
@@ -418,7 +457,7 @@ Dates are completion dates.
 - Sillage T17 - Grands Froids
 - Donjon parade, tome 1: Un donjon de trop
 - Largo Winch - tome 19 - Chassé-Croisé
-- Blake et Mortimer, tome 23: le Baton de Plutarque
+- Blake et Mortimer, tome 23: Le Baton de Plutarque
 - Donjon Crépuscule, Tome 104: Le Dojo du lagon
 
 ### Earlier dates
