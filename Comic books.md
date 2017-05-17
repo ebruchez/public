@@ -36,6 +36,23 @@ Dates are completion dates.
 
 ### 2017
 
+- 2017-05-15: [Thorgal, Tome 35. Le feu écarlate](http://www.bedetheque.com/BD-Thorgal-Tome-35-Le-feu-ecarlate-292474.html)
+    - 2016
+- 2017-05-14: [Thorgal, Tome 34. Kah-Aniel](http://www.bedetheque.com/BD-Thorgal-Tome-34-Kah-Aniel-199374.html)
+    - 2013
+    - tags: #reread
+- 2017-05-xx: [Thorgal, Tome 33. Le Bateau-Sabre](http://www.bedetheque.com/BD-Thorgal-Tome-33-Le-Bateau-Sabre-140423.html)
+    - 2011
+    - tags: #reread
+- 2017-05-xx: [Thorgal, Tome 32. La Bataille d'Asgard](http://www.bedetheque.com/BD-Thorgal-Tome-32-La-Bataille-d-Asgard-117408.html)
+    - 2010
+    - tags: #reread
+- 2017-05-07: [Thorgal, Tome 31. Le bouclier de Thor](http://www.bedetheque.com/BD-Thorgal-Tome-31-Le-Bouclier-de-Thor-80551.html)
+    - 2008
+    - tags: #reread
+- 2017-05-0x: [Thorgal, Tome 30. Moi, Jolan](http://www.bedetheque.com/BD-Thorgal-Tome-30-Moi-Jolan-67373.html)
+    - 2007
+    - tags: #reread
 - 2017-04-30: [L'homme qui tua Lucky Luke](http://www.bedetheque.com/BD-Lucky-Luke-vu-par-Tome-1-L-Homme-qui-tua-Lucky-Luke-276314.html)
     - 2016
     - Scénario et dessin: Matthieu Bonhomme
