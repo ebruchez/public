@@ -8,6 +8,7 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Books I am currently reading
 
+
 - [Albert Speer - Inside the Third Reich](https://en.wikipedia.org/wiki/Inside_the_Third_Reich)
 - [Daniel C. Dennett  - Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/) #paper #stalled
 - Antoine de Saint-Exupéry - Terre des Hommes #ebook #stalled
@@ -18,10 +19,16 @@ Dates are completion dates.
 
 ### 2017
 
-2017-02-11: Randy Pausch - The Last Lecture
+- 2017-07-19: Yuval Noah Harari - Sapiens
+    - tags: #paper
+- 2017-07-21: Victor Hugo - Les misérables, Tome I
+    - tags: #reread #paper
+- 2017-02-11: Randy Pausch - The Last Lecture
     - 2008
+    - tags: #paper
 - 2017-01: [Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch](https://en.wikipedia.org/wiki/Good_Omens)
     - 1990
+    - tags: #ebook
 
 ### 2016
 
@@ -184,6 +191,12 @@ From "The Problems of Philosophy":
 - Berkeley: Three Dialogues between Hylas and Philonous.
 - Hume: Enquiry concerning Human Understanding.
 - Kant: Prolegomena to any Future Metaphysic.
+
+### Philosophy texts to read/reread
+
+- from [PEL](https://partiallyexaminedlife.com/)
+    - Plato: The Apology of Socrates [Part 1 of Episode 1: “The Unexamined Life Is Not Worth Living.”](http://partiallyexaminedlife.com/2009/05/12/part-1-of-episode-1-the-unexamined-life-is-not-worth-living/)
+    - Descartes: Meditations on First Philosophy [Episode 2: Descartes’s Meditations: What Can We Know?](http://partiallyexaminedlife.com/2009/05/13/episode-2-descartess-meditations-what-can-we-know/)
 
 ### Books recommended by Dan Simmons
 
