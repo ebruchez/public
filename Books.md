@@ -6,6 +6,13 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 - TODO
 
+## Candidate books I would like to read next
+
+- [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
+- [Yuval Noah Harari - Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/gp/product/0062464310/)
+- Victor Hugo - Les misérables, Tome II
+- [The Rise and Fall of D.O.D.O.: A Novel](https://www.amazon.com/gp/product/0062409166/)
+
 ## Books I am currently reading
 
 
@@ -21,14 +28,25 @@ Dates are completion dates.
 
 - 2017-07-19: Yuval Noah Harari - Sapiens
     - tags: #paper
+    - notes:
+        - TODO
 - 2017-07-21: Victor Hugo - Les misérables, Tome I
-    - tags: #reread #paper
+    - tags: #reread #paper #french
+    - I really enjoyed this tome, even though it is about 900 pages.
+    - I have been stunned a few times by the way Victor Hugo writes. The man knew his craft.
+    - The book is an interesting mix of action and a painting of French (and behond) society from before the French revolution (1789) to the time of Hugo's writing.
 - 2017-02-11: Randy Pausch - The Last Lecture
     - 2008
     - tags: #paper
+    - notes:
+        - I had meant to read this since I saws Pausch's talks.
+        - I cannot say that this book is a masterpiece, but given the circumstances of its writing (Pausch knew he was going to die very soon) it is an achievement.
+        - Pausch appeared superhuman in his talk, but the book makes it clearer that it wast not that easy to go through those last few months.
 - 2017-01: [Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch](https://en.wikipedia.org/wiki/Good_Omens)
     - 1990
     - tags: #ebook
+    - notes:
+        - a fun read
 
 ### 2016
 
@@ -221,7 +239,6 @@ See also [the blog post](http://blog.bruchez.name/2014/01/books-i-plan-to-read-i
 
 - History: [The Great Chinese Revolution](http://www.amazon.com/The-Great-Chinese-Revolution-1800-1985/dp/006039076X)
     - *NOTE: I read about 200 out of 368 pages a few years back*
-- Science: [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
 - Philosophy: [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
 - Biography: [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
     - *NOTE: Started in 2011.*
