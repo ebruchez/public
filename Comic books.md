@@ -96,6 +96,12 @@ Dates are completion dates.
 
 ### 2017
 
+- 2018-01: [Les naufragés d'Ythaq - 9. L'Impossible Vérité](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-9-L-Impossible-Verite-136859.html)
+    - 2011
+    - tags: #reread
+- 2018-01-01: [Les naufragés d'Ythaq - 8. Le miroir des mensonges](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-8-Le-miroir-des-mensonges-116943.html)
+    - 2010
+    - tags: #reread
 - 2017-12-31: [Les naufragés d'Ythaq - 7. La marque des Ythes](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-7-La-marque-des-Ythes-94771.html)
     - 2009
     - tags: #reread
