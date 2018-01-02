@@ -14,8 +14,6 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Books I am currently reading
 
-- [Liu Cixin - The Dark Forest](https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past-ebook/dp/B00R13OYU6/)
-    - tags: #ebook
 - [Zack Hample - Watching Baseball Smarter](https://www.amazon.com/Watching-Baseball-Smarter-Professional-Semi-experts/dp/0307280322/)
     - tags: #paper
 - [Bertrand Russell - The History of Western Philosophy](https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581/)
