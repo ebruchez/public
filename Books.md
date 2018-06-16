@@ -2,27 +2,45 @@
 
 I don't have much time to read so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
-## Books I plan to read in 2017
+## Books I plan to read in 2018
 
 - TODO
 
 ## Candidate books I would like to read next
 
-- [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
-- [Yuval Noah Harari - Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/gp/product/0062464310/)
-- Victor Hugo - Les misérables, Tome II
 - [The Rise and Fall of D.O.D.O.: A Novel](https://www.amazon.com/gp/product/0062409166/)
+- [Yuval Noah Harari - Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/gp/product/0062464310/)
+    - I might be too familiar with the content to find it interesting. Waiting for others' feedback.
 
 ## Books I am currently reading
 
+- Watching Baseball Smarter
+- Bertrand Russell - The History of Western Philosophy
+    - tags: #paper
 
+## Backlog
+
+- [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
+    - 2017-08-02: (re)started
 - [Albert Speer - Inside the Third Reich](https://en.wikipedia.org/wiki/Inside_the_Third_Reich)
-- [Daniel C. Dennett  - Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/) #paper #stalled
+- [Daniel C. Dennett - Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/) #paper #stalled
 - Antoine de Saint-Exupéry - Terre des Hommes #ebook #stalled
 
 ## Books I have read
 
 Dates are completion dates.
+
+### 2018
+
+- 2018-03-01: Paul Robert, Peter Weil - Typewriter: A Celebration of the Ultimate Writing Machine
+    - tags: #paper
+    - 2016
+- 2018-02-06: Victor Hugo - Les misérables, Tome II
+    - tags: #paper #french
+- 2018-01-21: Bruce Bliven, Jr. - The Wonderful Writing Machine
+    - 1954
+    - An account of the typewriter from its multiple inventors to the modern typewriter factory, including discussion of sales, typists, and more. Some
+      interesting tidbits about how the Remington 1 came to be.
 
 ### 2017
 
@@ -31,7 +49,7 @@ Dates are completion dates.
     - notes:
         - TODO
 - 2017-07-21: Victor Hugo - Les misérables, Tome I
-    - tags: #reread #paper #french
+    - tags: #reread? #paper #french
     - I really enjoyed this tome, even though it is about 900 pages.
     - I have been stunned a few times by the way Victor Hugo writes. The man knew his craft.
     - The book is an interesting mix of action and a painting of French (and behond) society from before the French revolution (1789) to the time of Hugo's writing.

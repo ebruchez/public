@@ -34,8 +34,126 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
 
 Dates are completion dates.
 
+### 2018
+
+- 2018-05-27: [Dragonero - Minaccia all'Impero](http://shop.sergiobonelli.it/dragonero/2017/08/21/libro/dragonero-minaccia-all-impero-1001525/)
+    - Language: Italian
+    - Scénario: Luca Enoch
+    - Dessins: Giancarlo Olivares
+    - 4/5
+- 2018-05: [La saga di Messer Papero e di Ser Paperone](http://it.paperpedia.wikia.com/wiki/Saga_di_Messer_Papero_e_di_Ser_Paperone)
+    - 1983
+    - Language: Italian
+    - Disney Golden Edition
+    - Guido Martina, Giovan Battista Carpi
+    - 3/5
+- 2018-03-23: Goofy - Eine komische Historie - Teil 1
+    - Language: German
+    - I have always loved this series full of humor.
+    - 5/5
+- 2018-03-05: [Storia e Gloria della dinastia dei Paperi](https://it.wikipedia.org/wiki/Storia_e_gloria_della_dinastia_dei_paperi)
+    - 1970
+    - Disney Golden Edition
+    - Guido Martina, Romano Scarpa, Giovan Battista Carpi, Giorgio Cavazzano
+    - 3/5
+- 2018-02-18: [Dragonero - Nelle terre dei Ghoul](http://shop.sergiobonelli.it/libro/libri/41223/dragonero-nelle-terre-dei-ghoul.html)
+    - Language: Italian
+    - 4/5
+- 2018-01-23: [Alix Senator: 4. Les démons de Sparte](https://www.bedetheque.com/BD-Alix-Senator-Tome-4-Les-Demons-de-Sparte-253345.html)
+- 2018-01-14: [Yoko Tsuno - La pagode des brumes](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-23-La-pagode-des-brumes-6009.html)
+    - 2001
+    - tags: #reread
+- 2018-01-12: [Yoko Tsuno - 22. La jonque céleste](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-22-La-jonque-celeste-1344.html)
+    - 1998
+    - tags: #reread
+- 2018-01-11: [Yoko Tsuno - Le dragon de Hong Kong](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-16-Le-dragon-de-Hong-Kong-4642.html)
+    - 1986
+    - tags: #reread
+- 2018-01-09: [Valérian - L'empire des mille planètes](https://www.bedetheque.com/BD-Valerian-Tome-2-L-empire-des-mille-planetes-2578.html)
+    - 1971
+    - tags: #reread
+- 2018-01-07: [Les naufragés d'Ythaq - 14. Le Joyau du Génie](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-14-Le-Joyau-du-Genie-293592.html)
+    - 2017
+    - tags: #reread
+- 2018-01-06: [Les naufragés d'Ythaq - 13. Glèbe la Singulière](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-13-Glebe-la-Singuliere-258181.html)
+    - 2015
+    - tags: #reread
+- 2018-01-04: [Les naufragés d'Ythaq - 12. Les Clefs du néant](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-12-Les-Clefs-du-neant-226732.html)
+    - 2014
+    - tags: #reread
+- 2018-01-03: [Les naufragés d'Ythaq - 11. L'Haleine de l'Ogre](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-11-L-Haleine-de-l-Ogre-197183.html)
+    - 2013
+    - tags: #reread
+- 2018-01-02: [Les naufragés d'Ythaq - 10. Nehorf-Capitol Transit](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-10-Nehorf-Capitol-Transit-171913.html)
+    - 2012
+    - tags: #reread
+- 2018-01-01: [Les naufragés d'Ythaq - 9. L'Impossible Vérité](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-9-L-Impossible-Verite-136859.html)
+    - 2011
+    - tags: #reread
+- 2018-01-01: [Les naufragés d'Ythaq - 8. Le miroir des mensonges](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-8-Le-miroir-des-mensonges-116943.html)
+    - 2010
+    - tags: #reread
+
 ### 2017
 
+- 2017-12-31: [Les naufragés d'Ythaq - 7. La marque des Ythes](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-7-La-marque-des-Ythes-94771.html)
+    - 2009
+    - tags: #reread
+- 2017-12-30: [Les naufragés d'Ythaq - 6. La révolte des pions](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-6-La-revolte-des-pions-78362.html)
+    - 2008
+    - tags: #reread
+- 2017-12-28: [Les naufragés d'Ythaq - 5. L'ultime arcane](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-5-L-ultime-arcane-69854.html)
+    - 2007
+    - tags: #reread
+- 2017-12-27: [Les naufragés d'Ythaq - 4. L'ombre de Khengis](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-4-L-ombre-de-Khengis-63793.html)
+    - 2007
+    - tags: #reread
+- 2017-12-26: [Les naufragés d'Ythaq - 3. Le soupir des étoiles](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-3-Le-soupir-des-etoiles-56813.html)
+    - 2006
+    - tags: #reread
+- 2017-12-19: [Les naufragés d'Ythaq - 2. Ophyde la géminée](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-2-Ophyde-La-Geminee-51861.html)
+    - 2005
+    - tags: #reread
+    - 5/5
+- 2017-12-17: [Les naufragés d'Ythaq - 1. Terra incognita](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-1-Terra-Incognita-48226.html)
+    - 2005
+    - tags: #reread
+    - 5/5
+- 2017-12-15: [Largo Winch - 21. L'étoile du matin](https://www.bedetheque.com/BD-Largo-Winch-Tome-21-L-etoile-du-matin-312659.html)
+    - 2017
+- 2017-12-11: [Lefranc - L'homme-oiseau]()
+    - 4/5
+- 2017-12-06: [Les nouvelles aventures de Lapinot - Un monde un peu meilleur]()
+    - 4/5
+- 2017-12-01: [Les Mondes de Thorgal - Kriss de Valnor - Tome 1 - Je n'oublie rien !]()
+    - 4/5
+- 2017-11: [Mermaid Project - Épisode 2]()
+- 2017-08-22: [Astérix et les Goths](https://www.bedetheque.com/BD-Asterix-Tome-3-Asterix-et-les-Goths-22944.html)
+    - tags: #reread
+    - La Grande Collection
+    - A classic, restored and recolored as the original colors were not up to a modern standard. The large format is really good.
+- 2017-08-12: [Ultime Frontière - 4. - Épisode 4](https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-4-Episode-4-305183.html)
+    - 2017
+- 2017-08-12: [Ultime Frontière - 3. - Épisode 3](https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-3-Episode-3-287747.html)
+    - 2016
+    - tags: #reread
+- 2017-08-11: [Ultime Frontière - 2. - Épisode 2](https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-2-Episode-2-256969.html)
+    - 2015
+    - tags: #reread
+- 2017-08-11: [Ultime Frontière - 1. - Épisode 1](https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-1-Episode-1-224795.html)
+    - 2014
+    - tags: #reread
+- 2017-08-11: [Les survivants - 4](https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-4-Episode-4-276324.html)
+    - Scénario et dessins: Leo
+- 2017-08-10: [Les survivants - 3](https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-3-Episode-3-222832.html)
+    - tags: #reread
+    - Scénario et dessins: Leo
+- 2017-08-0x: [Les survivants - 2](https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-2-Episode-2-171120.html)
+    - tags: #reread
+    - Scénario et dessins: Leo
+- 2017-08-0x: [Les survivants - 1](https://www.bedetheque.com/BD-Survivants-Anomalies-quantiques-Tome-1-Episode-1-120743.html)
+    - tags: #reread
+    - Scénario et dessins: Leo
 - 2017-07-27: [Thorgal - 25. Arachnéa](https://www.bedetheque.com/BD-Thorgal-Tome-24-Arachnea-1588.html)
     - 1999
     - tags: #reread
@@ -232,7 +350,7 @@ Dates are completion dates.
     - 2015
     - Scénario: Jerry Frissen
     - Dessin: Paul Teng
-- 2017-04: Astérix - La serpe d'or
+- 2017-04: [Astérix - La serpe d'or](https://www.bedetheque.com/BD-Asterix-Tome-2-La-serpe-d-or-22942.html)
     - tags: #reread
     - La Grande Collection
     - A classic, restored and recolored as the original colors were not up to a modern standard. The large format is really good.
@@ -599,7 +717,7 @@ Dates are completion dates.
 (ordered 10 décembre 2015)
 
 - Lefranc, Tome 26: Mission Antarctique
-- Ultime Frontière - tome 2 - Épisode 2
+- [Ultime Frontière - 2. Épisode 2](https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-2-Episode-2-256969.html)
 - Sillage T18 - Psycholocauste
 - [Le Monde Perdu 1. Tome 1](http://www.bedetheque.com/BD-Monde-perdu-Tome-1-193957.html)
     - 2013

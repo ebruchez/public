@@ -4,6 +4,13 @@ This list was started 2014-07-11.
 
 I like reading research papers, mostly computer science papers. Here is a list of papers I have recently read (but not necessarily fully understood!).
 
+## 2018
+
+- 2018-01-12:
+    - 2016-06 - Association of Leisure-Time Physical Activity With Risk of 26 Types of Cancer in 1.44 Million Adults (ioi160026)
+- 2018
+    - 2017-06-20: Elon Musk - Making Humans a Multi-Planetary Species
+
 ## 2017
 
 - 2017-02-10: [The XForms Computation Engine: Rationale, Theory and Implementation Experience (2002)](https://pdfs.semanticscholar.org/82cb/d193c1ca60c2bb91013fd74dffefca3783b4.pdf)
@@ -13,8 +20,8 @@ I like reading research papers, mostly computer science papers. Here is a list o
 ## 2016
 
 - 2016-08-18: [Bilingualism Changes Children’s Beliefs about what is Innate](https://www.academia.edu/8005189/Bilingualism_Changes_Childrens_Beliefs_about_what_is_Innate)
-    - Study is ok, but narrow: five- and six-year-old in 3 categories (monolingual, simultaneous bilingal, and sequential bilingual), asked to evaluate scenarios where babies or animals might acquire language, sounds, or features. Sequential bilinguals kids in the study answer fairly differently from monolingual kids. 
-    - The conclusion, "These findings suggest that bilingualism in the preschool years can profoundly change children’s essentialist biases.", on the other hand, seems to be to be nothing more than a hypothesis to be properly tested. 
+    - Study is ok, but narrow: five- and six-year-old in 3 categories (monolingual, simultaneous bilingal, and sequential bilingual), asked to evaluate scenarios where babies or animals might acquire language, sounds, or features. Sequential bilinguals kids in the study answer fairly differently from monolingual kids.
+    - The conclusion, "These findings suggest that bilingualism in the preschool years can profoundly change children’s essentialist biases.", on the other hand, seems to be to be nothing more than a hypothesis to be properly tested.
 - 2016-03-17: [Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness](http://www.pnas.org/content/early/2014/12/18/1418490112.full.pdf)
     - Half of the participants used a very bright, light-emitting screen, for 4 hours during bedtime.
     - The other half used printed books and a dim light.
@@ -37,7 +44,6 @@ I like reading research papers, mostly computer science papers. Here is a list o
             - "melatonin suppression was assessed on the fifth and final evening"
             - "the duration of the evening reading sessions were 4 h long"
             - "the LE-eBook was set to maximum brightness throughout the 4-h reading session, whereas, by comparison, the print-book condi- tion consisted of reflected exposure to very dim light"
-
 - 2016-01: [Transforming-Personal-Mobility](http://sustainablemobility.ei.columbia.edu/files/2012/12/Transforming-Personal-Mobility-Jan-27-20132.pdf)
     - 3 theoretical case studies on fleets of autonomous vehicles
     - predicts dramatically reduced need for number of vehicles
