@@ -32,6 +32,9 @@ Dates are completion dates.
 
 ### 2018
 
+- 2018-07: Deborah Reber - Differently Wired: Raising an Exceptional Child in a Conventional World
+    - tags: #ebook
+    - 2018
 - 2018-03-01: Paul Robert, Peter Weil - Typewriter: A Celebration of the Ultimate Writing Machine
     - tags: #paper
     - 2016
