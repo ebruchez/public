@@ -32,22 +32,24 @@ Dates are completion dates.
 
 ### 2018
 
-- 2018-07: Deborah Reber - Differently Wired: Raising an Exceptional Child in a Conventional World
+- 2018-07: [Deborah Reber - Differently Wired: Raising an Exceptional Child in a Conventional World](https://www.amazon.com/Differently-Wired-Raising-Exceptional-Conventional/dp/1523502126)
     - tags: #ebook
     - 2018
-- 2018-03-01: Paul Robert, Peter Weil - Typewriter: A Celebration of the Ultimate Writing Machine
+- 2018-03-01: [Paul Robert, Peter Weil - Typewriter: A Celebration of the Ultimate Writing Machine](https://www.amazon.com/Typewriter-Celebration-Ultimate-Writing-Machine/dp/1454920785/ref=sr_1_1?s=books&ie=UTF8&qid=1530665490&sr=1-1&keywords=Typewriter%3A+A+Celebration+of+the+Ultimate+Writing+Machine)
     - tags: #paper
     - 2016
+    - This is really a very well made book. It features wonderful photographs, but also a lot of in-depth information about the history of
+      the machines anx what makes them interesting.
 - 2018-02-06: Victor Hugo - Les misérables, Tome II
     - tags: #paper #french
-- 2018-01-21: Bruce Bliven, Jr. - The Wonderful Writing Machine
+- 2018-01-21: [Bruce Bliven, Jr. - The Wonderful Writing Machine](https://www.amazon.com/wonderful-writing-machine-Bruce-Bliven/dp/600150329X/ref=sr_1_1?s=books&ie=UTF8&qid=1530665622&sr=1-1&keywords=The+Wonderful+Writing+Machine)
     - 1954
     - An account of the typewriter from its multiple inventors to the modern typewriter factory, including discussion of sales, typists, and more. Some
       interesting tidbits about how the Remington 1 came to be.
 
 ### 2017
 
-- 2017-07-19: Yuval Noah Harari - Sapiens
+- 2017-07-19: [Yuval Noah Harari - Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316117/)
     - tags: #paper
     - notes:
         - TODO
@@ -56,7 +58,7 @@ Dates are completion dates.
     - I really enjoyed this tome, even though it is about 900 pages.
     - I have been stunned a few times by the way Victor Hugo writes. The man knew his craft.
     - The book is an interesting mix of action and a painting of French (and behond) society from before the French revolution (1789) to the time of Hugo's writing.
-- 2017-02-11: Randy Pausch - The Last Lecture
+- 2017-02-11: [Randy Pausch - The Last Lecture](https://www.amazon.com/Last-Lecture-Randy-Pausch/dp/1401323251/)
     - 2008
     - tags: #paper
     - notes:
