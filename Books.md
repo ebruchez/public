@@ -14,8 +14,11 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Books I am currently reading
 
-- Watching Baseball Smarter
-- Bertrand Russell - The History of Western Philosophy
+- [Liu Cixin - The Dark Forest](https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past-ebook/dp/B00R13OYU6/)
+    - tags: #ebook
+- [Zack Hample - Watching Baseball Smarter](https://www.amazon.com/Watching-Baseball-Smarter-Professional-Semi-experts/dp/0307280322/)
+    - tags: #paper
+- [Bertrand Russell - The History of Western Philosophy](https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581/)
     - tags: #paper
 
 ## Backlog
@@ -32,6 +35,10 @@ Dates are completion dates.
 
 ### 2018
 
+- 2018-07: [Liu Cixin - The Three-Body Problem](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032/)
+    - tags: #ebook
+    - I devoured this book. It moves fast and introduces interesting ideas on a background loaded with the Chinese Cultural Revolution. The
+      translation by Ken Liu is very smooth.
 - 2018-07: [Deborah Reber - Differently Wired: Raising an Exceptional Child in a Conventional World](https://www.amazon.com/Differently-Wired-Raising-Exceptional-Conventional/dp/1523502126)
     - tags: #ebook
     - 2018
