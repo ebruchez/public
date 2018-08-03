@@ -33,6 +33,10 @@ Dates are completion dates.
 
 ### 2018
 
+- 2018-08-03: [Liu Cixin - Death's End](https://www.amazon.com/Deaths-End-Remembrance-Earths-Past/dp/0765386631/)
+    - tags: #ebook
+- 2018-07: [Liu Cixin - The Dark Forrest](https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past/dp/0765386690/)
+    - tags: #ebook
 - 2018-07: [Liu Cixin - The Three-Body Problem](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032/)
     - tags: #ebook
     - I devoured this book. It moves fast and introduces interesting ideas on a background loaded with the Chinese Cultural Revolution. The
