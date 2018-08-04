@@ -40,6 +40,15 @@ Dates are completion dates.
 - 2018-08-02: [Ralph Azham - 2. La mort au début du chemin](https://www.bedetheque.com/BD-Ralph-Azham-Tome-2-La-mort-au-debut-du-chemin-136487.html) 
 - 2018-08-01: [Ralph Azham - 1. Est-ce qu'on ment aux gens qu'on aime ?](https://www.bedetheque.com/BD-Ralph-Azham-Tome-1-Est-ce-qu-on-ment-aux-gens-qu-on-aime-122599.html)
     - tags: #reread 
+- 2016-07: [Centaurus - 4. Terre d'angoisse](https://www.bedetheque.com/BD-Centaurus-Tome-4-Terre-d-angoisse-335592.html)
+    - Scénario: Leo, Rodolphe
+    - Dessin: Zoran Janjetov
+    - 2018
+- 2016-07: [Centaurus - 3. Terre de folie](https://www.bedetheque.com/BD-Centaurus-Tome-3-Terre-de-folie-300530.html)
+    - Scénario: Leo, Rodolphe
+    - Dessin: Zoran Janjetov
+    - 2017
+    - tags: #reread
 - 2018-05-27: [Dragonero - Minaccia all'Impero](http://shop.sergiobonelli.it/dragonero/2017/08/21/libro/dragonero-minaccia-all-impero-1001525/)
     - Language: Italian
     - Scénario: Luca Enoch
