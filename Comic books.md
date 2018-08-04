@@ -36,6 +36,10 @@ Dates are completion dates.
 
 ### 2018
 
+- 2018-08-03: [Ralph Azham - 3. Noires sont les ètoiles](https://www.bedetheque.com/BD-Ralph-Azham-Tome-3-Noires-sont-les-etoiles-160366.html) 
+- 2018-08-02: [Ralph Azham - 2. La mort au début du chemin](https://www.bedetheque.com/BD-Ralph-Azham-Tome-2-La-mort-au-debut-du-chemin-136487.html) 
+- 2018-08-01: [Ralph Azham - 1. Est-ce qu'on ment aux gens qu'on aime ?](https://www.bedetheque.com/BD-Ralph-Azham-Tome-1-Est-ce-qu-on-ment-aux-gens-qu-on-aime-122599.html)
+    - tags: #reread 
 - 2018-05-27: [Dragonero - Minaccia all'Impero](http://shop.sergiobonelli.it/dragonero/2017/08/21/libro/dragonero-minaccia-all-impero-1001525/)
     - Language: Italian
     - Scénario: Luca Enoch
