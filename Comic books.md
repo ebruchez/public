@@ -36,6 +36,61 @@ Dates are completion dates.
 
 ### 2018
 
+- 2018-10-11: [Le Mystère de la Grande Pyramide](https://www.bedetheque.com/BD-Blake-et-Mortimer-Historique-Tome-3-7644.html)
+    - 1954-1955
+    - Edgar P. Jacobs
+    - Rating: 5/5
+    - tags: #reread
+- 2018-10-10: [Le secret de l'Espadon](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-1-Le-Secret-de-l-Espadon-T1-7652.html)
+    - 1950-1953
+    - Edgar P. Jacobs
+    - Rating: 5/5
+    - tags: #reread
+    - Notes: Yes, it is about the "Yellows" (probably Chinese) against the rest of the world, and we wouldn't dare write a story like this today, but it is a fantastic story about fighting a totalitarian regime wanting to take over the world, and a wonderful story of resistance for freedom. I think that the story is really well written, especially given the fact that the author had to go very fast, and you eagerly follow over three volumes the heroes as they have setback upon setback. Not everybody is depicted in a negative way: resistance fighters are Indian, Arabs, and near the end Shanghai's "Tchang-Li-Tchek" joins the resistance as well.
+- 2018-10: [Une mystérieuse mélodie]
+    - Language: French
+    - Cosey
+- 2018-10: [Moby Dick]
+    - Language: Italian
+    - Francesco Artibani
+    - Paolo Mottura
+    - Topolino Limited De Luxe Edition
+- 2018-09-15: [Donald's Happiest Adventures]
+    - 2018
+    - Scénario: Lewis Trondheim
+    - Dessin: Nicolas Keramidas
+- 2018-09-12: [Les mondes de Thorgal - La jeunesse, Tome 3. Runa](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-3-Runa-241654.html)
+    - 2015
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2018-09-07: Mickey's craziest adventures
+    - 2016
+    - Scénario: Lewis Trondheim
+    - Dessin: Nicolas Keramidas
+- 2018-09-03:[Les Mondes de Thorgal - Kriss de Valnor - Tome 2 - La sentence des Walkyries](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-Kriss-de-Valnor-Tome-2-La-sentence-des-Walkyries-156670.html)
+- 2018-08-30: [Retour sur Aldébaran - Episode 1](https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-1-Episode-1-332186.html)
+    - 2018
+- 2018-08-28: Yoko Tsuno l'intégrale, tome 4: Vinéa en péril
+    - 8\. Les Titans 
+        - tags: #reread
+        - Rating: 5/5
+    - 10\. La lumière d'Ixo
+        - tags: #reread
+        - Rating: 5/5
+    - 13\. Les archanges de Vinéa
+        - tags: #reread
+        - Rating: 4/5
+- 2018-08-1x: [Meta-Baron - Tome 4 - Simak le Transhumain](https://www.bedetheque.com/BD-Meta-Baron-Tome-4-Simak-le-Transhumain-298307.html)
+    - 2017
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Niko Henrichon
+    - D'après: Alexandro Jodorowsky
+- 2018-08-12: [Meta-Baron - Tome 3 - Orne-8 le Techno-Cardinal](https://www.bedetheque.com/BD-Meta-Baron-Tome-3-Orne-8-le-Techno-Cardinal-289702.html)
+    - 2016
+    - tags: #reread 
+    - Scénario: Jerry Frissen
+    - Dessin et couleur: Niko Henrichon
+    - D'après: Alexandro Jodorowsky
 - 2018-08-03: [Ralph Azham - 3. Noires sont les ètoiles](https://www.bedetheque.com/BD-Ralph-Azham-Tome-3-Noires-sont-les-etoiles-160366.html) 
 - 2018-08-02: [Ralph Azham - 2. La mort au début du chemin](https://www.bedetheque.com/BD-Ralph-Azham-Tome-2-La-mort-au-debut-du-chemin-136487.html) 
 - 2018-08-01: [Ralph Azham - 1. Est-ce qu'on ment aux gens qu'on aime ?](https://www.bedetheque.com/BD-Ralph-Azham-Tome-1-Est-ce-qu-on-ment-aux-gens-qu-on-aime-122599.html)
@@ -73,13 +128,13 @@ Dates are completion dates.
     - Language: Italian
     - 4/5
 - 2018-01-23: [Alix Senator: 4. Les démons de Sparte](https://www.bedetheque.com/BD-Alix-Senator-Tome-4-Les-Demons-de-Sparte-253345.html)
-- 2018-01-14: [Yoko Tsuno - La pagode des brumes](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-23-La-pagode-des-brumes-6009.html)
+- 2018-01-14: [Yoko Tsuno - 23. La pagode des brumes](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-23-La-pagode-des-brumes-6009.html)
     - 2001
     - tags: #reread
 - 2018-01-12: [Yoko Tsuno - 22. La jonque céleste](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-22-La-jonque-celeste-1344.html)
     - 1998
     - tags: #reread
-- 2018-01-11: [Yoko Tsuno - Le dragon de Hong Kong](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-16-Le-dragon-de-Hong-Kong-4642.html)
+- 2018-01-11: [Yoko Tsuno - 16. Le dragon de Hong Kong](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-16-Le-dragon-de-Hong-Kong-4642.html)
     - 1986
     - tags: #reread
 - 2018-01-09: [Valérian - L'empire des mille planètes](https://www.bedetheque.com/BD-Valerian-Tome-2-L-empire-des-mille-planetes-2578.html)
@@ -147,7 +202,7 @@ Dates are completion dates.
     - 4/5
 - 2017-12-06: [Les nouvelles aventures de Lapinot - Un monde un peu meilleur]()
     - 4/5
-- 2017-12-01: [Les Mondes de Thorgal - Kriss de Valnor - Tome 1 - Je n'oublie rien !]()
+- 2017-12-01: [Les Mondes de Thorgal - Kriss de Valnor - Tome 1 - Je n'oublie rien !](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-Kriss-de-Valnor-Tome-1-Je-n-oublie-rien-116231.html)
     - 4/5
 - 2017-11: [Mermaid Project - Épisode 2]()
 - 2017-08-22: [Astérix et les Goths](https://www.bedetheque.com/BD-Asterix-Tome-3-Asterix-et-les-Goths-22944.html)
@@ -383,7 +438,7 @@ Dates are completion dates.
     - A bit difficult to judge: it's not terrible, and the original idea is good, but there are few surprises and the story lacks atmosphere.
 - 2017-04-13: Lefranc, Tome 26: Mission Antarctique
     - tags: #reread
-- 2017-04-08: Yoko Tsuno l'intégrale, volume 3: A la poursuite du temps
+- 2017-04-08: Yoko Tsuno l'intégrale, tome 3: A la poursuite du temps
     - 2007 (intégrale)
     - La spirale du temps
         - tags: #reread
@@ -403,7 +458,7 @@ Dates are completion dates.
 - 2017-03-21: Mermaid Project - Épisode 1
     - Scénario: Léo, Corine Jamar
     - Dessin: Fred Simon
-- 2017-03-15: Meta-Baron - Tome 3 - Orne-8 le Techno-Cardinal
+- 2017-03-15: [Meta-Baron - Tome 3 - Orne-8 le Techno-Cardinal](https://www.bedetheque.com/BD-Meta-Baron-Tome-3-Orne-8-le-Techno-Cardinal-289702.html)
     - Scénario: Jerry Frissen
     - Dessin et couleur: Niko Henrichon
     - D'après: Alexandro Jodorowsky
@@ -487,7 +542,7 @@ Dates are completion dates.
     - Massimo De Vita
     - 1984
     - third part of the trilogy
-- 2017-01-08: Yoko Tsuno l'intégrale, volume 2: Aventures allemandes
+- 2017-01-08: Yoko Tsuno l'intégrale, tome 2: Aventures allemandes
     - L'orgue du diable
         - tags: #reread
         - 1973
@@ -745,7 +800,7 @@ Dates are completion dates.
     - 2013
     - Scénario: Christophe Bec
     - Dessin:  Mauro Salvatori, Fabrizio Fain
-- Yoko Tsuno l'intégrale, volume 1: De la Terre à Vinéa
+- Yoko Tsuno l'intégrale, tome 1: De la Terre à Vinéa
     - Le Trio de l'étrange
         - tags: #reread
         - 1972

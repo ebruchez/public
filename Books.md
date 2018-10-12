@@ -33,6 +33,13 @@ Dates are completion dates.
 
 ### 2018
 
+- 2018-08-15: [Arthur Conan Doyle - The Sign of the Four](https://en.wikipedia.org/wiki/The_Sign_of_the_Four)
+    - tags: #ebook
+    - 1890
+- 2018-08-08: [Arthur Conan Doyle - A Study in Scarlet](https://en.wikipedia.org/wiki/A_Study_in_Scarlet)
+    - tags: #ebook
+    - 1887
+    - The first appearance of Sherlock Holmes and Dr. Watson. 
 - 2018-08-03: [Liu Cixin - Death's End](https://www.amazon.com/Deaths-End-Remembrance-Earths-Past/dp/0765386631/)
     - tags: #ebook
 - 2018-07: [Liu Cixin - The Dark Forrest](https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past/dp/0765386690/)
