@@ -33,13 +33,19 @@ Dates are completion dates.
 
 ### 2018
 
+
+- 2018-12-25: [Geoffrey D. Austrian - Herman Hollerith - Forgotten giant of information processing]
+    - tags: #ebook
+    - 1982
+    - NOTES: This is a quite good biography of [Herman Hollerith](https://en.wikipedia.org/wiki/Herman_Hollerith) (1860-1929), an inventor I had never heard about. He pioneered the use of punched cards for use in data processing, specifically compiling statistics. He was successful applying his "tabulating machines" to help with the US census and later other census. Later his machines were applied to so-called commercial usages. He formed the Tabulating Machine Company, which ultimately was consolidated in [The Computing-Tabulating-Recording Company (CTR)](https://en.wikipedia.org/wiki/Computing-Tabulating-Recording_Company#The_Tabulating_Machine_Company), which became IBM. He was a peculiar if not a little eccentric character, probably like many inventors of the time. I found it interesting that so many concerns are very modern: engineering, manufacturing, supply chain, forming companies, keeping or losing control, and more. I regret that the book lacks detailed explorations of the machines themselves.
 - 2018-08-15: [Arthur Conan Doyle - The Sign of the Four](https://en.wikipedia.org/wiki/The_Sign_of_the_Four)
     - tags: #ebook
     - 1890
+- 2018-09 t0 2018-11: more Sherlock Holmes stories.
 - 2018-08-08: [Arthur Conan Doyle - A Study in Scarlet](https://en.wikipedia.org/wiki/A_Study_in_Scarlet)
     - tags: #ebook
     - 1887
-    - The first appearance of Sherlock Holmes and Dr. Watson. 
+    - The first appearance of Sherlock Holmes and Dr. Watson.
 - 2018-08-03: [Liu Cixin - Death's End](https://www.amazon.com/Deaths-End-Remembrance-Earths-Past/dp/0765386631/)
     - tags: #ebook
 - 2018-07: [Liu Cixin - The Dark Forrest](https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past/dp/0765386690/)
