@@ -8,19 +8,27 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Candidate books I would like to read next
 
+- [Karl R. Popper - Popper Selections](https://www.amazon.com/Popper-Selections-Karl-R/dp/0691020310)
+    - tags: #paper
+- [James S. A. Corey - Leviathan Wakes](https://www.amazon.com/Leviathan-Wakes-James-S-Corey/dp/0316129089/)
+    - tags: #paper
 - [The Rise and Fall of D.O.D.O.: A Novel](https://www.amazon.com/gp/product/0062409166/)
 - [Yuval Noah Harari - Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/gp/product/0062464310/)
     - I might be too familiar with the content to find it interesting. Waiting for others' feedback.
 
 ## Books I am currently reading
 
+- More Sherlock Holmes stories
+    - tags: #ebook
+- [Cervantes - Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote)
+    - tags: #audiobook
+
+## Backlog
+
 - [Zack Hample - Watching Baseball Smarter](https://www.amazon.com/Watching-Baseball-Smarter-Professional-Semi-experts/dp/0307280322/)
     - tags: #paper
 - [Bertrand Russell - The History of Western Philosophy](https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581/)
     - tags: #paper
-
-## Backlog
-
 - [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
     - 2017-08-02: (re)started
     - tags: #paper
@@ -52,7 +60,7 @@ Dates are completion dates.
 - 2018-08-15: [Arthur Conan Doyle - The Sign of the Four](https://en.wikipedia.org/wiki/The_Sign_of_the_Four)
     - tags: #ebook
     - 1890
-- 2018-09 t0 2018-11: more Sherlock Holmes stories.
+- 2018-09 to 2018-11: more Sherlock Holmes stories.
 - 2018-08-08: [Arthur Conan Doyle - A Study in Scarlet](https://en.wikipedia.org/wiki/A_Study_in_Scarlet)
     - tags: #ebook
     - 1887
