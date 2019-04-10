@@ -23,19 +23,90 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
 - Yoko Tsuno
     - One particularity of this series is that the hero is a woman and women constitute the majority of the important characters of the stories (even though the author, Roger Leloup, is a man). This never bothered me the least as a boy and, as an adult, I still love the series.
 - Achille Talon
-    - This series has been a favorite of mine ever since I encountered it. But only the original albums by Greg.
+    - This series has been a favorite of mine ever since I encountered it (only the original albums by Greg).
 - Lefranc
     - Some of the stories in this series are just too good. My favorite might be [Le Repaire du loup](https://fr.wikipedia.org/wiki/Le_Repaire_du_loup), drawn by Bob de Moor, which is a masterpiece of the genre.
 - Alix
 - Blake et Mortimer (the original series)
+    - You can just read and re-read these albums without ever tiring of them.
 - Thorgal
 
 ## Comic books and stories I have read
 
 Dates are completion dates.
 
-### 2018
+### 2019
 
+- 2019-03-xx: [Corpus Hermeticum - Opération Gremikha - 2003 AP J. C.]
+    - Language: French
+    - tags: #reread
+    - Tackian
+    - Brion
+- 2019-03-xx: [Corpus Hermeticum - Les Hautes Terres - 121 AP J. C.]
+    - Language: French
+    - tags: #reread
+    - Gonzalbo
+    - Palma
+- 2019-02-xx: [Flash Gordon Volume 4: The Storm Queen of Valkir]
+    - TODO: Also add volumes 1-3
+- 2019-02-02: [PK - Gli argini del tempo]
+    - Language: Italian
+    - Authors: Alessandro Sisti, Claudio Sciarrone, Max Monteduro
+    - Topolino Limited De Luxe Edition
+    - Notes: This is a longer (130+ pages) PK story. The art is done entirely on a computer. I believe that this is a newer story, done in 2014.
+- 2019-01-18: [Dragonero - Oltre i confini dell'Erondár]
+    - Language: Italian
+- 2019-01: [Donjon Zénith](https://www.bedetheque.com/serie-2324-BD-Donjon-Zenith.html)
+    - Language: French
+    - tags: #reread
+    - 6 volumes
+- 2019-01: [Donjon Potron-Minet](https://www.bedetheque.com/serie-2325-BD-Donjon-Potron-Minet.html)
+    - Language: French
+    - tags: #reread
+    - Notes: This series has negative volume numbers, starting at -99!
+    - -99: La chemise de la nuit
+    - -98: Un justicier dans l'ennui
+    - -97: Une jeunesse qui s'enfuit
+    - -84: Après la pluie
+    - -83: Sans un bruit
+- 2019-01: Donjon Monsters - 1. Jean-Jean la terreur
+    - tags: #reread
+- 2019-01: Donjon Parade - 1. Un donjon de trop
+    - tags: #reread
+
+## 2018
+
+- 2018-12: Donjon Crépuscule
+    - Language: French
+    - tags: #reread
+    - 101-106
+- 2018-12-2x: [Disney d'autore - Fabio Celoni](https://www.amazon.com/Disney-dautore-Fabio-Celoni/dp/8852218858/)
+    - "Da Topolino a PK, I magnifici racconti di uno straordinario viaggiatore del segno"
+    - Language: Italian
+    - Notes: Some really good stories and an interesting style.
+- 2018-12-03: [Disney d'autore - Corrado Mastantuono](https://www.amazon.com/Disney-dautore-Corrado-Mastantuono/dp/8852217258)
+    - "Le straordinarie avventure dei personaggi di Paperopoli et di Topolinia tra ironia e divertimento"
+    - Language: Italian
+    - Notes: I didn't realize before reading this that I had read a number of stories by Mastantuono. I really like his style. The character of Bum Bum is interesting in that he takes the central spot of a number of stories, playing the role usually taken by Donald Duck (Paperino). Instead, when Bum Bum is present, Paperino is repositioned as a character who behaves more normally.
+- 2018-10-30: [Le complexe du chimpanzé](https://www.bedetheque.com/serie-15177-BD-Complexe-du-chimpanze.html)
+    - tags: #reread
+    - Rating: 3/5
+    - Notes: My main issue with this series is the lack of explanations. A lot of the story seems arbitrary. I would have preferred a more classic story.
+- 2018-10-22: [Les cosmonautes du futur](https://www.bedetheque.com/BD-Cosmonautes-du-futur-Tome-1-1934.html)
+    - tags: #reread
+    - Rating: 5/5
+    - Note: Cute and funny.
+- 2018-10-19: [Le rayon U](https://www.bedetheque.com/BD-Rayon-U-27159.html)
+    - tags: #reread
+    - Rating: 5/5
+    - Notes: A great classic.
+- 2018-10-19: [Spirou et Fantasio - 50. Aux sources du Z](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-50-Aux-sources-du-Z-79695.html)
+    - tags: #reread
+    - Rating: 4/5
+    - Notes: This is not a story like most others. It has lots of references to older albums, and plays over the Spirou and Fantasio timeline. It feels more like an experiment than a story to take "seriously".
+- 2018-10-17: [Le troisième Testament](https://www.bedetheque.com/albums-23-BD-Troisieme-Testament.html)
+    - tags: #reread
+    - Rating: 5/5
 - 2018-10-11: [Le Mystère de la Grande Pyramide](https://www.bedetheque.com/BD-Blake-et-Mortimer-Historique-Tome-3-7644.html)
     - 1954-1955
     - Edgar P. Jacobs
@@ -71,7 +142,7 @@ Dates are completion dates.
 - 2018-08-30: [Retour sur Aldébaran - Episode 1](https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-1-Episode-1-332186.html)
     - 2018
 - 2018-08-28: Yoko Tsuno l'intégrale, tome 4: Vinéa en péril
-    - 8\. Les Titans 
+    - 8\. Les Titans
         - tags: #reread
         - Rating: 5/5
     - 10\. La lumière d'Ixo
@@ -87,14 +158,14 @@ Dates are completion dates.
     - D'après: Alexandro Jodorowsky
 - 2018-08-12: [Meta-Baron - Tome 3 - Orne-8 le Techno-Cardinal](https://www.bedetheque.com/BD-Meta-Baron-Tome-3-Orne-8-le-Techno-Cardinal-289702.html)
     - 2016
-    - tags: #reread 
+    - tags: #reread
     - Scénario: Jerry Frissen
     - Dessin et couleur: Niko Henrichon
     - D'après: Alexandro Jodorowsky
-- 2018-08-03: [Ralph Azham - 3. Noires sont les ètoiles](https://www.bedetheque.com/BD-Ralph-Azham-Tome-3-Noires-sont-les-etoiles-160366.html) 
-- 2018-08-02: [Ralph Azham - 2. La mort au début du chemin](https://www.bedetheque.com/BD-Ralph-Azham-Tome-2-La-mort-au-debut-du-chemin-136487.html) 
+- 2018-08-03: [Ralph Azham - 3. Noires sont les étoiles](https://www.bedetheque.com/BD-Ralph-Azham-Tome-3-Noires-sont-les-etoiles-160366.html)
+- 2018-08-02: [Ralph Azham - 2. La mort au début du chemin](https://www.bedetheque.com/BD-Ralph-Azham-Tome-2-La-mort-au-debut-du-chemin-136487.html)
 - 2018-08-01: [Ralph Azham - 1. Est-ce qu'on ment aux gens qu'on aime ?](https://www.bedetheque.com/BD-Ralph-Azham-Tome-1-Est-ce-qu-on-ment-aux-gens-qu-on-aime-122599.html)
-    - tags: #reread 
+    - tags: #reread
 - 2016-07-30: [Centaurus - 4. Terre d'angoisse](https://www.bedetheque.com/BD-Centaurus-Tome-4-Terre-d-angoisse-335592.html)
     - Scénario: Leo, Rodolphe
     - Dessin: Zoran Janjetov

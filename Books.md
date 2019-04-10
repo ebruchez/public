@@ -23,18 +23,29 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 - [The Selfish Gene](http://www.amazon.com/The-Selfish-Gene-Edition---Introduction/dp/0199291152/)
     - 2017-08-02: (re)started
+    - tags: #paper
 - [Albert Speer - Inside the Third Reich](https://en.wikipedia.org/wiki/Inside_the_Third_Reich)
-- [Daniel C. Dennett - Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/) #paper #stalled
-- Antoine de Saint-Exupéry - Terre des Hommes #ebook #stalled
+    - tags: #paper
+- [Daniel C. Dennett - Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
+    - tags: #paper #stalled
+- Antoine de Saint-Exupéry - Terre des Hommes
+    - tags: #ebook #stalled
 
 ## Books I have read
 
 Dates are completion dates.
 
+### 2019
+
+- 2019-04-09: [Walter Isaacson - Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson-ebook/dp/B071Y385Q1/)
+    - tags: #ebook
+    - NOTES: I learned a lot from this book.
+- 2019-04: [Lawrence Krauss -  A Universe from Nothing: Why There Is Something Rather than Nothing](https://www.amazon.com/Universe-Nothing-There-Something-Rather-ebook/dp/B004T4KQJS)
+    - tags: #audiobook
+
 ### 2018
 
-
-- 2018-12-25: [Geoffrey D. Austrian - Herman Hollerith - Forgotten giant of information processing]
+- 2018-12-25: [Geoffrey D. Austrian - Herman Hollerith - Forgotten giant of information processing](https://www.amazon.com/Herman-Hollerith-Forgotten-Information-Processing-ebook/dp/B01NBDYN91)
     - tags: #ebook
     - 1982
     - NOTES: This is a quite good biography of [Herman Hollerith](https://en.wikipedia.org/wiki/Herman_Hollerith) (1860-1929), an inventor I had never heard about. He pioneered the use of punched cards for use in data processing, specifically compiling statistics. He was successful applying his "tabulating machines" to help with the US census and later other census. Later his machines were applied to so-called commercial usages. He formed the Tabulating Machine Company, which ultimately was consolidated in [The Computing-Tabulating-Recording Company (CTR)](https://en.wikipedia.org/wiki/Computing-Tabulating-Recording_Company#The_Tabulating_Machine_Company), which became IBM. He was a peculiar if not a little eccentric character, probably like many inventors of the time. I found it interesting that so many concerns are very modern: engineering, manufacturing, supply chain, forming companies, keeping or losing control, and more. I regret that the book lacks detailed explorations of the machines themselves.
