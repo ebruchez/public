@@ -18,6 +18,8 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Books I am currently reading
 
+- [Neal Stephenson - Some Remarks: Essays and Other Writing](https://www.amazon.com/Some-Remarks-Essays-Other-Writing/dp/B00BJEMLJO)
+    - tags: #paper
 - More Sherlock Holmes stories
     - tags: #ebook
 - [Cervantes - Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote)
@@ -45,6 +47,9 @@ Dates are completion dates.
 
 ### 2019
 
+- 2019-04-09: [Arthur Conan Doyle - The Adventure of the Dancing Men]
+    - tags: #ebook
+    - NOTES: Sherlock Holmes story.
 - 2019-04-09: [Walter Isaacson - Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson-ebook/dp/B071Y385Q1/)
     - tags: #ebook
     - NOTES: I learned a lot from this book.
