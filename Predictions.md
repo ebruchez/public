@@ -98,13 +98,6 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - Resolution:
     - WAIT until 2026-01-05
 
-### PREDICTION-0004: 2013-12-03: Amazon Prime Air timeline
-
-- From: @avernet
-- Text: "Amazon Prime Air won't be usable in 5 years at Thomas's place (for technological or cost reasons, including but not limited to FAA requirements or high initial cost)."
-- Resolution:
-    - WAIT until 2018-12-03
-
 ### PREDICTION-0002: 2013-09-16: iPhone CPU performance
 
 - From: @avernet
@@ -130,6 +123,14 @@ Trucks are also an obvious target for self-driving technology as they drive long
     - WAIT until 2023-07-20
 
 ## Completed predictions
+
+### PREDICTION-0004: 2013-12-03: Amazon Prime Air timeline
+
+- From: @avernet
+- Text: "Amazon Prime Air won't be usable in 5 years at Thomas's place (for technological or cost reasons, including but not limited to FAA requirements or high initial cost)."
+- Resolution:
+    - __SUCCESS__: There is definitely no such service available in the Bay Area here now.
+    - "Amazon Prime Air is also the arm of the company working on their the drone-based delivery system—which has long been in development after its initial announcement in 2013, but has essentially stalled due to U.S. airspace regulations." [Observer article from 2017-11](https://observer.com/2017/11/amazon-prime-air-drone-delivery-service-might-never-happen-in-united-statesr/)
 
 ### PREDICTION-0013: 2015-12-03: Swift in the browser
 
