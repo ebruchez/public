@@ -47,6 +47,52 @@ Dates are completion dates.
 
 ### 2019
 
+- 2019-10-31: [Richard N. Current - The typewriter and the men who made it](https://www.worldcat.org/title/typewriter-and-the-men-who-made-it/oclc/1594574)
+    - tags: #paper
+    - NOTES: What I learned:
+        - James Densmore coined "type-writer" and "Caligraph"
+        - Caligraph designed by Yost
+        - Yost was quite the "reality distortion field" guy of his time
+        - the system of companies, royalties, etc. got very complicated
+        - Sholes diluted to 1/10, then nothing as of 1880 (probably)
+        - Sholes needed money, James advised to keep shares, but Sholes needed/wanted out
+        - Jame Densmore worked with his brothers, Emmett (physician) and Amos
+        - they started selling in a []period of depression (1870s)](https://en.wikipedia.org/wiki/Long_Depression)
+        - James Densmore coined "type-writer" and "Caligraph"
+        - Amos and Emmett Densmore hired Franz X. Wagner, and they produced the Densmore machines (not James)
+        - Sholes didn't believe much in his invention
+        - Sholes fell out with James at some point, thought he got wronged; James didn't think so
+        - patents: James delayed application in order to extend their validity; sometimes was really late
+        - Sholes worked on his portable typewriter close to his death, really believed in it
+        - Sholes signed some patents finally just a few days before his death
+        - In the end, Sholes made about $40K total (about $1 million in 2019)
+        - By 1882, Jame Densmore had probably made about the same as sholes
+        - But later the Densmores made probalby 10x the amount of sholes (so ~$10 mio)
+- 2019-09-2x: [Miles - The Autobiography](https://www.amazon.com/Miles-Autobiography-Davis/dp/0671725823)
+    - tags: #audiobook #reread
+    - NOTES: I read this book for the first time when it came out in French, around 1990. This time I listened to the English version, narrated by Dion Graham, who often times gets very close to Miles's voice.
+- 2019-09-10: [Kafka - The Metamorphosis](https://en.wikipedia.org/wiki/The_Metamorphosis)
+    - tags: #ebook
+    - NOTES: Novella ("longer than a short story but shorter than a novel"). Read following [VBW's *A Bug's Life (Kafka's "The Metamorphosis"*)](https://verybadwizards.fireside.fm/169)
+- 2019-09-xx: [Jay Barbree - Neil Armstrong: A life of flight](https://www.amazon.com/Neil-Armstrong-Flight-Jay-Barbree-ebook/dp/B00HP1JZH6)
+    - tags: #audiobook
+    - NOTES: I learned a lot from this book:
+        - Armstrong was at the core into flying. He was an excellent test pilot. The best.
+        - He ejected and parachuted in Korea when his plane's wing was cut by an anti-aircraft cable.
+        - His house burned down and he saved his family.
+        - Ed White, who died in the Apollo 1 fire, was his neighbor.
+        - He flew Gemini 8 and managed to save his and David Scoot's lives by doing the right thing.
+        - During a flight of the LLRV, he had to eject as well.
+        - He was known for intelligence, thoughtfulness, and his ability as a pilot.
+- 2019-08-15: [Neal Stephenson - Atmosphæra Incognita]()
+    - tags: #ebook
+    - NOTES: Short story
+- 2019-08-07: [Yuval Noah Harari - 21 Lessons for the 21st Century](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari-ebook/dp/B079WM7KLS/)
+    - tags: #ebook
+- 2019-06-xx: [A Game of Thrones: A Song of Ice and Fire, Book 1]
+    - tags: #audiobook
+- 2019-05-17: [Ken Follett - The Pillars of the Earth](https://en.wikipedia.org/wiki/The_Pillars_of_the_Earth)
+    - tags: #audiobook
 - 2019-04-09: [Arthur Conan Doyle - The Adventure of the Dancing Men]
     - tags: #ebook
     - NOTES: Sherlock Holmes story.
