@@ -166,11 +166,11 @@ Dates are completion dates.
 - 2018-08-02: [Ralph Azham - 2. La mort au début du chemin](https://www.bedetheque.com/BD-Ralph-Azham-Tome-2-La-mort-au-debut-du-chemin-136487.html)
 - 2018-08-01: [Ralph Azham - 1. Est-ce qu'on ment aux gens qu'on aime ?](https://www.bedetheque.com/BD-Ralph-Azham-Tome-1-Est-ce-qu-on-ment-aux-gens-qu-on-aime-122599.html)
     - tags: #reread
-- 2016-07-30: [Centaurus - 4. Terre d'angoisse](https://www.bedetheque.com/BD-Centaurus-Tome-4-Terre-d-angoisse-335592.html)
-    - Scénario: Leo, Rodolphe
+- 2018-07-30: [Centaurus - 4. Terre d'angoisse](https://www.bedetheque.com/BD-Centaurus-Tome-4-Terre-d-angoisse-335592.html)
+    - Scénario: Léo & Rodolphe
     - Dessin: Zoran Janjetov
     - 2018
-- 2016-07: [Centaurus - 3. Terre de folie](https://www.bedetheque.com/BD-Centaurus-Tome-3-Terre-de-folie-300530.html)
+- 2018-07: [Centaurus - 3. Terre de folie](https://www.bedetheque.com/BD-Centaurus-Tome-3-Terre-de-folie-300530.html)
     - Scénario: Leo, Rodolphe
     - Dessin: Zoran Janjetov
     - 2017
@@ -227,15 +227,6 @@ Dates are completion dates.
     - 2012
     - tags: #reread
 - 2018-01-01: [Les naufragés d'Ythaq - 9. L'Impossible Vérité](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-9-L-Impossible-Verite-136859.html)
-    - 2011
-    - tags: #reread
-- 2018-01-01: [Les naufragés d'Ythaq - 8. Le miroir des mensonges](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-8-Le-miroir-des-mensonges-116943.html)
-    - 2010
-    - tags: #reread
-
-### 2017
-
-- 2018-01: [Les naufragés d'Ythaq - 9. L'Impossible Vérité](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-9-L-Impossible-Verite-136859.html)
     - 2011
     - tags: #reread
 - 2018-01-01: [Les naufragés d'Ythaq - 8. Le miroir des mensonges](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-8-Le-miroir-des-mensonges-116943.html)
