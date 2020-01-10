@@ -22,10 +22,12 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
 - Asterix
 - Yoko Tsuno
     - One particularity of this series is that the hero is a woman and women constitute the majority of the important characters of the stories (even though the author, Roger Leloup, is a man). This never bothered me the least as a boy and, as an adult, I still love the series.
-- Achille Talon
+- [Achille Talon](https://www.bedetheque.com/serie-33-BD-Achille-Talon.html)
     - This series has been a favorite of mine ever since I encountered it (only the original albums by Greg).
+    - It is probably impossible to translate this to English or other languages. The humor is quite tied to the French language. Greg even went to the US for a while to promote his character, but it failed.
 - Lefranc
-    - Some of the stories in this series are just too good. My favorite might be [Le Repaire du loup](https://fr.wikipedia.org/wiki/Le_Repaire_du_loup), drawn by Bob de Moor, which is a masterpiece of the genre.
+    - Some of the stories in this series are just too good.
+    - My favorite might be [Le Repaire du loup](https://fr.wikipedia.org/wiki/Le_Repaire_du_loup), drawn by Bob de Moor, which is a masterpiece of the genre.
 - Alix
 - Blake et Mortimer (the original series)
     - You can just read and re-read these albums without ever tiring of them.
