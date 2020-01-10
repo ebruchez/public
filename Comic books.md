@@ -35,18 +35,68 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
 
 Dates are completion dates.
 
+### 2020
+
+- 2020-01-09: [Lefranc - 26. Mission Antarctique](https://www.bedetheque.com/BD-Lefranc-Tome-26-Mission-Antarctique-258679.html)
+    - tags: #reread
+    - Language: French
+    - Rating: 4/5
+    - Story: François Corteggiani
+    - Drawings: Christophe Alvès
+    - Color: Bonaventure
+    - NOTES:
+        - This is a pretty good story.
+        - The drawings by [Christophe Alvès](https://christophealves.com/) are consistent and detailed throughout. I like them. They easily beat the art of volumes 22, not talking about the terrible volume 19.
+        - Christophe Alvès has also worked on volume 30 "Lune rouge" and volume 28 "Le principe d'Heisenberg", and is working on volumne 32 which is scheduled for 2021. I am looking forward to it!
+        - This said, Lefranc doesn't look exactly like Martin's Lefranc. This is not a big problem to me.
+- 2020-01-07: [Lefranc - 23. L'éternel shogun](https://www.bedetheque.com/BD-Lefranc-Tome-23-L-eternel-shogun-160598.html)
+    - tags: #reread
+    - Language: French
+    - Rating: 3/5
+    - Story: Thierry Robberecht
+    - Drawings: Régric
+    - NOTES:
+        - A much better story than "Londres en péril", with much better drawings as well.
+- 2020-01-06: [Lefranc - 19. Londres en péril](https://www.bedetheque.com/BD-Lefranc-Tome-19-Londres-en-peril-75321.html)
+    - tags: #reread
+    - Language: French
+    - Rating: 1/5
+    - Story: Thierry Robberecht
+    - Drawings: Erwin & André Taymans
+    - NOTES:
+        - The most shocking aspect of this album is that the drawings are terrible. For example:
+            - The characters' faces, in particular Lefranc's, are consistently inconsistent.
+            - Norman, the boy, looks out of proportions from one appearance to the other.
+            - I see that there are two authors credited for the drawings: is this part of the problem?
+        - The story is just ok with lots of issues. I think the premise of the story was not too bad, but it should have been worked out much better.
+            - It's hard to understand how that bomb would work (contrast with Jacobs's sometimes crazy ideas, which at least came with fancy explanatory diagrams, like for "La marque jaune").
+            - There is a ridiculous comment by Lefranc about "A drop of water touching those wires would send London's taxicabs flying through the air." That's not quite how electricity works!
+            - The keyboard of the interface to Hannah looks ridiculous, and so does the font shown on the screen, no matter what year you place the story in.
+            - Using that very complex setup just to, essentially, act as the switch for a bomb seems unnecessary, and it doesn't come with any explanation.
+            - The whole orchid subplot also seems unnecessary.
+
+- 2020-01-03: [Flash Gordon Volume 4: The Storm Queen of Valkir]
+    - Language: English
+
 ### 2019
 
+- 2019-12-23: [Dragonero. Avventura a Darkwood](https://en.shop.sergiobonelli.it/books/2019/02/25/book/dragonero-avventura-a-darkwood-1004270/)
+    - Language: Italian
+    - NOTES: A "team-up" with the character of Zagor. Somehow the two universes get connected via special stones that allow traveling through time and space. Not knowing Zagor, I would tend to prefer the character of Dragonero. Zagor is a little bit too much of the perfect hero in looks and dress, while his sidekick, Cico, is a little too burlesque. But overall the story is not bad.
 - 2019-12-17: [Dragonero. La fine di Yastrad](https://en.shop.sergiobonelli.it/dragonero/2018/08/29/book/dragonero-la-fine-di-yastrad-1003379/)
     - Language: Italian
+    - NOTES: There is a clear parallel between the Eleusi and the Jews. The Eleusi live in ghettos, are educated but disliked and blamed when things go bad. The similarity stops there, as they are "Alchimisti ed Erboristi" (alchemists and herborists).
 - 2019-12-05: [Autour de Blake & Mortimer - Le dernier pharaon]()
     - Language: French
-    - Notes: I rather liked this story, which seems to have been misunderstood by many Blake & Mortimer fans out there. It features beautiful graphics.
+    - NOTES: I rather liked this story, which seems to have been misunderstood by many Blake & Mortimer fans out there. It features beautiful graphics.
 - 2019-11-07: [The Don Rosa Library Vol. 2]()
 - 2019-10-31: [The Don Rosa Library Vol. 1]()
     - NOTES: A really beautiful edition of Don Rosa's work, with his
 - 2019-10-22: [Lefranc - 30. Lune rouge](https://www.bedetheque.com/BD-Lefranc-Tome-30-Lune-rouge-366379.html)
     - Language: French
+    - Story: François Corteggiani
+    - Drawings: Christophe Alvès
+    - Color: Bonaventure
 - 2019-10-17: [Retour sur Aldébaran - Episode 2](https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-2-Episode-2-366478.html)
     - Language: French
 - 2019-10-16: [Retour sur Aldébaran - Episode 1](https://www.bedetheque.com/BD-Retour-sur-Aldebaran-Tome-1-Episode-1-332186.html)
@@ -123,7 +173,7 @@ Dates are completion dates.
 - 2019-07-13: [Blake et Mortimer - 18. Le Sanctuaire du Gondwana](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-18-Le-Sanctuaire-du-Gondwana-73189.html)
     - Language: French
     - tags: #reread
-    - Notes: This is in effect the continuation of "Les Sarcophages du 6e continent" with an interesting twist.
+    - NOTES: This is in effect the continuation of "Les Sarcophages du 6e continent" with an interesting twist.
 - 2019-07-12: [Blake et Mortimer - 17. Les Sarcophages du 6e continent - Tome 2](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-17-40150.html)
     - Language: French
     - tags: #reread
@@ -139,11 +189,11 @@ Dates are completion dates.
 - 2019-07-07: [Blake et Mortimer - 13. L'affaire Francis Blake](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-13-L-affaire-Francis-Blake-7664.html)
     - Language: French
     - tags: #reread
-    - Notes: This story keeps the reader wondering what will happen, which is the mark of a good story.
+    - NOTES: This story keeps the reader wondering what will happen, which is the mark of a good story.
 - 2019-07-05: [Spirou et Fantasio - 41. La vallée des bannis](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-41-La-vallee-des-bannis-2795.html)
     - Language: French
     - tags: #reread
-    - Notes: A really good story: fun, scary, tender moments, and humor.
+    - NOTES: A really good story: fun, scary, tender moments, and humor.
 - 2019-07-05: [Blake et Mortimer - 12B. Dossier Mortimer contre Mortimer]()
     - Language: French
     - tags: #reread
@@ -162,7 +212,7 @@ Dates are completion dates.
 - 2019-07-01: [Blake et Mortimer - 8. S.O.S. météores](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-8-SOS-meteores-7659.html)
     - Language: French
     - tags: #reread
-    - Notes: The atmosphere of the beginning of the story, with rain and fog, and the taxi getting lost, is just perfect.
+    - NOTES: The atmosphere of the beginning of the story, with rain and fog, and the taxi getting lost, is just perfect.
 - 2019-06-30: [Blake et Mortimer - 7. L'énigme de l'Atlantide](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-7-L-enigme-de-l-Atlantide-75606.html)
     - Language: French
     - tags: #reread
@@ -172,15 +222,15 @@ Dates are completion dates.
 - 2019-06-xx: [Blake et Mortimer - 24. Le Testament de William S.](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-24-Le-Testament-de-William-S-293206.html)
     - Language: French
     - tags: #reread
-    - Notes: About the discovery in Venice of a manuscript explaining that Shakespeare consisted, in fact, of two people.
+    - NOTES: About the discovery in Venice of a manuscript explaining that Shakespeare consisted, in fact, of two people.
 - 2019-06-xx: [Blake et Mortimer - 23. Le bâton de Plutarque](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-23-Le-Baton-de-Plutarque-226934.html)
     - Language: French
     - tags: #reread
-    - Notes: A prequel to "Le secret de l'Espadon". Involves Blake and Mortimer meeting again; the two secret bases of Scaw-Fell and Hormuz; Bletchley Park; and an early encounter with Olrik.
+    - NOTES: A prequel to "Le secret de l'Espadon". Involves Blake and Mortimer meeting again; the two secret bases of Scaw-Fell and Hormuz; Bletchley Park; and an early encounter with Olrik.
 - 2019-06-xx: [Blake et Mortimer - 21. Le serment des cinq lords](https://www.bedetheque.com/BD-Blake-et-Mortimer-Tome-21-Le-Serment-des-cinq-lords-170145.html)
     - Language: French
     - tags: #reread
-    - Notes: Involves the character of Lawrence of Arabia.
+    - NOTES: Involves the character of Lawrence of Arabia.
 - 2019-06-04 [Asterix - La serpe d'or]
     - Language: French
     - tags: #reread
@@ -194,7 +244,7 @@ Dates are completion dates.
     - Topolino Limited De Luxe Edition
     - Scenario: Bruno Enna
     - Drawings: Fabio Celoni
-    - Notes: A take on Mary Shelley's Frankenstein.
+    - NOTES: A take on Mary Shelley's Frankenstein.
 - 2019-04-29: [Le cycle de Cyann - 2. Six saisons sur ilO](https://www.bedetheque.com/BD-Cycle-de-Cyann-Tome-2-Six-saisons-sur-ilO-1082.html)
     - Language: French
     - tags: #reread
@@ -216,20 +266,18 @@ Dates are completion dates.
 - 2019-0?-xx: [Mickey Mouse - The Deltas Dimension]
     - Language: English
     - Drawings: Romano Scarpa
-    - Notes: A classic by one of the great Italian cartoonists.
+    - NOTES: A classic by one of the great Italian cartoonists.
 - 2019-02-xx: [Metopolis]
     - 2014
     - Topolino Limited De Luxe Edition
     - Scenario: Francesco Artibani
     - Drawings: Paolo Mottura
-    - Notes: A take on the movie Metropolis.
-- 2019-02-xx: [Flash Gordon Volume 4: The Storm Queen of Valkir]
-    - TODO: Also add volumes 1-3
+    - NOTES: A take on the movie Metropolis.
 - 2019-02-02: [PK - Gli argini del tempo]
     - Language: Italian
     - Authors: Alessandro Sisti, Claudio Sciarrone, Max Monteduro
     - Topolino Limited De Luxe Edition
-    - Notes: This is a longer (130+ pages) PK story. The art is done entirely on a computer. I believe that this is a newer story, done in 2014.
+    - NOTES: This is a longer (130+ pages) PK story. The art is done entirely on a computer. I believe that this is a newer story, done in 2014.
 - 2019-01-18: [Dragonero - Oltre i confini dell'Erondár]
     - Language: Italian
 - 2019-01: [Donjon Zénith](https://www.bedetheque.com/serie-2324-BD-Donjon-Zenith.html)
@@ -239,7 +287,7 @@ Dates are completion dates.
 - 2019-01: [Donjon Potron-Minet](https://www.bedetheque.com/serie-2325-BD-Donjon-Potron-Minet.html)
     - Language: French
     - tags: #reread
-    - Notes: This series has negative volume numbers, starting at -99!
+    - NOTES: This series has negative volume numbers, starting at -99!
     - -99: La chemise de la nuit
     - -98: Un justicier dans l'ennui
     - -97: Une jeunesse qui s'enfuit
@@ -259,15 +307,15 @@ Dates are completion dates.
 - 2018-12-2x: [Disney d'autore - Fabio Celoni](https://www.amazon.com/Disney-dautore-Fabio-Celoni/dp/8852218858/)
     - "Da Topolino a PK, I magnifici racconti di uno straordinario viaggiatore del segno"
     - Language: Italian
-    - Notes: Some really good stories and an interesting style.
+    - NOTES: Some really good stories and an interesting style.
 - 2018-12-03: [Disney d'autore - Corrado Mastantuono](https://www.amazon.com/Disney-dautore-Corrado-Mastantuono/dp/8852217258)
     - "Le straordinarie avventure dei personaggi di Paperopoli et di Topolinia tra ironia e divertimento"
     - Language: Italian
-    - Notes: I didn't realize before reading this that I had read a number of stories by Mastantuono. I really like his style. The character of Bum Bum is interesting in that he takes the central spot of a number of stories, playing the role usually taken by Donald Duck (Paperino). Instead, when Bum Bum is present, Paperino is repositioned as a character who behaves more normally.
+    - NOTES: I didn't realize before reading this that I had read a number of stories by Mastantuono. I really like his style. The character of Bum Bum is interesting in that he takes the central spot of a number of stories, playing the role usually taken by Donald Duck (Paperino). Instead, when Bum Bum is present, Paperino is repositioned as a character who behaves more normally.
 - 2018-10-30: [Le complexe du chimpanzé](https://www.bedetheque.com/serie-15177-BD-Complexe-du-chimpanze.html)
     - tags: #reread
     - Rating: 3/5
-    - Notes: My main issue with this series is the lack of explanations. A lot of the story seems arbitrary. I would have preferred a more classic story.
+    - NOTES: My main issue with this series is the lack of explanations. A lot of the story seems arbitrary. I would have preferred a more classic story.
 - 2018-10-22: [Les cosmonautes du futur](https://www.bedetheque.com/BD-Cosmonautes-du-futur-Tome-1-1934.html)
     - tags: #reread
     - Rating: 5/5
@@ -275,11 +323,11 @@ Dates are completion dates.
 - 2018-10-19: [Le rayon U](https://www.bedetheque.com/BD-Rayon-U-27159.html)
     - tags: #reread
     - Rating: 5/5
-    - Notes: A great classic.
+    - NOTES: A great classic.
 - 2018-10-19: [Spirou et Fantasio - 50. Aux sources du Z](https://www.bedetheque.com/BD-Spirou-et-Fantasio-Tome-50-Aux-sources-du-Z-79695.html)
     - tags: #reread
     - Rating: 4/5
-    - Notes: This is not a story like most others. It has lots of references to older albums, and plays over the Spirou and Fantasio timeline. It feels more like an experiment than a story to take "seriously".
+    - NOTES: This is not a story like most others. It has lots of references to older albums, and plays over the Spirou and Fantasio timeline. It feels more like an experiment than a story to take "seriously".
 - 2018-10-17: [Le troisième Testament](https://www.bedetheque.com/albums-23-BD-Troisieme-Testament.html)
     - tags: #reread
     - Rating: 5/5
@@ -293,7 +341,7 @@ Dates are completion dates.
     - Edgar P. Jacobs
     - Rating: 5/5
     - tags: #reread
-    - Notes: Yes, it is about the "Yellows" (probably Chinese) against the rest of the world, and we wouldn't dare write a story like this today, but it is a fantastic story about fighting a totalitarian regime wanting to take over the world, and a wonderful story of resistance for freedom. I think that the story is really well written, especially given the fact that the author had to go very fast, and you eagerly follow over three volumes the heroes as they have setback upon setback. Not everybody is depicted in a negative way: resistance fighters are Indian, Arabs, and near the end Shanghai's "Tchang-Li-Tchek" joins the resistance as well.
+    - NOTES: Yes, it is about the "Yellows" (probably Chinese) against the rest of the world, and we wouldn't dare write a story like this today, but it is a fantastic story about fighting a totalitarian regime wanting to take over the world, and a wonderful story of resistance for freedom. I think that the story is really well written, especially given the fact that the author had to go very fast, and you eagerly follow over three volumes the heroes as they have setback upon setback. Not everybody is depicted in a negative way: resistance fighters are Indian, Arabs, and near the end Shanghai's "Tchang-Li-Tchek" joins the resistance as well.
 - 2018-10: [Une mystérieuse mélodie]
     - Language: French
     - Cosey

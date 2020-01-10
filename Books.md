@@ -2,7 +2,7 @@
 
 I don't have much time to read so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
-## Books I plan to read in 2019
+## Books I plan to read in 2020
 
 - TODO
 
@@ -44,6 +44,13 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 ## Books I have read
 
 Dates are completion dates.
+
+
+### 2020
+
+- 2020-01-07: [Arthur Conan Doyle - The Complete Sherlock Holmes](https://www.goodreads.com/book/show/40523972-the-complete-sherlock-holmes)
+    - Rating: 5/5
+    - tags: #ebook
 
 ### 2019
 
