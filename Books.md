@@ -9,7 +9,7 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 ## Candidate books I would like to read next
 
 - [Karl R. Popper - Popper Selections](https://www.amazon.com/Popper-Selections-Karl-R/dp/0691020310)
-    - tags: #paper
+    - tags: #paper #started
 - [James S. A. Corey - Leviathan Wakes](https://www.amazon.com/Leviathan-Wakes-James-S-Corey/dp/0316129089/)
     - tags: #paper
 - [The Rise and Fall of D.O.D.O.: A Novel](https://www.amazon.com/gp/product/0062409166/)
@@ -20,8 +20,6 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 - [Neal Stephenson - Some Remarks: Essays and Other Writing](https://www.amazon.com/Some-Remarks-Essays-Other-Writing/dp/B00BJEMLJO)
     - tags: #paper
-- More Sherlock Holmes stories
-    - tags: #ebook
 - [Cervantes - Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote)
     - tags: #audiobook
 
@@ -55,6 +53,7 @@ Dates are completion dates.
 - 2020-01-07: [Arthur Conan Doyle - The Complete Sherlock Holmes](https://www.goodreads.com/book/show/40523972-the-complete-sherlock-holmes)
     - Rating: 5/5
     - tags: #ebook
+    - NOTES: Classic. I started reading this in August 2018 and read casually.
 
 ### 2019
 
