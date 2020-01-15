@@ -26,12 +26,15 @@ I grew up reading lots of comic books (AKA "bandes dessinées"). I read lots of 
     - This series has been a favorite of mine ever since I encountered it (only the original albums by Greg).
     - It is probably impossible to translate this to English or other languages. The humor is quite tied to the French language. Greg even went to the US for a while to promote his character, but it failed.
 - Lefranc
-    - Some of the stories in this series are just too good.
+    - Some of the stories in this series are just very good.
     - My favorite might be [Le Repaire du loup](https://fr.wikipedia.org/wiki/Le_Repaire_du_loup), drawn by Bob de Moor, which is a masterpiece of the genre.
 - Alix
 - Blake et Mortimer (the original series)
     - You can just read and re-read these albums without ever tiring of them.
-- Thorgal
+- [Thorgal](https://www.bedetheque.com/serie-12-BD-Thorgal.html)
+    - This is a excellent series which mixes northern mythology, science-fiction at times, always with adventure.
+    - The art by Grzegorz Rosiński has evolved over time from album 1 to album 36 (1980 to 2018). Album 37, from 2019, features a new cartoonist, Fred Vignaux.
+    - Jean Van Hamme (1-29), Yves Sente (30-34), Xavier Dorison (35), Yann (36-37).
 
 ## Comic books and stories I have read
 
@@ -39,6 +42,28 @@ Dates are completion dates.
 
 ### 2020
 
+- 2020-01-11: [Lefranc - 20. Noël noir](https://www.bedetheque.com/BD-Lefranc-Tome-20-Noel-noir-95437.html)
+    - tags: #reread
+    - Language: French
+    - Rating: 4+/5
+    - Story: Michel Jacquemart
+    - Drawings: Régric
+    - Color: Loli
+    - NOTES:
+        - The story is rich but very dark.
+        - I like the explanatory footnotes and the general research that clearly went into the topic.
+        - The drawings are pretty good in general, although as mentioned before I don't like Régric's style as much as others'.
+        - This is so far my favorite post-Jacques Martin Lefranc (although I haven't read all of them yet).
+- 2020-01-10: [Lefranc - 27.L'Homme-oiseau](https://www.bedetheque.com/BD-Lefranc-Tome-27-L-Homme-oiseau-276389.html)
+    - tags: #reread
+    - Language: French
+    - Rating: 3/5
+    - Story: Roger Seiter
+    - Drawings: Régric
+    - Color: Bruno Walter
+    - NOTES:
+        - I don't like Régric's drawings as much as Alvès's, but they are not too bad.
+        - The twist about Yuri Gagarin is fun. But I don't find the story as good as "Mission Antarctique" or even "L'éternel shogun".
 - 2020-01-09: [Lefranc - 26. Mission Antarctique](https://www.bedetheque.com/BD-Lefranc-Tome-26-Mission-Antarctique-258679.html)
     - tags: #reread
     - Language: French

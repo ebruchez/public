@@ -48,6 +48,10 @@ Dates are completion dates.
 
 ### 2020
 
+- 2020-01-15: [Georges Simenon - L'affaire Saint-Fiacre](https://fr.wikipedia.org/wiki/L%27Affaire_Saint-Fiacre)
+    - tags: #audiobook
+    - language: French
+    - NOTES: A good story in an interesting atmosphere. The *voice* of the reader is great, but I found his *tone* often monotonous and casual, as if all characters were not involved if not contemptuous. He gets better toward the end of the story.
 - 2020-01-07: [Arthur Conan Doyle - The Complete Sherlock Holmes](https://www.goodreads.com/book/show/40523972-the-complete-sherlock-holmes)
     - Rating: 5/5
     - tags: #ebook
