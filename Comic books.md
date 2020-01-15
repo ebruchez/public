@@ -54,7 +54,7 @@ Dates are completion dates.
         - I like the explanatory footnotes and the general research that clearly went into the topic.
         - The drawings are pretty good in general, although as mentioned before I don't like Régric's style as much as others'.
         - This is so far my favorite post-Jacques Martin Lefranc (although I haven't read all of them yet).
-- 2020-01-10: [Lefranc - 27.L'Homme-oiseau](https://www.bedetheque.com/BD-Lefranc-Tome-27-L-Homme-oiseau-276389.html)
+- 2020-01-10: [Lefranc - 27. L'Homme-oiseau](https://www.bedetheque.com/BD-Lefranc-Tome-27-L-Homme-oiseau-276389.html)
     - tags: #reread
     - Language: French
     - Rating: 3/5
