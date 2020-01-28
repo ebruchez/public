@@ -6,10 +6,18 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 - TODO
 
+## Rating scale
+
+- 5/5: just great
+- 4/5: very good but with some flaws
+- 3/5: average
+- 2/5: not good but with some redeeming qualities
+- 1/5: just bad
+
+I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't rule out I might be disappointed by a reading.
+
 ## Candidate books I would like to read next
 
-- [Karl R. Popper - Popper Selections](https://www.amazon.com/Popper-Selections-Karl-R/dp/0691020310)
-    - tags: #paper #started
 - [James S. A. Corey - Leviathan Wakes](https://www.amazon.com/Leviathan-Wakes-James-S-Corey/dp/0316129089/)
     - tags: #paper
 - [The Rise and Fall of D.O.D.O.: A Novel](https://www.amazon.com/gp/product/0062409166/)
@@ -18,13 +26,17 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 ## Books I am currently reading
 
+- [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
+    - *NOTE: Started in 2011.*
 - [Neal Stephenson - Some Remarks: Essays and Other Writing](https://www.amazon.com/Some-Remarks-Essays-Other-Writing/dp/B00BJEMLJO)
     - tags: #paper
-- [Cervantes - Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote)
-    - tags: #audiobook
 
 ## Backlog
 
+- [Karl R. Popper - Popper Selections](https://www.amazon.com/Popper-Selections-Karl-R/dp/0691020310)
+    - tags: #paper #started
+- [Cervantes - Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote)
+    - tags: #audiobook
 - [Zack Hample - Watching Baseball Smarter](https://www.amazon.com/Watching-Baseball-Smarter-Professional-Semi-experts/dp/0307280322/)
     - tags: #paper
 - [Bertrand Russell - The History of Western Philosophy](https://www.amazon.com/History-Western-Philosophy-Bertrand-Russell/dp/0671201581/)
@@ -39,15 +51,21 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 - Antoine de Saint-Exupéry - Terre des Hommes
     - tags: #ebook #stalled
 
+
 ## Books I have read
 
 Dates are completion dates.
 
-
 ### 2020
 
+- 2020-01-25: [Voltaire - Candide](https://www.goodreads.com/notes/12873070-candide/1801897-erik)
+    - tags: #ebook #reread
+    - language: French
+    - rating: 5/5
+    - NOTES: I read this book in high school, and maybe even once later. One benefit is that it's short. It is a satire, which makes you smile and cringe at the same time. It depicts a world that is utterly dystopian, except for the El Dorado episode which is a utopia, but an utterly unrealistic one. Besides the famous punchline "Il faut cultiver son jardin",  Voltaire manages to get a few words of wisdom along the way, such as "le travail éloigne de nous trois grands maux : l'ennui, le vice, et le besoin". Voltaire satirises, religion, philosophy, the rich, the poor - nobody escapes. Few of the characters in the book are virtuous, besides Candide and a few characters which end up joining him. But Candide is a very naive character.
 - 2020-01-15: [Georges Simenon - L'affaire Saint-Fiacre](https://fr.wikipedia.org/wiki/L%27Affaire_Saint-Fiacre)
     - tags: #audiobook
+    - Rating: 4/5
     - language: French
     - NOTES: A good story in an interesting atmosphere. The *voice* of the reader is great, but I found his *tone* often monotonous and casual, as if all characters were not involved if not contemptuous. He gets better toward the end of the story.
 - 2020-01-07: [Arthur Conan Doyle - The Complete Sherlock Holmes](https://www.goodreads.com/book/show/40523972-the-complete-sherlock-holmes)
@@ -59,6 +77,7 @@ Dates are completion dates.
 
 - 2019-10-31: [Richard N. Current - The typewriter and the men who made it](https://www.worldcat.org/title/typewriter-and-the-men-who-made-it/oclc/1594574)
     - tags: #paper
+    - Rating: 4/5
     - NOTES: What I learned:
         - James Densmore coined "type-writer" and "Caligraph"
         - Caligraph designed by Yost
@@ -80,11 +99,13 @@ Dates are completion dates.
         - But later the Densmores made probalby 10x the amount of sholes (so ~$10 mio)
 - 2019-09-2x: [Miles - The Autobiography](https://www.amazon.com/Miles-Autobiography-Davis/dp/0671725823)
     - tags: #audiobook #reread
+    - Rating: 5/5
     - NOTES: I read this book for the first time when it came out in French, around 1990. This time I listened to the English version, narrated by Dion Graham, who often times gets very close to Miles's voice.
 - 2019-09-10: [Kafka - The Metamorphosis](https://en.wikipedia.org/wiki/The_Metamorphosis)
     - tags: #ebook
+    - Rating: 5/5
     - NOTES: Novella ("longer than a short story but shorter than a novel"). Read following [VBW's *A Bug's Life (Kafka's "The Metamorphosis"*)](https://verybadwizards.fireside.fm/169)
-- 2019-09-xx: [Jay Barbree - Neil Armstrong: A life of flight](https://www.amazon.com/Neil-Armstrong-Flight-Jay-Barbree-ebook/dp/B00HP1JZH6)
+- 2019-09: [Jay Barbree - Neil Armstrong: A life of flight](https://www.amazon.com/Neil-Armstrong-Flight-Jay-Barbree-ebook/dp/B00HP1JZH6)
     - tags: #audiobook
     - NOTES: I learned a lot from this book:
         - Armstrong was at the core into flying. He was an excellent test pilot. The best.
@@ -96,19 +117,23 @@ Dates are completion dates.
         - He was known for intelligence, thoughtfulness, and his ability as a pilot.
 - 2019-08-15: [Neal Stephenson - Atmosphæra Incognita]()
     - tags: #ebook
-    - NOTES: Short story
+    - Rating: 4/5
+    - NOTES: Short story with lots of good ideas.
 - 2019-08-07: [Yuval Noah Harari - 21 Lessons for the 21st Century](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari-ebook/dp/B079WM7KLS/)
     - tags: #ebook
-- 2019-06-xx: [A Game of Thrones: A Song of Ice and Fire, Book 1]
+- 2019-06: [A Game of Thrones: A Song of Ice and Fire, Book 1]
     - tags: #audiobook
 - 2019-05-17: [Ken Follett - The Pillars of the Earth](https://en.wikipedia.org/wiki/The_Pillars_of_the_Earth)
     - tags: #audiobook
+    - Rating: 4/5
+    - NOTES: A great story with memorable characters and an enticing historical context. The author has an interesting style and likes to recapitulate events so you never get lost. If you read it in a single shot that might be annoying, but if you read over a long period of time, that's actually a pretty good thing. I later watched the TV series, which is pretty good too.
 - 2019-04-09: [Arthur Conan Doyle - The Adventure of the Dancing Men]
     - tags: #ebook
     - NOTES: Sherlock Holmes story.
 - 2019-04-09: [Walter Isaacson - Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson-ebook/dp/B071Y385Q1/)
     - tags: #ebook
-    - NOTES: I learned a lot from this book.
+    - Rating: 5/5
+    - NOTES: I learned a lot from this book and it was a very pleasant read.
 - 2019-04: [Lawrence Krauss -  A Universe from Nothing: Why There Is Something Rather than Nothing](https://www.amazon.com/Universe-Nothing-There-Something-Rather-ebook/dp/B004T4KQJS)
     - tags: #audiobook
 
@@ -365,8 +390,6 @@ See also [the blog post](http://blog.bruchez.name/2014/01/books-i-plan-to-read-i
 - History: [The Great Chinese Revolution](http://www.amazon.com/The-Great-Chinese-Revolution-1800-1985/dp/006039076X)
     - *NOTE: I read about 200 out of 368 pages a few years back*
 - Philosophy: [Intuition Pumps And Other Tools for Thinking](http://www.amazon.com/Intuition-Pumps-Other-Tools-Thinking/dp/0393082067/)
-- Biography: [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
-    - *NOTE: Started in 2011.*
 - Music:
     - [Pietro Mascagni](http://www.amazon.com/Pietro-Mascagni-Cesare-Orselli/dp/8883024001)
     - or [The Autumn of Italian Opera](http://www.amazon.com/The-Autumn-Italian-Opera-Modernism/dp/1555536832)

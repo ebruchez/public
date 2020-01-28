@@ -42,6 +42,20 @@ Dates are completion dates.
 
 ### 2020
 
+- 2020-01-17: [Astérix gladiateur](https://www.bedetheque.com/BD-Asterix-Tome-4-Asterix-Gladiateur-22946.html)
+    - tags: #reread
+    - Language: French
+    - Date: 1964-07
+    - Rating: 5/5
+    - La Grande Collection
+- 2020-01-15: [Lefranc - 30. Lune rouge](https://www.bedetheque.com/BD-Lefranc-Tome-30-Lune-rouge-366379.html)
+    - tags: #reread
+    - Language: French
+    - Date: 2019-05
+    - Rating: 4-/5
+    - Story: François Corteggiani
+    - Drawings: Christophe Alvès
+    - Color: Bonaventure
 - 2020-01-11: [Lefranc - 20. Noël noir](https://www.bedetheque.com/BD-Lefranc-Tome-20-Noel-noir-95437.html)
     - tags: #reread
     - Language: French
@@ -520,8 +534,11 @@ Dates are completion dates.
 - 2017-11: [Mermaid Project - Épisode 2]()
 - 2017-08-22: [Astérix et les Goths](https://www.bedetheque.com/BD-Asterix-Tome-3-Asterix-et-les-Goths-22944.html)
     - tags: #reread
+    - Language: French
+    - Date: 1963-07
+    - Rating: 5/5
     - La Grande Collection
-    - A classic, restored and recolored as the original colors were not up to a modern standard. The large format is really good.
+    - NOTES: A classic, restored and recolored as the original colors were not up to a modern standard. The large format is really good.
 - 2017-08-12: [Ultime Frontière - 4. - Épisode 4](https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-4-Episode-4-305183.html)
     - 2017
 - 2017-08-12: [Ultime Frontière - 3. - Épisode 3](https://www.bedetheque.com/BD-Ultime-Frontiere-Tome-3-Episode-3-287747.html)
