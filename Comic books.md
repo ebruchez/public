@@ -42,6 +42,185 @@ Dates are completion dates.
 
 ### 2020
 
+- 2020-02-28: [Alix - Tome 30. La conjuration de Baal](https://www.bedetheque.com/BD-Alix-Tome-30-La-conjuration-de-Baal-142141.html)
+    - 2011
+    - tags: #reread
+    - Marco Venanzi
+    - Scénario: Michel Lafon
+    - Dessin: Christophe Simon
+    - Rating: 3/5
+    - NOTES:
+        - The story is pretty good although it recalls other stories (I had just re-read L'île maudite which also feature Moloch/Baal).
+        - Both Alix and Enak are good-looking in this story, in particular Enak, but they don't quite look like their usual selves!
+        - It's true, as some have noted, that having a huge statue of Moloch/Baal in a cave is not very realistic.
+        - There is a fight scene where swords are shown piercing various characters. The blood splashes shown around the wounds, and that is unseen in Alix stories I believe, and it's also not realistic at all. This truck me immediately as just wrong.
+        - After this and the previous reread, I think that I prefer Christophe Simon's drawings to Marco Venanzi. I remember, looking back, that the cartoonist I liked the least so far was Raphael Moralès.
+        - Like for Lefranc, some cartoonists are better than others, but so far, after Jacques Martin's time, there is no album that combines a great story, great drawings, and great décors.
+- 2020-02-27: [Alix - Tome 29. Le testament de César](https://www.bedetheque.com/BD-Alix-Tome-29-Le-Testament-de-Cesar-116568.html)
+    - 2010
+    - tags: #reread
+    - Scénario et dessin: Marco Venanzi
+    - Rating: 3/5
+    - NOTES:
+        - The first album after Martin's passing?
+        - The story is pretty good! I would give it 5/5. It also shows a lot of the antique customs of Rome.
+        - But a striking thing is that around page 29, suddenly the drawings or the inking become coarser. It's quite shocking.
+        - In addition, I don't like how Alix or Enak look like in this album.
+        - For these reasons, I lower my overall rating.
+- 2020-02-24: [Alix - Tome 3. L'île maudite](https://www.bedetheque.com/BD-Alix-Tome-3-L-Ile-maudite-12436.html)
+    - 1957
+    - tags: #reread
+    - édition facsimilé
+    - Jacques Martin
+    - Rating: 5/5
+    - NOTES: One of the classic Alix stories, with a lot of adventure. Moloch, volcanoes, advanced technology that gets lost - it echoes the myth of Atlantis. Rating 5/5 for the sheer adventure,detailed drawings, nostalgia, and historical appeal.
+- 2020-02-16: [Mermaid Project - Episode 4](https://www.bedetheque.com/BD-Mermaid-Project-Tome-4-Episode-4-251489.html)
+    - 2015
+    - Scénario: Léo, Corine Jamar
+    - Dessin: Fred Simon
+    - Rating: 4/5
+    - NOTES: I like the story, the colors, and some of the characters. I can't entirely buy the reverse racism background, but the idea of a world where other countries are on top is a good one. The main story keeps going. It's fine, although I am not exactly eager to know what's behind it as it seems fairly predictable. But let's see with part 5!
+- 2020-02-15: [Mermaid Project - Episode 3](https://www.bedetheque.com/BD-Mermaid-Project-Tome-3-Episode-3-215764.html)
+    - 2014
+    - tags: #reread
+    - Scénario: Léo, Corine Jamar
+    - Dessin: Fred Simon
+    - Rating: 4/5
+- 2020-02-14: [Les naufragés d'Ythaq - 16.  Les Assiégés de Glèbe](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-16-Les-Assieges-de-Glebe-374327.html)
+    - 2019
+- 2020-02-13: [Les naufragés d'Ythaq - 15. Imperator Express - La Caravane de l'étrange](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-15-Imperator-Express-La-Caravane-de-l-etrange-340750.html)
+    - 2018
+    - Rating: 4/5
+    - NOTES: The "Imperator Express", a fantastic suspended train, has a definite steampunk feel to it.
+- 2020-02-xx: [Les naufragés d'Ythaq - 14. Le Joyau du Génie](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-14-Le-Joyau-du-Genie-293592.html)
+    - 2016
+    - tags: #reread
+- 2019-02-xx: [Blake et Mortimer - 26. La vallée des immortels - Le millième bras du Mékong](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-aventures-de-Tome-26-377354.html)
+    - Language: French
+    - Rating: 4/5
+    - NOTES: Looking online, it seems that many readers really disliked this second part, specifically the fantastic aspects to the story. It didn't bother me much.
+- 2019-02-xx: [Blake et Mortimer - 25. La vallée des immortels - Menace sur Hong Kong](https://www.bedetheque.com/BD-Blake-et-Mortimer-Les-aventures-de-Tome-25-348626.html)
+    - Language: French
+    - Rating: 4/5
+    - NOTES: The story is interesting, the setting, in Hong-Kong, is intriguing, and the historical aspects are great. But the drawings are, at times, just wrong, in particular Mortimer and Blake's faces and proportions!
+- 2019-02-xx: [Les mondes de Thorgal - La jeunesse, Tome 3. Runa](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-3-Runa-241654.html)
+    - 2015
+    - tags: #reread
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2019-02-xx: [Les mondes de Thorgal - La jeunesse, Tome 2. L'œil d'Odin](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-La-Jeunesse-de-Thorgal-Tome-2-L-oeil-d-Odin-206812.html)
+    - 2014
+    - tags: #reread
+    - Scénario: Yann
+    - Dessin: Roman Surzhenko
+- 2020-01-xx [Thorgal, Tome 37. L'Ermite de Skellingar](https://www.bedetheque.com/BD-Thorgal-Tome-37-L-Ermite-de-Skellingar-375436.html)
+    - 2019
+    - Rating: 4.5/5
+    - Scénario: Yann
+    - Dessin: Fred Vignaux
+    - NOTES:
+        - We are back to a classic Thorgal story in one album. I think that the story is quite good.
+- 2020-01-xx [Thorgal, Tome 36. Aniel](https://www.bedetheque.com/BD-Thorgal-Tome-36-Aniel-348589.html)
+    - 2018
+    - Rating: 3/5
+    - Scénario: Yann
+    - Dessin: Rosinski
+    - NOTES:
+        - The conclusion of the cycle that started with the abduction of Aniel.
+        - Also the last album drawn by Rosinski.
+        - The drawings are not as good as they have been. They are still interesting, but maybe a little messier. It is probable that Rosinski's age didn't allow him to use the same care as he
+         used to. Still, it is not bad.
+        - The album is a little anticlimactic compared with the fury of "Le feu écarlate".
+- 2020-01-xx [Thorgal, Tome 35. Le feu écarlate](http://www.bedetheque.com/BD-Thorgal-Tome-35-Le-feu-ecarlate-292474.html)
+    - 2016
+    - Rating: 4/5
+    - tags: #reread
+    - NOTES: Red, red, red! It is a dark and shocking album. The drawings are sometimes still stunning, but not quite as good as earlier. Yet there is something to this album.
+- 2020-01-xx [Thorgal, Tome 34. Kah-Aniel](http://www.bedetheque.com/BD-Thorgal-Tome-34-Kah-Aniel-199374.html)
+    - 2013
+    - Rating: 4/5
+    - tags: #reread
+- 2020-01-xx [Thorgal, Tome 33. Le Bateau-Sabre](http://www.bedetheque.com/BD-Thorgal-Tome-33-Le-Bateau-Sabre-140423.html)
+    - 2011
+    - Rating: 5/5
+    - tags: #reread
+    - NOTES: The drawings are still beautiful in this album.
+- 2020-01-xx [Thorgal, Tome 32. La Bataille d'Asgard](http://www.bedetheque.com/BD-Thorgal-Tome-32-La-Bataille-d-Asgard-117408.html)
+    - 2010
+    - tags: #reread
+    - NOTES:
+        - Jolan comes back from Asgard.
+        - Thorgal starts his search for Aniel
+- 2020-01-xx [Thorgal, Tome 31. Le bouclier de Thor](http://www.bedetheque.com/BD-Thorgal-Tome-31-Le-Bouclier-de-Thor-80551.html)
+    - 2008
+    - tags: #reread
+    - NOTES:
+        - Mahara finds out about Aniel's existence.
+        - Jolan learns about the "army that lives": an army of puppets, created daily by Vylnia, whom we cannot see.
+        - Thorgal and other vikings go into the forest to get trees for their new drakkars.
+        - Manthor tells the 5 kids that they need to go to Asgard to steal Thor's shield. All kids need to work together to open 5 locks on the door to Asgard.
+        - Jolan learns about Loki's treachery and how he burnt the face of Manthor, as Vylnia was fleeing Asgard. Thor brought them to the entremonde.
+        - There, Vylnia taught the red magic to Manthor. He searched how to stop his mother from aging.
+        - Mahara sends a message to a red magician about Aniel.
+        - The kids enter Asgard. Again, Jolan, in spite of the treachery of his teammates, succeeds and returns the shield to Manthor, while saving his 4 teammates from the gods.
+        - The red magicians abduct Aniel.
+        - The 4 other kids must swear allegeance to Jolan, who becomes the "elect". Manthor will reveal to him his next task.
+        - Thorgal comes back from the forest and learns of Aniel's abduction. He leaves immediately to search for him.
+        - Manthor sends Thorgal the image of Jolan in the starry sky, and echo to the last volume's ending.
+- 2020-01-xx [Thorgal, Tome 30. Moi, Jolan](http://www.bedetheque.com/BD-Thorgal-Tome-30-Moi-Jolan-67373.html)
+    - 2007
+    - tags: #reread
+    - Rating: 5/5
+    - NOTES:
+        - Jolan is taken by Manthor, who gives him and 4 other kids a challenge. Each child has a special gift.
+        - Aaricia, against Thorgal's will, visits Mahara, a witch, in the forest. She tells of the fraternity of the red magic.
+            - Kahaniel was Manthor's father. He went to Asgard and had a child, Manthor, with the goddess Vylnia.
+            - Kahaniel was caught and frozen at the boundary with Mitgard. Vylnia was exiled from Asgard.
+            - When Kahaniel unfroze, he quickly prepared a reincarnation potion, which had to be used the same day.
+            - He conceived with Olgave, then died. Olgave gave birth to Kriss de Valnor.
+        - So Kriss is the daughter of Kahaniel, and Kriss and Shaigan's (Thorgal's) son, Aniel, raised by Thorgal's family, is Manthor's male descendant, into whom Kahaniel planned to reincarnate.
+        - Thanks to Jolan's intelligence, the kids pass Manthor's test.
+        - Manthor sends Jolan the image of Thorgal in the starry sky.
+- 2020-01-xx: [Centaurus - 5. Terre de mort](https://www.bedetheque.com/BD-Centaurus-Tome-5-Terre-de-mort-366495.html)
+    - Scénario: Léo & Rodolphe
+    - Dessin: Zoran Janjetov
+    - 2018
+    - NOTES: The end of the cycle.
+- 2020-01-xx: [Astérix - 6. Astérix et Cléopâtre](https://www.bedetheque.com/BD-Asterix-Tome-6-Asterix-et-Cleopatre-22950.html)
+    - tags: #reread
+    - Language: French
+    - Date: 1965-01
+    - Rating: 5/5
+    - La Grande Collection
+- 2020-01-xx: [Centaurus - 4. Terre d'angoisse](https://www.bedetheque.com/BD-Centaurus-Tome-4-Terre-d-angoisse-335592.html)
+    - tags: #reread
+    - Scénario: Léo & Rodolphe
+    - Dessin: Zoran Janjetov
+    - 2018
+- 2020-01-xx: [Centaurus - 3. Terre de folie](https://www.bedetheque.com/BD-Centaurus-Tome-3-Terre-de-folie-300530.html)
+    - tags: #reread
+    - Scénario: Leo, Rodolphe
+    - Dessin: Zoran Janjetov
+    - 2017
+- 2020-01-xx: [Astérix - 5. Le tour de Gaule](https://www.bedetheque.com/BD-Asterix-Tome-5-Le-tour-de-Gaule-22948.html)
+    - tags: #reread
+    - Language: French
+    - Date: 1965-01
+    - Rating: 5/5
+    - La Grande Collection
+- 2020-01-xx: Yoko Tsuno l'intégrale, tome x: xxx
+    - 4\. [Aventures électroniques](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-4-Aventures-electroniques-22226.html)
+        - tags: #reread
+        - Rating: x/5
+    - 18\. [Les exilés de Kifa](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-18-Les-exiles-de-Kifa-496.html)
+        - tags: #reread
+        - Rating: x/5
+    - 21\. [La porte des âmes](https://www.bedetheque.com/BD-Yoko-Tsuno-Tome-21-La-porte-des-ames-908.html)
+        - tags: #reread
+        - Rating: x/5
+        - NOTES:
+            - I remember I was unimpressed when reading this the first time.
+            - The mention of "âme" all over is a little annoying. In the extra documentation in the book, Roger Leloup mentions he was probably misguided by using this name, and should have used something else, such as "memories", or xxx.
 - 2020-01-17: [Astérix gladiateur](https://www.bedetheque.com/BD-Asterix-Tome-4-Asterix-Gladiateur-22946.html)
     - tags: #reread
     - Language: French
@@ -56,6 +235,8 @@ Dates are completion dates.
     - Story: François Corteggiani
     - Drawings: Christophe Alvès
     - Color: Bonaventure
+    - NOTES:
+        - TODO
 - 2020-01-11: [Lefranc - 20. Noël noir](https://www.bedetheque.com/BD-Lefranc-Tome-20-Noel-noir-95437.html)
     - tags: #reread
     - Language: French
@@ -477,7 +658,7 @@ Dates are completion dates.
     - 1971
     - tags: #reread
 - 2018-01-07: [Les naufragés d'Ythaq - 14. Le Joyau du Génie](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-14-Le-Joyau-du-Genie-293592.html)
-    - 2017
+    - 2016
     - tags: #reread
 - 2018-01-06: [Les naufragés d'Ythaq - 13. Glèbe la Singulière](https://www.bedetheque.com/BD-Naufrages-d-Ythaq-Tome-13-Glebe-la-Singuliere-258181.html)
     - 2015
@@ -532,6 +713,8 @@ Dates are completion dates.
 - 2017-12-01: [Les Mondes de Thorgal - Kriss de Valnor - Tome 1 - Je n'oublie rien !](https://www.bedetheque.com/BD-Thorgal-Les-mondes-de-Kriss-de-Valnor-Tome-1-Je-n-oublie-rien-116231.html)
     - 4/5
 - 2017-11: [Mermaid Project - Épisode 2]()
+    - Scénario: Léo, Corine Jamar
+    - Dessin: Fred Simon
 - 2017-08-22: [Astérix et les Goths](https://www.bedetheque.com/BD-Asterix-Tome-3-Asterix-et-les-Goths-22944.html)
     - tags: #reread
     - Language: French

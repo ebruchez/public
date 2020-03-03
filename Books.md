@@ -26,8 +26,6 @@ I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't ru
 
 ## Books I am currently reading
 
-- [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
-    - *NOTE: Started in 2011.*
 - [Neal Stephenson - Some Remarks: Essays and Other Writing](https://www.amazon.com/Some-Remarks-Essays-Other-Writing/dp/B00BJEMLJO)
     - tags: #paper
 
@@ -51,13 +49,22 @@ I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't ru
 - Antoine de Saint-Exupéry - Terre des Hommes
     - tags: #ebook #stalled
 
-
 ## Books I have read
 
 Dates are completion dates.
 
 ### 2020
 
+- 2020-02-10: [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
+    - language: English
+    - rating: 4/5
+    - NOTES:
+        - I started reading this in 2011, but for some reason got sidetracked.
+        - I liked the first half the most, as that's where I learned the most too. In particular I didn't know much about the history and success of Pixar.
+        - Like many I followed a lot of the events from 1997-2011 in real time, and so I knew a lot of that already.
+        - I did find that there were too many repetitions in the second part and that a little bit more editing might have been good. The book remains well-written.
+        - The parts treating of cancer and death are poignant.
+        - All in all this gives a good picture of the personality, life, and achievements of Steve Jobs.
 - 2020-01-25: [Voltaire - Candide](https://www.goodreads.com/notes/12873070-candide/1801897-erik)
     - tags: #ebook #reread
     - language: French
