@@ -44,10 +44,9 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 ## My pending predictions
 
-### PREDICTION-0020: Single-core performance of the first Apple Mac ARM chips
+### PREDICTION-0020: 2020-06-30: Single-core performance of the first Apple Mac ARM chips
 
 - From: @ebruchez
-- Date: 2020-06-30
 - Text: "The first ARM-based Macs will have a single-core Geekbench score at least 50 % higher than the fastest available computer in its category (laptop, desktop, or performance desktop) available by any manufacturer at the time it is made available."
 - Comments:
     - Apple announced their first ARM-based Macs for the end of 2020.
