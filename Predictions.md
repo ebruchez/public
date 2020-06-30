@@ -44,6 +44,23 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 ## My pending predictions
 
+### PREDICTION-0020: Single-core performance of the first Apple Mac ARM chips
+
+- From: @ebruchez
+- Date: 2020-06-30
+- Text: "The first ARM-based Macs will have a single-core Geekbench score at least 50 % higher than the fastest available computer in its category (laptop, desktop, or performance desktop) available by any manufacturer at the time it is made available."
+- Comments:
+    - Apple announced their first ARM-based Macs for the end of 2020.
+    - The [current rumors](https://www.macrumors.com/2020/06/21/apple-arm-13-inch-macbook-pro-imac/) are for the first machine to be the 13" MacBook Pro, followed by an iMac.
+    - The "category" restriction means that we won't compare the score of a laptop computer to a desktop computer. But we can compare an Apple laptop to a Dell laptop.
+    - Current scores for reference
+        - The fastest MacBook Pro single-core score is 1227 for the "MacBook Pro (13-inch Mid 2020) Intel Core i7-1068NG7 @ 2.3 GHz (4 cores)". So a 50% faster single-core score would be about 1840.
+        - The fastest ARM CPU single-core score is 1327 for the "iPhone 11 Pro Apple A13 Bionic @ 2.7 GHz". This means that Apple would have to increase their single-core by 40% between this CPU and their new laptop CPU.
+        - The fastest single-core score overall is 1419 for the "Intel Core i9-10900K 3.7 GHz (10 cores)". (This means that Apple would have to increase their single-core by 30% between this CPU and their new laptop CPU.)
+    - The examples above are for CPUs current at the time of writing. It is understood that by the end of 2020, faster CPUs from Intel might be available and ship in (probably other manufacturers') laptops. It is understood that this might make the requirement even harder to meet.
+- Resolution:
+	- WAIT until 2020-12-31 or early 2021 (if Apple's release date for ARM Macs slips).
+
 ### PREDICTION-0016: 2016-01-07: Timeline for summoning a self-driving car around the Bay Area
 
 - From: @ebruchez
