@@ -147,13 +147,17 @@ Trucks are also an obvious target for self-driving technology as they drive long
     - It's almost certain that there will be devices called "iPhone" in 6 years.
     - The question is: how do you measure performance improvements? On a per-core basis seems unfair. So some kind of reasonable benchmark, possibly using all the cores, should show a 40x performance improvement.
 - Resolution:
-    - __SUCCESS__: The iPhone 11 Pro was released on 2019-09-20, exactly 6 years after the iPhone 5S. There was nothing near 40x improvement in performance, although the improvements have been significant:
-        - single core
-            - iPhone 5S: 259
-            - iPhone 11 Pro: 1327 (or a 5x factor)
-        - multi-core
-            - iPhone 5S: 476
-            - iPhone 11 Pro: 3385 (or a 7x factor)
+    - __TO DISCUSS__
+        - The iPhone 11 Pro was released on 2019-09-20, exactly 6 years after the iPhone 5S. There was nothing near 40x improvement in CPU performance, although the improvements have been significant:
+            - single core
+                - iPhone 5S: 259
+                - iPhone 11 Pro: 1327 (or a 5x factor)
+            - multi-core
+                - iPhone 5S: 476
+                - iPhone 11 Pro: 3385 (or a 7x factor)
+    - HOWEVER, the Metal performance has seen a huge improvement:
+        - iPhone 5S: 20
+        - iPhone 11 Pro: 6248 (or a 312x factor)
 
 ### PREDICTION-0004: 2013-12-03: Amazon Prime Air timeline
 
