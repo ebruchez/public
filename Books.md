@@ -55,7 +55,49 @@ Dates are completion dates.
 
 ### 2020
 
-- 2020-02-10: [Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
+- 2020-04-25: [Herbie Hancock - Possibilities](https://www.amazon.com/Herbie-Hancock-Possibilities/dp/0143128027)
+    - language: English
+    - 2014
+    - rating: TODO
+    - NOTES:
+        - studied classical piano
+        - first concert after he won a prize; had to learn new Mozart piano concerto in 2 months
+        - studied in Iowa and setup a concert there on his own; but didn't get his degree in the end I think
+        - big help from Donald Byrd, who took him to New York
+        - lost tapes from the London House concerts
+        - buddhism (including got his mother into it)
+        - Mwandishi band, album ("Mwandishi ("composer") is the Swahili name Hancock adopted")
+        - Head Hunters: more accessible music (funk)
+            - triple entendre of the name, including jungle, sex
+        - sister
+            - in "IT", worked at IBM, smart
+            - but Herbie told her (when she asked) she didn't have a future as a singer
+        - VSOP
+            - Miles in initially, but then said no
+            - started as part of retrospective, which they asked festival organizer thinking they would say no
+            - went from one concert, to one tour, to multiple tours
+        - tour with Chick Corea; lots of fun
+        - loved synthesizers and tech
+            - met with Alan Kay at PARC
+            - Moog, Oberheim, etc.
+            - with is technicians, connected devices together
+            - Vocoder, wireless mike
+            - Fairchild 
+            - Apple II+
+        - Wynton Marsalis
+            - some criticism that he criticized other musicians; but big artist
+        - Round Midnight (Bertrand Tavernier / Dexter Gordon) 
+            - soundtrack
+            - appearance in the movie
+            - Academy Award to Hancock for "Best Music, Original Score"
+        - sister dying in plane crash
+        - playing with Miles's band in Rome; then with Miles in 1991
+        - crack addition and rehab
+        - decided that each album must be very different from the last
+        - less albums 2000-2010
+        - got lots of awards incl. Grammy Awards
+        - getting wiser and more looking to how he can help others vs. focusing only on music
+- 2020-02-10: [Walter Isaacson - Steve Jobs](http://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537/)
     - language: English
     - rating: 4/5
     - NOTES:
