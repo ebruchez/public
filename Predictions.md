@@ -44,6 +44,22 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 ## My pending predictions
 
+### PREDICTION-0022: 2020-07-09: Donald Trump will lose the 2020 US presidential election
+
+- From: @ebruchez
+- Text: "The November 2020 US presidential election will take place in 2020. Incumbent Donald Trump will lose to his opponent."
+- Comments:
+    - As of 2020-07-09
+        - [FiveThirtyEight](https://projects.fivethirtyeight.com/trump-approval-ratings/) shows Donald Trump low in popularity (~60% disapproval).
+        - [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/national/) also shows Donald Trump way behind in national voting intentions.
+        - Joe Biden is the presumptive Democratic nominee.
+    - In the 4 months to the election, a lot can change. But it doesn't look good for Trump as of July 2020 and I am predicting (and also hoping for) his loss.
+    - I think that polls indicate a very different climate compared to 2016. Joe Biden is not Hillary Clinton. The pandemic and other issues have been very badly managed by Trump and to a point where these issues are very visible to voters. I only see more reasons for voters to vote against him and for his opponent than in 2016.
+    - While I can understand voters who wanted change in 2016 and try an outsider (no matter how flawed), more than 3 years in I believe that the proof is in the pudding: we have seen such a litany of incompetence, corruption, bad ideas, bad execution, lack of leadership, lack of vision, and general moral bankruptcy, that I think that a significant number of 2016 Trump voters have changed their mind at this point.
+    - Keeping in mind that Trump won fairly narrowly in 2016, I do think that there will be a swing in opinion significant enough to make him lose this time.
+- Resolution:
+	- WAIT until 2020-11-05 or whenever the election results are known.
+
 ### PREDICTION-0021: 2020-06-30: Multi-core performance of the first Apple Mac ARM chips
 
 - From: @ebruchez
