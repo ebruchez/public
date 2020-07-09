@@ -123,21 +123,6 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - Resolution:
     - WAIT until 2026-01-05
 
-### PREDICTION-0002: 2013-09-16: iPhone CPU performance
-
-- From: @avernet
-- Text: "No 40x CPU perf improvement between iPhone 5S to 6 years after its release."
-- Comments:
-    - 2007-06-29: Original iPhone release.
-    - 2013-09-20: iPhone 5S release (just over 6 years later).
-    - On 2013-09-10, Apple [announced the iPhone 5S](http://www.macrumors.com/2013/09/10/live-coverage-of-apples-2013-iphone-media-event/) and and claims "CPU is 40x faster than original iPhone, with half coming with jump between A6 and A7".
-    - [Geekbench](http://browser.primatelabs.com/ios-benchmarks): 11.8x (1619 for the iPhone 5, 137 for the original iPhone)
-    - NOTE: This is *not* about overall performance, although that is interesting, but about *CPU* performance.
-    - It's almost certain that there will be devices called "iPhone" in 6 years.
-    - The question is: how do you measure performance improvements? On a per-core basis seems unfair. So some kind of reasonable benchmark, possibly using all the cores, should show a 40x performance improvement.
-- Resolution:
-    - WAIT until 2019-09-16
-
 ### PREDICTION-0001: 2013-07-20: Death of Apple
 
 - From: @otazi:
@@ -148,6 +133,27 @@ Trucks are also an obvious target for self-driving technology as they drive long
     - WAIT until 2023-07-20
 
 ## Completed predictions
+
+### PREDICTION-0002: 2013-09-16: iPhone CPU performance
+
+- From: @avernet
+- Text: "No 40x CPU perf improvement between iPhone 5S to 6 years after its release."
+- Comments:
+    - 2007-06-29: Original iPhone release.
+    - 2013-09-20: iPhone 5S release (just over 6 years later).
+    - On 2013-09-10, Apple [announced the iPhone 5S](https://www.macrumors.com/2013/09/10/live-coverage-of-apples-2013-iphone-media-event/) and and claims "CPU is 40x faster than original iPhone, with half coming with jump between A6 and A7".
+    - [Geekbench](https://browser.geekbench.com/ios-benchmarks): 11.8x (1619 for the iPhone 5, 137 for the original iPhone)
+    - NOTE: This is *not* about overall performance, although that is interesting, but about *CPU* performance.
+    - It's almost certain that there will be devices called "iPhone" in 6 years.
+    - The question is: how do you measure performance improvements? On a per-core basis seems unfair. So some kind of reasonable benchmark, possibly using all the cores, should show a 40x performance improvement.
+- Resolution:
+    - __SUCCESS__: Even taking into account the iPhone 11 Pro (released 2019-09-20, just a few days after the expiration of this prediction on 2019-09-16), there was nothing near 40x improvement in performance. The improvements have been significant, however: 
+        - single core
+            - iPhone 5S: 259
+            - iPhone 11 Pro: 1327 (or a 5x factor)
+        - multi-core
+            - iPhone 5S: 476
+            - iPhone 11 Pro: 3385 (or a 7x factor)
 
 ### PREDICTION-0004: 2013-12-03: Amazon Prime Air timeline
 
