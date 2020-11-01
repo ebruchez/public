@@ -108,6 +108,13 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 ## Other people's pending predictions
 
+### PREDICTION-0023: 2020-10-27: 2020 Presidential election
+
+- From: @avernet
+- Text: "The election will be mostly fine. It's going to be like Y2K: a lot of worries but in the end no big problem. Maybe there will be a little violence and incidents but that's all."
+- Resolution:
+    - WAIT until 2020-12-01 to give some time for post-election events to unfold as well.  
+
 ### PREDICTION-0018: 2014-10-15: Driverless cars by 2023
 
 - From: @elonmusk
