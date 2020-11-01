@@ -55,6 +55,69 @@ Dates are completion dates.
 
 ### 2020
 
+- 2020-10-29: [Marguerite Yourcenar - Mémoires d'Hadrien](https://en.wikipedia.org/wiki/Memoirs_of_Hadrian)
+    - 1951
+    - NOTES:
+        - Really well written.
+        - This is a pseudo-memoir, of course. In it, Hadrien narrates his life, ascension to power, rule, and finally near death.
+        - During this course, Hadrien reflects about topics of love, politics, ruling, justic, travels, etc. 
+- 2020-09-07: [Blaise Cendrars - L'or - La Merveilleuse Histoire du général Johann August Suter](https://fr.wikipedia.org/wiki/L%27Or_(roman))
+    - language: French
+    - 1925
+    - rating: 3/5
+    - NOTES:
+        - A short book. The written style is interesting, dramatic, and fairly pleasant.
+        - But the book feels a little rushed. Cendrars was in fact pressed to publish something at the time, and he did write *L'or* in something like a month and a half (based on previous research and knowledge).
+        - Also I don't like that the book essentially tells the *myth* of Sutter. The book pictures a man that probably doesn't correspond much to reality. I am not only talking about some specific facts, like where or how he died, but about important aspects of this life. For this reason, I am tempted to read a more serious book about Sutter.
+- 2020-09-22: [Mike Duncan - The storm before the storm](https://www.amazon.com/Storm-Before-Beginning-Roman-Republic/dp/1610397215)
+    - language: English
+    - 2017
+    - tags: #audiobook
+    - NOTES:
+        - Republic:
+            - senate (since the first days)
+            - tribunes (from "tribe") of the plebs: check on the senate (493 BC)
+                - weakened at a later time, subservient to senate
+            - fall/destruction of Carthage and Corinth: new provinces
+            - Tiberius Gracchus and the Lex Agricola
+            - Marius and Sulla: civil war
+            - dictature of Sulla
+                - proscriptions → terror
+                - Caesar on the list, but eventually spared
+            - Sulla was trying to restore the Republic, but it was just a last gasp  
+- 2020-08-13: [David McCullough - 1776](https://en.wikipedia.org/wiki/1776_(book))
+    - language: English
+    - 2005
+    - tags: #audiobook
+    - NOTES:
+        - From Wikipedia: "the focus is on military rather than political events".
+        - Book has illustrations, which I am not getting in the audiobook version. 
+        - Cannons dragged from Fort Ticonderoga and brought to [Dorchester Heights](https://en.wikipedia.org/wiki/Dorchester_Heights), over Boston, caused the British, under Howe, to leave Boston.
+        - Next: Washington takes his army to New York.
+        - New York
+            - British brought about 400 ships.
+            - Battle of Brooklyn (now known as battle of Long Island). Defeat.
+            - "the largest battle ever fought in North America"
+            - But retreat to Manhattan ordered by Washington is a big success.
+            - Defeat of the Americans in Manhattan, except for a small victory at Harlem Heights.
+            - New York fire, probably accidental.
+            - Hanging of "spy".
+            - Taking of Fort Washington on North of Manhattan. Big defeat: 59 Americans killed / 2,837 prisoners.
+            - Washington has to leave New York and retreat to New Jersey and Pennsylvania.
+        - Crossing of the Delaware
+            - Night attach on Trenton, held by Hessians (German auxilaries)
+            - Much needed victory of Washington. 
+        - American troops
+            - poorly equipped: no uniforms, some without shoes or weapons 
+            - large desertions
+            - expiring enlistments, but after Trenton victory, managed to reenlist troops
+        - TODO
+- 2020-07-2x: [Stanisław Lem - Solaris](https://en.wikipedia.org/wiki/Solaris_(novel))
+    - language: English
+    - 1961
+    - tags: #audiobook
+    - rating: 5/5
+    - NOTES: TODO
 - 2020-04-25: [Herbie Hancock - Possibilities](https://www.amazon.com/Herbie-Hancock-Possibilities/dp/0143128027)
     - language: English
     - 2014
@@ -149,7 +212,9 @@ Dates are completion dates.
 - 2019-09-2x: [Miles - The Autobiography](https://www.amazon.com/Miles-Autobiography-Davis/dp/0671725823)
     - tags: #audiobook #reread
     - Rating: 5/5
-    - NOTES: I read this book for the first time when it came out in French, around 1990. This time I listened to the English version, narrated by Dion Graham, who often times gets very close to Miles's voice.
+    - NOTES:
+        - I read this book for the first time when it came out in French, around 1990.
+        - This time I listened to the English version, narrated by Dion Graham, who often times gets very close to Miles's voice.
 - 2019-09-10: [Kafka - The Metamorphosis](https://en.wikipedia.org/wiki/The_Metamorphosis)
     - tags: #ebook
     - Rating: 5/5
