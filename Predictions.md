@@ -44,6 +44,18 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 ## My pending predictions
 
+### PREDICTION-0024: 2020-11-07: 2020 Presidential election aftermath and transition of power
+
+- From: @ebruchez
+- Text: "Following Joe Biden's win, and in spite of litigation and posturing from Trump, the transition of power from Trump to Biden will be smooth."
+- Comments:
+    - It is easy to come up with Doomsday scenarios: Trump might never concede, electors might not cast their votes as usual, the Supreme Court might have to intervene, or the congress, etc. In addition, Trump could make the transition at the White House hell in other ways.
+    - It wouldn't surprise anyone if Trump did not receive Biden at the White House, as is customary, or if he didn't shake hands with his successor. But this would not matter for anything consequential.
+    - However, I think that overall there won't be any catastrophic scenario. Trump will make some noise, then go and be out of politics. The most he will be able to do after that will be to Tweet.
+    - Most of his supporters in politics will quickly move away from him. I expect he will keep a following on Twitter and the likes for a while, but that again won't impact the transition to the new president. 
+- Resolution:
+    - __WAIT_: Until January 21, 2021, or a few days after.
+
 ### PREDICTION-0022: 2020-07-09: Donald Trump will lose the 2020 US presidential election
 
 - From: @ebruchez
