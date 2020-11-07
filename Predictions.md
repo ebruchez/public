@@ -54,7 +54,7 @@ Trucks are also an obvious target for self-driving technology as they drive long
     - However, I think that overall there won't be any catastrophic scenario. Trump will make some noise, then go and be out of politics. The most he will be able to do after that will be to Tweet.
     - Most of his supporters in politics will quickly move away from him. I expect he will keep a following on Twitter and the likes for a while, but that again won't impact the transition to the new president. 
 - Resolution:
-    - __WAIT_: Until January 21, 2021, or a few days after.
+    - __WAIT__: Until January 21, 2021, or a few days after.
 
 ### PREDICTION-0022: 2020-07-09: Donald Trump will lose the 2020 US presidential election
 
