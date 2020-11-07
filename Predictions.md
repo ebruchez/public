@@ -71,8 +71,8 @@ Trucks are also an obvious target for self-driving technology as they drive long
     - Keeping in mind that Trump won fairly narrowly in 2016, I do think that there will be a swing in opinion significant enough to make him lose this time.
 - Resolution:
 	- __SUCCESS__: 2020-11-07: All major US TV networks have called the race in favor of Joe Biden. It took days as lots of mail ballots were cast, and the election was pretty close in many states. But in spite of recounts and litigation, it appears now impossible to see a reversal as Biden has won too many states and is now way beyond the 270 electoral votes needed.
-	- THOUGHTS:
-	    - The final result of the election could have gone either way, in the sense that so much is unpredictable in life and politics. However, my general gist was correct: people did turn out in massive numbers for what amounts to rejecting Trump. One could have hoped for a more massive rejection, of course, but I, for one, will take what I can.
+- Thoughts:
+    - The final result of the election could have gone either way, in the sense that so much is unpredictable in life and politics. However, my general gist was correct: people did turn out in massive numbers for what amounts to rejecting Trump. One could have hoped for a more massive rejection, of course, but I, for one, will take what I can.
 
 ### PREDICTION-0021: 2020-06-30: Multi-core performance of the first Apple Mac ARM chips
 
