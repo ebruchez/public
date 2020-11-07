@@ -58,7 +58,9 @@ Trucks are also an obvious target for self-driving technology as they drive long
     - While I can understand voters who wanted change in 2016 and try an outsider (no matter how flawed), more than 3 years in I believe that the proof is in the pudding: we have seen such a litany of incompetence, corruption, bad ideas, bad execution, lack of leadership, lack of vision, and general moral bankruptcy, that I think that a significant number of 2016 Trump voters have changed their mind at this point.
     - Keeping in mind that Trump won fairly narrowly in 2016, I do think that there will be a swing in opinion significant enough to make him lose this time.
 - Resolution:
-	- WAIT until 2020-11-05 or whenever the election results are known.
+	- __SUCCESS__: 2020-11-07: All major US TV networks have called the race in favor of Joe Biden. It took days as lots of mail ballots were cast, and the election was pretty close in many states. But in spite of recounts and litigation, it appears now impossible to see a reversal as Biden has won too many states and is now way beyond the 270 electoral votes needed.
+	- THOUGHTS:
+	    - The final result of the election could have gone either way, in the sense that so much is unpredictable in life and politics. However, my general gist was correct: people did turn out in massive numbers for what amounts to rejecting Trump. One could have hoped for a more massive rejection, of course, but I, for one, will take what I can.
 
 ### PREDICTION-0021: 2020-06-30: Multi-core performance of the first Apple Mac ARM chips
 
@@ -113,7 +115,7 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - From: @avernet
 - Text: "The election will be mostly fine. It's going to be like Y2K: a lot of worries but in the end no big problem. Maybe there will be a little violence and incidents but that's all."
 - Resolution:
-    - WAIT until 2020-12-01 to give some time for post-election events to unfold as well.  
+    - __SUCCESS__: 2020-11-07: There was no major incident on election day and during the days after.  
 
 ### PREDICTION-0018: 2014-10-15: Driverless cars by 2023
 
