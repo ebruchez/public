@@ -44,6 +44,17 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 ## My pending predictions
 
+### PREDICTION-0025: 2020-11-10: Support for 32 GB of RAM in Apple's ARM-based 13" MacBook Pro
+
+- From: @ebruchez
+- Text: "Within 6 months, Apple will add the option of having 32 GB of RAM in the 13 MacBook Pro."
+- Comments
+    - Today, Apple released their first Macs with Apple silicon. But none of the existing machines support more than 16 GB of RAM.
+    - I suspect that this is due to the availability of memory chips to reach 32 GB. I don't think this means that there won't be any larger configurations.
+    - So here I am predicting that 32 GB of RAM (at least) will happen within 6 months.
+- Resolution:
+    - __WAIT__: Until May 10, 2021 at the latest.
+
 ### PREDICTION-0024: 2020-11-07: 2020 Presidential election aftermath and transition of power
 
 - From: @ebruchez
