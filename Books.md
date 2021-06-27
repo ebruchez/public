@@ -53,6 +53,17 @@ I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't ru
 
 Dates are completion dates.
 
+### 2021
+
+- 2021-06-27: [Albert Camus - L'étranger](https://fr.wikipedia.org/wiki/L%27%C3%89tranger)
+    - 1942
+    - tags: #ebook #reread
+    - NOTES:
+        - I read this book many years ago.
+        - It is written in an intersting, first-person style.
+        - It is hard to fully sympathize with the narrator, given his insensitivity and indifference to almost everything, including his own fate.
+        - But it is also interesting to contemplate the absurdity of his act and his condemnation. There is a criticism of the system here.
+
 ### 2020
 
 - 2020-10-29: [Marguerite Yourcenar - Mémoires d'Hadrien](https://en.wikipedia.org/wiki/Memoirs_of_Hadrian)
