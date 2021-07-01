@@ -55,9 +55,15 @@ Dates are completion dates.
 
 ### 2021
 
+- 2021-07-29: [Stefan Zweig - Vingt-quatre heures de la vie d'une femme](https://fr.wikipedia.org/wiki/Vingt-quatre_heures_de_la_vie_d%27une_femme)
+    - 1927
+    - tags: #reread
+    - NOTES:
+        - I read this book many years ago.
+        - Short book, really well written, at least in the French translation.
 - 2021-06-27: [Albert Camus - L'étranger](https://fr.wikipedia.org/wiki/L%27%C3%89tranger)
     - 1942
-    - tags: #ebook #reread
+    - tags: #reread
     - NOTES:
         - I read this book many years ago.
         - It is written in an intersting, first-person style.
