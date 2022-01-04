@@ -57,37 +57,36 @@ Dates are completion dates.
 
 - 2021-12: [Notre-Dame de Paris - Neuf siècles d'histoire](https://www.amazon.com/Notre-Dame-Paris-Neuf-si%C3%A8cles-dhistoire/dp/2373951282)
     - 2019
+    - tags: #paper
     - language: French
     - Authors: Dany Sandron, Andrew Tallon
     - NOTES: A quick but nice illustrated read about the Notre-Dame cathedral. Laser measurements of the building informed the illustrations which show the progress of and changes to the constructions across the years and centuries.
 - 2021-09-29: [Barack Obama - A Promised Land](https://en.wikipedia.org/wiki/A_Promised_Land)
     - 2020
+    - tags: #audiobook
     - language: English
     - Narrated by: Barack Obama
     - NOTES: Shows Obama's intelligence and some extremely reflexive and introspective qualities. Reveals, or rather reinforces the knowledge that Obama and his team were operating in an extremely hostile environment with regard to the economic situation of the country when he took office, as well as politically when facing the Republicans.
-- 2021-08: [Camus - L'étranger](https://fr.wikipedia.org/wiki/L%27%C3%89tranger)
-    - 1942
-    - language: French
-    - tags: #reread
-    - NOTES: I had read this at least one a few decades ago, but I didn't remember much! This is not a happy book. But it is short and direct. The narrator, an anti-hero, does not "play the game" like the others. He is indifferent, including to his own life. Things happen just because they do. The short journey of his life described in the book is definitely, absurd: without purpose, without aim.
 - 2021-07: [Franz Kafka - Le Château](https://en.wikipedia.org/wiki/The_Castle_(novel))
     - language: French
-    - tags: #reread
+    - tags: #reread #paper
     - NOTES: I had read this book ("The Castle", "Das Schloß") probably 20+ if not 30+ years ago. This is one of Kafka's unfinished works. There is no doubt that it catches by its unique atmosphere. Reading comes with frustration as well, as there is no real conclusion. It appears that the work may never have been completed even if Kafka had lived, although we know of a possible conclusion to the story from Max Brod, Kafka's friend and literary executor. I enjoyed this reread, and I confess that I had forgotten almost all of my initial reading. My only memory was of a character down in a village and a castle above, and maybe a vague recollection of the aides! All the episodes, including with Frieda, Barnabas (Barnabé), the character of Klamm, Olga and Amalia, and others, I had completely forgotten. I love the atmosphere, absurdity, and ongoing rationalizations. It's a book you read first for the sake of immersing yourself in that atmosphere.
 - 2021-07-29: [Stefan Zweig - Vingt-quatre heures de la vie d'une femme](https://fr.wikipedia.org/wiki/Vingt-quatre_heures_de_la_vie_d%27une_femme)
     - 1927
-    - tags: #reread
+    - tags: #reread #paper
     - NOTES:
         - I read this book many years ago.
         - Short book, really well written, at least in the French translation.
 - 2021-06-27: [Albert Camus - L'étranger](https://fr.wikipedia.org/wiki/L%27%C3%89tranger)
     - 1942
-    - tags: #reread
+    - tags: #reread #paper
+    - language: French
     - NOTES:
         - I read this book many years ago.
-        - It is written in an intersting, first-person style.
+        - It is written in an interesting, first-person style.
         - It is hard to fully sympathize with the narrator, given his insensitivity and indifference to almost everything, including his own fate.
         - But it is also interesting to contemplate the absurdity of his act and his condemnation. There is a criticism of the system here.
+        - I had read this at least one a few decades ago, but I didn't remember much! This is not a happy book. But it is short and direct. The narrator, an anti-hero, does not "play the game" like the others. He is indifferent, including to his own life. Things happen just because they do. The short journey of his life described in the book is definitely, absurd: without purpose, without aim.
 - 2021-03: [Robert Blickensderfer, Paul Robert - The Five-Pound Secretary](https://www.typewritermuseum.org/lib/library_bookshop_blick.html)
     - subtitle: An illustrated history of the Blickensderfer typewriter
     - 2003
