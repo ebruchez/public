@@ -55,6 +55,25 @@ Dates are completion dates.
 
 ### 2021
 
+- 2021-12: [Notre-Dame de Paris - Neuf siècles d'histoire](https://www.amazon.com/Notre-Dame-Paris-Neuf-si%C3%A8cles-dhistoire/dp/2373951282)
+    - 2019
+    - language: French
+    - Authors: Dany Sandron, Andrew Tallon
+    - NOTES: A quick but nice illustrated read about the Notre-Dame cathedral. Laser measurements of the building informed the illustrations which show the progress of and changes to the constructions across the years and centuries.
+- 2021-09-29: [Barack Obama - A Promised Land](https://en.wikipedia.org/wiki/A_Promised_Land)
+    - 2020
+    - language: English
+    - Narrated by: Barack Obama
+    - NOTES: Shows Obama's intelligence and some extremely reflexive and introspective qualities. Reveals, or rather reinforces the knowledge that Obama and his team were operating in an extremely hostile environment with regard to the economic situation of the country when he took office, as well as politically when facing the Republicans.
+- 2021-08: [Camus - L'étranger](https://fr.wikipedia.org/wiki/L%27%C3%89tranger)
+    - 1942
+    - language: French
+    - tags: #reread
+    - NOTES: I had read this at least one a few decades ago, but I didn't remember much! This is not a happy book. But it is short and direct. The narrator, an anti-hero, does not "play the game" like the others. He is indifferent, including to his own life. Things happen just because they do. The short journey of his life described in the book is definitely, absurd: without purpose, without aim.
+- 2021-07: [Franz Kafka - Le Château](https://en.wikipedia.org/wiki/The_Castle_(novel))
+    - language: French
+    - tags: #reread
+    - NOTES: I had read this book ("The Castle", "Das Schloß") probably 20+ if not 30+ years ago. This is one of Kafka's unfinished works. There is no doubt that it catches by its unique atmosphere. Reading comes with frustration as well, as there is no real conclusion. It appears that the work may never have been completed even if Kafka had lived, although we know of a possible conclusion to the story from Max Brod, Kafka's friend and literary executor. I enjoyed this reread, and I confess that I had forgotten almost all of my initial reading. My only memory was of a character down in a village and a castle above, and maybe a vague recollection of the aides! All the episodes, including with Frieda, Barnabas (Barnabé), the character of Klamm, Olga and Amalia, and others, I had completely forgotten. I love the atmosphere, absurdity, and ongoing rationalizations. It's a book you read first for the sake of immersing yourself in that atmosphere.
 - 2021-07-29: [Stefan Zweig - Vingt-quatre heures de la vie d'une femme](https://fr.wikipedia.org/wiki/Vingt-quatre_heures_de_la_vie_d%27une_femme)
     - 1927
     - tags: #reread
@@ -69,23 +88,42 @@ Dates are completion dates.
         - It is written in an intersting, first-person style.
         - It is hard to fully sympathize with the narrator, given his insensitivity and indifference to almost everything, including his own fate.
         - But it is also interesting to contemplate the absurdity of his act and his condemnation. There is a criticism of the system here.
+- 2021-03: [Robert Blickensderfer, Paul Robert - The Five-Pound Secretary](https://www.typewritermuseum.org/lib/library_bookshop_blick.html)
+    - subtitle: An illustrated history of the Blickensderfer typewriter
+    - 2003
+    - language: English
+    - tags: #paper
+    - NOTES: A short but really informative and well-researched book about the Blickensderfer typewriter.
+- 2021-03-xx: [Winston Churchill - The Second World War: Milestones to Disaster](https://www.amazon.com/Second-World-War-Milestones-Disaster/dp/B000XJNDO8)
+    - language: English
+    - tags: #audiobook
+    - Narrated by: Christian Rodska
+    - NOTES: Great writing and great narration. Looking forward to the next volumes. 
+- 2021-02: [Bob Woodard - All the president's men](https://en.wikipedia.org/wiki/All_the_President%27s_Men)
+    - 1974
+    - language: English
+    - tags: #audiobook
 
 ### 2020
 
 - 2020-10-29: [Marguerite Yourcenar - Mémoires d'Hadrien](https://en.wikipedia.org/wiki/Memoirs_of_Hadrian)
     - 1951
+    - tags: #audiobook
     - NOTES:
         - Really well written.
         - This is a pseudo-memoir, of course. In it, Hadrien narrates his life, ascension to power, rule, and finally near death.
-        - During this course, Hadrien reflects about topics of love, politics, ruling, justic, travels, etc. 
+        - During this course, Hadrien reflects about topics of love, politics, ruling, justic, travels, etc.
+- 2020-10: [Thomas Payne - Common Sense]
+     - tags: #audiobook
+     - TODO
 - 2020-09-07: [Blaise Cendrars - L'or - La Merveilleuse Histoire du général Johann August Suter](https://fr.wikipedia.org/wiki/L%27Or_(roman))
     - language: French
     - 1925
     - rating: 3/5
     - NOTES:
-        - A short book. The written style is interesting, dramatic, and fairly pleasant.
-        - But the book feels a little rushed. Cendrars was in fact pressed to publish something at the time, and he did write *L'or* in something like a month and a half (based on previous research and knowledge).
-        - Also I don't like that the book essentially tells the *myth* of Sutter. The book pictures a man that probably doesn't correspond much to reality. I am not only talking about some specific facts, like where or how he died, but about important aspects of this life. For this reason, I am tempted to read a more serious book about Sutter.
+        - A short book. The writing style is interesting, dramatic, and fairly pleasant.
+        - But the book feels rushed. Cendrars was in fact pressed to publish something at the time, and he did write *L'or* in something like a month and a half (based on previous research and knowledge).
+        - I don't like that the book essentially tells the *myth* of Sutter. The book pictures a man that probably doesn't correspond much to reality. I am not only talking about some specific facts, like where or how he died, but about important aspects of this life. For this reason, I am tempted to read a more serious book about Sutter.
 - 2020-09-22: [Mike Duncan - The storm before the storm](https://www.amazon.com/Storm-Before-Beginning-Roman-Republic/dp/1610397215)
     - language: English
     - 2017
