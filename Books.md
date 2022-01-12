@@ -1,8 +1,16 @@
 # Books
 
-I don't have much time to read so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
+I don't have much time to read, so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
-## Books I plan to read in 2020
+## Books I plan to read in 2022
+
+- TODO
+
+## Evergreen books
+
+- TODO
+
+## Favorite books
 
 - TODO
 
@@ -16,21 +24,18 @@ I don't have much time to read so I try to read books I know are excellent. I ha
 
 I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't rule out I might be disappointed by a reading.
 
-## Candidate books I would like to read next
-
-- [James S. A. Corey - Leviathan Wakes](https://www.amazon.com/Leviathan-Wakes-James-S-Corey/dp/0316129089/)
-    - tags: #paper
-- [The Rise and Fall of D.O.D.O.: A Novel](https://www.amazon.com/gp/product/0062409166/)
-- [Yuval Noah Harari - Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/gp/product/0062464310/)
-    - I might be too familiar with the content to find it interesting. Waiting for others' feedback.
-
 ## Books I am currently reading
 
-- [Neal Stephenson - Some Remarks: Essays and Other Writing](https://www.amazon.com/Some-Remarks-Essays-Other-Writing/dp/B00BJEMLJO)
-    - tags: #paper
+- [Winston Churchill - The Second World War: Alone](https://www.amazon.com/The-Second-World-War-Alone-audiobook/dp/B0017W99D4)
+
+## Candidate books I would like to read next
+
+- TODO
 
 ## Backlog
 
+- [Neal Stephenson - Some Remarks: Essays and Other Writing](https://www.amazon.com/Some-Remarks-Essays-Other-Writing/dp/B00BJEMLJO)
+    - tags: #paper
 - [Karl R. Popper - Popper Selections](https://www.amazon.com/Popper-Selections-Karl-R/dp/0691020310)
     - tags: #paper #started
 - [Cervantes - Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote)
@@ -53,12 +58,22 @@ I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't ru
 
 Dates are completion dates.
 
+### 2022
+
+- 2022-01-11: [Fred Vargas - Quand sort la recluse](https://fr.wikipedia.org/wiki/Quand_sort_la_recluse)
+    - 2017
+    - tags: #audiobook
+    - language: French
+    - rating: 5/5
+    - NOTES: This is a "page turner", and the audiobook is also wonderfully read and acted. I'd like to read other books by the author, especially those with the character of "Jean-Bapt" ("Jean-Bat"?) Adamsberg. 
+
 ### 2021
 
 - 2021-12: [Notre-Dame de Paris - Neuf siècles d'histoire](https://www.amazon.com/Notre-Dame-Paris-Neuf-si%C3%A8cles-dhistoire/dp/2373951282)
     - 2019
     - tags: #paper
     - language: French
+    - rating: 5/5
     - Authors: Dany Sandron, Andrew Tallon
     - NOTES: A quick but nice illustrated read about the Notre-Dame cathedral. Laser measurements of the building informed the illustrations which show the progress of and changes to the constructions across the years and centuries.
 - 2021-09-29: [Barack Obama - A Promised Land](https://en.wikipedia.org/wiki/A_Promised_Land)
@@ -70,10 +85,12 @@ Dates are completion dates.
 - 2021-07: [Franz Kafka - Le Château](https://en.wikipedia.org/wiki/The_Castle_(novel))
     - language: French
     - tags: #reread #paper
+    - rating: 5/5
     - NOTES: I had read this book ("The Castle", "Das Schloß") probably 20+ if not 30+ years ago. This is one of Kafka's unfinished works. There is no doubt that it catches by its unique atmosphere. Reading comes with frustration as well, as there is no real conclusion. It appears that the work may never have been completed even if Kafka had lived, although we know of a possible conclusion to the story from Max Brod, Kafka's friend and literary executor. I enjoyed this reread, and I confess that I had forgotten almost all of my initial reading. My only memory was of a character down in a village and a castle above, and maybe a vague recollection of the aides! All the episodes, including with Frieda, Barnabas (Barnabé), the character of Klamm, Olga and Amalia, and others, I had completely forgotten. I love the atmosphere, absurdity, and ongoing rationalizations. It's a book you read first for the sake of immersing yourself in that atmosphere.
 - 2021-07-29: [Stefan Zweig - Vingt-quatre heures de la vie d'une femme](https://fr.wikipedia.org/wiki/Vingt-quatre_heures_de_la_vie_d%27une_femme)
     - 1927
     - tags: #reread #paper
+    - rating: 5/5
     - NOTES:
         - I read this book many years ago.
         - Short book, really well written, at least in the French translation.
@@ -81,6 +98,7 @@ Dates are completion dates.
     - 1942
     - tags: #reread #paper
     - language: French
+    - rating: 5/5
     - NOTES:
         - I read this book many years ago.
         - It is written in an interesting, first-person style.
