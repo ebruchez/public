@@ -60,7 +60,12 @@ Dates are completion dates.
 
 ### 2022
 
-- 2022-01-11: [Fred Vargas - Quand sort la recluse](https://fr.wikipedia.org/wiki/Quand_sort_la_recluse)
+- 2022-02-07: [Benoît Mouchart - Michel Greg - dialogues sans bulles](https://www.amazon.com/Dialogues-sans-bulles-avec-Greg/dp/2205047868)
+    - 1999
+    - language: French
+    - rating: 4/5
+    - NOTES: Greg passed away the year this book was released. Greg is one of my favorite bandes dessinés authors, mainly as the author of Achille Talon. I had been wanting to know more about him for a long time, and I finally bought this book. It is a large-format book, in the style of large-format bandes dessinées, with hardcover and glossy pages. It consists of chapters covering Greg's life and works, in an interview style. In addition, some of Greg's collaborators are also interviewed. There is a lot of information, but I am taking off a star because there could have been even more, and specifically I would have liked more on Achille Talon, which remained Greg's main and favorite series. This said, I appreciated learning about Greg's other series, as writer, and I plan to check some out (Bernard Prince, Comanche, Bruno Brazil, Olivier Rameau). I already knew the SF series Luc Orient, about which the consensus appears to be that it "aged badly", but I don't quite agree about this view, and I think there is a lot of appeal in Luc Orient: you just have to take it as the product of its time. I also learned more about Greg's stay in the US, at the behest of his publisher Dargaud. The goal of that stay was to promote French "comics" in the US, and that mostly failed, unfortunately.
+- 2022-01-12: [Fred Vargas - Quand sort la recluse](https://fr.wikipedia.org/wiki/Quand_sort_la_recluse)
     - 2017
     - tags: #audiobook
     - language: French
@@ -69,6 +74,9 @@ Dates are completion dates.
 
 ### 2021
 
+- 2021-11-05: [Isaac Asimov - Foundation](https://en.wikipedia.org/wiki/Foundation_(Asimov_novel))
+    - 1951
+    - tags: #reread #audiobook
 - 2021-12: [Notre-Dame de Paris - Neuf siècles d'histoire](https://www.amazon.com/Notre-Dame-Paris-Neuf-si%C3%A8cles-dhistoire/dp/2373951282)
     - 2019
     - tags: #paper
@@ -116,7 +124,7 @@ Dates are completion dates.
     - tags: #audiobook
     - Narrated by: Christian Rodska
     - NOTES: Great writing and great narration. Looking forward to the next volumes. 
-- 2021-02: [Bob Woodard - All the president's men](https://en.wikipedia.org/wiki/All_the_President%27s_Men)
+- 2021-02-20: [Bob Woodard - All the president's men](https://en.wikipedia.org/wiki/All_the_President%27s_Men)
     - 1974
     - language: English
     - tags: #audiobook
@@ -184,7 +192,7 @@ Dates are completion dates.
             - large desertions
             - expiring enlistments, but after Trenton victory, managed to reenlist troops
         - TODO
-- 2020-07-2x: [Stanisław Lem - Solaris](https://en.wikipedia.org/wiki/Solaris_(novel))
+- 2020-07-31: [Stanisław Lem - Solaris](https://en.wikipedia.org/wiki/Solaris_(novel))
     - language: English
     - 1961
     - tags: #audiobook
@@ -281,7 +289,7 @@ Dates are completion dates.
         - In the end, Sholes made about $40K total (about $1 million in 2019)
         - By 1882, Jame Densmore had probably made about the same as sholes
         - But later the Densmores made probalby 10x the amount of sholes (so ~$10 mio)
-- 2019-09-2x: [Miles - The Autobiography](https://www.amazon.com/Miles-Autobiography-Davis/dp/0671725823)
+- 2019-09-27: [Miles - The Autobiography](https://www.amazon.com/Miles-Autobiography-Davis/dp/0671725823)
     - tags: #audiobook #reread
     - Rating: 5/5
     - NOTES:
@@ -291,7 +299,7 @@ Dates are completion dates.
     - tags: #ebook
     - Rating: 5/5
     - NOTES: Novella ("longer than a short story but shorter than a novel"). Read following [VBW's *A Bug's Life (Kafka's "The Metamorphosis"*)](https://verybadwizards.fireside.fm/169)
-- 2019-09: [Jay Barbree - Neil Armstrong: A life of flight](https://www.amazon.com/Neil-Armstrong-Flight-Jay-Barbree-ebook/dp/B00HP1JZH6)
+- 2019-08-18: [Jay Barbree - Neil Armstrong: A life of flight](https://www.amazon.com/Neil-Armstrong-Flight-Jay-Barbree-ebook/dp/B00HP1JZH6)
     - tags: #audiobook
     - NOTES: I learned a lot from this book:
         - Armstrong was at the core into flying. He was an excellent test pilot. The best.
