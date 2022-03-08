@@ -60,11 +60,19 @@ Dates are completion dates.
 
 ### 2022
 
+- 2022-03-07: [Jack Vance - The Dying Earth](https://en.wikipedia.org/wiki/The_Dying_Earth)
+    - 1950
+    - tags: #reread #paper
+    - rating: 5/5
+    - NOTES: I remembered really enjoying reading these stores several years ago. I reread them with great pleasure too. The writing is just stunning, and the atmosphere unique. I particularly enjoyed the stories of Ulan Dhor and Guyal of Sfere.
+- 2022-02-13: [Aleksandr Solzhenitsyn - The Gulag Archipelago](https://en.wikipedia.org/wiki/The_Gulag_Archipelago)
+    - 1973 
+    - tags: #audiobook
 - 2022-02-07: [Benoît Mouchart - Michel Greg - dialogues sans bulles](https://www.amazon.com/Dialogues-sans-bulles-avec-Greg/dp/2205047868)
     - 1999
     - language: French
     - rating: 4/5
-    - NOTES: Greg passed away the year this book was released. Greg is one of my favorite bandes dessinés authors, mainly as the author of Achille Talon. I had been wanting to know more about him for a long time, and I finally bought this book. It is a large-format book, in the style of large-format bandes dessinées, with hardcover and glossy pages. It consists of chapters covering Greg's life and works, in an interview style. In addition, some of Greg's collaborators are also interviewed. There is a lot of information, but I am taking off a star because there could have been even more, and specifically I would have liked more on Achille Talon, which remained Greg's main and favorite series. This said, I appreciated learning about Greg's other series, as writer, and I plan to check some out (Bernard Prince, Comanche, Bruno Brazil, Olivier Rameau). I already knew the SF series Luc Orient, about which the consensus appears to be that it "aged badly", but I don't quite agree about this view, and I think there is a lot of appeal in Luc Orient: you just have to take it as the product of its time. I also learned more about Greg's stay in the US, at the behest of his publisher Dargaud. The goal of that stay was to promote French "comics" in the US, and that mostly failed, unfortunately.
+    - NOTES: Greg passed away the year this book was published (or, at least, copyrighted). Greg is one of my favorite bandes dessinés authors, mainly as the author of Achille Talon. I had been wanting to know more about him for a long time, and I finally bought this book. It is a large-format book, in the style of large-format bandes dessinées, with hardcover and glossy pages. It consists of chapters covering Greg's life and works, in an interview style. In addition, some of Greg's collaborators are also interviewed. There is a lot of information, but I am taking off a star because there could have been even more, and specifically I would have liked more on Achille Talon, which remained Greg's main and favorite series. This said, I appreciated learning about Greg's other series, as writer, and I plan to check some out (Bernard Prince, Comanche, Bruno Brazil, Olivier Rameau). I already knew (and own the complete editions of) the SF series Luc Orient. The consensus appears to be that it "aged badly", but I don't agree with this view I think there is a lot of appeal in Luc Orient: you just have to take it as the product of its time. I also learned more about Greg's stay in the US, at the behest of his publisher Dargaud. The goal of that stay was to promote French "comics" in the US, and that mostly failed, unfortunately.
 - 2022-01-12: [Fred Vargas - Quand sort la recluse](https://fr.wikipedia.org/wiki/Quand_sort_la_recluse)
     - 2017
     - tags: #audiobook
