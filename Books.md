@@ -13,6 +13,7 @@ I don't have much time to read, so I try to read books I know are excellent. I h
 ## Favorite books
 
 - TODO
+- Into Thin Air
 
 ## Rating scale
 
@@ -60,6 +61,23 @@ Dates are completion dates.
 
 ### 2022
 
+- 2022-10-02: [The Typewriter Legend](https://www.amazon.com/Typewriter-legend-Frank-ed-Masi/dp/0961438606)
+    - 1985
+    - Frank T. Masi
+    - Published by Panasonic/Matsushita Electric Corporation of America
+    - NOTES: I bought this book without really knowing whether it would be good or not. While it is not very scholarly, it turned out to be a great book! There are 124 pages of text, as well as 62 pages of black and white illustrations in the middle. Most of the book is of great quality. I didn't find any glaring mistake or omission. What I liked is that the author regularly adds perspective to the content instead of being only descriptive. His style is very pleasant. I did find a couple of small mistakes here or there, but they are of very little consequence. The book says "Panasonic" on the cover page, and it appears to have been sponsored by that company. It's unknown whether the author wrote the content entirely under a contract with that company, or if only part of the content was added to fit the Panasonic mold. Because it's clear in a few parts of the text that the author was directed to cover "electronic typewriters" to some degree. I'd say that this, at the end of the book, is probably the weakest part. There is no real coverage of the history of electronic typewriters. Yet those started early, including a lot of work done at IBM, Xerox, Olivetti. But then, those would have beeen competitors of Panasonic so there is a hint of a conflict of interest there. Also, writing this in the early-to-mid 1980s, it might have been hard to find good information about that history. But this, again, is not very important as the rest of the book is excellent. We also learn, based on image captions, that Panasonic owned a typewriter collection.
+- 2022-09-28: [Einstein: His Life and Universe](https://en.wikipedia.org/wiki/Einstein:_His_Life_and_Universe)
+    - 2007 
+    - NOTES: A good book. There are no big surprises about Einstein's depiction here. Isaacson's takeaway message is that Einstein was an anticonformist. 
+- 2022-05: [Jack Vance - Rhialto the Marvellous](https://en.wikipedia.org/wiki/Rhialto_the_Marvellous)
+    - 1984
+    - NOTES: This contains three stories. My favorite, and the longest, is "Fader's Waft", where Rhialto is sent back in time a few aeons to retrieve the Perciplex. Rhialto, as the main character, comes out as the most congenial of that band of magicians. Even Ildefonse, the "Preceptor", turns out to be keen to take what is not his, but he eventually turns out not too bad. I also loved the "peregrine palace", a sort of luxury spaceship, that takes the magicians to the end of the universe.
+- 2022-05:  [Jack Vance - Cugel's Saga](https://en.wikipedia.org/wiki/Cugel%27s_Saga)
+    - 1983
+    - NOTES: Does Cugel actually settle down after this story ends? We'll never know. But the Saga is full of wonderful humor.
+- 2022-04:  [Jack Vance - The eyes of the overworld](https://en.wikipedia.org/wiki/The_Eyes_of_the_Overworld)
+    - 1966
+    - NOTES: Just a great story full of fun and interesting ideas and great humor.
 - 2022-03-07: [Jack Vance - The Dying Earth](https://en.wikipedia.org/wiki/The_Dying_Earth)
     - 1950
     - tags: #reread #paper
@@ -92,6 +110,11 @@ Dates are completion dates.
     - rating: 5/5
     - Authors: Dany Sandron, Andrew Tallon
     - NOTES: A quick but nice illustrated read about the Notre-Dame cathedral. Laser measurements of the building informed the illustrations which show the progress of and changes to the constructions across the years and centuries.
+- 2021-10-15: [Alexandre Dumas - Les trois mousquetaires](https://fr.wikipedia.org/wiki/Les_Trois_Mousquetaires)
+    - 1844
+    - tags: #reread
+    - language: French
+    - NOTES: I read this a long time ago. It's a page-turner.
 - 2021-09-29: [Barack Obama - A Promised Land](https://en.wikipedia.org/wiki/A_Promised_Land)
     - 2020
     - tags: #audiobook
