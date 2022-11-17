@@ -61,6 +61,16 @@ Dates are completion dates.
 
 ### 2022
 
+- 2022-11-17: [Émile Zola - Germinal](https://fr.wikipedia.org/wiki/Germinal_(roman))
+    - 1885
+    - Language: French
+    - tags: #reread #audiobook
+    - NOTES:
+        - I think I had read this a long, long time ago - probably more than 20 years ago.
+        - This is a very dark novel. When you thought that you had seen enough drama, more comes: Maigrat's brains spilling and his mutilation; Alzire starving to death; soldiers killing innocent workers and children; child killing an innocent soldier; sabotage; Bonnemort strangling to death the young and beautiful Cécile; one horse, Trompette, dying of sadness at the bottom of the mine, and another, Bataille, dying of fear and drowning; men killed and terribly  burned by the "grisou"; ugly fight between men; killing of Chaval; rotting body of Chaval floating in the flooded mine and coming to Étienne and Catherine; death of Catherine by exhaustion and starvation.
+        - Zola is very direct. Everything is said rather than hinted. Metaphors or images are explained. I think the text could have been a little better with some of that weight removed.
+        - There are some positive, humane aspects: determination, forgiveness, love, courage, and the workers doing anything they can to save stranded miners.   
+        - The darkest aspect is the fact that the novel ends like it started, but after death and more misery, and only a very faint and distant hope.
 - 2022-10-18: [René Barjavel - La Nuit des temps](https://fr.wikipedia.org/wiki/La_Nuit_des_temps)
     - 1968
     - Language: French
