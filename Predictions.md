@@ -44,6 +44,48 @@ Trucks are also an obvious target for self-driving technology as they drive long
 
 ## My pending predictions
 
+### PREDICTION-0028: 2022-12-27: There will be a second successful attack on the Kerch bridge
+
+- From: @ebruchez
+- Text: "Before July 2023, There will be a second successful attack on the Kerch bridge. This attack will, once again, block or seriously impede traffic across the bridge, making it essentially useless for military logistics."
+- Comments
+    - This is obviously very important for Ukraine (see PREDICTION-0026 and PREDICTION-0027).
+    - This will negate the current repairs on the Kerch bridge, which are expected to be completed in 2023.
+    - Not covered by this prediction
+        - This is probably a prerequisite for PREDICTION-0027.
+- Resolution:
+    - __WAIT__: Until July 1, 2023 at the latest.
+
+### PREDICTION-0027: 2022-12-27: Ukraine will launch a major offensive to retake Crimea
+
+- From: @ebruchez
+- Text: "Before October 2023, Ukraine will launch a major offensive to retake Crimea. The offensive will be at least partially successful."
+- Comments
+    - Full success would be the complete evacuation of Crimea by Russian forces, and the reestablishment of Ukrainian control over the peninsula.
+    - Partial success could be the reestablishment of Ukrainian control over part of the peninsula's territory, or the destruction of the Russian Black Sea fleet at Sebastopol, or some major Russian concessions.
+    - Not covered by this prediction
+        - This is probably contingent on PREDICTION-0026.
+        - In conjunction with PREDICTION-0028, this will fully isolate any Russian forces in Crimea.
+        - It is hard to see Russia not responding to such an offensive on their jewel prize. However, if Russian forces in Crimea are unable to be supplied due to the cutting of the land bridge and the Kerch bridge, and with no new Russian ships able to enter the Black Sea, it is hard to see Russia being able to hold on to Crimea for long.
+        - A Russian defeat in Crimea might be the trigger for a major reaction in Russia, but what specifically is unpredictable. Possibilities range from major political upheaval, to the use of tactical nuclear weapons, to regions of Russia taking a shot at secession from the Russian Federation. 
+- Resolution:
+    - __WAIT__: Until October 1, 2023 at the latest.
+
+### PREDICTION-0026: 2022-12-27: Ukraine will cut through the Russian land bridge to Crimea
+
+- From: @ebruchez
+- Text: "Before July 2023, Ukraine will cut through the Russian land bridge to Crimea."
+- Comments
+    - As of 2022-12, Russia still controls their so-called land bridge to Crimea, from Donetsk, through Zaporizhia and Kherson oblasts.
+    - I think that cutting through that land bridge is an absolute priority for Ukraine.
+    - By "cutting through", I mean that Ukraine will take control of an entire section of the land bridge between two parts of the current land bridge, from the currently Ukrainian-controlled territories in the North, to the Sea of Azov in the South, preventing any Russian forces passage through that controlled area.
+    - Not covered by this prediction
+        - Most likely, this will be achieved in the area of Melitopol.
+        - If Ukraine succeeds, Russian forces presence in the Western part of that land bridge will be in a very precarious situation, and I think that Russia will not be able to maintain it. Russian forces will likely evacuate to Crimea.
+        - Most likely this means that Ukraine will retake entire control of the Kherson oblast, and possibly Zaporizhia oblast, as a consequence of that. 
+- Resolution:
+    - __WAIT__: Until July 1, 2023 at the latest.
+
 ### PREDICTION-0025: 2020-11-10: Support for 32 GB of RAM in Apple's ARM-based 13" MacBook Pro
 
 - From: @ebruchez
