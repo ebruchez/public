@@ -254,8 +254,10 @@ Trucks are also an obvious target for self-driving technology as they drive long
 - From: @avernet
 - Text: "Amazon Prime Air won't be usable in 5 years at Thomas's place (for technological or cost reasons, including but not limited to FAA requirements or high initial cost)."
 - Resolution:
-    - __SUCCESS__: There is definitely no such service available in the Bay Area here now.
+    - __SUCCESS__: There is definitely no such service available in the Bay Area here now (2018-12-03).
     - "Amazon Prime Air is also the arm of the company working on their the drone-based delivery system—which has long been in development after its initial announcement in 2013, but has essentially stalled due to U.S. airspace regulations." [Observer article from 2017-11](https://observer.com/2017/11/amazon-prime-air-drone-delivery-service-might-never-happen-in-united-statesr/)
+    - Update 2022-05-31: "Walmart is about to be delivering products to 37 states using drones, reaching 4 million households." ([article](https://www.cnbc.com/2022/05/24/walmart-expands-drone-delivery-service-to-reach-4-million-households.html))
+    - Update 2022-06-13: "Amazon says it will begin delivering packages by drone in California later this year" ([article](https://www.cnbc.com/2022/06/13/amazon-to-begin-prime-air-drone-deliveries-in-california-this-year.html))
 
 ### PREDICTION-0013: 2015-12-03: Swift in the browser
 
