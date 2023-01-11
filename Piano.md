@@ -1,5 +1,18 @@
 # Piano pieces I am practicing or have practiced
 
+## 2023-01-11
+
+Working on:
+
+- Rameau, Les Cyclopes
+- Galuppi, Sonata in C minor (1st and 2nd movements)
+
+Somewhat maintaining:
+
+- Chopin, Nocturne in E-flat, Op. 9, No. 2
+- Bach, Fugue in C minor, BWV 847
+- Chopin, Nocturne in G-minor, Op. 37 No.1 
+
 ## Relatively current
 
 - Scarlatti, Sonata K. 380 / L. 23
@@ -11,6 +24,7 @@
 - Mozart, 12 Variations on "Ah vous dirai-je, Maman", K. 265/300e (partial)
 - Chopin, Valse Op. 64, No. 2
 - Bach, Prelude I
+
 
 ## Less current
 
