@@ -59,6 +59,16 @@ I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't ru
 
 Dates are completion dates.
 
+### 2023
+
+- 2023-04-28: [Neil Gaiman and Charles Vess' Stardust](https://en.wikipedia.org/wiki/Stardust_(Gaiman_novel))
+    - 1999
+    - language: English
+- 2023-03: [Winston Churchill - The Second World War: Alone](https://www.amazon.com/The-Second-World-War-Alone-audiobook/dp/B0017W99D4/)
+    - language: English
+    - tags: #audiobook
+    - Narrated by: Christian Rodska
+
 ### 2022
 
 - 2022-11-17: [Émile Zola - Germinal](https://fr.wikipedia.org/wiki/Germinal_(roman))
