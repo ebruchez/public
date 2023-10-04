@@ -2,7 +2,7 @@
 
 I don't have much time to read, so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
-## Books I plan to read in 2022
+## Books I plan to read in 2023
 
 - TODO
 
@@ -64,6 +64,7 @@ Dates are completion dates.
 - 2023-09-29: [John Christopher - Cloud on Silver](https://www.amazon.com/Cloud-Silver-John-Christopher/dp/0992768667)
     - 1964
     - language: English
+    - rating: 4/5
     - NOTES: A fairly quick read of another book by the author of the Tripods. Some interesting ideas. The development of the characters is just ok: I found myself not really caring strongly about anyone in particular except maybe Yasha. However I strongly disliked the characters which the author no doubt intended the reader to dislike. The ending was a page-turner. It wasn't especially surprising, except maybe for one gruesome point.
 - 2023-06-29: [Tracy Kidder - The Soul of a New Machine](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)
     - 1981
@@ -73,10 +74,12 @@ Dates are completion dates.
 - 2023-05-26: [Eric Schlaepfer and Windell H. Oskay -  Open Circuits](https://opencircuitsbook.com/)
     - 2023
     - language: English
+    - rating: 5/5
     - NOTES: This book is a coffee table book, but in a good way. I devoured the whole thing very quickly. Not only are the pictures stunning, as is the effort that went into the preparation of the circuits and their photography, but each picture comes with explanations that are both interesting and succinct. Thanks to this book I have gained great insights into electronic components and I am left with a sense of awe as well. 
 - 2023-04-28: [Neil Gaiman and Charles Vess' Stardust](https://en.wikipedia.org/wiki/Stardust_(Gaiman_novel))
     - 1999
     - language: English
+    - rating: 5/5
 - 2023-03: [Winston Churchill - The Second World War: Alone](https://www.amazon.com/The-Second-World-War-Alone-audiobook/dp/B0017W99D4/)
     - language: English
     - tags: #audiobook
