@@ -27,7 +27,7 @@ I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't ru
 
 ## Books I am currently reading
 
-- [Winston Churchill - The Second World War: Alone](https://www.amazon.com/The-Second-World-War-Alone-audiobook/dp/B0017W99D4)
+- TODO
 
 ## Candidate books I would like to read next
 
@@ -61,6 +61,19 @@ Dates are completion dates.
 
 ### 2023
 
+- 2023-09-29: [John Christopher - Cloud on Silver](https://www.amazon.com/Cloud-Silver-John-Christopher/dp/0992768667)
+    - 1964
+    - language: English
+    - NOTES: A fairly quick read of another book by the author of the Tripods. Some interesting ideas. The development of the characters is just ok: I found myself not really caring strongly about anyone in particular except maybe Yasha. However I strongly disliked the characters which the author no doubt intended the reader to dislike. The ending was a page-turner. It wasn't especially surprising, except maybe for one gruesome point.
+- 2023-06-29: [Tracy Kidder - The Soul of a New Machine](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)
+    - 1981
+    - language: English
+    - rating: 5/5
+    - NOTES: I really enjoyed this book.
+- 2023-05-26: [Eric Schlaepfer and Windell H. Oskay -  Open Circuits](https://opencircuitsbook.com/)
+    - 2023
+    - language: English
+    - NOTES: This book is a coffee table book, but in a good way. I devoured the whole thing very quickly. Not only are the pictures stunning, as is the effort that went into the preparation of the circuits and their photography, but each picture comes with explanations that are both interesting and succinct. Thanks to this book I have gained great insights into electronic components and I am left with a sense of awe as well. 
 - 2023-04-28: [Neil Gaiman and Charles Vess' Stardust](https://en.wikipedia.org/wiki/Stardust_(Gaiman_novel))
     - 1999
     - language: English
