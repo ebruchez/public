@@ -100,6 +100,7 @@ Dates are completion dates.
 - 2022-10-18: [René Barjavel - La Nuit des temps](https://fr.wikipedia.org/wiki/La_Nuit_des_temps)
     - 1968
     - Language: French
+    - rating: 5/5
     - NOTES: I devoured this sci-fi novel. It's a good, simple story. I hadn't heard about René Barjavel before. I like the author's style: it is very direct and wastes no words. The story moves along at a very fast pace.
 - 2022-10-02: [The Typewriter Legend](https://www.amazon.com/Typewriter-legend-Frank-ed-Masi/dp/0961438606)
     - 1985
@@ -111,12 +112,18 @@ Dates are completion dates.
     - NOTES: A good biography without big surprises. Isaacson's takeaway is that Einstein was an anticonformist, and that drove much else in his life. I found Einstein's involvement with pacifism interesting, in particular how he partly grew out of it in the face of a changing world. I also found interesting his liking of the United States, and his taking the freedom he experienced in his new country to heart. 
 - 2022-05: [Jack Vance - Rhialto the Marvellous](https://en.wikipedia.org/wiki/Rhialto_the_Marvellous)
     - 1984
+    - tags: #reread #paper
+    - rating: 5/5
     - NOTES: This contains three stories. My favorite, and the longest, is "Fader's Waft", where Rhialto is sent back in time a few aeons to retrieve the Perciplex. Rhialto, as the main character, comes out as the most congenial of that band of magicians. Even Ildefonse, the "Preceptor", turns out to be keen to take what is not his, but he eventually turns out not too bad. I also loved the "peregrine palace", a sort of luxury spaceship, that takes the magicians to the end of the universe.
 - 2022-05:  [Jack Vance - Cugel's Saga](https://en.wikipedia.org/wiki/Cugel%27s_Saga)
     - 1983
+    - tags: #reread #paper
+    - rating: 5/5
     - NOTES: Does Cugel actually settle down after this story ends? We'll never know. But the Saga is full of wonderful humor.
 - 2022-04:  [Jack Vance - The eyes of the overworld](https://en.wikipedia.org/wiki/The_Eyes_of_the_Overworld)
     - 1966
+    - tags: #reread #paper
+    - rating: 5/5
     - NOTES: Just a great story full of fun and interesting ideas and great humor.
 - 2022-03-07: [Jack Vance - The Dying Earth](https://en.wikipedia.org/wiki/The_Dying_Earth)
     - 1950
@@ -124,7 +131,7 @@ Dates are completion dates.
     - rating: 5/5
     - NOTES: I remembered really enjoying reading these stores several years ago. I reread them with great pleasure too. The writing is just stunning, and the atmosphere unique. I particularly enjoyed the stories of Ulan Dhor and Guyal of Sfere.
 - 2022-02-13: [Aleksandr Solzhenitsyn - The Gulag Archipelago](https://en.wikipedia.org/wiki/The_Gulag_Archipelago)
-    - 1973 
+    - 1973
     - tags: #audiobook
 - 2022-02-07: [Benoît Mouchart - Michel Greg - dialogues sans bulles](https://www.amazon.com/Dialogues-sans-bulles-avec-Greg/dp/2205047868)
     - 1999
@@ -152,7 +159,8 @@ Dates are completion dates.
     - NOTES: A quick but nice illustrated read about the Notre-Dame cathedral. Laser measurements of the building informed the illustrations which show the progress of and changes to the constructions across the years and centuries.
 - 2021-10-15: [Alexandre Dumas - Les trois mousquetaires](https://fr.wikipedia.org/wiki/Les_Trois_Mousquetaires)
     - 1844
-    - tags: #reread
+    - rating: 5/5
+    - tags: #reread #paper
     - language: French
     - NOTES: I read this a long time ago. It's a page-turner.
 - 2021-09-29: [Barack Obama - A Promised Land](https://en.wikipedia.org/wiki/A_Promised_Land)
