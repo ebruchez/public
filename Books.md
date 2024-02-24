@@ -59,8 +59,31 @@ I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't ru
 
 Dates are completion dates.
 
+### 2024
+
+- 2024-02-23: [Isaac Asimov - I, Asimov](https://www.amazon.com/I-Asimov-Memoir-Isaac/dp/055356997X)
+    - 1994
+    - language: English
+    - rating: 4/5
+    - NOTES: Asimov's memoir, which he wrote at the end of his life, knowing that he didn't have much longer to live. He wrote a good part on his hospital bed, before getting out of the hospital to get another year or so of good life. Asimov: prolific writer; science-fiction author, but also non-fiction writer; humanist; acrophobe; hated traveling and never flew; great speaker and teacher; great sense of humor; "busy" father; unhappy first marriage; happy second marriage; spent his time writing. Overall, he seems to have been a great man. The only low might be that he, at least during parts of his life, tended to flirt too much with young women (this is not really discussed in the book, although he alludes to young women a few times). 
+- 2024-02-12: [Steve Wozniak - iWoz](https://www.amazon.com/iWoz-Computer-Invented-Personal-Co-Founded/dp/0393330435)
+    - 2007
+    - language: English
+    - rating: 4/5
+    - NOTES: This is not the definitive Wozniak book, just Woz setting some things straight. I didn't know a number of things, like his involvement in music festivals in the early 1980s, the Shoreline Amphitheater, the Discovery Museum, his vocation as a teacher (of computers), and more. There is a lot that is missing as well, including details of his relationship with Steve Jobs, but the book allows understanding Woz's mind a little.    
+- 2024-01-30: [Isaac Asimov - The Caves of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)
+    - 1954
+    - language: English
+    - tags: #reread
+    - NOTES: Like Pebble in the Sky, I read this book in the 1990s. Good story.
+
 ### 2023
 
+- 2023-12-30: [Isaac Asimov - Pebble in the Sky](https://en.wikipedia.org/wiki/Pebble_in_the_Sky)
+    - 1950
+    - language: English
+    - tags: #reread
+    - NOTES: I read this book in the 1990s, but I had no recollection of the story. It is pretty good, fairly short read, which keeps you wanting to know more until the last pages.
 - 2023-09-29: [John Christopher - Cloud on Silver](https://www.amazon.com/Cloud-Silver-John-Christopher/dp/0992768667)
     - 1964
     - language: English
@@ -104,9 +127,10 @@ Dates are completion dates.
     - NOTES: I devoured this sci-fi novel. It's a good, simple story. I hadn't heard about René Barjavel before. I like the author's style: it is very direct and wastes no words. The story moves along at a very fast pace.
 - 2022-10-02: [The Typewriter Legend](https://www.amazon.com/Typewriter-legend-Frank-ed-Masi/dp/0961438606)
     - 1985
-    - Frank T. Masi
+    - Editor: Frank T. Masi
+    - Author: Don Sutherland
     - Published by Panasonic/Matsushita Electric Corporation of America
-    - NOTES: I bought this book without really knowing whether it would be good or not. While it is not very scholarly, it turned out to be a great book! There are 124 pages of text, as well as 62 pages of black and white illustrations in the middle. Most of the book is of great quality. I didn't find any glaring mistake or omission. What I liked is that the author regularly adds perspective to the content instead of being only descriptive. His style is very pleasant. I did find a couple of small mistakes here or there, but they are of very little consequence. The book says "Panasonic" on the cover page, and it appears to have been sponsored by that company. It's unknown whether the author wrote the content entirely under a contract with that company, or if only part of the content was added to fit the Panasonic mold. Because it's clear in a few parts of the text that the author was directed to cover "electronic typewriters" to some degree. I'd say that this, at the end of the book, is probably the weakest part. There is no real coverage of the history of electronic typewriters. Yet those started early, including a lot of work done at IBM, Xerox, Olivetti. But then, those would have beeen competitors of Panasonic so there is a hint of a conflict of interest there. Also, writing this in the early-to-mid 1980s, it might have been hard to find good information about that history. But this, again, is not very important as the rest of the book is excellent. We also learn, based on image captions, that Panasonic owned a typewriter collection.
+    - NOTES: I bought this book without really knowing whether it would be good or not. While it is not very scholarly, it turned out to be a great book! There are 124 pages of text, as well as 62 pages of black and white illustrations in the middle. Most of the book is of great quality. I didn't find any glaring mistake or omission. What I liked is that the author regularly adds perspective to the content instead of being only descriptive. His style is very pleasant. I did find a couple of small mistakes here or there, but they are of very little consequence. The book says "Panasonic" on the cover page, and it appears to have been sponsored by that company. It's unknown whether the author wrote the content entirely under a contract with that company, or if only part of the content was added to fit the Panasonic mold. Because it's clear in a few parts of the text that the author was directed to cover "electronic typewriters" to some degree. I'd say that this, at the end of the book, is probably the weakest part. There is no real coverage of the history of electronic typewriters. Yet those started early, including a lot of work done at IBM, Xerox, Olivetti. But then, those would have been competitors of Panasonic so there is a hint of a conflict of interest there. Also, writing this in the early-to-mid 1980s, it might have been hard to find good information about that history. But this, again, is not very important as the rest of the book is excellent. We also learn, based on image captions, that Panasonic owned a typewriter collection.
 - 2022-09-28: [Einstein: His Life and Universe](https://en.wikipedia.org/wiki/Einstein:_His_Life_and_Universe)
     - 2007 
     - NOTES: A good biography without big surprises. Isaacson's takeaway is that Einstein was an anticonformist, and that drove much else in his life. I found Einstein's involvement with pacifism interesting, in particular how he partly grew out of it in the face of a changing world. I also found interesting his liking of the United States, and his taking the freedom he experienced in his new country to heart. 
