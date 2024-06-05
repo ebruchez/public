@@ -61,6 +61,11 @@ Dates are completion dates.
 
 ### 2024
 
+- 2024-06: [Isaac Asimov - The Gods Themselves](https://en.wikipedia.org/wiki/The_Gods_Themselves)
+    - 1972
+    - language: English
+    - rating: 4/5
+    - NOTES: While I didn't find the book's action very engaging, the second part, which describes a species in a parallel universe, is very well done.  
 - 2024-02-23: [Isaac Asimov - I, Asimov](https://www.amazon.com/I-Asimov-Memoir-Isaac/dp/055356997X)
     - 1994
     - language: English
@@ -240,7 +245,7 @@ Dates are completion dates.
     - NOTES:
         - Really well written.
         - This is a pseudo-memoir, of course. In it, Hadrien narrates his life, ascension to power, rule, and finally near death.
-        - During this course, Hadrien reflects about topics of love, politics, ruling, justic, travels, etc.
+        - During this course, Hadrien reflects about topics of love, politics, ruling, justice, travels, etc.
 - 2020-10: [Thomas Payne - Common Sense]
      - tags: #audiobook
      - TODO
