@@ -61,6 +61,12 @@ Dates are completion dates.
 
 ### 2024
 
+- 2024-07: [Denis Diderot - Jacques le Fataliste et son maître](https://fr.wikipedia.org/wiki/Jacques_le_Fataliste_et_son_ma%C3%AEtre)
+    - 1796
+    - language: French
+    - tags: #reread
+    - rating: 5/5
+    - NOTES: I think that it is the third time that I read this book. The first time must have been in high school; the second time, maybe during college time.
 - 2024-06: [Isaac Asimov - The Gods Themselves](https://en.wikipedia.org/wiki/The_Gods_Themselves)
     - 1972
     - language: English
