@@ -61,6 +61,10 @@ Dates are completion dates.
 
 ### 2024
 
+2024-07-19: [Lucas Dul - The Williams Typewriter](https://typewriterchicago.com/book)
+    - 2023
+    - language: English
+    - NOTES: This short book covers historical and technical aspects of the Williams typewriter, a machine known to antique typewriter enthusiasts, but probably nobody else. The machine, in its various but consistent incarnations over the years, is a beautiful work of industrial design and engineering. Reading this book makes me want to find one! The book would have benefited from a little more editing.
 - 2024-07: [Denis Diderot - Jacques le Fataliste et son maître](https://fr.wikipedia.org/wiki/Jacques_le_Fataliste_et_son_ma%C3%AEtre)
     - 1796
     - language: French
