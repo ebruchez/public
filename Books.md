@@ -33,6 +33,12 @@ I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't ru
 
 - TODO
 
+## To re-read
+
+- Ilium/Olympos
+- Riverworld
+- Hyperion/Endymion
+
 ## Backlog
 
 - [Neal Stephenson - Some Remarks: Essays and Other Writing](https://www.amazon.com/Some-Remarks-Essays-Other-Writing/dp/B00BJEMLJO)
@@ -61,6 +67,11 @@ Dates are completion dates.
 
 ### 2024
 
+2024-09-02: [René Barjavel - Ravage](https://fr.wikipedia.org/wiki/Ravage_(roman))
+    - 1943
+    - language: French
+    - rating: 4/5
+    - NOTES: This is the second Barjavel book that I read, and one of the author's first published books. Like "La nuit des temps", I devoured it. This, however, is not a perfect book. I happily give five stars for the style, the incredible pace of the story, and for a number of ideas which, especially for the 1940s, were quite original. I felt like I could almost perfectly see that hypothetical Paris of 2050, which was a sort of utopia, but in which you could see major cracks. All of that futuristic world is built only to be destroyed in just a few apocalyptic pages. What follows, the escape from what is at first just a dangerous environment, and then a burning inferno, has a completely different mood, but is mesmerizing. The main character is at first appealing, although a little stereotypical young hero. What he becomes, at the end of the book, however, is much less appealing to me. He had been violent out of necessity during the escape from Paris, but when, at the end of his life, he virtually condemns to death the man who reinvents the car, he definitely ceases to be attractive to me. The idea of a society devoid of technology, because technology can lead to catastrophe, is not an appealing one to me. It implies, as is shown here, the need to destroy any spark of light in the human mind, any desire for creation and independence, and therefore it destroys humanity as well, just in a different way. I realize that this is just a fairly young author's fantasy, not necessarily a belief of Barjavel himself. This last twist of the story was obviously designed to shock the reader, but not necessarily to imply that this was the way to build an ideal society. I am not sure I can count this as a real flaw of the book, besides the fact that it would need to be developed more. Besides this, the early mention of the "Black emperor" launching rockets towards North America remains entirely withouth any follow-up. Also, obviously, we have no idea why electricity would just stop working. Who caused it? What is an even plausible explanation of that? These are the kind of holes that don't allow me to give the book five stars. 
 2024-07-19: [Lucas Dul - The Williams Typewriter](https://typewriterchicago.com/book)
     - 2023
     - language: English
