@@ -67,6 +67,11 @@ Dates are completion dates.
 
 ### 2024
 
+2024-12-28: [Fred Vargas - Pars vite et revient tard](https://fr.wikipedia.org/wiki/Pars_vite_et_reviens_tard_(roman))
+    - 2001
+    - language: French
+    - rating: 5/5
+    - NOTES: An easy to read policier.
 2024-09-02: [René Barjavel - Ravage](https://fr.wikipedia.org/wiki/Ravage_(roman))
     - 1943
     - language: French
