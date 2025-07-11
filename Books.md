@@ -2,7 +2,11 @@
 
 I don't have much time to read, so I try to read books I know are excellent. I have also found myself re-reading several books which I really enjoyed in the past.
 
-## Books I plan to read in 2023
+## Spoilers
+
+Some of my notes on fiction works contain **spoilers**.
+
+## Books I plan to read in 2025
 
 - TODO
 
@@ -13,6 +17,7 @@ I don't have much time to read, so I try to read books I know are excellent. I h
 ## Favorite books
 
 - TODO
+- Jacque le fataliste et son maître
 - Into Thin Air
 
 ## Rating scale
@@ -65,19 +70,67 @@ I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't ru
 
 Dates are completion dates.
 
+### 2025
+
+- 2025-07: [Jules Verne - Le rayon vert](https://fr.wikipedia.org/wiki/Le_Rayon_vert)
+    - 1882
+    - language: French
+    - rating: 3/5
+    - NOTES:
+        - short book found by chance and read quickly
+        - inspired loosely a movie by Eric Rohmer
+        - Aristobulus Ursiclos, the scientist ridiculed in the story, is not appealing; he is a surprising character in the work of Verne, as an unlikable scientist, but his thirst for science in itself is not a bad thing; the heroine and hero of the story are, on the other hand, dreamers and artists  
+- 2025-03-28: [Iain M. Banks - Look to Windward](https://en.wikipedia.org/wiki/Look_to_Windward)
+    - 2000
+    - language: English
+    - rating: 4/5
+    - NOTES:
+        - Lots of excellent ideas in the Culture in general, and in this book in particular.
+        - [Uagen Zlepe](https://theculture.fandom.com/wiki/Uagen_Zlepe) seems like a good individual, and I felt bad when he failed in his mission and was (temporarily) murdered.
+        - Cr. Ziller is fairly likeable, in spite of this grumpiness.
+        - I'd note as a flaw that, in this unlikely world, the brutal destruction of the Hub and billions of lives was prevented by a particularly unlikely twist. other than that, the book is great.
+        - The book implicitly asks fundamental questions about consciousness and the future of sentient beings.
+- 2025-03-04: [Thomas S. Mullaney - The Chinese Typewriter - A History](https://mitpress.mit.edu/9780262536103/the-chinese-typewriter/)
+    - 2018
+    - language: English
+    - rating: 4/5
+    - NOTES:
+        - I had read a couple of negative reviews about this book, focusing on the following points:
+            1. Technical aspects of the machines are not covered in detail.
+            2. Too much of the book is focused on the idea that the reader has preconceptions about the Chinese language, or that earlier Western engineers, writers, journalists did.
+       - However, I had to read it, as I am working on a Chinese typewriter at the moment.
+       - I do think that these criticisms are valid. There is very little technical information. Many pages of the book are repetitive, and close to a third of the book is dedicated to notes, references, and the index. I don't mind those, but there should have been room for more technical information.
+       - I wish also that specific models were covered, with more illustrations. 
+       - However, the book also contains significant information about the circumstances of "the Chinese typewriter", specifically about the difficulties inherent to the use of thousands of characters. There is a clear guiding thread which covers the challenges of Chinese typesetting, and then typewriting, leading to the notion of "input methods" which are now common on computers (covered in Mullaney's follow-up book, which I haven't read yet). Various inventions are covered, from:
+           - Devello Sheffield: prototype of a Chinese typewriter (disc shaped)
+           - Zhou Houkun: big roller (1916)
+           - Qi Xuan: xxx (1915)
+           - Shu Zhendong (Shu Changyu): first with a character tray (1916).
+               - Commercial Press
+           - Double Pigeon (based on Shu Zhendong, via Japan, etc.)
+           - Lin Yutang: MingKwai
+       - I learned about the various and failed attempts at cracking the code of Chinese characters, in particular by decomposing characters, or stylizing them.
+       - I enjoyed the discussion about the Chinese telegraph.
+       - I find it fascinating that Pr. Mullaney visited Jacques Perrier's museum in Lausanne! I know Jacques and had seen his machines in person.
+       - Some points, like what the author calls "Tap-Key", are hammered way too much. We get it: there were misconceptions, and solutions were eventually found. Also, for somebody familiar with writing Chinese on a computer or phone in 2025, the concept of input method, as pioneered by Lin Yutang and his typewriter, is familiar. A large part of the potential audience for this book will be people familiar to some degree with Chinese, on one hand, and interested in typewriters, printing or similar technical aspects, on the other hand. Such potential readers understand that "inputting" Chinese is different.
+       - One thing that the author should have insisted on heavily: the tray solution just won, without appeal! Until the computer, that was it.
+       - There is, all in all, more about the Chinese language, than about the typewriters themselves.
+       - A minor quibble: I wish the pinyin in the text included tone marks. Those are essential.
+       - Missing entirely: the Japanese/Chinese Toshiba typewriter (see YouTube video); the IBM machine.
+
 ### 2024
 
-2024-12-28: [Fred Vargas - Pars vite et revient tard](https://fr.wikipedia.org/wiki/Pars_vite_et_reviens_tard_(roman))
+- 2024-12-28: [Fred Vargas - Pars vite et revient tard](https://fr.wikipedia.org/wiki/Pars_vite_et_reviens_tard_(roman))
     - 2001
     - language: French
     - rating: 5/5
     - NOTES: An easy to read policier.
-2024-09-02: [René Barjavel - Ravage](https://fr.wikipedia.org/wiki/Ravage_(roman))
+- 2024-09-02: [René Barjavel - Ravage](https://fr.wikipedia.org/wiki/Ravage_(roman))
     - 1943
     - language: French
     - rating: 4/5
     - NOTES: This is the second Barjavel book that I read, and one of the author's first published books. Like "La nuit des temps", I devoured it. This, however, is not a perfect book. I happily give five stars for the style, the incredible pace of the story, and for a number of ideas which, especially for the 1940s, were quite original. I felt like I could almost perfectly see that hypothetical Paris of 2050, which was a sort of utopia, but in which you could see major cracks. All of that futuristic world is built only to be destroyed in just a few apocalyptic pages. What follows, the escape from what is at first just a dangerous environment, and then a burning inferno, has a completely different mood, but is mesmerizing. The main character is at first appealing, although a little stereotypical young hero. What he becomes, at the end of the book, however, is much less appealing to me. He had been violent out of necessity during the escape from Paris, but when, at the end of his life, he virtually condemns to death the man who reinvents the car, he definitely ceases to be attractive to me. The idea of a society devoid of technology, because technology can lead to catastrophe, is not an appealing one to me. It implies, as is shown here, the need to destroy any spark of light in the human mind, any desire for creation and independence, and therefore it destroys humanity as well, just in a different way. I realize that this is just a fairly young author's fantasy, not necessarily a belief of Barjavel himself. This last twist of the story was obviously designed to shock the reader, but not necessarily to imply that this was the way to build an ideal society. I am not sure I can count this as a real flaw of the book, besides the fact that it would need to be developed more. Besides this, the early mention of the "Black emperor" launching rockets towards North America remains entirely withouth any follow-up. Also, obviously, we have no idea why electricity would just stop working. Who caused it? What is an even plausible explanation of that? These are the kind of holes that don't allow me to give the book five stars. 
-2024-07-19: [Lucas Dul - The Williams Typewriter](https://typewriterchicago.com/book)
+- 2024-07-19: [Lucas Dul - The Williams Typewriter](https://typewriterchicago.com/book)
     - 2023
     - language: English
     - NOTES: This short book covers historical and technical aspects of the Williams typewriter, a machine known to antique typewriter enthusiasts, but probably nobody else. The machine, in its various but consistent incarnations over the years, is a beautiful work of industrial design and engineering. Reading this book makes me want to find one! The book would have benefited from a little more editing.
