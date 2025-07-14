@@ -6,6 +6,16 @@ I don't have much time to read, so I try to read books I know are excellent. I h
 
 Some of my notes on fiction works contain **spoilers**.
 
+## Reading ideal
+
+Reading can serve two purposes: entertainment, and learning - with some cross-over. Here are some topics that one should cover while reading (or while learning in general, independently of the means):
+
+- history: 
+- biographies
+- philosophy
+- science
+- 
+
 ## Books I plan to read in 2025
 
 - TODO
@@ -72,6 +82,14 @@ Dates are completion dates.
 
 ### 2025
 
+- 2025-07-14: [Maurice Leblanc - Les Huit Coups de l'horloge](https://fr.wikipedia.org/wiki/Les_Huit_Coups_de_l%27horloge)
+    - 1923
+    - language: French
+    - rating: 4/5
+    - NOTES:
+        - bought used by chance on Île d'Orléans
+        - an Arsène Lupin book, made of 8 stories with an arc based on Prince Rénine and Hortense Daniel
+        - fun stories and a quick read
 - 2025-07: [Jules Verne - Le rayon vert](https://fr.wikipedia.org/wiki/Le_Rayon_vert)
     - 1882
     - language: French
