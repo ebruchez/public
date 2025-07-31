@@ -82,6 +82,15 @@ Dates are completion dates.
 
 ### 2025
 
+- 2025-07-31: [Amélie Nothomb - La métaphysique des tubes](https://www.goodreads.com/book/show/75519)
+    - 2000 
+    - language: French
+    - rating: 3/5
+    - NOTES:
+        - It's a short book, which I read quickly and without effort. This is partly due to the style of the author, I think, but also to the fact that I read particularly fast in French.
+        - It is an autobiographical book, covering the author's first years of life until age 3.
+        - How much is real, vs. how much is reinvented, I don't know: usually one doesn't have memories of that age, but who knows?
+        - What is the value of such a book? It is hard to tell. There are a couple of dramatic episodes, some views about Japan, some insights into two very different views from the two servants: one of kindness and love, and one of hatred and resentment. But is it light? Is it deep? Hard to tell.
 - 2025-07-14: [Maurice Leblanc - Les Huit Coups de l'horloge](https://fr.wikipedia.org/wiki/Les_Huit_Coups_de_l%27horloge)
     - 1923
     - language: French
