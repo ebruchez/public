@@ -82,6 +82,13 @@ Dates are completion dates.
 
 ### 2025
 
+- 2025-11-19: [Antoine de Saint-Exupéry - Terre des hommes](https://www.goodreads.com/book/show/984081.Terre_des_hommes)
+    - 1939
+    - language: French
+    - rating: 4/5
+    - NOTES:
+        - The part that struck me most was where (spoiler) the author goes for the search of humans or water in the desert after a plane crash. I felt thirsty while reading!
+        - There are also good thoughts about what human suffering, the meaning of life, and self-actualization.
 - 2025-07-31: [Amélie Nothomb - La métaphysique des tubes](https://www.goodreads.com/book/show/75519)
     - 2000 
     - language: French
