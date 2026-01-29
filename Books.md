@@ -14,21 +14,21 @@ Reading can serve two purposes: entertainment, and learning - with some cross-ov
 - biographies
 - philosophy
 - science
-- 
 
-## Books I plan to read in 2025
+## Books I plan to read in 2026
 
+- Cao Xueqin - The Dream of the Red Chamber
 - TODO
 
 ## Evergreen books
 
+- Jacque le fataliste et son maître
 - TODO
 
 ## Favorite books
 
-- TODO
-- Jacque le fataliste et son maître
 - Into Thin Air
+- TODO
 
 ## Rating scale
 
@@ -42,15 +42,19 @@ I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't ru
 
 ## Books I am currently reading
 
+- Arthur C. Clarke - The Songs of Distant Earth
+- Lin Yutang - Moment in Peking 
+- John Stuart Mill - The autobiography of John Stuart Mill
 - TODO
 
-## Candidate books I would like to read next
+## Books I would like to read next
 
 - TODO
 
-## To re-read
+## Books to re-read
 
 - Ilium/Olympos
+    - It seems that Dan Simmons is not such a great character, and that bother me. I don't know if I will in fact reread those. 
 - Riverworld
 - Hyperion/Endymion
 
@@ -80,8 +84,21 @@ I don't plan to read any books with 1/5, 2/5, or even 3/5 rating, but I can't ru
 
 Dates are completion dates.
 
+### 2026
+
+- 2026-01-28: [François Cheng - L'Éternité n'est pas de trop](https://www.amazon.fr/LEternit%C3%A9-nest-trop-Fran%C3%A7ois-Cheng/dp/222612702X)
+    - 2002
+    - language: French
+    - rating: 5/5
+    - NOTES: This is the first book by François Cheng that I read. It is really well-written. The story is one of a lifelong love and passion, but also of injustice and violence. Both main characters are pure of soul, while there are a few bad actors as well. I appreciated that the novel is not too long and moves forward at a good pace. The picture of life in this decrepit late Ming Dynasty is done quite well.
+
 ### 2025
 
+- 2025-11-25: [Balzac - La Maison du Chat-qui-pelote](https://fr.wikipedia.org/wiki/La_Maison_du_Chat-qui-pelote)
+    - 1830 
+    - language: French
+    - rating: 3/5
+    - NOTES: The short novel starts with a great description of the store and street. The characters are a little under-developed. The story moves forward fairly fast. I did not get attached to the character of the painter, about whom we know little, or Augustine.
 - 2025-11-19: [Antoine de Saint-Exupéry - Terre des hommes](https://www.goodreads.com/book/show/984081.Terre_des_hommes)
     - 1939
     - language: French
