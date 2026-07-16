@@ -22,7 +22,7 @@ Reading can serve two purposes: entertainment, and learning - with some cross-ov
 
 ## Evergreen books
 
-- Jacque le fataliste et son maître
+- Jacques le fataliste et son maître
 - TODO
 
 ## Favorite books
@@ -86,6 +86,41 @@ Dates are completion dates.
 
 ### 2026
 
+- 2026-07-14: [Jules Verne - Cinq semaine en ballon](https://fr.wikipedia.org/wiki/Cinq_Semaines_en_ballon)
+    - 1863 
+    - language: French
+    - tags: #reread
+    - rating: 4/5
+    - NOTES:
+        - The first "SF" novel by Jules Verne. The science part is in the main character, Dr. Ferguson, and the apparatus he has designed for his balloon, which combines hydrogen, a heat exchanger, and a heat source based on water electrolysis and a battery.
+        - The planning and navigation are also quite scientific.
+        - Other than that, it is an adventure, which consists in crossing Africa from East to West. While most dangers, including indigenous people, malaria, and wild animals, are mostly avoided thanks to the above ground travel, the team of 3 still encounters difficult challenges, which are overcome sometimes with improbable luck, and sometimes with ingenuity.
+        - Doctor Ferguson is a likable character, with an immense knowledge of current science, and a good heart. He is also a quite able planner, pilot, and expedition leader. He gets the full respect of his companions.
+        - Dick Kennedy is a hunter, and is more of a support character. But he provides food and help during the trip.
+        - Joe is Doctor Ferguson's helper, and is obviously smart, courageous, but also entirely loyal to Dr. Ferguson. He risks his life to save the team. He is smart but in a rather practical way. He is also athletic, being able to swim for miles in lake Chad, run from locals, climb trees and ladders, and so on. He provides a mix of naive and insightful comments on situations.
+        - There is also humor, such as the whole "Dick refuses to join the expedition" line. We know Dick will join, but he himself refuses to admit it, and his rebukes are fairly funny. In the end, when there is no other choice, his loyalty to Ferguson makes him commit entirely to the expedition. 
+        - The perspective on Africa is a mixed bag. Let's remember that at the time of the writing, colonialism was still the norm. While sometimes natives are considered brutal savages, there are also neutral if not positive comments.
+        - Lots of the troubles of the continent are local tribes fighting each other brutally.
+        - Slavery is denounced, as is gratuitous cruelty.
+        - Wild animals, like lions and others, are considered to be worth eliminating. The team of 3 includes hunter Dick Kennedy. While he kills an elephant during the trip, luckily for the modern reader he doesn't get to hunt as much he would have wanted. 
+        - Still, it is understood that the continent will need to develop, both technologically and socially, to be able to thrive.
+        - It is a decent adventure story, but not quite as inspiring as later works.
+- 2026-07-01: [Philip José Farmer - Le monde du fleuve](https://fr.wikipedia.org/wiki/Le_Monde_du_fleuve)
+    - 1971
+    - language: French
+    - tags: #reread
+    - rating: 4/5
+    - NOTES:
+        - I had read this book, also in its French translation, and its sequels, about 30 years ago.
+        - I had a vague impression that I had liked it.
+        - I remembered very little besides the general premise: a resurrection of almost the entirety of humanity on a new planet with a long river; and the presence of a hero inspired from a real individual (Sir Richard Francis Burton).
+        - I liked this reread. The story has a good does of wonder and mystery: why is humanity resurrected? Who did it, and why?
+        - The author obviously wanted to tackle some moral issues: religion, nakedness and sexuality, drugs, etc. But he doesn't weigh too much on these topics, all in all.
+        - Some parts are a little dated: the presence of cigarettes and Bourbon in the grails, for example. Also, it seems that men are particularly rapidly eager to find companions.
+        - With Goering, the question of whether an "evil" individual can reform is raised.
+        - Lots of different people are present along the River, but curiously there is no mention of 20th Century Chinese or Indians, which would have made a significant portion of the overall population along the River.
+        - Also, raw materials are scarce, but Burton and his friends manage to build a boat. Given the large number of humans present, in particular from the 19th, 20th, and 21st Century, surely more people would have built ships, and/or attempted to build more complex machines. However, in this volume, there is no mention of that.
+        - There is an obviously pessimistic aspect to the novel: that somehow a large portion of humanity would be quite inclined to kill, rape, torture, and enslave other humans.
 - 2026-01-28: [François Cheng - L'Éternité n'est pas de trop](https://www.amazon.fr/LEternit%C3%A9-nest-trop-Fran%C3%A7ois-Cheng/dp/222612702X)
     - 2002
     - language: French
